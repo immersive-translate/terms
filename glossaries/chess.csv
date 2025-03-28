@@ -1,0 +1,75 @@
+source,target,tgt_lng
+King,王,zh-CN
+Queen,后,zh-CN
+Bishop,象,zh-CN
+Knight,马,zh-CN
+Rook,车,zh-CN
+Pawn,兵,zh-CN
+Check,将军,zh-CN
+Checkmate,将死,zh-CN
+Stalemate,和棋,zh-CN
+Castling,王车易位,zh-CN
+En passant,吃过路兵,zh-CN
+Promotion,升变,zh-CN
+Rank,横线,zh-CN
+File,竖线,zh-CN
+Diagonal,斜线,zh-CN
+Center,中心,zh-CN
+Opening,开局,zh-CN
+Middlegame,中局,zh-CN
+Endgame,残局,zh-CN
+Fork,双将,zh-CN
+Pin,牵制,zh-CN
+Skewer,串击,zh-CN
+Discovered attack,闪击,zh-CN
+Sacrifice,弃子,zh-CN
+Tactics,战术,zh-CN
+Strategy,战略,zh-CN
+Time control,时间控制,zh-CN
+Blitz,快棋,zh-CN
+Bullet,超快棋,zh-CN
+Rapid,快棋,zh-CN
+Classical,慢棋,zh-CN
+Elo rating,等级分,zh-CN
+FIDE,国际棋联,zh-CN
+Grandmaster,特级大师,zh-CN
+International Master,国际大师,zh-CN
+FIDE Master,棋联大师,zh-CN
+Candidate Master,候补大师,zh-CN
+King,王,zh-TW
+Queen,后,zh-TW
+Bishop,象,zh-TW
+Knight,馬,zh-TW
+Rook,車,zh-TW
+Pawn,兵,zh-TW
+Check,將軍,zh-TW
+Checkmate,將死,zh-TW
+Stalemate,和棋,zh-TW
+Castling,王車易位,zh-TW
+En passant,吃過路兵,zh-TW
+Promotion,升變,zh-TW
+Rank,橫線,zh-TW
+File,豎線,zh-TW
+Diagonal,斜線,zh-TW
+Center,中心,zh-TW
+Opening,開局,zh-TW
+Middlegame,中局,zh-TW
+Endgame,殘局,zh-TW
+Fork,雙將,zh-TW
+Pin,牽制,zh-TW
+Skewer,串擊,zh-TW
+Discovered attack,閃擊,zh-TW
+Sacrifice,棄子,zh-TW
+Tactics,戰術,zh-TW
+Strategy,戰略,zh-TW
+Time control,時間控制,zh-TW
+Blitz,快棋,zh-TW
+Bullet,超快棋,zh-TW
+Rapid,快棋,zh-TW
+Classical,慢棋,zh-TW
+Elo rating,等級分,zh-TW
+FIDE,國際棋聯,zh-TW
+Grandmaster,特級大師,zh-TW
+International Master,國際大師,zh-TW
+FIDE Master,棋聯大師,zh-TW
+Candidate Master,候補大師,zh-TW

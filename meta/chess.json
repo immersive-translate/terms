@@ -1,0 +1,21 @@
+{
+  "id": "chess",
+  "name": "Chess Expert",
+  "description": "Specialized in translating chess-related content, ensuring accurate and idiomatic translations for chess.com articles and terminology.",
+  "author": "immersive",
+  "glossary": "chess",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "国际象棋",
+      "description": "专门翻译与国际象棋相关的内容，确保 chess.com 网文章和术语的准确性和地道性。"
+    },
+    "zh-TW": {
+      "name": "棋藝專家",
+      "description": "專門翻譯與棋類相關的內容，確保 chess.com 文章和術語的準確與地道翻譯。"
+    }
+  }
+}
