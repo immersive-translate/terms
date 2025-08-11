@@ -367,7 +367,7 @@ E/GL-21 Grenadier Battlement,E/GL-21 掷弹兵防卫墙,zh-CN
 MD-6 Anti-Personnel Minefield,MD-6 反步兵雷区,zh-CN
 B-1 Supply Pack,B-1 补给背包,zh-CN
 MD-I4 Incendiary Mines,MD-I4 燃烧地雷,zh-CN
-AX/LAS-5 "Guard Dog" Rover,AX/LAS-5 “护卫犬”漫游车
+AX/LAS-5 "Guard Dog" Rover,AX/LAS-5 “护卫犬”漫游车,zh-CN
 SH-20 Ballistic Shield Backpack,SH-20 防弹护盾背包,zh-CN
 MD-17 Anti-Tank Mines,MD-17 反坦克地雷,zh-CN
 SH-32 Shield Generator Pack,SH-32 护盾力场背包,zh-CN
@@ -581,3 +581,4 @@ Automaton Mine,机器人地雷,zh-CN
 Acid Storms,酸雨风暴,zh-CN
 Extreme Cold,极寒,zh-CN
 Despotic Explosive,机器人的油桶,zh-CN
+
