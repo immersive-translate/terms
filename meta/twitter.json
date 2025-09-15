@@ -21,5 +21,17 @@
       "name": "Twitter",
       "description": "Twitter glossary, containing Chinese translations of related terms such as celebrities and social media platforms."
     }
-  }
+  },
+  "matches": [
+    "twitter.com",
+    "mobile.twitter.com",
+    "tweetdeck.twitter.com",
+    "pro.twitter.com",
+    "https://platform.twitter.com/embed*",
+    "x.com",
+    "mobile.x.com",
+    "tweetdeck.x.com",
+    "pro.x.com",
+    "https://platform.x.com/embed*"
+  ]
 }

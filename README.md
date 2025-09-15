@@ -108,6 +108,7 @@ Token,代币,
 *   `author` (string): 术语库的作者或来源标识。
 *   `glossary` (string): 关联的基础术语库名称，应与 `id` 和文件名 (`meta_name`) 保持一致。
 *   `suffix` (string, 可选): 版本或其他后缀信息。
+*   `matches` (array of strings, 可选): 指定术语库生效的网站匹配规则列表。支持精确域名匹配 (`"twitter.com"`)、通配符域名匹配 (`"*.example.com"`)、完整URL匹配 (`"https://platform.twitter.com/embed*"`) 和全局匹配 (`"*"`、`"*://*/*"`)。如果未指定，术语库将在所有网站生效。
 *   `langs` (array of strings): 此术语库支持的目标语言代码列表 (例如 `["zh-CN", "zh-TW", "en"]`)。可以包含特殊值 `"auto"`，表示该术语库适配任何目标语言。
 *   `i18ns` (object): 包含各个支持语言的本地化信息。
     *   `[lang_code]` (object): 以语言代码作为键。
@@ -123,6 +124,11 @@ Token,代币,
   "description": "Specialized in translating Web3 and blockchain content...",
   "author": "immersive",
   "glossary": "web3",
+  "matches": [
+    "*.crypto.com",
+    "opensea.io",
+    "https://app.uniswap.org/*"
+  ],
  "langs": [
     "zh-CN",
     "zh-TW",
