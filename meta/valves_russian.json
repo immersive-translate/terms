@@ -1,0 +1,26 @@
+{
+  "id": "valves_russian",
+  "name": "Valve Terminology Russian",
+  "description": "Russian valve and piping component terminology glossary",
+  "author": "reknottycat",
+  "glossary": "valves_russian_en-ru.csv",
+  "languages": ["en", "ru"],
+  "i18n": {
+    "en": {
+      "name": "Valve Terminology Russian",
+      "description": "Russian valve and piping component terminology glossary"
+    },
+    "zh-CN": {
+      "name": "阀门术语俄语",
+      "description": "俄语阀门和管道组件术语词汇表"
+    },
+    "zh-TW": {
+      "name": "閥門術語俄語",
+      "description": "俄語閥門和管道組件術語詞彙表"
+    },
+    "ru": {
+      "name": "Терминология арматуры",
+      "description": "Глоссарий терминологии арматуры и трубопроводных компонентов"
+    }
+  }
+}
