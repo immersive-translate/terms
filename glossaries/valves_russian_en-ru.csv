@@ -1,0 +1,312 @@
+source,target,tgt_lng
+valve,арматура,ru
+gate valve,задвижка,ru
+globe valve,клапан,ru
+ball valve,кран шаровой,ru
+butterfly valve,затвор дисковый,ru
+check valve,клапан обратный,ru
+safety valve,клапан предохранительный,ru
+control valve,клапан регулирующий,ru
+plug valve,кран пробковый,ru
+needle valve,клапан игольчатый,ru
+parallel gate valve,задвижка параллельная,ru
+wedge gate valve,задвижка клиновая,ru
+flexible wedge gate valve,задвижка с упругим клином,ru
+double disc wedge gate valve,задвижка с двухдисковым клином,ru
+double parallel disc gate valve,задвижка с двумя параллельными дисками,ru
+rotatable gate valve,задвижка поворотная,ru
+slab gate valve,задвижка шиберная,ru
+pinch gate valve,задвижка пережимная,ru
+gate valve with rising stem,задвижка с выдвижным шпинделем,ru
+gate valve with non-rising stem,задвижка с невыдвижным шпинделем,ru
+floating ball valve,кран шаровой с плавающим шаром,ru
+trunnion ball valve,кран шаровой с опорными цапфами,ru
+segmental ball valve,кран шаровой сегментный,ru
+lift plug valve,кран пробковый подъемный,ru
+glandless plug valve,кран пробковый сальниковый,ru
+eccentric butterfly valve,затвор дисковый эксцентриковый,ru
+lift check valve,клапан обратный подъемный,ru
+swing check valve,клапан обратный поворотный,ru
+axial check valve,клапан обратный осевой,ru
+duo plate check valve,клапан обратный двухстворчатый,ru
+foot valve,клапан приемный,ru
+non-return valve,клапан невозвратный,ru
+stop check valve,клапан обратно-запорный,ru
+shut-off valves,арматура запорная,ru
+control valves,арматура регулирующая,ru
+safety valves,арматура предохранительная,ru
+phase separating valves,арматура фазоразделительная,ru
+throttling valves,арматура дроссельная,ru
+on-off valves,арматура запорная,ru
+stop and check valves,арматура запорно-обратная,ru
+on-off and control valves,арматура запорно-регулирующая,ru
+isolation valve,клапан отсечной,ru
+overpressure valve,клапан избыточного давления,ru
+breathing valve,клапан дыхательный,ru
+mixing valve,клапан смесительный,ru
+diverting control valve,клапан распределительный,ru
+blending valve,клапан смешивающий,ru
+actuator,привод,ru
+manual actuator,ручной привод,ru
+electric actuator,электропривод,ru
+hydraulic actuator,гидропривод,ru
+pneumatic actuator,пневмопривод,ru
+solenoid actuator,привод электромагнитный,ru
+electrohydraulic actuator,привод электрогидравлический,ru
+multi-turn actuator,привод многооборотный,ru
+part-turn actuator,привод неполнооборотный,ru
+multi-turn electric actuator,привод электрический многооборотный,ru
+part-turn electric actuator,привод электрический неполнооборотный,ru
+electric motor actuator,привод электромоторный,ru
+jet actuator,привод струйный,ru
+paddle-pneumatic actuator,привод лопастной пневматический,ru
+vane pneumatic actuator,привод лопастной пневматический,ru
+gear,редуктор,ru
+handwheel,маховик,ru
+handle,рукоятка,ru
+load-bearing element,силовой элемент,ru
+valve positioner,позиционер,ru
+hydraulic positioner,позиционер гидравлический,ru
+pneumatic positioner,позиционер пневматический,ru
+electric positioner,позиционер электрический,ru
+electrohydraulic positioner,позиционер электрогидравлический,ru
+electropneumatic positioner,позиционер электропневматический,ru
+manual operator,оператор ручной,ru
+pressure regulator,регулятор давления,ru
+pressure-reducing valve,редуктор давления,ru
+direct action regulator,регулятор прямого действия,ru
+indirect action regulator,регулятор непрямого действия,ru
+pilot-actuated regulator,регулятор с пилотным управлением,ru
+upstream pressure controller,регулятор давления до себя,ru
+downstream pressure controller,регулятор давления после себя,ru
+temperature regulator,регулятор температуры,ru
+level controller,регулятор уровня,ru
+flow control valve,регулятор расхода,ru
+safety valve block,блок предохранительных клапанов,ru
+single-seated safety valve,клапан предохранительный односедельный,ru
+double-seated safety/relief valve,клапан предохранительный двухседельный,ru
+pilot operated safety valve,клапан предохранительный с пилотным управлением,ru
+low lift safety/relief valve,клапан предохранительный малоподъемный,ru
+ordinary safety/relief valve,клапан предохранительный обычный,ru
+full lift safety/relief valve,клапан предохранительный полноподъемный,ru
+bellows safety relief valve,клапан предохранительный сильфонный,ru
+lever-and-weight loaded safety/relief valve,клапан предохранительный рычажно-грузовой,ru
+spring-loaded lever-operated safety/relief valve,клапан предохранительный пружинно-рычажный,ru
+weight-loaded lever-operated safety/relief valve,клапан предохранительный грузовой рычажный,ru
+safety/relief valve with gas chamber,клапан предохранительный с газовой камерой,ru
+temperature-actuated safety valve,клапан предохранительный термоприводной,ru
+indirect operated safety valve,клапан предохранительный непрямого действия,ru
+pilot operated safety/relief valve,клапан предохранительный пилотный,ru
+rupture disc device,устройство с разрывной мембраной,ru
+safety device with rupture disc,устройство предохранительное с разрывной мембраной,ru
+steam trap,конденсатоотводчик,ru
+trap,ловушка,ru
+float steam trap,конденсатоотводчик поплавковый,ru
+thermodynamic steam trap,конденсатоотводчик термодинамический,ru
+thermostatic steam trap,конденсатоотводчик термостатический,ru
+labyrinth steam trap,конденсатоотводчик лабиринтный,ru
+air release valve,клапан воздухоотводный,ru
+air relief valve,клапан воздухосбросный,ru
+air trap,воздухоотводчик,ru
+flanged valves,арматура фланцевая,ru
+flangless valves,арматура бесфланцевая,ru
+wafer type valves,арматура межфланцевая,ru
+wafer valves,арматура дисковая,ru
+lug-type valves,арматура проушинная,ru
+screwed valves (female),арматура резьбовая (внутренняя),ru
+screwed valves (male),арматура резьбовая (наружная),ru
+butt-weld valves,арматура под приварку встык,ru
+union valves,арматура муфтовая,ru
+valves with flangeless body,арматура с бесфланцевым корпусом,ru
+encased valves,арматура в защитном кожухе,ru
+multiport valves,арматура многоходовая,ru
+multiway valves,арматура многопроходная,ru
+full-bore valves,арматура полнопроходная,ru
+straight pattern valves,арматура прямоточная,ru
+oblique valves,арматура угловая,ru
+Y-pattern valve,арматура Y-образная,ru
+straight-pattern valve,арматура прямоточная,ru
+three-way valves,арматура трехходовая,ru
+changeover device,переключающее устройство,ru
+switching device,коммутирующее устройство,ru
+angle pattern valves,арматура угловая,ru
+axial valve,арматура осевая,ru
+cast valves,арматура литая,ru
+cast and welded valves,арматура литосварная,ru"cast, die and welded valves",арматура штамповано-литосварная,ru
+stamped and welded valves,арматура штампосварная,ru
+one-piece body valves,арматура с цельным корпусом,ru
+split body valves,арматура с разъемным корпусом,ru
+valves of displaced nozzles,арматура со смещенными патрубками,ru
+valves with offset axes of the pipes,арматура со смещенными осями,ru
+glandless valves,арматура бессальниковая,ru
+packless valves,арматура без сальника,ru
+membrane valves,арматура мембранная,ru
+packed valves,арматура сальниковая,ru
+gland packing valves,арматура с сальниковым уплотнением,ru
+bellows valves,арматура сильфонная,ru
+static seal,уплотнение статическое,ru
+dynamic seal,уплотнение динамическое,ru
+gland seal,сальниковое уплотнение,ru
+gland packing,сальниковая набивка,ru
+bellows seal,сильфонное уплотнение,ru
+backup gland,резервный сальник,ru
+secondary packing,вторичная набивка,ru
+liquid metal seal,жидкометаллическое уплотнение,ru
+general purpose valves,арматура общего назначения,ru
+industrial valves,арматура промышленная,ru
+industrial pipeline valves,арматура трубопроводная промышленная,ru
+valves for general purpose,арматура общепромышленная,ru
+tailored valves,арматура специального назначения,ru
+valves for special service,арматура специального применения,ru
+valves for hazardous facilities,арматура для опасных объектов,ru
+sanitary valves,арматура санитарная,ru
+marine valves,арматура судовая,ru
+ship valves,арматура корабельная,ru
+vacuum valves,арматура вакуумная,ru
+monitoring valves,арматура контрольная,ru
+energy valves,арматура энергетическая,ru
+wellhead valves,арматура устьевая,ru
+x-mas tree,фонтанная арматура,ru
+jacketed valves,арматура с обогревом,ru
+valves with heating,арматура с подогревом,ru
+low pressure valves,арматура низкого давления,ru
+medium-pressure valves,арматура среднего давления,ru
+high pressure valves,арматура высокого давления,ru
+valve pressure/temperature rating,класс давления/температуры,ru
+automatically actuated valves,арматура с автоматическим приводом,ru
+self-closing valves,арматура самозакрывающаяся,ru
+self-acting valves,арматура самодействующая,ru
+manually actuated valves,арматура с ручным приводом,ru
+pilot operated valves,арматура с пилотным управлением,ru
+indirect-acting valves,арматура непрямого действия,ru
+normally closed valves,арматура нормально закрытая,ru
+air-to-open valves,арматура воздух на открытие,ru
+normally open valves,арматура нормально открытая,ru
+air-to-close valves,арматура воздух на закрытие,ru
+normally closed valve,клапан нормально закрытый,ru
+air-to-close valve,клапан воздух на закрытие,ru
+normally open valve,клапан нормально открытый,ru
+air-to-open valve,клапан воздух на открытие,ru
+solenoid valve,клапан электромагнитный,ru
+lined valves,арматура с футеровкой,ru
+metal-enclosed valves,арматура в металлической оболочке,ru
+rubberized valves,арматура резинированная,ru
+rubber lined valves,арматура с резиновой футеровкой,ru
+extended bonnet valves,арматура с удлиненным корпусом,ru
+bypass valves,арматура байпасная,ru
+aseismic valves,арматура сейсмостойкая,ru
+earthquake resisting valves,арматура землетрясоустойчивая,ru
+seismic-proof valves,арматура антисейсмическая,ru
+explosion-proof valves,арматура взрывозащищенная,ru
+ex-proof valves,арматура во взрывозащищенном исполнении,ru
+fire-resistant valves,арматура огнестойкая,ru
+antistatic version,антистатическое исполнение,ru
+body,корпус,ru
+bonnet,крышка,ru
+yoke,хомут,ru
+shaft,вал,ru
+gland bushing,сальниковая втулка,ru
+shell,оболочка,ru
+main components,основные детали,ru
+disk,диск,ru
+throttle,дроссель,ru
+throttling device,дросселирующее устройство,ru
+end-cap,заглушка,ru
+trim,рабочие органы,ru
+disc assembly,узел диска,ru
+needle,игла,ru
+obturator,затвор,ru
+cage,клетка,ru
+flow area,проходное сечение,ru
+stem nut,гайка шпинделя,ru
+bursting diaphragm,разрывная мембрана,ru
+bursting disk,разрывной диск,ru
+rupture disc,разрывная мембрана,ru
+packing,набивка,ru
+inlet pipe,входной патрубок,ru
+outlet pipe,выходной патрубок,ru
+fitting,фитинг,ru
+transition pipe,переходной патрубок,ru
+plug,пробка,ru
+seat,седло,ru
+bellows,сильфон,ru
+seal,уплотнение,ru
+sealing face,уплотнительная поверхность,ru
+back seat,обратное седло,ru
+stem sealing,уплотнение штока,ru
+sealing surface,поверхность уплотнения,ru
+flange,фланец,ru
+gasket,прокладка,ru
+heat jacket,рубашка обогрева,ru
+lift part,подъемная часть,ru
+knife,нож,ru
+slab,шибер,ru
+sliding gate,задвижка,ru
+sliding plate,скользящая пластина,ru
+stem,шток,ru
+spindle,шпиндель,ru
+outside screw stem,наружный винтовой шпиндель,ru
+inside screw stem,внутренний винтовой шпиндель,ru
+element,элемент,ru
+sensitive element,чувствительный элемент,ru
+leak detector,течеискатель,ru
+wedge,клин,ru
+solid wedge,цельный клин,ru
+double disc wedge,двухдисковый клин,ru
+flexible wedge,упругий клин,ru
+locking device,стопорное устройство,ru
+nominal valve parameters,номинальные параметры,ru
+nominal pressure,номинальное давление,ru
+nominal diameter,номинальный диаметр,ru
+operating pressure,рабочее давление,ru
+line pressure,давление в трубопроводе,ru
+service pressure,эксплуатационное давление,ru
+working pressure,рабочее давление,ru
+test pressure,испытательное давление,ru
+allowable pressure drop,допустимый перепад давления,ru
+minimum pressure drop,минимальный перепад давления,ru
+design temperature,расчетная температура,ru
+flow resistance coefficient,коэффициент сопротивления,ru
+friction loss,потери на трение,ru
+torque,крутящий момент,ru
+nominal stroke,номинальный ход,ru
+maximum travel,максимальный ход,ru
+travel,ход,ru
+stroke ratio,отношение хода,ru
+travel ratio,коэффициент хода,ru
+nominal rotation angle,номинальный угол поворота,ru
+maximum rotation angle,максимальный угол поворота,ru
+tightness,герметичность,ru
+effective closure,эффективное закрытие,ru
+sealing,уплотнение,ru
+leak-proof closure,герметичное закрытие,ru
+seat leakage,утечка через седло,ru
+leak tight rate,степень герметичности,ru
+tightness rate,коэффициент герметичности,ru
+tightness degree,степень плотности,ru
+centre to end dimension,расстояние от центра до торца,ru
+end to end dimension,габаритная длина,ru
+end to end length,длина от торца до торца,ru
+face to face dimension,расстояние между фланцами,ru
+center-to-top,расстояние от центра до верха,ru
+shut-downtime,время закрытия,ru
+opening time,время открытия,ru
+flow area,площадь проходного сечения,ru
+orifice to nominal size ratio,отношение диаметра к номинальному,ru
+leak,утечка,ru
+leakage,протечка,ru
+normal conditions,нормальные условия,ru
+integrity,целостность,ru
+sound level,уровень шума,ru
+effective diameter,эффективный диаметр,ru
+flow capacity,пропускная способность,ru
+nominal flow capacity,номинальная пропускная способность,ru
+initial flow capacity,начальная пропускная способность,ru
+minimum flow capacity,минимальная пропускная способность,ru
+minimum discharge capacity,минимальная расходная способность,ru
+actual flow capacity,действительная пропускная способность,ru
+maximum flow capacity,максимальная пропускная способность,ru
+true flow capacity,истинная пропускная способность,ru
+flow characteristic,расходная характеристика,ru
+flow control characteristic,регулировочная характеристика,ru
+inherent flow characteristic,собственная расходная характеристика,ru
