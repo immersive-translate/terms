@@ -1,0 +1,18 @@
+{
+  "id": "starcitizen",
+  "name": "Star Citizen",
+  "description": "星际公民术语库，包含游戏内相关术语的中文翻译。",
+  "author": "Kyan",
+  "glossary": "starcitizen",
+  "langs": ["zh-CN"],
+  "i18ns": {
+    "zh-CN": {
+      "name": "《星际公民》",
+      "description": "星际公民术语库，包含游戏内相关术语的中文翻译。"
+    },
+    "en": {
+      "name": "Star Citizen",
+      "description": "Star Citizen glossary, containing Chinese translations of related terms."
+    }
+  }
+}
