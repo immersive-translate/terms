@@ -1,0 +1,20 @@
+{
+  "id": "wuthering-waves",
+  "name": "Wuthering Waves",
+  "description": "English-to-Simplified Chinese glossary for Wuthering Waves game terms",
+  "author": "GlucoseA",
+  "glossary": "wuthering-waves",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "鸣潮",
+      "description": "收录《鸣潮》游戏术语的中英对照翻译。"
+    },
+    "en": {
+      "name": "Wuthering Waves",
+      "description": "English-to-Simplified Chinese glossary for Wuthering Waves game terms."
+    }
+  }
+}
