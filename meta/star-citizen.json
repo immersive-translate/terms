@@ -1,0 +1,27 @@
+{
+  "id": "star-citizen",
+  "name": "Star Citizen",
+  "description": "Star Citizen terminology glossary, covering ships, weapons, characters, locations, organizations and more. Based on the Star Citizen Chinese localization project at paratranz.cn.",
+  "author": "Star Citizen CN Localization Team",
+  "glossary": "star-citizen",
+  "matches": [
+    "robertsspaceindustries.com",
+    "*.robertsspaceindustries.com",
+    "starcitizen.tools",
+    "*.starcitizen.tools",
+    "paratranz.cn",
+    "https://www.reddit.com/r/starcitizen*",
+    "https://www.reddit.com/r/starcitizen/*",
+    "https://old.reddit.com/r/starcitizen*",
+    "https://old.reddit.com/r/starcitizen/*"
+  ],
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "星际公民",
+      "description": "星际公民术语库，涵盖飞船、武器、角色、地点、组织等专有名词的中文翻译。数据来源于 paratranz.cn 汉化项目。"
+    }
+  }
+}
