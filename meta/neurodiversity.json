@@ -1,0 +1,21 @@
+{
+    "id": "neurodiversity",
+    "name": "Neurodiversity",
+    "description": "Specialized in translating content related to neurodiversity, ensuring accurate and sensitive translations for terms and concepts associated with neurodivergent conditions and experiences.",
+    "author": "脑脑空间NeuroBridge",
+    "glossary": "neurodiversity",
+    "langs": [
+        "zh-CN",
+        "zh-TW"
+    ],
+    "i18ns": {
+        "zh-CN": {
+            "name": "神经多样性",
+            "description": "神经多样性术语库，包含与神经多样性相关的术语和概念的中文翻译。"
+        },
+        "zh-TW": {
+            "name": "神經多樣性",
+            "description": "神經多樣性術語庫，包含與神經多樣性相關的術語和概念的繁體中文翻譯。"
+        }
+    }
+}
