@@ -1,0 +1,4164 @@
+﻿source,target,tgt_lng
+AoE,範圍,zh-TW
+PoE,POE,zh-TW
+PoE2,POE2,zh-TW
+Supporter,贊助者,zh-TW
+Ailment,異常狀態,zh-TW
+Bleed,流血,zh-TW
+Bleeding,流血,zh-TW
+Chill,冰緩,zh-TW
+Corrupted Blood,腐化之血,zh-TW
+Damaging Ailment,傷害型異常狀態,zh-TW
+Freeze,冰凍,zh-TW
+Ignite,點燃,zh-TW
+Non-damaging Ailment,非傷害型異常狀態,zh-TW
+Poison,中毒,zh-TW
+Shock,感電,zh-TW
+Brittle,易碎,zh-TW
+Sap,疲憊,zh-TW
+Scorch,焦灼,zh-TW
+Body Armour,胸甲,zh-TW
+Boots,鞋子,zh-TW
+Gloves,手套,zh-TW
+Helmet,頭部,zh-TW
+Acolyte of Chayula,夏烏拉侍僧,zh-TW
+Amazon,亞馬遜,zh-TW
+Blood Mage,血法師,zh-TW
+Chronomancer,時空幻術師,zh-TW
+Deadeye,銳眼,zh-TW
+Infernalist,獄火師,zh-TW
+Lich,巫妖,zh-TW
+Pathfinder,追獵者,zh-TW
+Stormweaver,風暴編織者,zh-TW
+Titan,泰坦,zh-TW
+Warbringer,戰爭使者,zh-TW
+Witchhunter,女巫獵人,zh-TW
+Trial of Chaos,混沌試煉,zh-TW
+Trial of the Sekhemas,瑟克瑪試煉,zh-TW
+Dexterity,敏捷,zh-TW
+Intelligence,智慧,zh-TW
+Strength,力量,zh-TW
+Adrenaline,腎上腺素,zh-TW
+Arcane Surge,秘能波動,zh-TW
+Elusive,靈巧,zh-TW
+Onslaught,猛攻,zh-TW
+Phasing,迷蹤,zh-TW
+Rampage,暴怒,zh-TW
+Tailwind,順風,zh-TW
+Act,章节,zh-TW
+Ascendancy Class,昇華職業,zh-TW
+Character,角色,zh-TW
+NPC,NPC,zh-TW
+Endurance Charge,耐力球,zh-TW
+Frenzy Charge,狂怒球,zh-TW
+Inspiration Charge,啟發球,zh-TW
+Power Charge,暴擊球,zh-TW
+Virulence,毒性,zh-TW
+Druid,德魯伊,zh-TW
+Huntress,女獵人,zh-TW
+Mercenary,傭兵,zh-TW
+Monk,僧侶,zh-TW
+Ranger,遊俠,zh-TW
+Sorceress,女術者,zh-TW
+Warrior,戰士,zh-TW
+Witch,女巫,zh-TW
+Accuracy,命中值,zh-TW
+Attack,攻擊,zh-TW
+Conversion,傷害轉換,zh-TW
+Critical Hit,暴擊,zh-TW
+Critical Strike Chance,暴擊率,zh-TW
+Critical Strike Multiplier,暴擊加成,zh-TW
+Damage,傷害,zh-TW
+Gain as Extra,獲得額外,zh-TW
+Hit,擊中,zh-TW
+Melee,近戰,zh-TW
+Penetration,穿透抗性,zh-TW
+Projectile,投射物,zh-TW
+Spell,法術,zh-TW
+4L,4連,zh-TW
+4S,4洞,zh-TW
+5L,5連,zh-TW
+5S,5洞,zh-TW
+6L,6連,zh-TW
+6S,6洞,zh-TW
+AA,AA,zh-TW
+AG,AG,zh-TW
+Alch,鍊金,zh-TW
+Alt,改造,zh-TW
+Ammy,項鍊,zh-TW
+AoF,火之化身,zh-TW
+AW,幻化武器,zh-TW
+BAMA,BAMA,zh-TW
+BB,刀鋒爆破,zh-TW
+Best in Slot,最佳部位裝備,zh-TW
+BF,刀雨/刀鋒亂舞,zh-TW
+BM,血魔法,zh-TW
+BoR,祭禮之雨,zh-TW
+BR,鮮血狂怒,zh-TW
+Bricked,壞掉,zh-TW
+BV,飛刃風暴,zh-TW
+CA,腐蝕箭矢,zh-TW
+CB,腐化之血,zh-TW
+CF,腐化潮,zh-TW
+CI,異靈之體,zh-TW
+CoC,暴擊時施放,zh-TW
+CoD,死亡時施放,zh-TW
+CoH,擊中附加詛咒,zh-TW
+CoMK,近戰擊殺時施放,zh-TW
+Conc,集中效應,zh-TW
+CwC,引導時施放,zh-TW
+CwDT,受傷時施放,zh-TW
+CwS,被暈眩時施放,zh-TW
+DoT,持續傷害,zh-TW
+DPS,每秒傷害,zh-TW
+EE,元素之相,zh-TW
+EO,元素超載,zh-TW
+ES,能量護盾,zh-TW
+GGG,GGG,zh-TW
+HoA,苦痛之捷/灰燼之捷,zh-TW
+HoI,冰霜之捷,zh-TW
+HoT,閃電之捷,zh-TW
+IC,不朽怒嚎,zh-TW
+IR,霸體,zh-TW
+LL,低血/生命偷取,zh-TW
+MoM,心靈昇華,zh-TW
+MS,移動速度,zh-TW
+RF,正義之火,zh-TW
+RT,必中,zh-TW
+SC,標準模式/標準,zh-TW
+SSF,獨狼自給,zh-TW
+ST,靈體投擲/單體,zh-TW
+VP,瓦爾冥約,zh-TW
+Full Energy Shield,滿能量護盾,zh-TW
+Full Life,滿血,zh-TW
+Low Life,低血量,zh-TW
+Low Mana,低魔力,zh-TW
+Stun,暈眩,zh-TW
+Chaos Orb,混沌石,zh-TW
+Divine Orb,神聖石,zh-TW
+Exalted Orb,崇高石,zh-TW
+Mirror of Kalandra,卡蘭德的魔鏡,zh-TW
+Orb,石,zh-TW
+Orb of Alchemy,鍊金石,zh-TW
+Orb of Annulment,剝離石,zh-TW
+Orb of Augmentation,增幅石,zh-TW
+Vaal Orb,瓦爾寶珠,zh-TW
+Damage over Time,持續傷害,zh-TW
+Chaos Damage,混沌傷害,zh-TW
+Cold Damage,冰冷傷害,zh-TW
+Elemental Damage,元素傷害,zh-TW
+Fire Damage,火焰傷害,zh-TW
+Lightning Damage,閃電傷害,zh-TW
+Physical Damage,物理傷害,zh-TW
+Covered in Ash,被灰燼纏身,zh-TW
+Curse,詛咒,zh-TW
+Exposure,曝曬,zh-TW
+Hinder,阻礙,zh-TW
+Intimidate,威嚇,zh-TW
+Maim,癱瘓,zh-TW
+Unnerve,膽怯,zh-TW
+Withered,凋零,zh-TW
+Armour,護甲值,zh-TW
+Block,格擋,zh-TW
+Damage Reduction,傷害減免,zh-TW
+Deflection,偏斜,zh-TW
+Energy Shield,能量護盾,zh-TW
+Evasion,閃避值,zh-TW
+Fortification,護體層數,zh-TW
+Fortify,護體,zh-TW
+Guard,防護,zh-TW
+Hit Pool,生命池,zh-TW
+Resistance,抗性,zh-TW
+Spell Suppression,法術壓抑,zh-TW
+Map,地圖,zh-TW
+Waystone,換界石,zh-TW
+Boss,頭目,zh-TW
+Monster,怪物,zh-TW
+Pinnacle Boss,巔峰頭目,zh-TW
+Life Flask,生命藥劑,zh-TW
+Mana Flask,魔力藥劑,zh-TW
+Challenge League,挑戰聯盟,zh-TW
+Hardcore,專家模式,zh-TW
+League,聯盟,zh-TW
+Private League,私人聯盟,zh-TW
+Ruthless,殘酷模式,zh-TW
+Softcore,標準模式,zh-TW
+Solo Self-Found,獨狼自給,zh-TW
+Standard League,標準聯盟,zh-TW
+Path of Exile 2,流亡黯道2,zh-TW
+Gem,寶石,zh-TW
+Skill Gem,技能寶石,zh-TW
+Support Gem,輔助寶石,zh-TW
+Gem Level,寶石等級,zh-TW
+Base Item,基底物品,zh-TW
+Catalyst,催化劑,zh-TW
+Currency,通貨,zh-TW
+Equipment,裝備,zh-TW
+Essence,精華,zh-TW
+Item,物品,zh-TW
+Item Class,物品種類,zh-TW
+Omen,預兆,zh-TW
+Shard,碎片,zh-TW
+Abyss Jewel,深淵珠寶,zh-TW
+Charm,護符,zh-TW
+Flask,藥劑,zh-TW
+Jewel,珠寶,zh-TW
+Jewellery,飾品,zh-TW
+Off-hand,副手,zh-TW
+Weapon,武器,zh-TW
+Affix,詞綴,zh-TW
+Explicit Modifier,顯性詞綴,zh-TW
+Global Mod,全域詞綴,zh-TW
+Implicit Modifier,固定詞綴,zh-TW
+Mod,詞綴,zh-TW
+Modifier,詞綴,zh-TW
+Prefix,前綴,zh-TW
+Suffix,後綴,zh-TW
+Blue Socket,藍色插槽,zh-TW
+Corrupted,已汙染,zh-TW
+Crusader Item,聖戰士物品,zh-TW
+Elder Item,尊師物品,zh-TW
+Fractured,破裂,zh-TW
+Green Socket,綠色插槽,zh-TW
+Hunter Item,狩獵者物品,zh-TW
+Influenced Item,勢力物品,zh-TW
+Item Level,物品等級,zh-TW
+Linked Socket,連結插槽,zh-TW
+Mirrored,已複製,zh-TW
+Quality,品質,zh-TW
+Red Socket,紅色插槽,zh-TW
+Redeemer Item,救贖者物品,zh-TW
+Shaper Item,塑界者物品,zh-TW
+Socket,插槽,zh-TW
+Synthesised,追憶,zh-TW
+Warlord Item,總督軍物品,zh-TW
+White Socket,白色插槽,zh-TW
+Magic Item,魔法物品,zh-TW
+Normal Item,普通物品,zh-TW
+Rare Item,稀有物品,zh-TW
+Unique Item,傳奇物品,zh-TW
+Amulet,項鍊,zh-TW
+Belt,腰帶,zh-TW
+Ring,戒指,zh-TW
+Mind Over Matter,心靈昇華,zh-TW
+Abyss,深淵,zh-TW
+Affliction,苦痛,zh-TW
+Ancestor,祖靈,zh-TW
+Archnemesis,宿敵,zh-TW
+Bestiary,獸獵,zh-TW
+Betrayal,反叛,zh-TW
+Breach,裂痕,zh-TW
+Crucible,熔火冥獄,zh-TW
+Delirium,譫妄,zh-TW
+Delve,掘獄,zh-TW
+Expedition,探險,zh-TW
+Harvest,豐收,zh-TW
+Heist,劫盜,zh-TW
+Incursion,穿越,zh-TW
+Lake of Kalandra,卡蘭德迷湖,zh-TW
+Legion,戰亂,zh-TW
+Metamorph,魔物園,zh-TW
+Necropolis,死境,zh-TW
+Ritual,祭祀,zh-TW
+Sanctum,聖域,zh-TW
+Scourge,災魘,zh-TW
+Settlers of Kalguur,卡爾葛拓荒者,zh-TW
+Strongbox,保險箱,zh-TW
+Synthesis,追憶,zh-TW
+Ultimatum,最後通牒,zh-TW
+Dodge Roll,翻滾閃避,zh-TW
+Trigger,觸發,zh-TW
+Buckler,輕盾,zh-TW
+Focus,法器,zh-TW
+Quiver,箭袋,zh-TW
+Shield,盾,zh-TW
+Keystone,關鍵天賦,zh-TW
+Notable,核心天賦,zh-TW
+Passive Skill,天賦技能,zh-TW
+Passive Skill Tree,天賦樹,zh-TW
+attribute,attribute,zh-TW
+Ascendant,昇華使徒,zh-TW
+Assassin,刺客,zh-TW
+Berserker,暴徒,zh-TW
+Champion,冠軍,zh-TW
+Chieftain,酋長,zh-TW
+Elementalist,元素使,zh-TW
+Gladiator,衛士,zh-TW
+Guardian,守護者,zh-TW
+Hierophant,聖宗,zh-TW
+Inquisitor,判官,zh-TW
+Juggernaut,勇士,zh-TW
+Necromancer,死靈師,zh-TW
+Occultist,秘術家,zh-TW
+Raider,俠客,zh-TW
+Saboteur,破壞者,zh-TW
+Slayer,處刑者,zh-TW
+Trickster,詐欺師,zh-TW
+Afarud Ritual,阿法魯德祭儀,zh-TW
+Aul Bloodline,奧爾血裔,zh-TW
+"Aul, the Crystal King",晶之帝奧爾,zh-TW
+Beetle's Price,甲蟲的代價,zh-TW
+Bitter Heresy,苦澀異端,zh-TW
+Bitter Lash,苦澀鞭笞,zh-TW
+Boon of the Mountain,山之祝福,zh-TW
+Boon of the River,河之祝福,zh-TW
+Boon of the Sun,日之祝福,zh-TW
+Bound Flesh,血肉結合,zh-TW
+Breachlord,裂痕領主,zh-TW
+Catarina Bloodline,卡塔莉娜血裔,zh-TW
+Chaos Bloodline,混沌血裔,zh-TW
+Charge Duration,能量球持續時間,zh-TW
+Cooldown Recovery Rate,冷卻回復速度,zh-TW
+Corruption's Embrace,腐化之擁,zh-TW
+Curse Effect,詛咒效果,zh-TW
+Damage Over Time Multiplier,持續傷害加成,zh-TW
+Death Offering,死亡奉獻,zh-TW
+Debuff Expiry Rate,減益效果消逝速度,zh-TW
+Deceitful Servant,狡詐僕從,zh-TW
+Defences,防禦,zh-TW
+Delirious,譫妄,zh-TW
+Delirious Bloodline,譫妄血裔,zh-TW
+Elusive effect,朦朧效應,zh-TW
+Enhanced Starlight,增幅星光,zh-TW
+Esh of the Storm,艾許之風暴,zh-TW
+Farewell to Flesh,告別血肉,zh-TW
+Farric Tiger Alpha,費爾羅猛虎幻獸,zh-TW
+Farric Will,費爾羅之志,zh-TW
+Farrul Bloodline,費爾羅血裔,zh-TW
+Farrul's Will,費爾羅之志,zh-TW
+"Farrul, First of the Plains",初始之地費爾羅,zh-TW
+Fertile Will,豐富之志,zh-TW
+Herald and Minion Damage,捷光環與召喚物傷害,zh-TW
+Huntleader,狩獵領袖,zh-TW
+It wasn't me!,不是我！,zh-TW
+Legacy of the King,王之遺產,zh-TW
+Life Recovery rate,生命恢復率,zh-TW
+Lycia Bloodline,利希亞血裔,zh-TW
+"Lycia, Herald of the Scourge",災魘先鋒．利希亞,zh-TW
+Maximum Life,最大生命,zh-TW
+Maximum Spectres and Minion Life,最大幽魂數和召喚物生命,zh-TW
+Minion Damage,召喚物傷害,zh-TW
+Minion Life,召喚物生命,zh-TW
+Nameless Bloodline,無名血裔,zh-TW
+Necromantic,死靈掌控,zh-TW
+Offering Duration,奉獻持續時間,zh-TW
+Olroth Bloodline,奧爾羅斯血裔,zh-TW
+"Olroth, Origin of the Fall",失落起源．奧爾羅斯,zh-TW
+Oshabi Bloodline,奧莎比血裔,zh-TW
+Precursor's Release,先行者的釋放,zh-TW
+Priest of Kamasa,卡瑪薩的祭司,zh-TW
+Priest of Kopec,科佩克的祭司,zh-TW
+Priest of Yaomac,堯馬克的祭司,zh-TW
+Primal Roar,原始咆哮,zh-TW
+Prolonged Servitude,無期奴役,zh-TW
+Runic Boon,符文恩賜,zh-TW
+Saresh Bloodline,薩雷許血裔,zh-TW
+Seal gain frequency,封印獲取頻率,zh-TW
+Serpent's Price,腹蛇的代價,zh-TW
+Sinner Saint,罪人聖徒,zh-TW
+That didn't happen!,那沒有發生！,zh-TW
+The Crystal King's Throne,晶之帝王座,zh-TW
+The King's Contempt,王之蔑視,zh-TW
+The King's Heritage,王之傳承,zh-TW
+The King's Might,王之威能,zh-TW
+The Primal Owl,原始貓頭鷹,zh-TW
+The Unseen Hand,未見之手,zh-TW
+The Vivid Cat,鮮活之貓,zh-TW
+The Wild Bear,荒野之熊,zh-TW
+Toad's Price,蟾蜍的代價,zh-TW
+Tul of the Blizzard,托沃之暴雪,zh-TW
+Umbral Army,幽影軍團,zh-TW
+Unlight Silhouette,無光輪廓,zh-TW
+Vaal Souls,瓦爾之魂,zh-TW
+Volatile Runes,易爆符文,zh-TW
+Warcry Speed,戰吼速度,zh-TW
+Ward,保護,zh-TW
+Wild Will,狂野之志,zh-TW
+You're the crazy one!,你才是瘋子！,zh-TW
+Duelist,決鬥者,zh-TW
+Marauder,野蠻人,zh-TW
+Scion,貴族,zh-TW
+Shadow,暗影刺客,zh-TW
+Templar,聖堂武僧,zh-TW
+Ancestral Fury,先祖之怒,zh-TW
+Arcane Blessing,秘能庇護,zh-TW
+Armour Display,護甲展示架,zh-TW
+Aspect of Carnage,血肉之章,zh-TW
+Assassination Style,刺殺姿態,zh-TW
+Augury of Penitence,懺悔之卜,zh-TW
+Avatar of the Wilds,獸性化身,zh-TW
+Avidity,貪慾,zh-TW
+Bane of Legends,神話災難,zh-TW
+Bastion of Elements,元素壁壘,zh-TW
+Bastion of Hope,希望壁壘,zh-TW
+Bomb Specialist,炸彈專家,zh-TW
+Bone Barrier,骸骨屏障,zh-TW
+Born in the Shadows,生在影中,zh-TW
+Bringer of Ruin,毀滅使者,zh-TW
+Brutal Fervour,殘暴熱情,zh-TW
+Calculated Risk,精算風險,zh-TW
+Caster Weapon Display,施法武器展示架,zh-TW
+Chain Reaction,連鎖反應,zh-TW
+Character class,角色職業,zh-TW
+Commander of Darkness,黑暗統御者,zh-TW
+Conviction of Power,力量定罪,zh-TW
+Corpse Pact,屍骨盟約,zh-TW
+Crave the Slaughter,屠戮之慾,zh-TW
+Deathmarked,死亡印記,zh-TW
+Defy Pain,抵禦苦痛,zh-TW
+Demolitions Specialist,爆破天才,zh-TW
+Determined Survivor,堅定的倖存者,zh-TW
+Divine Guidance,神聖指引,zh-TW
+Duelist Ascendancy,決鬥者昇華職業,zh-TW
+Endless Hunger,無盡飢餓,zh-TW
+Endless Munitions,無限彈藥,zh-TW
+Enduring Suffusion,耐久瀰漫,zh-TW
+Escape Artist,逃脫大師,zh-TW
+Essence Glutton,吞噬精華,zh-TW
+Experienced Herbalist,經驗豐富的藥草師,zh-TW
+Far Shot,狙擊,zh-TW
+"First to Strike, Last to Fall",嗜戰如命,zh-TW
+Focal Point,焦點,zh-TW
+Fortitude,堅忍,zh-TW
+Frigid Wake,寒凜喚醒,zh-TW
+Gathering Winds,集風,zh-TW
+Gore Dancer,血腥舞者,zh-TW
+Gratuitous Violence,免費暴力,zh-TW
+Harmony of Purpose,和諧之源,zh-TW
+Headsman,獵頭者,zh-TW
+Heart of Destruction,毀滅之心,zh-TW
+Heartstopper,心靈永止,zh-TW
+"Hinekora, Death's Fury",死之狂怒．悉妮蔻拉,zh-TW
+Illuminated Devotion,無上奉獻,zh-TW
+Impact,衝擊,zh-TW
+Inevitable Judgement,命運審判,zh-TW
+Infused Toxins,極致淬毒,zh-TW
+Inspirational,啟發,zh-TW
+Instruments of Virtue,美德儀,zh-TW
+Instruments of Zeal,狂熱儀,zh-TW
+Jagged Technique,鋸齒技法,zh-TW
+Jewellery Display,飾品展示架,zh-TW
+Lesson of the Seasons,學習季節,zh-TW
+Liege of the Primordial,先祖諸王,zh-TW
+Like Clockwork,規律化,zh-TW
+Marauder Ascendancy,野蠻人昇華職業,zh-TW
+Marshal of Divinity,神志元帥,zh-TW
+Martial Weapon Display,軍用武器展示架,zh-TW
+Master Alchemist,煉金術大師,zh-TW
+Master Distiller,精釀大師,zh-TW
+Master of Metal,鐵金剛,zh-TW
+Master Surgeon,手術大師,zh-TW
+Master Toxicist,毒物大師,zh-TW
+Masterful Form,神采之形,zh-TW
+Mastermind of Discord,混沌天才,zh-TW
+Measured Retaliation,精準復仇,zh-TW
+Mindless Aggression,無意識侵略,zh-TW
+Mistress of Sacrifice,奉獻女魔,zh-TW
+Mistwalker,霧行者,zh-TW
+More Than Skill,技能不止,zh-TW
+Mother's Teachings,母親的教誨,zh-TW
+Mystical Infusion,神秘化身,zh-TW
+Nature's Adrenaline,大自然的腎上腺素,zh-TW
+Nature's Boon,自然的恩賜,zh-TW
+Nature's Reprisal,大自然的報仇,zh-TW
+"Ngamahu, Flame's Advance",火徒．拿瑪乎,zh-TW
+Oath of Spring,新春誓言,zh-TW
+Oath of Summer,炎夏誓言,zh-TW
+Oath of Winter,凜冬誓言,zh-TW
+Occupying Force,侵佔部隊,zh-TW
+One Step Ahead,先行,zh-TW
+Opportunistic,投機,zh-TW
+Overwhelm,鎮壓,zh-TW
+Path of the Duelist,決鬥者之道,zh-TW
+Path of the Marauder,野蠻人之道,zh-TW
+Path of the Ranger,遊俠之道,zh-TW
+Path of the Shadow,暗影刺客之道,zh-TW
+Path of the Templar,聖堂武僧之道,zh-TW
+Path of the Witch,女巫之道,zh-TW
+Perfect Crime,完美犯罪,zh-TW
+Pious Path,廉簡之途,zh-TW
+Plaguebringer,瘟疫帶原者,zh-TW
+Polymath,博學,zh-TW
+Profane Bloom,穢言亡語,zh-TW
+Pursuit of Faith,信念之訴,zh-TW
+Pyromaniac,縱火狂,zh-TW
+Radiant Crusade,光明聖戰,zh-TW
+Radiant Faith,信念之輝,zh-TW
+"Ramako, Sun's Light",烈陽之光．雷默科,zh-TW
+Ranger Ascendancy,遊俠昇華職業,zh-TW
+Reliquarian,遺守使徒,zh-TW
+Ricochet,彈射,zh-TW
+Righteous Providence,正義之庭,zh-TW
+Ritual of Awakening,昇華儀式,zh-TW
+Sanctuary of Thought,意識聖殿,zh-TW
+Seasoned Hunter,老練獵人,zh-TW
+Shadow Ascendancy,暗影刺客昇華職業,zh-TW
+Shadowed Blood,影血,zh-TW
+Shaper of Flames,火焰雕塑者,zh-TW
+Shaper of Storms,風暴雕塑者,zh-TW
+Shaper of Winter,寒冬雕塑者,zh-TW
+Shrapnel Specialist,彈片專家,zh-TW
+Sign of Purpose,標記之印,zh-TW
+"Sione, Sun's Roar",烈日怒吼．西奧妮,zh-TW
+Soul Drinker,飲魂者,zh-TW
+Spellbreaker,破法,zh-TW
+Swift Killer,敏捷殺手,zh-TW
+Templar Ascendancy,聖堂武僧昇華職業,zh-TW
+the Labyrinth,帝王試煉迷宮,zh-TW
+Time of Need,緊急時刻,zh-TW
+Toxic Delivery,毒物走私,zh-TW
+"Tukohama, War's Herald",戰爭使者．圖克哈瑪,zh-TW
+Unbreakable,堅不可破,zh-TW
+Undeniable,不可置疑,zh-TW
+Unflinching,永不動搖,zh-TW
+Unholy Authority,不潔權威,zh-TW
+Unnatural Strength,超自然之力,zh-TW
+Unrelenting,殺無赦,zh-TW
+Unstable Infusion,不穩定化身,zh-TW
+Unstoppable,勢不可擋,zh-TW
+Unstoppable Hero,不敗英雄,zh-TW
+Untiring,不懈,zh-TW
+Unwavering Crusade,堅定聖戰,zh-TW
+Unwavering Faith,不動信念,zh-TW
+Unyielding,屹立不搖,zh-TW
+Vile Bastion,殘劣壁壘,zh-TW
+Void Beacon,虛無之塔,zh-TW
+War Bringer,戰爭使者,zh-TW
+War of Attrition,消耗戰,zh-TW
+Warden,守林人,zh-TW
+Weapon Master,武器大師,zh-TW
+Wind Ward,風之守衛,zh-TW
+Witch Ascendancy,女巫昇華職業,zh-TW
+Withering Presence,凋零光環,zh-TW
+Worthy Causes,崇高志向,zh-TW
+Worthy Foe,可敬的對手,zh-TW
+A Chilling Wind,凜冽之風,zh-TW
+A Dab of Ink,代伯之墨,zh-TW
+A Dusty Memory,塵封記憶,zh-TW
+A Familiar Call,似曾相識,zh-TW
+A Fate Worse Than Death,比死更慘的命運,zh-TW
+A Modest Request,謙卑請求,zh-TW
+A Mother's Parting Gift,母親的禮物,zh-TW
+A Note in the Wind,隨風飄記,zh-TW
+A Sea of Blue,藍海,zh-TW
+A Stone Perfected,完石,zh-TW
+Abandoned Wealth,棄財求生,zh-TW
+Aberrant Fossil,特異化石,zh-TW
+Abrasive Catalyst,研磨的催化劑,zh-TW
+Abyss Scarab,聖甲蟲：深淵,zh-TW
+Abyss Scarab of Descending,聖甲蟲：落降深淵,zh-TW
+Abyss Scarab of Edifice,聖甲蟲：宏偉深淵,zh-TW
+Abyss Scarab of Multitudes,聖甲蟲：眾生深淵,zh-TW
+Abyss Scarab of Profound Depth,聖甲蟲：深沉深淵,zh-TW
+Abyssal Delirium Orb,深淵之譫妄玉,zh-TW
+Accelerating Catalyst,加速催化劑,zh-TW
+Acclimatisation,適者生存,zh-TW
+Aetheric Fossil,神幻化石,zh-TW
+Akil's Prophecy,阿基爾的預言,zh-TW
+Al-Hezmin's Crest,奧赫茲明刻紋,zh-TW
+Alchemy Shard,點金石碎片,zh-TW
+Alivia's Grace,奧薇莉亞的恩典,zh-TW
+Allflame Ember of Flesh,不滅之火血肉餘燼,zh-TW
+Allflame Ember of Kulemak,不滅之火骷髏馬克餘燼,zh-TW
+Allflame Ember of Propagation,不滅之火傳播餘燼,zh-TW
+Allflame Ember of Resplendence,不滅之火輝煌餘燼,zh-TW
+Allflame Ember of the Ethereal,不滅之火虛靈餘燼,zh-TW
+Allflame Ember of the Gilded,不滅之火鍍金餘燼,zh-TW
+Allflame Ember of the Wildwood,不滅之火荒林餘燼,zh-TW
+Allflame Ember of Toads,不滅之火蟾蜍餘燼,zh-TW
+Alluring Bounty,誘惑之寶,zh-TW
+Alone in the Darkness,暗黑孤單中,zh-TW
+Alteration Shard,改造石碎片,zh-TW
+Altered Perception,變動感知,zh-TW
+Amber Oil,琥珀油瓶,zh-TW
+Ambitious Obsession,上進執迷,zh-TW
+Ambush Scarab,聖甲蟲：伏擊,zh-TW
+Ambush Scarab of Containment,聖甲蟲：遏制伏擊,zh-TW
+Ambush Scarab of Discernment,聖甲蟲：洞察伏擊,zh-TW
+Ambush Scarab of Hidden Compartments,聖甲蟲：暗室伏擊,zh-TW
+Ambush Scarab of Potency,聖甲蟲：爆發伏擊,zh-TW
+An Audience With The King,謁見國王,zh-TW
+Anarchy Scarab,聖甲蟲：混亂,zh-TW
+Anarchy Scarab of Gigantification,聖甲蟲：浩瀚混亂,zh-TW
+Anarchy Scarab of Partnership,聖甲蟲：結夥混亂,zh-TW
+Anarchy Scarab of the Exceptional,聖甲蟲：至高混亂,zh-TW
+Anarchy's Price,混亂代價,zh-TW
+Ancient Orb,古變石,zh-TW
+Annulment Shard,無效石碎片,zh-TW
+Apocalypse,天啟,zh-TW
+Armourer's Scrap,護甲片,zh-TW
+Armoursmith's Delirium Orb,護甲之譫妄玉,zh-TW
+Arrogance of the Vaal,瓦爾之傲,zh-TW
+Ascendancy Classes,昇華職業,zh-TW
+Assassin's Favour,刺客恩惠,zh-TW
+Assassin's Gift,刺客的餽贈,zh-TW
+Astragali,骰子,zh-TW
+Astral Protection,星際保護,zh-TW
+Atziri's Arsenal,阿茲里的武庫,zh-TW
+Audacity,膽識,zh-TW
+Auspicious Ambitions,吉祥之志,zh-TW
+Avian Pursuit,追擊之翼,zh-TW
+Awakener's Orb,喚醒者之玉,zh-TW
+Awakening Fragment,覺醒碎片,zh-TW
+Azure Oil,碧藍油瓶,zh-TW
+Azure Rage,碧藍之怒,zh-TW
+Azyran's Reward,艾斯尤倫的報酬,zh-TW
+Baited Expectations,誘餌之期待,zh-TW
+Baran's Crest,巴倫刻紋,zh-TW
+Beauty Through Death,夕陽紅顏,zh-TW
+Bestiary Scarab,聖甲蟲：獸獵,zh-TW
+Bestiary Scarab of Duplicating,聖甲蟲：增生獸獵,zh-TW
+Bestiary Scarab of the Herd,聖甲蟲：牧群獸獵,zh-TW
+Bestiary Scarab of the Shadowed Crow,聖甲蟲：暗影烏鴉獸獵,zh-TW
+Betrayal Scarab,聖甲蟲：反叛,zh-TW
+Betrayal Scarab of Reinforcements,聖甲蟲：支援反叛,zh-TW
+Betrayal Scarab of the Allflame,聖甲蟲：不滅之火反叛,zh-TW
+Betrayal Scarab of Unbreaking,聖甲蟲：催堅反叛,zh-TW
+Beyond Scarab,聖甲蟲：超越,zh-TW
+Beyond Scarab of Corruption,聖甲蟲：腐化超越,zh-TW
+Beyond Scarab of Haemophilia,聖甲蟲：血病超越,zh-TW
+Beyond Scarab of Resurgence,聖甲蟲：復興超越,zh-TW
+Beyond Scarab of the Invasion,聖甲蟲：侵略超越,zh-TW
+Bijoux,珠寶,zh-TW
+Black Oil,漆黑油瓶,zh-TW
+Blacksmith's Delirium Orb,鐵匠之譫妄玉,zh-TW
+Blacksmith's Whetstone,磨刀石,zh-TW
+Blazing Fragment,熾熱碎片,zh-TW
+Blessed Orb,祝福石,zh-TW
+Blight Scarab,聖甲蟲：凋落,zh-TW
+Blight Scarab of Blooming,聖甲蟲：綻放凋落,zh-TW
+Blight Scarab of Bounty,聖甲蟲：珍寶凋落,zh-TW
+Blight Scarab of Invigoration,聖甲蟲：振奮凋落,zh-TW
+Blight Scarab of the Blightheart,聖甲蟲：枯萎之心凋落,zh-TW
+Blighted Delirium Orb,凋落之譫妄玉,zh-TW
+Blind Venture,盲途,zh-TW
+Bloodstained Fossil,血漬化石,zh-TW
+Boon of Justice,正義之福,zh-TW
+Boon of the First Ones,初始者的祝福,zh-TW
+Bound by Flame,縛焰之契,zh-TW
+Bound Fossil,畛域化石,zh-TW
+Boundless Realms,無盡之境,zh-TW
+Bowyer's Dream,弓匠的夢想,zh-TW
+Breach Scarab of Instability,聖甲蟲：動盪裂痕,zh-TW
+Breach Scarab of Resonant Cascade,聖甲蟲：共鳴浪湧裂痕,zh-TW
+Breach Scarab of the Dreamer,聖甲蟲：築夢裂痕,zh-TW
+Breach Scarab of the Hive,聖甲蟲：窩巢裂痕,zh-TW
+Breach Scarab of the Incensed Swarm,聖甲蟲：怒潮裂痕,zh-TW
+Breach Scarab of the Marshal,聖甲蟲：元帥裂痕,zh-TW
+Broken Promises,不守信,zh-TW
+Broken Truce,打破休戰,zh-TW
+Brother's Gift,兄弟之贈,zh-TW
+Brother's Stash,伯仲財庫,zh-TW
+Brotherhood in Exile,流亡兄弟會,zh-TW
+"Brush, Paint and Palette",畫筆、顏料和調色盤,zh-TW
+Burial Medallion,埋葬獎章,zh-TW
+Buried Treasure,深埋祕寶,zh-TW
+Burning Blood,燃燒之血,zh-TW
+Call to the First Ones,先人召喚,zh-TW
+Cameria's Cut,卡麥歷亞之割,zh-TW
+Cartographer's Delight,製圖師之喜悅,zh-TW
+Cartographer's Delirium Orb,製圖之譫妄玉,zh-TW
+Cartography Scarab of Corruption,聖甲蟲：腐化製圖,zh-TW
+Cartography Scarab of Escalation,聖甲蟲：惡化製圖,zh-TW
+Cartography Scarab of Risk,聖甲蟲：風險製圖,zh-TW
+Cartography Scarab of Singularity,聖甲蟲：極寶製圖,zh-TW
+Cartography Scarab of the Multitude,聖甲蟲：增生製圖,zh-TW
+Challenging Delirium Orb,挑戰之譫妄玉,zh-TW
+Chaos Shard,混沌石碎片,zh-TW
+Chaotic Astrolabe,混沌星盤,zh-TW
+Chaotic Disposition,渾沌性情,zh-TW
+Chasing Risk,冒險犯難,zh-TW
+Checkmate,將軍,zh-TW
+Choking Guilt,窒息內疚,zh-TW
+Chromatic Orb,幻色石,zh-TW
+Clear Oil,清透油瓶,zh-TW
+Coin of Desecration,玷污之硬幣,zh-TW
+Coin of Knowledge,知識之硬幣,zh-TW
+Coin of Power,力量之硬幣,zh-TW
+Coin of Restoration,恢復之硬幣,zh-TW
+Coin of Skill,技巧之硬幣,zh-TW
+Concurrent Players,Concurrent Players,zh-TW
+Corroded Fossil,斑駁化石,zh-TW
+Cosmic Fragment,宇宙碎片,zh-TW
+Costly Curio,昂貴古玩,zh-TW
+Council of Cats,貓咪議會,zh-TW
+Coveted Possession,飢渴之佔,zh-TW
+Crescent Splinter,新月裂片,zh-TW
+Crimson Oil,緋紅油瓶,zh-TW
+Crusader's Exalted Orb,聖戰士的崇高石,zh-TW
+Crystallised Rancour,晶化仇怨,zh-TW
+Cursed Words,髒話,zh-TW
+Damnation,咒縛,zh-TW
+Dark Dreams,漆黑夢魘,zh-TW
+Dark Temptation,暗黑的誘惑,zh-TW
+Darker Half,晦暗不明,zh-TW
+Deadly Joy,致命喜悅,zh-TW
+Deafening Essence of Anger,憤怒之破空精髓,zh-TW
+Deafening Essence of Anguish,煎熬之破空精髓,zh-TW
+Deafening Essence of Contempt,輕視之破空精髓,zh-TW
+Deafening Essence of Doubt,疑惑之破空精髓,zh-TW
+Deafening Essence of Dread,忌憚之破空精髓,zh-TW
+Deafening Essence of Envy,忌妒之破空精髓,zh-TW
+Deafening Essence of Fear,恐懼之破空精髓,zh-TW
+Deafening Essence of Greed,貪婪之破空精髓,zh-TW
+Deafening Essence of Hatred,憎恨之破空精髓,zh-TW
+Deafening Essence of Loathing,厭惡之破空精髓,zh-TW
+Deafening Essence of Misery,悽慘之破空精髓,zh-TW
+Deafening Essence of Rage,肆虐之破空精髓,zh-TW
+Deafening Essence of Scorn,傲視之破空精髓,zh-TW
+Deafening Essence of Sorrow,哀惜之破空精髓,zh-TW
+Deafening Essence of Spite,刻毒之破空精髓,zh-TW
+Deafening Essence of Suffering,苦難之破空精髓,zh-TW
+Deafening Essence of Torment,折磨之破空精髓,zh-TW
+Deafening Essence of Woe,悲痛之破空精髓,zh-TW
+Deafening Essence of Wrath,雷霆之破空精髓,zh-TW
+Deafening Essence of Zeal,熱情之破空精髓,zh-TW
+Death,死亡,zh-TW
+Deathly Designs,致死記號,zh-TW
+Decaying Fragment,腐朽碎片,zh-TW
+Dedication to the Goddess,女神奉獻,zh-TW
+Deft Fossil,靈巧化石,zh-TW
+Delirium Orb,譫妄玉,zh-TW
+Delirium Scarab,聖甲蟲：譫妄,zh-TW
+Delirium Scarab of Delusions,聖甲蟲：幻覺譫妄,zh-TW
+Delirium Scarab of Mania,聖甲蟲：狂熱譫妄,zh-TW
+Delirium Scarab of Neuroses,聖甲蟲：神經譫妄,zh-TW
+Delirium Scarab of Paranoia,聖甲蟲：偏執譫妄,zh-TW
+Dementophobia,癡呆症,zh-TW
+Demigod's Wager,昇華的賭注,zh-TW
+Dense Fossil,稠密化石,zh-TW
+Desecrated Virtue,褻瀆的美德,zh-TW
+Desperate Crusade,絕望遠征,zh-TW
+Destined to Crumble,殞落的命運,zh-TW
+Devouring Fragment,吞噬碎片,zh-TW
+Dextral Catalyst,右旋催化劑,zh-TW
+Dialla's Subjugation,達拉之訓,zh-TW
+Disdain,蔑視,zh-TW
+Divination Scarab of Pilfering,聖甲蟲：盜竊命運,zh-TW
+Divination Scarab of Plenty,聖甲蟲：富饒命運,zh-TW
+Divination Scarab of The Cloister,聖甲蟲：迴廊命運,zh-TW
+Divine Beauty,神聖之美,zh-TW
+Divine Justice,神判,zh-TW
+Divine Vessel,眾神聖器,zh-TW
+Diviner's Delirium Orb,聖人之譫妄玉,zh-TW
+Doedre's Madness,德瑞競之狂,zh-TW
+Domination Scarab,聖甲蟲：支配,zh-TW
+Domination Scarab of Apparitions,聖甲蟲：映像支配,zh-TW
+Domination Scarab of Evolution,聖甲蟲：進化支配,zh-TW
+Domination Scarab of Terrors,聖甲蟲：惡懼支配,zh-TW
+Doryani's Epiphany,多里亞尼的頓悟,zh-TW
+Draped in Dreams,披夢,zh-TW
+Drox's Crest,圖拉克斯刻紋,zh-TW
+Duality,雙重性,zh-TW
+Dying Anguish,消逝之怒,zh-TW
+Dying Light,垂死之光,zh-TW
+Earth Drinker,大地吞食者,zh-TW
+Echo of Loneliness,孤獨之迴響,zh-TW
+Echo of Reverence,敬畏之迴響,zh-TW
+Echo of Trauma,創傷之迴響,zh-TW
+Echoes of Love,愛我請舉手,zh-TW
+Economy,Economy,zh-TW
+Edit,Edit,zh-TW
+Elder's Exalted Orb,尊師的崇高石,zh-TW
+Eldritch Chaos Orb,異能混沌石,zh-TW
+Eldritch Exalted Orb,異能崇高石,zh-TW
+Eldritch Orb of Annulment,異能無效石,zh-TW
+Eldritch Perfection,完美異能,zh-TW
+Emperor of Purity,純潔帝王,zh-TW
+Emperor's Luck,帝運,zh-TW
+Endless Night,無盡的夜晚,zh-TW
+Enkindling Orb,點燃石,zh-TW
+Enshrouded Astrolabe,壟罩星盤,zh-TW
+Essence of Delirium,譫妄精髓,zh-TW
+Essence of Desolation,荒蕪精髓,zh-TW
+Essence of Horror,極恐精髓,zh-TW
+Essence of Hysteria,浮誇精髓,zh-TW
+Essence of Insanity,錯亂精髓,zh-TW
+Essence Scarab,聖甲蟲：精髓,zh-TW
+Essence Scarab of Adaptation,聖甲蟲：適性精髓,zh-TW
+Essence Scarab of Ascent,聖甲蟲：上升精髓,zh-TW
+Essence Scarab of Calcification,聖甲蟲：鈣化精髓,zh-TW
+Essence Scarab of Stability,聖甲蟲：穩定精髓,zh-TW
+Etched in Blood,腐爛於血,zh-TW
+Eternal Bonds,永恆之繫,zh-TW
+Eternal Orb,永恆寶珠,zh-TW
+Ever-Changing,千變萬化,zh-TW
+Exalted Shard,崇高石碎片,zh-TW
+Exceptional,Exceptional,zh-TW
+Exceptional Eldritch Ember,卓越異能灰燼,zh-TW
+Exceptional Eldritch Ichor,卓越異能靈液,zh-TW
+Exotic Coinage,異域幣鑄,zh-TW
+Expedition Scarab,聖甲蟲：探險,zh-TW
+Expedition Scarab of Archaeology,聖甲蟲：考古探險,zh-TW
+Expedition Scarab of Infusion,聖甲蟲：注能探險,zh-TW
+Expedition Scarab of Runefinding,聖甲蟲：尋符探險,zh-TW
+Expedition Scarab of Verisium Powder,聖甲蟲：維里西姆粉末探險,zh-TW
+Faceted Fossil,雕琢化石,zh-TW
+Fateful Meeting,命運大會,zh-TW
+Father's Love,父愛,zh-TW
+Fertile Catalyst,富饒的催化劑,zh-TW
+Fine Delirium Orb,精良之譫妄玉,zh-TW
+Fire Of Unknown Origin,神秘之火的起源,zh-TW
+Flesh of Xesht,烈許之血肉,zh-TW
+Forbidden Power,禁忌之力,zh-TW
+Fossilised Delirium Orb,石化之譫妄玉,zh-TW
+Foulborn Exalted Orb,穢生崇高石,zh-TW
+Foulborn Orb of Augmentation,穢生增幅石,zh-TW
+Foulborn Regal Orb,穢生富豪石,zh-TW
+Fractured Fossil,破裂化石,zh-TW
+Fracturing Orb,破裂石,zh-TW
+Fracturing Shard,破裂石碎片,zh-TW
+Fragment of Constriction,干擾斷片,zh-TW
+Fragment of Emptiness,空虛斷片,zh-TW
+Fragment of Enslavement,奴役斷片,zh-TW
+Fragment of Eradication,根除斷片,zh-TW
+Fragment of Knowledge,智慧斷片,zh-TW
+Fragment of Purification,淨化斷片,zh-TW
+Fragment of Shape,雕塑斷片,zh-TW
+Fragment of Terror,恐懼斷片,zh-TW
+Fragment of the Chimera,奇美拉斷片,zh-TW
+Fragment of the Hydra,九頭蛇斷片,zh-TW
+Fragment of the Minotaur,牛頭斷片,zh-TW
+Fragment of the Phoenix,鳳凰斷片,zh-TW
+Fragmented Delirium Orb,碎片之譫妄玉,zh-TW
+Friendship,友誼小船,zh-TW
+Frigid Fossil,寒風化石,zh-TW
+From Bone to Ashes,骨頭燒到灰燼,zh-TW
+Fruiting Astrolabe,碩果星盤,zh-TW
+Fundamental Fossil,根本化石,zh-TW
+Fungal Astrolabe,菌群星盤,zh-TW
+Further Invention,進步發明,zh-TW
+Gemcutter's Mercy,寶石匠的憐憫,zh-TW
+Gemcutter's Prism,寶石匠的稜鏡,zh-TW
+Gemcutter's Promise,寶石匠的允諾,zh-TW
+GGG Tracker,GGG Tracker,zh-TW
+Gift of Asenath,安賽娜絲贈禮,zh-TW
+Gift of the Gemling Queen,寶石皇后的贈禮,zh-TW
+Gift to the Goddess,女神之贈,zh-TW
+Gilded Fossil,鑲金化石,zh-TW
+Glassblower's Bauble,玻璃彈珠,zh-TW
+Glimmer of Hope,希望微光,zh-TW
+Glyphic Fossil,雕紋化石,zh-TW
+Golden Oil,金黃油瓶,zh-TW
+Grand Eldritch Ember,宏偉異能灰燼,zh-TW
+Grand Eldritch Ichor,宏偉異能靈液,zh-TW
+Grasping Astrolabe,執掌星盤,zh-TW
+Grave Knowledge,亡靈智慧,zh-TW
+Greater Eldritch Ember,高階異能灰燼,zh-TW
+Greater Eldritch Ichor,高階異能靈液,zh-TW
+Guardian's Challenge,守護者的挑戰,zh-TW
+Harmony of Souls,靈魂和諧,zh-TW
+Harvest Scarab,聖甲蟲：豐收,zh-TW
+Harvest Scarab of Cornucopia,聖甲蟲：富饒豐收,zh-TW
+Harvest Scarab of Doubling,聖甲蟲：倍增豐收,zh-TW
+Haunting Shadows,黑影纏繞,zh-TW
+Her Mask,她的面具,zh-TW
+Heterochromia,陰陽眼,zh-TW
+Hinekora's Lock,悉妮蔻拉的髮絲,zh-TW
+History,歷史,zh-TW
+Hivebrain Gland,巢裔主腦腺體,zh-TW
+Hollow Fossil,鏤空化石,zh-TW
+Home,家園,zh-TW
+Hope,希望,zh-TW
+Horned Scarab of Awakening,聖甲蟲：覺醒犄角,zh-TW
+Horned Scarab of Bloodlines,聖甲蟲：血統犄角,zh-TW
+Horned Scarab of Glittering,聖甲蟲：閃亮犄角,zh-TW
+Horned Scarab of Nemeses,聖甲蟲：復仇犄角,zh-TW
+Horned Scarab of Pandemonium,聖甲蟲：萬劫犄角,zh-TW
+Horned Scarab of Preservation,聖甲蟲：庇護犄角,zh-TW
+Horned Scarab of Tradition,聖甲蟲：傳統犄角,zh-TW
+Horticrafting,園藝,zh-TW
+House of Mirrors,明鏡,zh-TW
+Hubris,狂妄,zh-TW
+Humility,謙遜,zh-TW
+Hunter's Exalted Orb,狩獵者的崇高石,zh-TW
+Hunter's Resolve,獵者之願,zh-TW
+Hunter's Reward,獵人的獎賞,zh-TW
+I See Brothers,來了兄弟,zh-TW
+Imbued Catalyst,充能的催化劑,zh-TW
+Immortal Resolve,不朽決心,zh-TW
+Imperfect Memories,不完美的回憶,zh-TW
+Imperial Delirium Orb,帝王之譫妄玉,zh-TW
+Imperial Legacy,不朽聖物,zh-TW
+Incursion Scarab,聖甲蟲：穿越,zh-TW
+Incursion Scarab of Champions,聖甲蟲：鬥士穿越,zh-TW
+Incursion Scarab of Invasion,聖甲蟲：侵略穿越,zh-TW
+Incursion Scarab of Timelines,聖甲蟲：時間線穿越,zh-TW
+Indigo Oil,靛青油瓶,zh-TW
+Influencing Scarab of Hordes,聖甲蟲：群集感染,zh-TW
+Influencing Scarab of Interference,聖甲蟲：干預感染,zh-TW
+Influencing Scarab of the Elder,聖甲蟲：尊師感染,zh-TW
+Influencing Scarab of the Shaper,聖甲蟲：塑界感染,zh-TW
+Instilling Orb,滴注石,zh-TW
+Intrinsic Catalyst,本質的催化劑,zh-TW
+Jack in the Box,驚喜盒,zh-TW
+Jagged Fossil,鋸齒化石,zh-TW
+Jeweller's Delirium Orb,飾品之譫妄玉,zh-TW
+Jeweller's Orb,工匠石,zh-TW
+Journey Tattoo of the Body,軀體的歷練紋身,zh-TW
+Journey Tattoo of the Mind,心智的歷練紋身,zh-TW
+Journey Tattoo of the Soul,靈魂的歷練紋身,zh-TW
+Judging Voices,審判之聲,zh-TW
+Justified Ambition,正義野心,zh-TW
+Kalguuran Delirium Orb,卡爾葛之譫妄玉,zh-TW
+Kalguuran Scarab,聖甲蟲：卡爾葛,zh-TW
+Kalguuran Scarab of Enriching,聖甲蟲：富裕卡爾葛,zh-TW
+Kalguuran Scarab of Guarded Riches,聖甲蟲：守衛財寶卡爾葛,zh-TW
+Kalguuran Scarab of Refinement,聖甲蟲：精化卡爾葛,zh-TW
+Keeper's Corruption,守護者的腐敗,zh-TW
+Lachrymal Necrosis,鐵骨心腸,zh-TW
+Lantador's Lost Love,蘭塔朵迷惘之愛,zh-TW
+Last Hope,最後希望,zh-TW
+Last Stand,最後一博,zh-TW
+Left to Fate,聽天由命,zh-TW
+Legion Scarab,聖甲蟲：戰亂,zh-TW
+Legion Scarab of Eternal Conflict,聖甲蟲：永恆鬥爭戰亂,zh-TW
+Legion Scarab of Officers,聖甲蟲：幹部戰亂,zh-TW
+Legion Scarab of The Sekhema,聖甲蟲：絲克瑪戰亂,zh-TW
+Legion Scarab of Treasures,聖甲蟲：寶藏戰亂,zh-TW
+Lesser Eldritch Ember,低階異能灰燼,zh-TW
+Lesser Eldritch Ichor,低階異能靈液,zh-TW
+Lethean Temptation,絕境誘惑,zh-TW
+Light and Truth,光與諦,zh-TW
+Lightless Astrolabe,無光星盤,zh-TW
+Lingering Remnants,殘墟,zh-TW
+Lonely Fragment,孤獨碎片,zh-TW
+Lonely Warrior,孤軍奮戰,zh-TW
+Lost Worlds,失落帝國,zh-TW
+Love Through Ice,冰冷愛戀,zh-TW
+Loyalty,忠誠,zh-TW
+Lucent Fossil,明透化石,zh-TW
+Lucky Bastion,幸運壁壘,zh-TW
+Lucky Connections,好運連連,zh-TW
+Lucky Deck,幸運牌組,zh-TW
+Luminous Trove,輝煌寶藏,zh-TW
+Lysah's Respite,莉莎之息,zh-TW
+Magnum Opus,巨著,zh-TW
+Man With Bear,熊男,zh-TW
+Maps,地圖,zh-TW
+Matryoshka,俄羅斯娃娃,zh-TW
+Maven's Chisel of Avarice,釋界之貪婪鑿,zh-TW
+Maven's Chisel of Divination,釋界之占卜鑿,zh-TW
+Maven's Chisel of Procurement,釋界之採購鑿,zh-TW
+Maven's Chisel of Proliferation,釋界之增值鑿,zh-TW
+Maven's Chisel of Scarabs,釋界之聖甲蟲鑿,zh-TW
+Mawr Blaidd,茂爾．佈雷德,zh-TW
+Memory of Loneliness,孤獨之記憶,zh-TW
+Memory of Reverence,敬畏之記憶,zh-TW
+Memory of Trauma,創傷之記憶,zh-TW
+Merciless Armament,無情軍械,zh-TW
+Metallic Fossil,金鋼化石,zh-TW
+Metamods,工藝互動,zh-TW
+Might is Right,正氣,zh-TW
+Mirror Shard,魔鏡碎片,zh-TW
+Misery in Darkness,黑暗中的苦難,zh-TW
+Mitts,手套,zh-TW
+Modifiers,詞綴,zh-TW
+Monochrome,非黑即白,zh-TW
+More is Never Enough,貪婪無盡,zh-TW
+Mortal Grief,凡人的哀傷,zh-TW
+Mortal Hope,凡人的希望,zh-TW
+Mortal Ignorance,凡人的無知,zh-TW
+Mortal Rage,凡人的憤怒,zh-TW
+Muttering Essence of Anger,憤怒之呢喃精髓,zh-TW
+Muttering Essence of Contempt,輕視之呢喃精髓,zh-TW
+Muttering Essence of Fear,恐懼之呢喃精髓,zh-TW
+Muttering Essence of Greed,貪婪之呢喃精髓,zh-TW
+Muttering Essence of Hatred,憎恨之呢喃精髓,zh-TW
+Muttering Essence of Sorrow,哀惜之呢喃精髓,zh-TW
+Muttering Essence of Torment,折磨之呢喃精髓,zh-TW
+Muttering Essence of Woe,悲痛之呢喃精髓,zh-TW
+Nameless Astrolabe,無名星盤,zh-TW
+No Traces,無痕,zh-TW
+Nook's Crown,邊緣之冠,zh-TW
+Noxious Catalyst,毒性催化劑,zh-TW
+Obscured Delirium Orb,晦澀之譫妄玉,zh-TW
+Offering to the Goddess,女神祭品,zh-TW
+Oil,油瓶,zh-TW
+Omen of Adrenaline,腎上腺素之預兆,zh-TW
+Omen of Amelioration,改善之預兆,zh-TW
+Omen of Blanching,白化之預兆,zh-TW
+Omen of Brilliance,光輝之預兆,zh-TW
+Omen of Connections,連結之預兆,zh-TW
+Omen of Death's Door,死者大門之預兆,zh-TW
+Omen of Death-dancing,死舞之預兆,zh-TW
+Omen of Fortune,財富之預兆,zh-TW
+Omen of Refreshment,提神之預兆,zh-TW
+Omen of Return,返回之預兆,zh-TW
+Omen of the Jeweller,工匠之預兆,zh-TW
+Omen of the Soul Devourer,嗜魂者之預兆,zh-TW
+One Last Score,最後一票,zh-TW
+Opalescent Oil,乳白油瓶,zh-TW
+Opulent Fossil,華麗化石,zh-TW
+Orb of Alteration,改造石,zh-TW
+Orb of Binding,束縛石,zh-TW
+Orb of Chance,機會石,zh-TW
+Orb of Conflict,衝突寶珠,zh-TW
+Orb of Dominance,支配之玉,zh-TW
+Orb of Fusing,鏈結石,zh-TW
+Orb of Intention,意志石,zh-TW
+Orb of Regret,後悔石,zh-TW
+Orb of Remembrance,回想石,zh-TW
+Orb of Scouring,重鑄石,zh-TW
+Orb of Transmutation,蛻變石,zh-TW
+Orb of Unmaking,撤銷石,zh-TW
+Orb of Unravelling,拆解石,zh-TW
+Outfoxed,反被算計,zh-TW
+Parasitic Passengers,寄生旅人,zh-TW
+Peaceful Moments,平靜時刻,zh-TW
+Perfection,完美無瑕,zh-TW
+Poisoned Faith,有毒信仰,zh-TW
+Portal Scroll,傳送卷軸,zh-TW
+Potent Alchemical Resonator,增幅煉金鑄新儀,zh-TW
+Potent Chaotic Resonator,增幅混沌鑄新儀,zh-TW
+Powerful Alchemical Resonator,強力煉金鑄新儀,zh-TW
+Powerful Chaotic Resonator,強力混沌鑄新儀,zh-TW
+Prejudice,偏見,zh-TW
+Pride Before the Fall,驕者必敗,zh-TW
+Pride of the First Ones,初始者的驕傲,zh-TW
+Primal Crystallised Lifeforce,原始結晶生靈之力,zh-TW
+Primal Delirium Orb,初始之譫妄玉,zh-TW
+Prime Alchemical Resonator,終極煉金鑄新儀,zh-TW
+Prime Chaotic Resonator,終極混沌鑄新儀,zh-TW
+Primitive Alchemical Resonator,原始煉金鑄新儀,zh-TW
+Primitive Chaotic Resonator,原始混沌鑄新儀,zh-TW
+Prismatic Catalyst,多稜的催化劑,zh-TW
+Prismatic Fossil,三相化石,zh-TW
+Prismatic Oil,三相之油,zh-TW
+Pristine Fossil,原始化石,zh-TW
+Privacy,Privacy,zh-TW
+Prometheus' Armoury,普羅米修斯的裝甲庫,zh-TW
+Prosperity,興盛,zh-TW
+Quest,任務,zh-TW
+Rain of Chaos,混沌之雨,zh-TW
+Rain Tempter,誘惑之雨,zh-TW
+Rats,鼠輩,zh-TW
+Reality Fragment,現實碎片,zh-TW
+Rebirth,重生,zh-TW
+Rebirth and Renewal,重生與復興,zh-TW
+Reckless Ambition,魯莽的野心,zh-TW
+Redeemer's Exalted Orb,救贖者的崇高石,zh-TW
+Reflecting Mist,映像迷霧,zh-TW
+Reflection of the Heart,心之倒影,zh-TW
+Reflective Oil,映像油瓶,zh-TW
+Refracting Fog,折射之霧,zh-TW
+Regal Orb,富豪石,zh-TW
+Regal Shard,富豪石碎片,zh-TW
+Remembrance,我懷念的,zh-TW
+Reverent Fragment,敬畏碎片,zh-TW
+Ritual Scarab of Abundance,聖甲蟲：繁榮祭祀,zh-TW
+Ritual Scarab of Corpses,聖甲蟲：荒屍祭祀,zh-TW
+Ritual Scarab of Selectiveness,聖甲蟲：揀選祭祀,zh-TW
+Ritual Scarab of Wisps,聖甲蟲：妖精祭祀,zh-TW
+Ritual Splinter,祭祀裂片,zh-TW
+Ritual Vessel,祭祀碑器,zh-TW
+Rogue's Marker,盜賊之印,zh-TW
+Runegraft of Bellows,轟鳴符文之結,zh-TW
+Runegraft of Blasphemy,瀆神符文之結,zh-TW
+Runegraft of Connection,聯繫符文之結,zh-TW
+Runegraft of Consecration,奉獻符文之結,zh-TW
+Runegraft of Fury,憤怒符文之結,zh-TW
+Runegraft of Gemcraft,寶石工藝符文之結,zh-TW
+Runegraft of Loyalty,忠誠符文之結,zh-TW
+Runegraft of Quaffing,狂飲符文之結,zh-TW
+Runegraft of Rallying,召集符文之結,zh-TW
+Runegraft of Refraction,折射符文之結,zh-TW
+Runegraft of Restitching,重新縫合符文之結,zh-TW
+Runegraft of Resurgence,復甦符文之結,zh-TW
+Runegraft of Rotblood,腐血符文之結,zh-TW
+Runegraft of Stability,穩定符文之結,zh-TW
+Runegraft of Suffering,折磨符文之結,zh-TW
+Runegraft of the Agile,迅敏符文之結,zh-TW
+Runegraft of the Angler,長竿符文之結,zh-TW
+Runegraft of the Bound,緊密符文之結,zh-TW
+Runegraft of the Combatant,戰鬥者符文之結,zh-TW
+Runegraft of the Fortress,堡壘符文之結,zh-TW
+Runegraft of the Imbued,灌注符文之結,zh-TW
+Runegraft of the Jeweller,工匠符文之結,zh-TW
+Runegraft of the Novamark,星印符文之結,zh-TW
+Runegraft of the River,河川符文之結,zh-TW
+Runegraft of the Sinistral,左旋符文之結,zh-TW
+Runegraft of the Soulwick,魂芯符文之結,zh-TW
+Runegraft of the Spellbound,魔縛符文之結,zh-TW
+Runegraft of the Warp,扭曲符文之結,zh-TW
+Runegraft of the Witchmark,巫印符文之結,zh-TW
+Runegraft of Time,時間符文之結,zh-TW
+Runegraft of Treachery,背信符文之結,zh-TW
+Runic Astrolabe,符文星盤,zh-TW
+Runic Luck,符文之運,zh-TW
+Ruthless mode,Ruthless mode,zh-TW
+Sacred Blossom,神聖之花,zh-TW
+Sacred Crystallised Lifeforce,神聖結晶生靈之力,zh-TW
+Sacred Orb,聖玉,zh-TW
+Sacrifice at Dawn,黎明的奉獻,zh-TW
+Sacrifice at Dusk,黃昏的奉獻,zh-TW
+Sacrifice at Midnight,午夜的奉獻,zh-TW
+Sacrifice at Noon,正午的奉獻,zh-TW
+Sambodhi's Vow,菩提誓約,zh-TW
+Sambodhi's Wisdom,菩提的智慧,zh-TW
+Sanctified Fossil,神聖化石,zh-TW
+Scarab of Adversaries,聖甲蟲：敵手,zh-TW
+Scarab of Divinity,聖甲蟲：神聖,zh-TW
+Scarab of Hunted Traitors,聖甲蟲：通緝叛徒,zh-TW
+Scarab of Monstrous Lineage,聖甲蟲：畸形血脈,zh-TW
+Scarab of Radiant Storms,聖甲蟲：光輝風暴,zh-TW
+Scarab of Stability,聖甲蟲：穩定,zh-TW
+Scarab of the Dextral,聖甲蟲：右旋,zh-TW
+Scarab of the Sinistral,聖甲蟲：左旋,zh-TW
+Scarab of Wisps,聖甲蟲：妖精,zh-TW
+Scholar of the Seas,海洋學者,zh-TW
+Scorched Fossil,暴炎化石,zh-TW
+Scrap Metal,廢金屬,zh-TW
+Screaming Essence of Anger,憤怒之咆哮精髓,zh-TW
+Screaming Essence of Anguish,煎熬之咆哮精髓,zh-TW
+Screaming Essence of Contempt,輕視之咆哮精髓,zh-TW
+Screaming Essence of Doubt,疑惑之咆哮精髓,zh-TW
+Screaming Essence of Dread,忌憚之咆哮精髓,zh-TW
+Screaming Essence of Envy,忌妒之咆哮精髓,zh-TW
+Screaming Essence of Fear,恐懼之咆哮精髓,zh-TW
+Screaming Essence of Greed,貪婪之咆哮精髓,zh-TW
+Screaming Essence of Hatred,憎恨之咆哮精髓,zh-TW
+Screaming Essence of Loathing,厭惡之咆哮精髓,zh-TW
+Screaming Essence of Misery,悽慘之咆哮精髓,zh-TW
+Screaming Essence of Rage,肆虐之咆哮精髓,zh-TW
+Screaming Essence of Scorn,傲視之咆哮精髓,zh-TW
+Screaming Essence of Sorrow,哀惜之咆哮精髓,zh-TW
+Screaming Essence of Spite,刻毒之咆哮精髓,zh-TW
+Screaming Essence of Suffering,苦難之咆哮精髓,zh-TW
+Screaming Essence of Torment,折磨之咆哮精髓,zh-TW
+Screaming Essence of Woe,悲痛之咆哮精髓,zh-TW
+Screaming Essence of Wrath,雷霆之咆哮精髓,zh-TW
+Screaming Essence of Zeal,熱情之咆哮精髓,zh-TW
+Scroll of Wisdom,知識卷軸,zh-TW
+Sepia Oil,深褐油瓶,zh-TW
+Serrated Fossil,利齒化石,zh-TW
+Seven Years Bad Luck,七年霉運,zh-TW
+Shaper's Exalted Orb,塑界者的崇高石,zh-TW
+Shard of Fate,命運之晶,zh-TW
+Shrieking Essence of Anger,憤怒之尖嘯精髓,zh-TW
+Shrieking Essence of Anguish,煎熬之尖嘯精髓,zh-TW
+Shrieking Essence of Contempt,輕視之尖嘯精髓,zh-TW
+Shrieking Essence of Doubt,疑惑之尖嘯精髓,zh-TW
+Shrieking Essence of Dread,忌憚之尖嘯精髓,zh-TW
+Shrieking Essence of Envy,忌妒之尖嘯精髓,zh-TW
+Shrieking Essence of Fear,恐懼之尖嘯精髓,zh-TW
+Shrieking Essence of Greed,貪婪之尖嘯精髓,zh-TW
+Shrieking Essence of Hatred,憎恨之尖嘯精髓,zh-TW
+Shrieking Essence of Loathing,厭惡之尖嘯精髓,zh-TW
+Shrieking Essence of Misery,悽慘之尖嘯精髓,zh-TW
+Shrieking Essence of Rage,肆虐之尖嘯精髓,zh-TW
+Shrieking Essence of Scorn,傲視之尖嘯精髓,zh-TW
+Shrieking Essence of Sorrow,哀惜之尖嘯精髓,zh-TW
+Shrieking Essence of Spite,刻毒之尖嘯精髓,zh-TW
+Shrieking Essence of Suffering,苦難之尖嘯精髓,zh-TW
+Shrieking Essence of Torment,折磨之尖嘯精髓,zh-TW
+Shrieking Essence of Woe,悲痛之尖嘯精髓,zh-TW
+Shrieking Essence of Wrath,雷霆之尖嘯精髓,zh-TW
+Shrieking Essence of Zeal,熱情之尖嘯精髓,zh-TW
+Shuddering Fossil,顫慄化石,zh-TW
+Silence and Frost,沉默與寒霜,zh-TW
+Silver Oil,純銀油瓶,zh-TW
+Simulacrum,幻像異界,zh-TW
+Simulacrum Splinter,幻像斷片,zh-TW
+Singular Delirium Orb,卓越之譫妄玉,zh-TW
+Sinistral Catalyst,左旋催化劑,zh-TW
+Skill Gems,技能寶石,zh-TW
+Skittering Delirium Orb,飛掠之譫妄玉,zh-TW
+Society's Remorse,社會的懊悔,zh-TW
+Something Dark,黑暗物質,zh-TW
+Squandered Prosperity,失落的繁華,zh-TW
+Stacked Deck,豐裕牌組,zh-TW
+Struck by Lightning,雷劈,zh-TW
+Succor of the Sinless,無罪救贖,zh-TW
+Sulphite Scarab,聖甲蟲：硫酸,zh-TW
+Sulphite Scarab of Fumes,聖甲蟲：煙毒硫酸,zh-TW
+Sulphite Scarab of Greed,聖甲蟲：貪婪硫酸,zh-TW
+Support Gems,輔助寶石,zh-TW
+Syndicate Medallion,密教獎章,zh-TW
+Synthesising Fragment,追憶碎片,zh-TW
+Tailoring Orb,裁縫石,zh-TW
+Tainted Armourer's Scrap,玷污的護甲片,zh-TW
+Tainted Blacksmith's Whetstone,玷污的磨刀石,zh-TW
+Tainted Catalyst,玷汙催化劑,zh-TW
+Tainted Chaos Orb,玷污的混沌石,zh-TW
+Tainted Chromatic Orb,玷污的幻色石,zh-TW
+Tainted Divine Teardrop,玷污的神聖淚珠,zh-TW
+Tainted Exalted Orb,玷污的崇高石,zh-TW
+Tainted Jeweller's Orb,玷污的工匠石,zh-TW
+Tainted Mythic Orb,玷污的神話石,zh-TW
+Tainted Oil,汙染油瓶,zh-TW
+Tainted Orb of Fusing,玷污的鏈結石,zh-TW
+Tangled Fossil,紊亂化石,zh-TW
+Tattoo of the Arohongui Moonwarden,艾蘿紅薇月護衛的紋身,zh-TW
+Tattoo of the Arohongui Scout,艾蘿紅薇哨兵的紋身,zh-TW
+Tattoo of the Arohongui Shaman,艾蘿紅薇薩滿的紋身,zh-TW
+Tattoo of the Arohongui Warmonger,艾蘿紅薇戰鬥王的紋身,zh-TW
+Tattoo of the Arohongui Warrior,艾蘿紅薇戰士的紋身,zh-TW
+Tattoo of the Hinekora Deathwarden,悉妮蔻拉死護衛的紋身,zh-TW
+Tattoo of the Hinekora Shaman,悉妮蔻拉薩滿的紋身,zh-TW
+Tattoo of the Hinekora Storyteller,悉妮蔻拉說書人的紋身,zh-TW
+Tattoo of the Hinekora Warmonger,悉妮蔻拉戰鬥王的紋身,zh-TW
+Tattoo of the Hinekora Warrior,悉妮蔻拉戰士的紋身,zh-TW
+Tattoo of the Kitava Blood Drinker,奇塔弗飲血者的紋身,zh-TW
+Tattoo of the Kitava Heart Eater,奇塔弗嗜心者的紋身,zh-TW
+Tattoo of the Kitava Rebel,奇塔弗叛亂的紋身,zh-TW
+Tattoo of the Kitava Shaman,奇塔弗薩滿的紋身,zh-TW
+Tattoo of the Kitava Warrior,奇塔弗戰士的紋身,zh-TW
+Tattoo of the Ngamahu Firewalker,拿瑪乎火行者的紋身,zh-TW
+Tattoo of the Ngamahu Shaman,拿瑪乎薩滿的紋身,zh-TW
+Tattoo of the Ngamahu Warmonger,拿瑪乎戰鬥王的紋身,zh-TW
+Tattoo of the Ngamahu Warrior,拿瑪乎戰士的紋身,zh-TW
+Tattoo of the Ngamahu Woodcarver,拿瑪乎木工的紋身,zh-TW
+Tattoo of the Ramako Archer,雷默科射手的紋身,zh-TW
+Tattoo of the Ramako Fleetfoot,雷默科偵瞬步的紋身,zh-TW
+Tattoo of the Ramako Scout,雷默科哨兵的紋身,zh-TW
+Tattoo of the Ramako Shaman,雷默科薩滿的紋身,zh-TW
+Tattoo of the Ramako Sniper,雷默科狙擊手的紋身,zh-TW
+Tattoo of the Rongokurai Brute,隆格庫萊暴徒的紋身,zh-TW
+Tattoo of the Rongokurai Goliath,隆格庫萊巨獸的紋身,zh-TW
+Tattoo of the Rongokurai Guard,隆格庫萊守衛的紋身,zh-TW
+Tattoo of the Rongokurai Turtle,隆格庫萊巨龜的紋身,zh-TW
+Tattoo of the Rongokurai Warrior,隆格庫萊戰士的紋身,zh-TW
+Tattoo of the Tasalio Bladedancer,塔薩里奧舞劍者的紋身,zh-TW
+Tattoo of the Tasalio Scout,塔薩里奧哨兵的紋身,zh-TW
+Tattoo of the Tasalio Shaman,塔薩里奧薩滿的紋身,zh-TW
+Tattoo of the Tasalio Tideshifter,塔薩里奧潮汐變幻者的紋身,zh-TW
+Tattoo of the Tasalio Warrior,塔薩里奧戰士的紋身,zh-TW
+Tattoo of the Tawhoa Herbalist,塔赫亞藥草師的紋身,zh-TW
+Tattoo of the Tawhoa Naturalist,塔赫亞自然的紋身,zh-TW
+Tattoo of the Tawhoa Scout,塔赫亞哨兵的紋身,zh-TW
+Tattoo of the Tawhoa Shaman,塔赫亞薩滿的紋身,zh-TW
+Tattoo of the Tawhoa Warrior,塔赫亞戰士的紋身,zh-TW
+Tattoo of the Tukohama Brawler,圖克哈瑪鬥士的紋身,zh-TW
+Tattoo of the Tukohama Shaman,圖克哈瑪薩滿的紋身,zh-TW
+Tattoo of the Tukohama Warcaller,圖克哈瑪戰爭喚者的紋身,zh-TW
+Tattoo of the Tukohama Warmonger,圖克哈瑪戰鬥王的紋身,zh-TW
+Tattoo of the Tukohama Warrior,圖克哈瑪戰士的紋身,zh-TW
+Tattoo of the Valako Scout,瓦拉庫哨兵的紋身,zh-TW
+Tattoo of the Valako Shaman,瓦拉庫薩滿的紋身,zh-TW
+Tattoo of the Valako Shieldbearer,瓦拉庫護盾大師的紋身,zh-TW
+Tattoo of the Valako Stormrider,瓦拉庫風暴馭者的紋身,zh-TW
+Tattoo of the Valako Warrior,瓦拉庫戰士的紋身,zh-TW
+Teal Oil,清綠油瓶,zh-TW
+Temperance,自我約束,zh-TW
+Tempering Catalyst,冶鍊的催化劑,zh-TW
+Tempering Orb,淬鍊石,zh-TW
+Templar Astrolabe,聖堂星盤,zh-TW
+Terrible Secret of Space,無垠恐懼之密,zh-TW
+Thaumaturge's Delirium Orb,奇術之譫妄玉,zh-TW
+The Academic,學術界,zh-TW
+The Admirer,仰慕者,zh-TW
+The Adventuring Spirit,冒險之靈,zh-TW
+The Aesthete,大藝術家,zh-TW
+The Apothecary,藥劑師,zh-TW
+The Archmage's Right Hand,魔法師的右手,zh-TW
+The Arena Champion,競技場冠軍,zh-TW
+The Army of Blood,血滴子,zh-TW
+The Artist,藝者,zh-TW
+The Aspirant,捕夢網,zh-TW
+The Astromancer,天文巫師,zh-TW
+The Avenger,復仇者,zh-TW
+The Awakened,覺醒,zh-TW
+The Battle Born,戰火鍛造,zh-TW
+The Bear Woman,熊腰雌背,zh-TW
+The Beast,巨獸,zh-TW
+The Betrayal,背叛,zh-TW
+The Bitter Blossom,苦澀綻放,zh-TW
+The Black Barya,漆黑巨靈之幣,zh-TW
+The Blazing Fire,熊熊大火,zh-TW
+The Blessing of Moosh,穆什的祝福,zh-TW
+The Body,血肉之軀,zh-TW
+The Bones,識骨尋蹤,zh-TW
+The Brawny Battle Mage,頑強的戰鬥法,zh-TW
+The Breach,裂痕,zh-TW
+The Brittle Emperor,碎裂大帝,zh-TW
+The Cache,囤積,zh-TW
+The Cacophony,不諧之音,zh-TW
+The Calling,傳喚,zh-TW
+The Card Sharp,老千,zh-TW
+The Carrion Crow,食腐掠鴉,zh-TW
+The Cataclysm,巨變,zh-TW
+The Catalyst,災變,zh-TW
+The Catch,姜太公釣魚,zh-TW
+The Celestial Justicar,天堂執法官,zh-TW
+The Celestial Stone,璀璨之石,zh-TW
+The Chains that Bind,束縛之鍊,zh-TW
+The Chosen,天選之人,zh-TW
+The Coming Storm,風暴將至,zh-TW
+The Conduit,雷針,zh-TW
+The Craving,想要,zh-TW
+The Cursed King,詛咒之王,zh-TW
+The Damned,滅世之咒,zh-TW
+The Dapper Prodigy,極致不凡,zh-TW
+The Dark Mage,黑暗術者,zh-TW
+The Darkest Dream,惡夢,zh-TW
+The Deal,買賣,zh-TW
+The Deceiver,你這個騙子,zh-TW
+The Deep Ones,無盡之淵,zh-TW
+The Demon,惡魔,zh-TW
+The Demoness,魅魔,zh-TW
+The Destination,終點站,zh-TW
+The Doctor,瘋醫,zh-TW
+The Doppelganger,傀儡,zh-TW
+The Dragon,巨龍,zh-TW
+The Dragon's Heart,龍之心,zh-TW
+The Dreamer,夢想家,zh-TW
+The Dreamland,夢之國度,zh-TW
+The Drunken Aristocrat,酒醉貴族,zh-TW
+The Dungeon Master,地牢大師,zh-TW
+The Easy Stroll,輕鬆漫步,zh-TW
+The Eldritch Decay,怪異腐敗,zh-TW
+The Emptiness,空虛,zh-TW
+The Encroaching Darkness,黑暗來犯,zh-TW
+The Endless Darkness,無盡黯黑,zh-TW
+The Endurance,忍耐,zh-TW
+The Enforcer,執行者,zh-TW
+The Enlightened,智慧啟蒙,zh-TW
+The Enthusiasts,熱心民眾,zh-TW
+The Escape,逃脫大師,zh-TW
+The Eternal War,永恆戰爭,zh-TW
+The Ethereal,空靈,zh-TW
+The Everlasting,永恆,zh-TW
+The Explorer,探險家,zh-TW
+The Eye of Terror,恐懼之眼,zh-TW
+The Eye of the Dragon,龍眼,zh-TW
+The Fathomless Depths,無底深淵,zh-TW
+The Feast,盛宴,zh-TW
+The Fiend,魔鬼,zh-TW
+The Finishing Touch,點睛之筆,zh-TW
+The Fishmonger,魚販,zh-TW
+The Fletcher,製箭者,zh-TW
+The Flora's Gift,芙蘿拉的贈禮,zh-TW
+The Fool,愚人,zh-TW
+The Forbidden Fruit,禁忌之果,zh-TW
+The Forgotten Treasure,被遺忘的寶藏,zh-TW
+The Formless Sea,莫測之海,zh-TW
+The Forsaken,遺棄,zh-TW
+The Fortunate,幸運的人,zh-TW
+The Forward Gaze,凝視前方,zh-TW
+The Fox,狡狐,zh-TW
+The Fox in the Brambles,荊棘中的狐狸,zh-TW
+The Gambler,賭徒,zh-TW
+The Garish Power,裝飾之力,zh-TW
+The Gemcutter,珠寶匠,zh-TW
+The Gentleman,紳士之風,zh-TW
+The Gladiator,鬥士,zh-TW
+The Golden Era,黃金年代,zh-TW
+The Greatest Intentions,雄偉動機,zh-TW
+The Gulf,鴻溝,zh-TW
+The Hale Heart,心心向榮,zh-TW
+The Harvester,收割者,zh-TW
+The Hermit,隱士,zh-TW
+The Heroic Shot,英勇射擊,zh-TW
+The Hive of Knowledge,蜂巢知識,zh-TW
+The Hoarder,寶箱,zh-TW
+The Hook,勾鎖,zh-TW
+The Hunger,飢餓,zh-TW
+The Immortal,永恆不朽,zh-TW
+The Incantation,咒語,zh-TW
+The Innocent,善,zh-TW
+The Inoculated,移花接木,zh-TW
+The Insane Cat,瘋貓,zh-TW
+The Insatiable,貪婪,zh-TW
+The Inventor,發明家,zh-TW
+The Jester,小丑,zh-TW
+The Jeweller's Boon,珠寶商的施捨,zh-TW
+The Journalist,記者,zh-TW
+The Journey,愛旅行,zh-TW
+The King's Blade,王者之刃,zh-TW
+The King's Heart,王者之心,zh-TW
+The Lake,湖泊,zh-TW
+The Last Laugh,最終一笑,zh-TW
+The Last One Standing,屹立不敗之人,zh-TW
+The Last Supper,最後晚宴,zh-TW
+The Leviathan,龐然大物,zh-TW
+The Lich,巫妖,zh-TW
+The Life Thief,竊命者,zh-TW
+The Lion,雄獅,zh-TW
+The Long Con,長期詐騙,zh-TW
+The Long Watch,守望特工,zh-TW
+The Lord in Black,暗黑之王,zh-TW
+The Lord of Celebration,慶典之王,zh-TW
+The Lover,情人,zh-TW
+The Lunaris Priestess,月影女祭司,zh-TW
+The Mad King,瘋癲之王,zh-TW
+The Magma Crab,岩漿蟹,zh-TW
+The Master Artisan,工匠大師,zh-TW
+The Maven's Writ,釋界之令,zh-TW
+The Mayor,市長,zh-TW
+The Mercenary,傭兵,zh-TW
+The Messenger,傳訊者,zh-TW
+The Metalsmith's Gift,鐵匠的贈禮,zh-TW
+The Mind's Eyes,心靈之眼,zh-TW
+The Miracle,奇蹟,zh-TW
+The Mountain,神山,zh-TW
+The Nurse,護理師,zh-TW
+The Oath,誓言,zh-TW
+The Offering,奉獻,zh-TW
+The Offspring,後裔,zh-TW
+The Old Man,老人與海,zh-TW
+The One That Got Away,逃脫,zh-TW
+The One With All,完人,zh-TW
+The Opulent,淨白,zh-TW
+The Pack Leader,群聚之首,zh-TW
+The Pact,協約,zh-TW
+The Patient,病患,zh-TW
+The Penitent,懺悔者,zh-TW
+The Poet,詩人,zh-TW
+The Polymath,博學,zh-TW
+The Porcupine,刺蝟,zh-TW
+The Price of Devotion,奉獻的代價,zh-TW
+The Price of Loyalty,忠誠代價,zh-TW
+The Price of Prescience,預知代價,zh-TW
+The Price of Protection,守護的代價,zh-TW
+The Primordial,先祖之物,zh-TW
+The Prince of Darkness,黑暗王子,zh-TW
+The Professor,專家級,zh-TW
+The Progeny of Lunaris,月神後嗣,zh-TW
+The Queen,女王,zh-TW
+The Rabbit's Foot,兔腳,zh-TW
+The Rabid Rhoa,瘋狂恐喙,zh-TW
+The Realm,大平台,zh-TW
+The Return of the Rat,鼠歸,zh-TW
+The Risk,危機,zh-TW
+The Rite of Elements,元素之儀,zh-TW
+The Road to Power,力量之道,zh-TW
+The Rusted Bard,吟遊鏽才,zh-TW
+The Ruthless Ceinture,無情的珊芎,zh-TW
+The Sacrifice,犧牲,zh-TW
+The Saint's Treasure,聖徒之財,zh-TW
+The Samurai's Eye,武士之眼,zh-TW
+The Scarred Meadow,創痕之原,zh-TW
+The Scavenger,清道夫,zh-TW
+The Scholar,學者,zh-TW
+The Scout,童子軍,zh-TW
+The Seeker,探尋者,zh-TW
+The Sephirot,生命之樹,zh-TW
+The Shepherd's Sandals,牧羊人的草鞋,zh-TW
+The Shieldbearer,持盾者,zh-TW
+The Shortcut,捷徑,zh-TW
+The Side Quest,支線任務,zh-TW
+The Sigil,魔符,zh-TW
+The Silly Boy,傻男孩,zh-TW
+The Siren,海妖,zh-TW
+The Skeleton,骷髏頭,zh-TW
+The Slumbering Beast,沉眠之獸,zh-TW
+The Soul,靈魂,zh-TW
+The Spark and the Flame,雷火,zh-TW
+The Spoiled Prince,驕縱皇子,zh-TW
+The Standoff,對峙,zh-TW
+The Stormcaller,風暴呼喚者,zh-TW
+The Strategist,策略家,zh-TW
+The Summoner,召喚師,zh-TW
+The Sun,烈日,zh-TW
+The Surgeon,外科醫師,zh-TW
+The Surveyor,勘查員,zh-TW
+The Survivalist,求生專家,zh-TW
+The Sword King's Salute,劍王之禮,zh-TW
+The Thaumaturgist,大奇術師,zh-TW
+The Throne,王座,zh-TW
+The Tinkerer's Table,銲匠之桌,zh-TW
+The Tireless Extractor,不休萃取器,zh-TW
+The Tower,塔峰,zh-TW
+The Traitor,背叛者,zh-TW
+The Transformation,變形,zh-TW
+The Trial,遠征,zh-TW
+The Tumbleweed,風滾草,zh-TW
+The Twilight Moon,暮光之月,zh-TW
+The Twins,孿生,zh-TW
+The Tyrant,暴君,zh-TW
+The Undaunted,不怕不怕,zh-TW
+The Undisputed,不許你胡說,zh-TW
+The Unexpected Prize,飛來橫財,zh-TW
+The Union,聯姻,zh-TW
+The Valkyrie,女武神,zh-TW
+The Vast,平壤,zh-TW
+The Visionary,空想家,zh-TW
+The Void,虛空,zh-TW
+The Warden,典獄長,zh-TW
+The Warlord,大軍閥,zh-TW
+The Watcher,凝視者,zh-TW
+The Web,蛛網,zh-TW
+The Wedding Gift,結婚禮物,zh-TW
+The White Knight,白騎士,zh-TW
+The Whiteout,白化,zh-TW
+The Wilted Rose,凋零玫瑰,zh-TW
+The Wind,風,zh-TW
+The Witch,女巫,zh-TW
+The Wolf,彪狼,zh-TW
+The Wolf's Legacy,狼之聖物,zh-TW
+The Wolf's Shadow,狼的影子,zh-TW
+The Wolven King's Bite,狼咬,zh-TW
+The Wolverine,狼獾,zh-TW
+The World Eater,噬世士,zh-TW
+The Wrath,怨忿,zh-TW
+The Wretched,骯髒,zh-TW
+Thirst for Knowledge,渴望學識,zh-TW
+Three Faces in the Dark,黑暗三面,zh-TW
+Three Voices,三聲道,zh-TW
+Thunderous Skies,怒雷之空,zh-TW
+Time-Lost Relic,失落遺骨,zh-TW
+Timeless Astrolabe,永恆星盤,zh-TW
+Timeless Delirium Orb,永恆之譫妄玉,zh-TW
+Timeless Eternal Emblem,永恆不朽帝國徽印,zh-TW
+Timeless Eternal Empire Splinter,永恆不朽帝國裂片,zh-TW
+Timeless Karui Emblem,永恆卡魯徽印,zh-TW
+Timeless Karui Splinter,永恆卡魯裂片,zh-TW
+Timeless Maraketh Emblem,永恆馬拉克斯徽印,zh-TW
+Timeless Maraketh Splinter,永恆馬拉克斯裂片,zh-TW
+Timeless Templar Emblem,永恆聖宗徽印,zh-TW
+Timeless Templar Splinter,永恆聖宗裂片,zh-TW
+Timeless Vaal Emblem,永恆瓦爾徽印,zh-TW
+Timeless Vaal Splinter,永恆瓦爾裂片,zh-TW
+Titanic Scarab,聖甲蟲：泰坦,zh-TW
+Titanic Scarab of Legend,聖甲蟲：傳說泰坦,zh-TW
+Titanic Scarab of Treasures,聖甲蟲：珍寶泰坦,zh-TW
+Torment Scarab,聖甲蟲：苦痛,zh-TW
+Torment Scarab of Peculiarity,聖甲蟲：特異苦痛,zh-TW
+Torment Scarab of Possession,聖甲蟲：附身苦痛,zh-TW
+Torment Scarab of Release,聖甲蟲：釋放苦痛,zh-TW
+Toxic Tidings,毒浪洶湧,zh-TW
+Tranquillity,寧靜,zh-TW
+Transfigured Gems,變異寶石,zh-TW
+Transmutation Shard,蛻變石碎片,zh-TW
+Traumatic Fragment,創傷碎片,zh-TW
+Treasure Hunter,賞金獵手,zh-TW
+Tribute to the Goddess,女神獻禮,zh-TW
+Triskaidekaphobia,極度癲狂,zh-TW
+Turbulent Catalyst,洶湧的催化劑,zh-TW
+Turn the Other Cheek,忍辱,zh-TW
+Ultimatum Scarab,聖甲蟲：通牒,zh-TW
+Ultimatum Scarab of Bribing,聖甲蟲：賄賂通牒,zh-TW
+Ultimatum Scarab of Catalysing,聖甲蟲：催化通牒,zh-TW
+Ultimatum Scarab of Dueling,聖甲蟲：決鬥通牒,zh-TW
+Ultimatum Scarab of Inscription,聖甲蟲：銘文通牒,zh-TW
+Unchained,未連鎖,zh-TW
+Underground Forest,地底叢林,zh-TW
+Unrelenting Timeless Eternal Emblem,無情的永恆不朽帝國徽印,zh-TW
+Unrelenting Timeless Karui Emblem,無情的永恆卡魯徽印,zh-TW
+Unrelenting Timeless Maraketh Emblem,無情的永恆馬拉克斯徽印,zh-TW
+Unrelenting Timeless Templar Emblem,無情的永恆聖宗徽印,zh-TW
+Unrelenting Timeless Vaal Emblem,無情的永恆瓦爾徽印,zh-TW
+Unrequited Love,單相思,zh-TW
+Unstable Catalyst,易變催化劑,zh-TW
+Valdo's Puzzle Box,瓦爾多的謎盒,zh-TW
+Vanity,虛榮,zh-TW
+Veiled Chaos Orb,隱匿混沌石,zh-TW
+Veiled Exalted Orb,隱匿崇高石,zh-TW
+Vendor Recipes,商人交易配方,zh-TW
+Verdant Oil,翠綠油瓶,zh-TW
+Veritania's Crest,維羅提尼亞刻紋,zh-TW
+Vile Power,汙穢之力,zh-TW
+Vinia's Token,薇妮雅的信物,zh-TW
+Violet Oil,奼紫油瓶,zh-TW
+Vivid Crystallised Lifeforce,靈現結晶生靈之力,zh-TW
+Void of the Elements,虛空元素,zh-TW
+Voidborn Reliquary Key,虛誕遺鑰,zh-TW
+Volatile Power,不穩定的力量,zh-TW
+Volatile Vaal Orb,易變瓦爾寶珠,zh-TW
+Wailing Essence of Anger,憤怒之哀嚎精髓,zh-TW
+Wailing Essence of Anguish,煎熬之哀嚎精髓,zh-TW
+Wailing Essence of Contempt,輕視之哀嚎精髓,zh-TW
+Wailing Essence of Doubt,疑惑之哀嚎精髓,zh-TW
+Wailing Essence of Fear,恐懼之哀嚎精髓,zh-TW
+Wailing Essence of Greed,貪婪之哀嚎精髓,zh-TW
+Wailing Essence of Hatred,憎恨之哀嚎精髓,zh-TW
+Wailing Essence of Loathing,厭惡之哀嚎精髓,zh-TW
+Wailing Essence of Rage,肆虐之哀嚎精髓,zh-TW
+Wailing Essence of Sorrow,哀惜之哀嚎精髓,zh-TW
+Wailing Essence of Spite,刻毒之哀嚎精髓,zh-TW
+Wailing Essence of Suffering,苦難之哀嚎精髓,zh-TW
+Wailing Essence of Torment,折磨之哀嚎精髓,zh-TW
+Wailing Essence of Woe,悲痛之哀嚎精髓,zh-TW
+Wailing Essence of Wrath,雷霆之哀嚎精髓,zh-TW
+Wailing Essence of Zeal,熱情之哀嚎精髓,zh-TW
+Warlord's Exalted Orb,總督軍的崇高石,zh-TW
+Wealth and Power,錢與權,zh-TW
+Weeping Essence of Anger,憤怒之啼泣精髓,zh-TW
+Weeping Essence of Contempt,輕視之啼泣精髓,zh-TW
+Weeping Essence of Doubt,疑惑之啼泣精髓,zh-TW
+Weeping Essence of Fear,恐懼之啼泣精髓,zh-TW
+Weeping Essence of Greed,貪婪之啼泣精髓,zh-TW
+Weeping Essence of Hatred,憎恨之啼泣精髓,zh-TW
+Weeping Essence of Rage,肆虐之啼泣精髓,zh-TW
+Weeping Essence of Sorrow,哀惜之啼泣精髓,zh-TW
+Weeping Essence of Suffering,苦難之啼泣精髓,zh-TW
+Weeping Essence of Torment,折磨之啼泣精髓,zh-TW
+Weeping Essence of Woe,悲痛之啼泣精髓,zh-TW
+Weeping Essence of Wrath,雷霆之啼泣精髓,zh-TW
+When Currents Blaze,熾炎爆發,zh-TW
+Whispering Delirium Orb,低語之譫妄玉,zh-TW
+Whispering Essence of Contempt,輕視之低語精髓,zh-TW
+Whispering Essence of Greed,貪婪之低語精髓,zh-TW
+Whispering Essence of Hatred,憎恨之低語精髓,zh-TW
+Whispering Essence of Woe,悲痛之低語精髓,zh-TW
+Who Asked,是誰,zh-TW
+Wild Crystallised Lifeforce,野性結晶生靈之力,zh-TW
+Winter's Embrace,冬擁,zh-TW
+Arcane,秘能,zh-TW
+Arkhon's Vault,執政官的寶庫,zh-TW
+"Aukuna, the Black Sekhema",漆黑絲克瑪奧庫納,zh-TW
+"Beidat, Archangel of Death",死亡天使．貝達特,zh-TW
+Cardinal Sanctus Vox,大主教桑特斯瓦克斯,zh-TW
+"Catarina, Master of Undeath",永生大師卡塔莉娜,zh-TW
+Chaining,連鎖,zh-TW
+Chaos,混沌,zh-TW
+Cold,冰冷,zh-TW
+Critical,暴擊,zh-TW
+Duration,持續時間,zh-TW
+Fire,火焰,zh-TW
+General Marceus Lioneye,穆希爾斯．獅眼將軍,zh-TW
+"Ghorr, the Grasping Maw",巨鉗大嘴．戈沃,zh-TW
+Hex,咒術,zh-TW
+Incarnation of Dread,恐慌化身,zh-TW
+Incarnation of Fear,恐懼化身,zh-TW
+Incarnation of Neglect,漠視化身,zh-TW
+It That Was Esh,昔之艾許,zh-TW
+It That Was Tul,昔之托沃,zh-TW
+"K'tash, the Hate Shepherd",仇恨牧人．克塔什,zh-TW
+"Kosis, The Revelation",天譴啟示．科賽斯,zh-TW
+Lightning,閃電,zh-TW
+Nightmare of Lycia,利希亞之夢魘,zh-TW
+Nightmare of the Depraved Trinity,墮道三巨頭之夢魘,zh-TW
+Nightmare of the Unbreakable,不破之靈之夢魘,zh-TW
+Nightmare of Uhtred,烏特雷之夢魘,zh-TW
+Originator Voidstone,Originator Voidstone,zh-TW
+"Oshabi, Avatar of the Grove",密園之相．奧莎比,zh-TW
+Physical,物理,zh-TW
+Queen Hyrri Ngamaku,西里娜馬庫女王,zh-TW
+"Saresh, of the Weeping Black",潸然之黯．薩雷許,zh-TW
+Scholar's Vault,學者的寶庫,zh-TW
+"Sirus, Awakener of Worlds",喚世者．賽勒斯,zh-TW
+Support,輔助,zh-TW
+The Eater of Worlds,吞噬天地,zh-TW
+The Elder,異界尊師,zh-TW
+The King in the Mists,迷霧之王,zh-TW
+The Maven,釋界,zh-TW
+The Searing Exarch,灼烙總督,zh-TW
+The Shaper,塑界者,zh-TW
+The Trialmaster,試煉大師,zh-TW
+Vaal,瓦爾,zh-TW
+Venarius,維那利斯,zh-TW
+Viper Napuatzi,邪魔毒蛇納普阿茲,zh-TW
+"Vruun, Marshal of Xesht",烈許的統領．弗倫,zh-TW
+Zealot's Vault,狂熱者的寶庫,zh-TW
+Path of Exile,流亡黯道,zh-TW
+[DNT] Call of the Wild,[DNT] Call of the Wild,zh-TW
+[UNUSED] Blitz,[UNUSED] Blitz,zh-TW
+[UNUSED] Blood Whirl,[UNUSED] Blood Whirl,zh-TW
+[UNUSED] Bone Armour,[UNUSED] Bone Armour,zh-TW
+[UNUSED] Coiling Assault,[UNUSED] Coiling Assault,zh-TW
+[UNUSED] Handcast Rapid Fire,[UNUSED] Handcast Rapid Fire,zh-TW
+[UNUSED] Quick Block,[UNUSED] Quick Block,zh-TW
+[UNUSED] Replicate,[UNUSED] Replicate,zh-TW
+[UNUSED] Serpent Strike,[UNUSED] Serpent Strike,zh-TW
+[UNUSED] Slice And Dice,[UNUSED] Slice And Dice,zh-TW
+Absolution,赦免,zh-TW
+Absolution of Inspiring,赦免．啟發,zh-TW
+Added Chaos Damage Support,附加混沌傷害輔助,zh-TW
+Added Fire Damage Support,附加火焰傷害輔助,zh-TW
+Added Lightning Damage Support,附加閃電傷害輔助,zh-TW
+Additional Accuracy Support,額外命中輔助,zh-TW
+Advanced Traps Support,進階陷阱輔助,zh-TW
+Alchemist's Mark,煉金術士印記,zh-TW
+Ambush,伏擊,zh-TW
+Ancestral Blademaster,先祖大劍師,zh-TW
+Ancestral Call Support,先祖怒嚎輔助,zh-TW
+Ancestral Cry,先祖戰吼,zh-TW
+Ancestral Protector,先祖衛士,zh-TW
+Ancestral Warchief,先祖戰士長,zh-TW
+Anger,憤怒,zh-TW
+Animate Guardian,幻化守衛,zh-TW
+Animate Guardian of Smiting,幻化守衛．重擊,zh-TW
+Animate Weapon of Ranged Arms,幻化武器．遠程,zh-TW
+Animate Weapon of Self Reflection,幻化武器．反射,zh-TW
+Annihilation Support,湮滅輔助,zh-TW
+Arc,電弧,zh-TW
+Arc of Oscillating,電弧．震盪,zh-TW
+Arc of Surging,電弧．波動,zh-TW
+Arcane Cloak,秘能披風,zh-TW
+Arcane Surge Support,秘能波動輔助,zh-TW
+Arcanist Brand,奧術烙印,zh-TW
+Archmage Support,魔幻輔助,zh-TW
+Arctic Armour,極地裝甲,zh-TW
+Armageddon Brand,末日烙印,zh-TW
+Armageddon Brand of Recall,末日烙印．呼喚,zh-TW
+Armageddon Brand of Volatility,末日烙印．揮發,zh-TW
+Arrogance Support,傲慢輔助,zh-TW
+Arrow Nova Support,箭矢新星輔助,zh-TW
+Artillery Ballista,火砲砲塔,zh-TW
+Artillery Ballista of Cross Strafe,火砲砲塔 ．掃射,zh-TW
+Artillery Ballista of Focus Fire,火砲砲塔 ．集火,zh-TW
+Assassin's Mark,刺客印記,zh-TW
+Autoexertion,自動竭盡,zh-TW
+Automation,自動化,zh-TW
+Awakened Added Chaos Damage Support,覺醒．附加混沌傷害輔助,zh-TW
+Awakened Added Cold Damage Support,覺醒．附加冰冷傷害輔助,zh-TW
+Awakened Added Fire Damage Support,覺醒．附加火焰傷害輔助,zh-TW
+Awakened Added Lightning Damage Support,覺醒．附加閃電傷害輔助,zh-TW
+Awakened Ancestral Call Support,覺醒．先祖怒嚎輔助,zh-TW
+Awakened Arrow Nova Support,覺醒．箭矢新星輔助,zh-TW
+Awakened Blasphemy Support,覺醒．詛咒光環輔助,zh-TW
+Awakened Brutality Support,覺醒．殘虐輔助,zh-TW
+Awakened Burning Damage Support,覺醒．燃燒傷害輔助,zh-TW
+Awakened Cast On Critical Strike Support,覺醒．暴擊時施放輔助,zh-TW
+Awakened Cast While Channelling Support,覺醒．引導時施放輔助,zh-TW
+Awakened Chain Support,覺醒．連鎖輔助,zh-TW
+Awakened Cold Penetration Support,覺醒．冰冷穿透輔助,zh-TW
+Awakened Controlled Destruction Support,覺醒．精準破壞輔助,zh-TW
+Awakened Deadly Ailments Support,覺醒．致命異常輔助,zh-TW
+Awakened Elemental Damage with Attacks Support,覺醒．元素攻擊傷害輔助,zh-TW
+Awakened Elemental Focus Support,覺醒．元素集中輔助,zh-TW
+Awakened Empower Support,覺醒．賦予輔助,zh-TW
+Awakened Enhance Support,覺醒．增幅輔助,zh-TW
+Awakened Enlighten Support,覺醒．啟蒙輔助,zh-TW
+Awakened Fire Penetration Support,覺醒．火焰穿透輔助,zh-TW
+Awakened Fork Support,覺醒．分裂輔助,zh-TW
+Awakened Generosity Support,覺醒．和善輔助,zh-TW
+Awakened Greater Multiple Projectiles Support,覺醒．高階多重投射輔助,zh-TW
+Awakened Hextouch Support,覺醒．咒術降臨輔助,zh-TW
+Awakened Increased Area of Effect Support,覺醒．增加範圍效果輔助,zh-TW
+Awakened Lightning Penetration Support,覺醒．閃電穿透輔助,zh-TW
+Awakened Melee Physical Damage Support,覺醒．近戰物理傷害輔助,zh-TW
+Awakened Melee Splash Support,覺醒．近戰傷害擴散輔助,zh-TW
+Awakened Minion Damage Support,覺醒．召喚物傷害輔助,zh-TW
+Awakened Multistrike Support,覺醒．多重打擊輔助,zh-TW
+Awakened Spell Cascade Support,覺醒．秘能爆發輔助,zh-TW
+Awakened Spell Echo Support,覺醒．施放迴響輔助,zh-TW
+Awakened Swift Affliction Support,覺醒．極速苦痛輔助,zh-TW
+Awakened Unbound Ailments Support,覺醒．無邊異能輔助,zh-TW
+Awakened Unleash Support,覺醒．釋放輔助,zh-TW
+Awakened Vicious Projectiles Support,覺醒．猛毒投射物輔助,zh-TW
+Awakened Void Manipulation Support,覺醒．虛空操縱輔助,zh-TW
+Backstab,背刺,zh-TW
+Ball Lightning,天雷之珠,zh-TW
+Ball Lightning of Orbiting,天雷之珠．軌跡,zh-TW
+Ball Lightning of Static,天雷之珠．靜電,zh-TW
+Ballista Totem Support,砲塔圖騰輔助,zh-TW
+Bane,災厄,zh-TW
+Bane of Condemnation,災厄．譴責,zh-TW
+Barrage,彈幕,zh-TW
+Barrage of Volley Fire,彈幕．齊射,zh-TW
+Barrage Support,彈幕輔助,zh-TW
+Battlemage's Cry,戰法戰吼,zh-TW
+Bear Trap,捕熊陷阱,zh-TW
+Bear Trap of Skewers,捕熊陷阱．串燒,zh-TW
+Behead Support,斬首輔助,zh-TW
+Berserk,狂戰,zh-TW
+BestiaryRecipe,獻祭獵譜,zh-TW
+Blade Blast,劍刃爆破,zh-TW
+Blade Blast of Dagger Detonation,劍刃爆破．匕首爆炸,zh-TW
+Blade Blast of Unloading,劍刃爆破．卸載,zh-TW
+Blade Flurry,刀鋒亂舞,zh-TW
+Blade Flurry of Incision,刀鋒亂舞．切割,zh-TW
+Blade Trap,刀鋒陷阱,zh-TW
+Blade Trap of Greatswords,刀鋒陷阱．巨劍,zh-TW
+Blade Trap of Laceration,刀鋒陷阱．撕裂,zh-TW
+Blade Vortex,飛刃風暴,zh-TW
+Blade Vortex of the Scythe,飛刃風暴．鐮刀,zh-TW
+Bladefall,虛空刀雨,zh-TW
+Bladefall of Impaling,虛空刀雨．穿刺,zh-TW
+Bladefall of Trarthus,特拉特斯虛空刀雨,zh-TW
+Bladefall of Volleys,虛空刀雨．齊射,zh-TW
+Bladestorm,旋天劍舞,zh-TW
+Bladestorm of Uncertainty,旋天劍舞．未知,zh-TW
+Blasphemy Support,詛咒光環輔助,zh-TW
+Blast Rain,爆裂箭雨,zh-TW
+Blast Rain of Trarthus,特拉特斯爆裂箭雨,zh-TW
+Blastchain Mine Support,連鎖爆破地雷輔助,zh-TW
+Blazing Salvo,熾熱魔炮,zh-TW
+Blessed Call Support,禮贈呼喚輔助,zh-TW
+Blight,萎滅,zh-TW
+Blight of Atrophy,萎滅．萎縮,zh-TW
+Blight of Contagion,萎滅．瘟疫,zh-TW
+Blind Support,致盲輔助,zh-TW
+Blinding Aura,致盲光環,zh-TW
+Blink Arrow of Bombarding Clones,閃現射擊．炸彈客,zh-TW
+Blink Arrow of Prismatic Clones,閃現射擊．神秘客,zh-TW
+Blood and Sand,血腥沙戮,zh-TW
+Blood Offering,鮮血奉獻,zh-TW
+Blood Rage,鮮血狂怒,zh-TW
+Bloodlust Support,嗜血輔助,zh-TW
+Bloodsoaked Banner Support,浸血鬥旗輔助,zh-TW
+Bloodthirst Support,渴血輔助,zh-TW
+Bodyswap,屍術傳送,zh-TW
+Bodyswap of Sacrifice,屍術傳送．獻祭,zh-TW
+Bone Offering,骸骨奉獻,zh-TW
+Boneshatter,碎骨,zh-TW
+Boneshatter of Carnage,碎骨．屠殺,zh-TW
+Boneshatter of Complex Trauma,碎骨．創傷,zh-TW
+Bonespire Support,骨刺輔助,zh-TW
+Brand Recall,烙印呼喚,zh-TW
+Brutality Support,殘虐輔助,zh-TW
+Burning Arrow,燃燒箭矢,zh-TW
+Burning Arrow of Vigour,燃燒箭矢．活力,zh-TW
+Burning Damage Support,燃燒傷害輔助,zh-TW
+Call the Pyre,炎葬之喚,zh-TW
+Capture Monster,去吧！捕獸網,zh-TW
+Cast On Critical Strike Support,暴擊時施放輔助,zh-TW
+Cast on Death Support,死亡時施放輔助,zh-TW
+Cast on Melee Kill Support,近戰擊殺時施放輔助,zh-TW
+Cast on Ward Break Support,保護破碎時施放輔助,zh-TW
+Cast when Damage Taken Support,受傷時施放輔助,zh-TW
+Cast when Stunned Support,暈眩時施放輔助,zh-TW
+Cast while Channelling Support,引導時施放輔助,zh-TW
+Caustic Arrow,腐蝕箭矢,zh-TW
+Caustic Arrow of Poison,腐蝕箭矢．中毒,zh-TW
+Chain Hook,奪魂勾索,zh-TW
+Chain Hook of Trarthus,特拉特斯奪魂勾索,zh-TW
+Chain Support,連鎖輔助,zh-TW
+Chance to Bleed Support,機率流血輔助,zh-TW
+Chance to Flee Support,機率逃跑輔助,zh-TW
+Chance to Poison Support,機率中毒輔助,zh-TW
+Charged Dash,雷霆衝鋒,zh-TW
+Charged Dash of Projection,雷霆衝鋒．投射,zh-TW
+Charged Mines Support,地雷充能輔助,zh-TW
+Charged Traps Support,陷阱充能輔助,zh-TW
+Chitus' Apex,切特斯的威權,zh-TW
+Clarity,清晰,zh-TW
+Cleave,劈砍,zh-TW
+Cleave of Rage,劈砍．盛怒,zh-TW
+Close Combat Support,近身戰輔助,zh-TW
+Cluster Traps Support,散彈陷阱輔助,zh-TW
+Cobra Lash,毒蛇鞭笞,zh-TW
+Cold Snap,霜暴,zh-TW
+Cold Snap of Power,霜暴．暴擊,zh-TW
+Cold to Fire Support,寒冰轉烈焰輔助,zh-TW
+Companionship Support,羈絆輔助,zh-TW
+Conductivity,導電,zh-TW
+Conflagration,燎原箭矢,zh-TW
+Congregation Support,聚眾輔助,zh-TW
+Consecrated Path,奉獻之路,zh-TW
+Consecrated Path of Endurance,奉獻之路．持久,zh-TW
+Contagion,瘟疫,zh-TW
+Contagion of Subsiding,瘟疫．消退,zh-TW
+Contagion of Transference,瘟疫．移轉,zh-TW
+Controlled Blaze Support,精準烈火輔助,zh-TW
+Controlled Destruction Support,精準破壞輔助,zh-TW
+Conversion Trap,迷魅陷阱,zh-TW
+Convocation,號召,zh-TW
+Cooldown Recovery Support,冷卻恢復輔助,zh-TW
+Corrupt,腐化,zh-TW
+Corrupting Cry Support,汙染戰吼輔助,zh-TW
+Corrupting Fever,腐化潮,zh-TW
+Crackling Lance,碎雷電閃,zh-TW
+Crackling Lance of Branching,碎雷電閃．分支,zh-TW
+Crackling Lance of Disintegration,碎雷電閃．毀滅,zh-TW
+Creeping Frost,寒霜滲透,zh-TW
+Creeping Frost of Floes,寒霜滲透．浮冰,zh-TW
+Cremation,熔炎送葬,zh-TW
+Cremation of Exhuming,熔炎送葬．深掘,zh-TW
+Cremation of the Volcano,熔炎送葬．火山,zh-TW
+Critical Strike Affliction Support,暴擊苦痛輔助,zh-TW
+Cruelty Support,殘酷輔助,zh-TW
+Crushing Fist,粉碎之拳,zh-TW
+Cull the Weak Support,弱者撲殺輔助,zh-TW
+Culling Strike Support,撲殺輔助,zh-TW
+Cursed Ground Support,詛咒地面輔助,zh-TW
+Cyclone,旋風斬,zh-TW
+Cyclone of Tumult,旋風斬．騷動,zh-TW
+Damage Infusion,傷害灌注,zh-TW
+Damage on Full Life Support,滿血傷害輔助,zh-TW
+Dance in the White,白中之舞,zh-TW
+Dark Pact,暗夜血契,zh-TW
+Dark Pact of Trarthus,特拉特斯暗夜血契,zh-TW
+Deadly Ailments Support,致命異常輔助,zh-TW
+Death Aura,死亡光環,zh-TW
+Decay Support,腐化輔助,zh-TW
+Decoy Totem,誘餌圖騰,zh-TW
+Defiance Banner,反抗之旗,zh-TW
+Desecrate,褻瀆,zh-TW
+Despair,絕望,zh-TW
+Destructive Link,連結：破壞,zh-TW
+Determination,堅定,zh-TW
+Detonate Dead,屍體爆破,zh-TW
+Detonate Dead of Chain Reaction,屍體爆破．連鎖,zh-TW
+Detonate Dead of Scavenging,屍體爆破．清洗,zh-TW
+Detonate Mines,引爆地雷,zh-TW
+Devour Support,吞噬輔助,zh-TW
+Devouring Totem,吞噬圖騰,zh-TW
+Dialla's Malefaction,達拉的罪刑,zh-TW
+Discharge of Misery,解放．苦痛,zh-TW
+Discipline,紀律,zh-TW
+Discorectangle Slam,魔方之擊,zh-TW
+Divine Blast,神聖爆破,zh-TW
+Divine Blessing Support,神聖祝福輔助,zh-TW
+Divine Ire,聖怒,zh-TW
+Divine Ire of Disintegration,聖怒．毀滅,zh-TW
+Divine Ire of Holy Lightning,聖怒．雷神,zh-TW
+Divine Retribution,神聖制裁,zh-TW
+Divine Sentinel Support,聖潔守望輔助,zh-TW
+Dominating Blow,霸氣之擊,zh-TW
+Dominating Blow of Inspiring,霸氣之擊．啟發,zh-TW
+Double Strike,雙重打擊,zh-TW
+Double Strike of Impaling,雙重打擊．穿刺,zh-TW
+Double Strike of Momentum,雙重打擊．氣勢,zh-TW
+Dread Banner,恐懼之旗,zh-TW
+Dual Strike,雙持打擊,zh-TW
+Dual Strike of Ambidexterity,雙持打擊．靈活,zh-TW
+Earthbreaker Support,地破輔助,zh-TW
+Earthquake,震地,zh-TW
+Earthquake of Amplification,震地．增幅,zh-TW
+Earthshatter,碎地重擊,zh-TW
+Earthshatter of Fragility,碎地重擊．易碎,zh-TW
+Earthshatter of Prominence,碎地重擊．卓越,zh-TW
+Eclipse Support,朔望輔助,zh-TW
+Edify Support,教化輔助,zh-TW
+Efficacy Support,效能輔助,zh-TW
+Eldritch Blasphemy Support,異界詛咒光環輔助,zh-TW
+Elemental Army Support,元素軍隊輔助,zh-TW
+Elemental Damage with Attacks Support,元素攻擊傷害輔助,zh-TW
+Elemental Focus Support,元素集中輔助,zh-TW
+Elemental Hit of the Spectrum,元素打擊．光譜,zh-TW
+Elemental Projectiles,元素投射物,zh-TW
+Elemental Proliferation Support,元素擴散輔助,zh-TW
+Elemental Weakness,元素要害,zh-TW
+Empower Support,賦予輔助,zh-TW
+Endurance Charge on Melee Stun Support,近戰擊暈獲得耐力球輔助,zh-TW
+Enduring Cry,堅決戰吼,zh-TW
+Energy Blade,能量之刃,zh-TW
+Energy Leech Support,能量偷取輔助,zh-TW
+Enervating Grasp,虛弱之握,zh-TW
+Enfeeble,衰弱,zh-TW
+Enhance Support,增幅輔助,zh-TW
+Enlighten Support,啟蒙輔助,zh-TW
+Ensnaring Arrow,誘捕箭矢,zh-TW
+Envy,忌妒,zh-TW
+Essence Drain,靈魂吸取,zh-TW
+Essence Drain of Desperation,靈魂吸取．絕望,zh-TW
+Essence Drain of Wickedness,靈魂吸取．邪惡,zh-TW
+Eternal Blessing Support,永恆祝福輔助,zh-TW
+Ethereal Knives,虛空匕首,zh-TW
+Ethereal Knives of Lingering Blades,虛空匕首．餘刃,zh-TW
+Ethereal Knives of the Massacre,虛空匕首．屠殺,zh-TW
+Eviscerate,剔骨,zh-TW
+Excommunicate Support,放逐輔助,zh-TW
+Exemplar Support,典範輔助,zh-TW
+Expert Retaliation Support,專家復仇輔助,zh-TW
+Explosive Arrow,爆炸箭矢,zh-TW
+Explosive Concoction,爆裂物,zh-TW
+Explosive Concoction of Destruction,爆裂物．破壞,zh-TW
+Explosive Trap,爆裂陷阱,zh-TW
+Explosive Trap of Magnitude,爆裂陷阱．量級,zh-TW
+Explosive Trap of Shrapnel,爆裂陷阱．彈片,zh-TW
+Exsanguinate,抽血,zh-TW
+Exsanguinate of Transmission,抽血．傳染,zh-TW
+Eye of Winter,凜冬之眼,zh-TW
+Eye of Winter of Finality,凜冬之眼．終結,zh-TW
+Eye of Winter of Transience,凜冬之眼．轉瞬,zh-TW
+Fallen from Grace,貴族殞落,zh-TW
+Falling Crystals,碎晶墜落,zh-TW
+Faster Attacks Support,快速攻擊輔助,zh-TW
+Faster Casting Support,快速施放輔助,zh-TW
+Faster Projectiles Support,快速投射輔助,zh-TW
+Feeding Frenzy Support,豢養狂熱輔助,zh-TW
+Fire Trap,火焰陷阱,zh-TW
+Fire Trap of Blasting,火焰陷阱．爆發,zh-TW
+Fire Weapon,烈焰武器,zh-TW
+Fireball,火球,zh-TW
+Firestorm,烈炎風暴,zh-TW
+Firestorm of Meteors,烈炎風暴．隕石,zh-TW
+Firestorm of Pelting,烈炎風暴．猛擲,zh-TW
+Fissure Support,裂隙輔助,zh-TW
+Fist of War Support,拳霸輔助,zh-TW
+Flame Dash,烈焰衝刺,zh-TW
+Flame Dash of Return,烈焰衝刺．返回,zh-TW
+Flame Link,連結：烈焰,zh-TW
+Flame Surge,怒焰奔騰,zh-TW
+Flame Surge of Combusting,怒焰奔騰．燃燒,zh-TW
+Flame Wall,烈焰之牆,zh-TW
+Flameblast,烈焰爆破,zh-TW
+Flameblast of Celerity,烈焰爆破．迅速,zh-TW
+Flameblast of Contraction,烈焰爆破．緊縮,zh-TW
+Flamethrower Trap,噴火陷阱,zh-TW
+Flamethrower Trap of Stability,噴火陷阱．穩定,zh-TW
+Flamewood Support,焚木輔助,zh-TW
+Flammability,易燃,zh-TW
+Flammable Shot,燃燒射擊,zh-TW
+Flesh and Stone,血肉骸骨,zh-TW
+Flesh Offering,血肉奉獻,zh-TW
+Flicker Strike,閃現打擊,zh-TW
+Flicker Strike of Power,閃現打擊．暴擊,zh-TW
+Focused Ballista Support,專注砲塔輔助,zh-TW
+Focused Channelling Support,專注引導輔助,zh-TW
+Forbidden Rite,禁忌儀式,zh-TW
+Forbidden Rite of Soul Sacrifice,禁忌儀式．靈魂獻祭,zh-TW
+Fork Support,分裂輔助,zh-TW
+Fortify Support,護體輔助,zh-TW
+Foulgrasp Support,邪穢之握輔助,zh-TW
+Freezing Pulse,冰霜脈衝,zh-TW
+Frenzy,狂怒,zh-TW
+Frenzy of Onslaught,狂怒．猛攻,zh-TW
+Fresh Meat Support,鮮肉輔助,zh-TW
+Frigid Bond Support,冰寒之繫輔助,zh-TW
+Frost Blades,冰霜之刃,zh-TW
+Frost Blades of Katabasis,冰霜之刃．降臨,zh-TW
+Frost Bomb,寒霜爆,zh-TW
+Frost Bomb of Forthcoming,寒霜爆．來臨,zh-TW
+Frost Bomb of Instability,寒霜爆．不定,zh-TW
+Frost Shield,寒霜護盾,zh-TW
+Frost Wall,冰牆,zh-TW
+Frost Wall of Encroachment,冰牆．侵襲,zh-TW
+Frostbite,凍傷,zh-TW
+Frostblink of Wintry Blast,霜漣之瞬．寒風,zh-TW
+Frostbolt,寒冰彈,zh-TW
+Frostferno,霜獄,zh-TW
+Frostmage Support,霜法輔助,zh-TW
+Frozen Legion,戰亂．凍結,zh-TW
+Frozen Legion of Rallying,戰亂．凍結．號召,zh-TW
+Galvanic Arrow,電流箭矢,zh-TW
+Galvanic Arrow of Energy,電流箭矢．能量,zh-TW
+Galvanic Arrow of Surging,電流箭矢．波動,zh-TW
+Galvanic Field,電光領域,zh-TW
+Galvanic Field of Intensity,電光領域．強度,zh-TW
+General's Cry,將軍戰吼,zh-TW
+Generosity Support,和善輔助,zh-TW
+Glacial Cascade,冰川之刺,zh-TW
+Glacial Cascade of the Fissure,冰川之刺．裂隙,zh-TW
+Glacial Hammer of Shattering,冰霜之錘．粉碎,zh-TW
+Glacial Shield Swipe,冰川盾擊,zh-TW
+Glowing Silhouette,閃爍剪影,zh-TW
+Gluttony of Elements,元素暴食,zh-TW
+Gluttony Support,暴食輔助,zh-TW
+Grace,優雅,zh-TW
+Grand Heist,劫盜之星,zh-TW
+Greater Ancestral Call Support,高階先祖怒嚎輔助,zh-TW
+Greater Chain Support,高階連鎖輔助,zh-TW
+Greater Devour Support,高階吞噬輔助,zh-TW
+Greater Fork Support,高階分裂輔助,zh-TW
+Greater Kinetic Instability Support,高階力量紊亂輔助,zh-TW
+Greater Multiple Projectiles Support,高階多重投射輔助,zh-TW
+Greater Multistrike Support,高階多重打擊輔助,zh-TW
+Greater Spell Cascade Support,高階秘能爆發輔助,zh-TW
+Greater Spell Echo Support,高階施放迴響輔助,zh-TW
+Greater Unleash Support,高階釋放輔助,zh-TW
+Greater Volley Support,高階齊射輔助,zh-TW
+Ground Slam,裂地之擊,zh-TW
+Ground Slam of Earthshaking,裂地之擊．地震,zh-TW
+Guardian's Blessing Support,守護者的祝福輔助,zh-TW
+Hallow Support,聖徒輔助,zh-TW
+Harrowing Throng Support,哀慟群集輔助,zh-TW
+Haste,迅捷,zh-TW
+Hatred,憎恨,zh-TW
+Heart of Flame,烈炎之心,zh-TW
+Heavy Strike,沉重之擊,zh-TW
+Heavy Strike of Trarthus,特拉特斯沉重之擊,zh-TW
+Herald of Agony,苦痛之捷,zh-TW
+Herald of Ash,灰燼之捷,zh-TW
+Herald of Ice,冰霜之捷,zh-TW
+Herald of Purity,純淨之捷,zh-TW
+Herald of Thunder,閃電之捷,zh-TW
+Hex Bloom Support,咒術綻放輔助,zh-TW
+Hexblast,咒術枯萎,zh-TW
+Hexblast of Contradiction,咒術枯萎．矛盾,zh-TW
+Hexblast of Havoc,咒術枯萎．浩劫,zh-TW
+Hexpass Support,咒閃輔助,zh-TW
+Hextoad Support,咒蟾輔助,zh-TW
+Hextouch Support,咒術降臨輔助,zh-TW
+High-Impact Mine Support,高能地雷輔助,zh-TW
+His Burning Message,他的焚炎句語,zh-TW
+Hiveborn Support,巢裔輔助,zh-TW
+Holy Flame Totem,神聖火舌圖騰,zh-TW
+Holy Flame Totem of Ire,神聖火舌圖騰．怒火,zh-TW
+Holy Hammers,神聖之錘,zh-TW
+Holy Strike,神聖打擊,zh-TW
+Holy Sweep,神聖橫掃,zh-TW
+Hydrosphere,水弒界,zh-TW
+Ice Crash,寒冰衝擊,zh-TW
+Ice Crash of Cadence,寒冰衝擊．節奏,zh-TW
+Ice Nova,冰霜新星,zh-TW
+Ice Nova of Deep Freeze,冰霜新星．深層冰凍,zh-TW
+Ice Nova of Frostbolts,冰霜新星．寒冰彈,zh-TW
+Ice Shot,冰霜射擊,zh-TW
+Ice Shot of Penetration,冰霜射擊 ．穿透,zh-TW
+Ice Spear of Splitting,冰矛．分裂,zh-TW
+Ice Trap,冰凍陷阱,zh-TW
+Ice Trap of Hollowness,冰凍陷阱．空心,zh-TW
+Icefire,霜火,zh-TW
+Icicle Mine,冰雹地雷,zh-TW
+Icicle Mine of Fanning,冰雹地雷．扇動,zh-TW
+Icicle Mine of Sabotage,冰雹地雷．破壞,zh-TW
+Ignite Proliferation Support,點燃擴散輔助,zh-TW
+Immortal Call,不朽怒嚎,zh-TW
+Impale Support,穿刺輔助,zh-TW
+Impending Doom Support,末日厄運輔助,zh-TW
+Incinerate,燒毀,zh-TW
+Incinerate of Expanse,燒毀．蔓延,zh-TW
+Incinerate of Venting,燒毀．通風,zh-TW
+Increased Area of Effect Support,增加範圍輔助,zh-TW
+Increased Critical Damage Support,增加暴擊傷害輔助,zh-TW
+Increased Critical Strikes Support,增加暴擊率輔助,zh-TW
+Incursion league,穿越聯盟,zh-TW
+Infernal Blow,煉獄之擊,zh-TW
+Infernal Blow of Immolation,煉獄之擊．自焚,zh-TW
+Infernal Cry,煉獄戰吼,zh-TW
+Infernal Legion Support,煉獄軍團輔助,zh-TW
+Infernal Sweep,煉獄襲擊,zh-TW
+Infused Channelling Support,注入引導輔助,zh-TW
+Intensify Support,強化輔助,zh-TW
+Intimidating Cry,威嚇戰吼,zh-TW
+Intuitive Link,連結：直覺,zh-TW
+Invention Support,發明輔助,zh-TW
+Invert the Rules Support,規則逆反輔助,zh-TW
+Iron Grip Support,鋼鐵之握輔助,zh-TW
+Iron Will Support,鋼鐵意志輔助,zh-TW
+Item Quantity Support,物品數量增幅輔助,zh-TW
+Item Rarity Support,物品稀有度增幅輔助,zh-TW
+Item socket,物品插槽,zh-TW
+Karui Shores,卡魯沿岸,zh-TW
+Kinetic Blast,力量爆破,zh-TW
+Kinetic Blast of Clustering,力量爆破．聚集,zh-TW
+Kinetic Bolt,力量穿引,zh-TW
+Kinetic Bolt of Fragmentation,力量穿引．碎片,zh-TW
+Kinetic Fusillade,力量猛射,zh-TW
+Kinetic Fusillade of Detonation,力量猛射．引爆,zh-TW
+Kinetic Instability Support,力量紊亂輔助,zh-TW
+Kinetic Rain,力量驟雨,zh-TW
+Kinetic Rain of Impact,力量驟雨．衝擊,zh-TW
+Knockback Support,擊退輔助,zh-TW
+Lacerate,破空斬,zh-TW
+Lacerate of Butchering,破空斬．屠宰,zh-TW
+Lacerate of Haemorrhage,破空斬．出血,zh-TW
+Lancing Steel,鋼之突刺,zh-TW
+Lancing Steel of Spraying,鋼之突刺．噴射,zh-TW
+Leap Slam,躍擊,zh-TW
+Leap Slam of Groundbreaking,躍擊．地破,zh-TW
+Less Duration Support,持續時間縮短輔助,zh-TW
+Lesser Reduced Mana Cost Support,低階魔力減免輔助,zh-TW
+Lethal Dose Support,致命劑量輔助,zh-TW
+Life Gain on Hit Support,擊中生命回復輔助,zh-TW
+Life Leech Support,生命偷取輔助,zh-TW
+Lifetap Support,活栓輔助,zh-TW
+Lightning Arrow,閃電箭矢,zh-TW
+Lightning Arrow of Electrocution,閃電箭矢．電刑,zh-TW
+Lightning Channel,閃電鏈結,zh-TW
+Lightning Circle,雷霆之環,zh-TW
+Lightning Conduit,導雷,zh-TW
+Lightning Conduit of the Heavens,導雷．天堂,zh-TW
+Lightning Spire Trap,鋒雷陷阱,zh-TW
+Lightning Spire Trap of Overloading,鋒雷陷阱．過載,zh-TW
+Lightning Spire Trap of Zapping,鋒雷陷阱．殘喘,zh-TW
+Lightning Strike,閃電打擊,zh-TW
+Lightning Strike of Arcing,閃電打擊．電弧,zh-TW
+Lightning Tendrils,電能釋放,zh-TW
+Lightning Tendrils of Eccentricity,電能釋放．異變,zh-TW
+Lightning Tendrils of Escalation,電能釋放．擴大,zh-TW
+Lightning Trap,閃電陷阱,zh-TW
+Lightning Trap of Sparking,閃電陷阱．電球,zh-TW
+Lilly Roth,莉莉羅斯,zh-TW
+Living Lightning Support,活體閃電輔助,zh-TW
+Locus Mine Support,定位地雷輔助,zh-TW
+Machinations Support,詭計輔助,zh-TW
+Magnetism Support,磁能輔助,zh-TW
+Maim Support,癱瘓輔助,zh-TW
+Malevolence,惡意,zh-TW
+Mana Leech Support,魔力偷取輔助,zh-TW
+Manabond,魔能束縛,zh-TW
+Manaforged Arrows Support,魔改箭矢輔助,zh-TW
+Mark On Hit Support,擊中時印記輔助,zh-TW
+Meat Shield Support,肉盾輔助,zh-TW
+Melee Physical Damage Support,近戰物理傷害輔助,zh-TW
+Melee Splash Support,近戰傷害擴散輔助,zh-TW
+Minefield Support,地雷網輔助,zh-TW
+Minion Damage Support,召喚物傷害輔助,zh-TW
+Minion Life Support,召喚物生命輔助,zh-TW
+Minion Pact Support,召喚契約輔助,zh-TW
+Minion Speed Support,召喚物速度輔助,zh-TW
+Mirage Archer Support,幻影射手輔助,zh-TW
+Mirror Arrow of Bombarding Clones,魅影射擊．炸彈客,zh-TW
+Mirror Arrow of Prismatic Clones,魅影射擊．神秘客,zh-TW
+Molten Shell,熔岩護盾,zh-TW
+Molten Strike,熔岩之擊,zh-TW
+Molten Strike of the Zenith,熔岩之擊．極盛,zh-TW
+Momentum Support,氣勢輔助,zh-TW
+More Duration Support,持續時間延長輔助,zh-TW
+Multiple Projectiles Support,多重投射物輔助,zh-TW
+Multiple Totems Support,多重圖騰輔助,zh-TW
+Multiple Traps Support,多重陷阱輔助,zh-TW
+Multistrike Support,多重打擊輔助,zh-TW
+Mutated Growth,墮落異體,zh-TW
+New Blade Vortex,新飛刃風暴,zh-TW
+New Shock Nova,新式閃電新星,zh-TW
+NewPunishment,新懲戒,zh-TW
+Nightblade Support,夜刃輔助,zh-TW
+Orb of Storms,風暴漩渦,zh-TW
+Orb of Storms of Squalls,風暴漩渦．颮風,zh-TW
+Order: To me!,命令：過來！,zh-TW
+Overcharge Support,超負荷輔助,zh-TW
+Overcharged Sinews,過載筋腱,zh-TW
+Overexertion Support,竭盡全力輔助,zh-TW
+Overheat Support,過熱輔助,zh-TW
+Overloaded Intensity Support,超載強化輔助,zh-TW
+Pacifism Support,和平輔助,zh-TW
+Penance Brand,贖罪烙印,zh-TW
+Penance Brand of Conduction,贖罪烙印．傳導,zh-TW
+Penance Brand of Dissipation,贖罪烙印．消散,zh-TW
+Perandus Signet,普蘭德斯之記,zh-TW
+Perforate,裂地刺穿,zh-TW
+Perforate of Bloodshed,裂地刺穿．流血,zh-TW
+Perforate of Duality,裂地刺穿．雙持,zh-TW
+Pestilent Strike,瘟疫打擊,zh-TW
+Petrified Blood,石化之血,zh-TW
+Phase Run,暗影迷蹤,zh-TW
+Physical to Lightning Support,物理轉閃電輔助,zh-TW
+Pierce Support,穿透輔助,zh-TW
+Pinpoint Support,精確輔助,zh-TW
+Plague Bearer,病疫之難,zh-TW
+Playtest Attack,測試攻擊,zh-TW
+Playtest Slam,測試重擊,zh-TW
+Playtest Spell,測試法術,zh-TW
+Poacher's Mark,盜獵者印記,zh-TW
+Point Blank Support,零點射擊輔助,zh-TW
+Poisonous Concoction,毒藥,zh-TW
+Poisonous Concoction of Bouncing,毒藥 ．彈炸,zh-TW
+Power Charge On Critical Support,暴擊獲得暴擊球輔助,zh-TW
+Power Siphon,力量抽取,zh-TW
+Power Siphon of the Archmage,力量抽取．大法師,zh-TW
+Precision,精準,zh-TW
+Predator Support,掠奪者輔助,zh-TW
+Preserving Stillness,靜守不移,zh-TW
+Pride,驕傲,zh-TW
+Prismatic Burst Support,三相爆發輔助,zh-TW
+Protective Link,連結：保護,zh-TW
+Pulverise Support,磨鍊輔助,zh-TW
+Puncture of Shanking,腿脛放血,zh-TW
+Punishment,懲戒,zh-TW
+Purifying Flame,淨化烈焰,zh-TW
+Purifying Flame of Revelations,淨化烈焰．啟示,zh-TW
+Purity of Elements,元素淨化,zh-TW
+Purity of Fire,火焰淨化,zh-TW
+Purity of Ice,冰霜淨化,zh-TW
+Purity of Lightning,閃電淨化,zh-TW
+Pyre Support,火葬輔助,zh-TW
+Pyroclast Mine,炎爆新星地雷,zh-TW
+Pyroclast Mine of Sabotage,炎爆新星地雷．破壞,zh-TW
+Quickstep,迅捷步伐,zh-TW
+Rage Support,盛怒輔助,zh-TW
+Rage Vortex,盛怒漩渦,zh-TW
+Rage Vortex of Berserking,盛怒漩渦．狂暴,zh-TW
+Rain of Arrows of Artillery,箭雨．火炮,zh-TW
+Rain of Arrows of Saturation,箭雨．飽和,zh-TW
+Raise Spectre,喚醒幽魂,zh-TW
+Raise Spectre of Transience,喚醒幽魂．轉瞬,zh-TW
+Raise Zombie,殭屍復甦,zh-TW
+Raise Zombie of Falling,殭屍復甦．殞落,zh-TW
+Raise Zombie of Slamming,殭屍復甦．重擊,zh-TW
+Rallying Cry,激勵戰吼,zh-TW
+Reap,收割,zh-TW
+Reave,衝擊波,zh-TW
+Reave of Refraction,衝擊波．折射,zh-TW
+Rejuvenation Totem,回春圖騰,zh-TW
+Rending Steel,鋼之裂化,zh-TW
+Return to Dust,回歸塵土,zh-TW
+Returning Projectiles Support,投射物返回輔助,zh-TW
+Righteous Fire,正義之火,zh-TW
+Righteous Fire of Arcane Devotion,正義之火．秘能奉獻,zh-TW
+Righteous Lightning,正義怒雷,zh-TW
+Riptide,激流,zh-TW
+Rolling Magma,熔岩翻騰,zh-TW
+Rupture Support,殘破輔助,zh-TW
+Ruthless Support,殘暴輔助,zh-TW
+Sacred Wisps Support,聖潔妖精輔助,zh-TW
+Sacrifice Support,獻祭輔助,zh-TW
+Sadism Support,虐待輔助,zh-TW
+Scorching Ray,熾灼奔流,zh-TW
+Scorching Ray of Immolation,熾灼奔流．焚燒,zh-TW
+Scornful Herald Support,輕蔑先鋒輔助,zh-TW
+Scourge Arrow,天譴之箭,zh-TW
+Scourge Arrow of Menace,天譴之箭．威脅,zh-TW
+Searing Bond,灼熱連結,zh-TW
+Searing Bond of Detonation,灼熱連結．引爆,zh-TW
+Seismic Cry,裂地戰吼,zh-TW
+Seismic Trap,地裂陷阱,zh-TW
+Seismic Trap of Swells,地裂陷阱．膨脹,zh-TW
+Seize the Flesh,肉身奪取,zh-TW
+Shadow Blades,幻影刀刃,zh-TW
+Shattering Steel,鋼之碎擊,zh-TW
+Shattering Steel of Ammunition,鋼之碎擊．彈藥,zh-TW
+Shield Charge,重盾衝鋒,zh-TW
+Shield Crush,重盾粉碎,zh-TW
+Shield Crush of the Chieftain,重盾粉碎．酋長,zh-TW
+Shield of Light,聖光盾擊,zh-TW
+Shock Nova,閃電新星,zh-TW
+Shock Nova of Procession,閃電新星．行進,zh-TW
+Shockwave Support,震波輔助,zh-TW
+Shockwave Totem,震波圖騰,zh-TW
+Shockwave Totem of Authority,震波圖騰．威權,zh-TW
+Shrapnel Ballista,彈片砲塔,zh-TW
+Shrapnel Ballista of Steel,彈片砲塔．鋼鐵,zh-TW
+Siege Ballista,攻城炮台,zh-TW
+Siege Ballista of Splintering,攻城炮台．碎片,zh-TW
+Siege Ballista of Trarthus,特拉特斯攻城炮台,zh-TW
+Sigil of Power,咒符之力,zh-TW
+Siosa,薩歐賽,zh-TW
+Siphoning Trap,虹吸陷阱,zh-TW
+Siphoning Trap of Pain,虹吸陷阱．苦痛,zh-TW
+Slower Projectiles Support,投射物減速輔助,zh-TW
+Smite,雷鳴重擊,zh-TW
+Smite of Divine Judgement,雷鳴重擊．聖判,zh-TW
+Smoke Mine,煙霧地雷,zh-TW
+Snipe,狙擊,zh-TW
+Sniper's Mark,狙擊者印記,zh-TW
+Somatic Shell,心靈壁壘,zh-TW
+Soul Link,連結：靈魂,zh-TW
+Soulrend,靈體撕裂,zh-TW
+Soulrend of Reaping,靈體撕裂．收割,zh-TW
+Soulrend of the Spiral,靈體撕裂．螺旋,zh-TW
+Spark,電球,zh-TW
+Spark of the Nova,電球．新星,zh-TW
+Spark of Unpredictability,電球．未知,zh-TW
+Spectral Helix,靈體旋武,zh-TW
+Spectral Helix of Trarthus,特拉特斯靈體旋武,zh-TW
+Spectral Shield Throw,盾靈投擲,zh-TW
+Spectral Shield Throw of Shattering,盾靈投擲．粉碎,zh-TW
+Spectral Shield Throw of Trarthus,特拉特斯盾靈投擲,zh-TW
+Spectral Spinning Weapon,靈製武器,zh-TW
+Spectral Throw,靈體投擲,zh-TW
+Spectral Throw of Materialising,靈體投擲．具現化,zh-TW
+Spectral Throw of Trarthus,特拉特斯靈體投擲,zh-TW
+Spell Cascade Support,秘能爆發輔助,zh-TW
+Spell Echo Support,施放迴響輔助,zh-TW
+Spell Totem Support,法術圖騰輔助,zh-TW
+Spellblade Support,魔刃輔助,zh-TW
+Spellslinger,法術回音,zh-TW
+Spirit Offering,靈魂奉獻,zh-TW
+Split Arrow,分裂箭矢,zh-TW
+Split Arrow of Splitting,分裂箭矢．分裂,zh-TW
+Split Projectiles Support,投射物分裂輔助,zh-TW
+Splitting Steel,鋼之裂化,zh-TW
+Splitting Steel of Ammunition,鋼之裂化．彈藥,zh-TW
+Stat,統計數據,zh-TW
+Static Strike,充能打擊,zh-TW
+Static Strike of Gathering Lightning,充能打擊．聚雷,zh-TW
+Static Tether,靜電鎖鏈,zh-TW
+Steelskin,鋼筋鐵骨,zh-TW
+Storm Brand,風暴烙印,zh-TW
+Storm Brand of Indecision,風暴烙印．躊躇,zh-TW
+Storm Burst,風爆,zh-TW
+Storm Burst of Repulsion,風爆．排斥,zh-TW
+Storm Call,風暴呼喚,zh-TW
+Storm Call of Trarthus,特拉特斯風暴呼喚,zh-TW
+Storm Rain,暴風雷雨,zh-TW
+Storm Rain of the Conduit,暴風雷雨．導管,zh-TW
+Storm Rain of the Fence,暴風雷雨．籬笆,zh-TW
+Stormbind,風暴術符,zh-TW
+Stormbind of Teleportation,風暴術符．傳送,zh-TW
+Stormblast Mine,風暴地雷,zh-TW
+Stun Support,擊暈輔助,zh-TW
+Summon Carrion Golem,召喚食腐魔像,zh-TW
+Summon Carrion Golem of Hordes,召喚食腐魔像．部落,zh-TW
+Summon Carrion Golem of Scavenging,召喚食腐魔像．清洗,zh-TW
+Summon Chaos Golem,召喚混沌魔像,zh-TW
+Summon Chaos Golem of Hordes,召喚混沌魔像．部落,zh-TW
+Summon Chaos Golem of the Maelström,召喚混沌魔像．漩渦,zh-TW
+Summon Flame Golem,召喚烈焰魔像,zh-TW
+Summon Flame Golem of Hordes,召喚烈焰魔像．部落,zh-TW
+Summon Flame Golem of the Meteor,召喚烈焰魔像．隕石,zh-TW
+Summon Holy Relic,召喚聖物,zh-TW
+Summon Holy Relic of Conviction,召喚聖物．信念,zh-TW
+Summon Ice Golem,召喚寒冰魔像,zh-TW
+Summon Ice Golem of Hordes,召喚寒冰魔像．部落,zh-TW
+Summon Ice Golem of Shattering,召喚寒冰魔像．粉碎,zh-TW
+Summon Lightning Golem,召喚閃電魔像,zh-TW
+Summon Lightning Golem of Hordes,召喚閃電魔像．部落,zh-TW
+Summon Phantasm Support,召喚幻影輔助,zh-TW
+Summon Raging Spirit,召喚憤怒狂靈,zh-TW
+Summon Raging Spirit of Enormity,召喚憤怒狂靈．巨型,zh-TW
+Summon Reaper,召喚奪魂鐮,zh-TW
+Summon Reaper of Eviscerating,召喚奪魂鐮．剜剖,zh-TW
+Summon Reaper of Revenants,召喚奪魂鐮．亡靈,zh-TW
+Summon Skeletons Channelled,引導召喚骷髏,zh-TW
+Summon Skeletons of Archers,召喚骷髏．箭術,zh-TW
+Summon Skeletons of Mages,召喚骷髏．巫術,zh-TW
+Summon Skitterbots,召喚探測機獸,zh-TW
+Summon Stone Golem,召喚巨石魔像,zh-TW
+Summon Stone Golem of Hordes,召喚巨石魔像．部落,zh-TW
+Summon Stone Golem of Safeguarding,召喚巨石魔像．保安,zh-TW
+Sunder,大地震擊,zh-TW
+Sunder of Earthbreaking,大地震擊．地破,zh-TW
+Sunder of Trarthus,特拉特斯大地震擊,zh-TW
+Swift Affliction Support,極速苦痛輔助,zh-TW
+Swift Assembly Support,迅速組裝輔助,zh-TW
+Swiftbrand Support,迅速烙印輔助,zh-TW
+Swordstorm,劍刃風暴,zh-TW
+Tectonic Slam,破體之擊,zh-TW
+Tectonic Slam of Cataclysm,破體之擊．災變,zh-TW
+Tempest Shield,暴風之盾,zh-TW
+Temporal Chains,時空鎖鏈,zh-TW
+Temporal Rift,時空裂隙,zh-TW
+Tender Embrace,慈愛之擁,zh-TW
+The Great Avalanche,浩劫雪崩,zh-TW
+The Grey Wind Howls,灰風咆嘯,zh-TW
+The Supreme Truth,無上箴言,zh-TW
+The Temple of Atzoatl,阿茲瓦特神殿,zh-TW
+Thunderstorm,天雷暴雨,zh-TW
+Tornado,龍捲風,zh-TW
+Tornado of Elemental Turbulence,龍捲風 ．湍流,zh-TW
+Tornado Shot,龍捲射擊,zh-TW
+Tornado Shot of Cloudburst,龍捲射擊．雲爆,zh-TW
+Touch of God,天譴之拳,zh-TW
+Toxic Rain,腐蝕毒雨,zh-TW
+Toxic Rain of Sporeburst,腐蝕毒雨．爆發,zh-TW
+Toxic Rain of Withering,腐蝕毒雨．凋零,zh-TW
+Transfusion Support,輸血輔助,zh-TW
+Trap and Mine Damage Support,陷阱及地雷傷害輔助,zh-TW
+Trap Support,陷阱輔助,zh-TW
+Trauma Support,創傷輔助,zh-TW
+Trinity Support,三體輔助,zh-TW
+Unearth,屍術矢,zh-TW
+Unholy Trinity Support,不潔三體輔助,zh-TW
+Unleash Support,釋放輔助,zh-TW
+Urgent Orders Support,緊急詔令輔助,zh-TW
+Vaal Absolution,瓦爾．赦免,zh-TW
+Vaal Ancestral Warchief,瓦爾．先祖戰士長,zh-TW
+Vaal Animate Weapon,瓦爾．幻化武器,zh-TW
+Vaal Arc,瓦爾．電弧,zh-TW
+Vaal Arctic Armour,瓦爾．極地裝甲,zh-TW
+Vaal Blade Flurry,瓦爾．刀鋒亂舞,zh-TW
+Vaal Blade Vortex,瓦爾．飛刃風暴,zh-TW
+Vaal Blight,瓦爾．萎滅,zh-TW
+Vaal Breach,瓦爾．裂痕,zh-TW
+Vaal Burning Arrow,瓦爾．燃燒箭矢,zh-TW
+Vaal Caustic Arrow,瓦爾．腐蝕箭矢,zh-TW
+Vaal Clarity,瓦爾．清晰,zh-TW
+Vaal Cleave,瓦爾．劈砍,zh-TW
+Vaal Cold Snap,瓦爾．霜暴,zh-TW
+Vaal Cyclone,瓦爾．旋風斬,zh-TW
+Vaal Detonate Dead,瓦爾．屍體爆破,zh-TW
+Vaal Discipline,瓦爾．紀律,zh-TW
+Vaal Domination,瓦爾．霸氣,zh-TW
+Vaal Double Strike,瓦爾．雙重打擊,zh-TW
+Vaal Earthquake,瓦爾．震地,zh-TW
+Vaal Fireball,瓦爾．火球,zh-TW
+Vaal Firestorm,瓦爾．烈炎風暴,zh-TW
+Vaal FireTrap,瓦爾．火焰陷阱,zh-TW
+Vaal Flameblast,瓦爾．烈焰爆破,zh-TW
+Vaal Flesh Offering,瓦爾．血肉奉獻,zh-TW
+Vaal Flicker Strike,瓦爾．閃現打擊,zh-TW
+Vaal Glacial Hammer,瓦爾．冰霜之錘,zh-TW
+Vaal Grace,瓦爾．優雅,zh-TW
+Vaal Ground Slam,瓦爾．裂地之擊,zh-TW
+Vaal Haste,瓦爾．迅捷,zh-TW
+Vaal Heavy Strike,瓦爾．沉重之擊,zh-TW
+Vaal Ice Nova,瓦爾．冰霜新星,zh-TW
+Vaal Ice Shot,瓦爾．冰霜射擊,zh-TW
+Vaal Immortal Call,瓦爾．不朽怒嚎,zh-TW
+Vaal Impurity of Fire,瓦爾．不淨之火,zh-TW
+Vaal Impurity of Ice,瓦爾．不淨之冰,zh-TW
+Vaal Impurity of Lightning,瓦爾．不淨之雷,zh-TW
+Vaal Lightning Arrow,瓦爾．閃電箭矢,zh-TW
+Vaal Lightning Strike,瓦爾．閃電打擊,zh-TW
+Vaal Lightning Trap,瓦爾．閃電陷阱,zh-TW
+Vaal Lightning Warp,瓦爾．閃電傳送,zh-TW
+Vaal Molten Shell,瓦爾．熔岩護盾,zh-TW
+Vaal Molten Strike,瓦爾．熔岩之擊,zh-TW
+Vaal Power Siphon,瓦爾．力量抽取,zh-TW
+Vaal Rain of Arrows,瓦爾．箭雨,zh-TW
+Vaal Reap,瓦爾．收割,zh-TW
+Vaal Reave,瓦爾．衝擊波,zh-TW
+Vaal Rejuvenation Totem,瓦爾．回春圖騰,zh-TW
+Vaal Righteous Fire,瓦爾．正義之火,zh-TW
+Vaal Sacrifice Support,瓦爾犧牲輔助,zh-TW
+Vaal Smite,瓦爾．雷鳴重擊,zh-TW
+Vaal Soul Harvesting,瓦爾．靈魂收割,zh-TW
+Vaal Spark,瓦爾．電球,zh-TW
+Vaal Spectral Throw,瓦爾．靈體投擲,zh-TW
+Vaal Split Arrow,瓦爾．分裂箭矢,zh-TW
+Vaal Storm Call,瓦爾．風暴呼喚,zh-TW
+Vaal Summon Skeletons,瓦爾．召喚骷髏,zh-TW
+Vaal Sweep,瓦爾．橫掃,zh-TW
+Vaal Temptation Support,瓦爾誘惑輔助,zh-TW
+Vaal Venom Gyre,瓦爾．猛毒迴旋,zh-TW
+Vaal Volcanic Fissure,瓦爾．炎火脈動,zh-TW
+Vampiric Link,連結：吸血,zh-TW
+VendorRecipes,商店配方,zh-TW
+Vengeful Cry,復仇之嚎,zh-TW
+Venom Gyre,猛毒迴旋,zh-TW
+Vicious Projectiles Support,猛毒投射物輔助,zh-TW
+Vigilant Strike,戒備打擊,zh-TW
+Vile Toxins Support,罪惡毒素輔助,zh-TW
+Violent Desire,暴力渴望,zh-TW
+Viper Strike,毒蛇打擊,zh-TW
+Viper Strike of the Mamba,毒蛇打擊．曼巴,zh-TW
+Vitality,活力,zh-TW
+Void Manipulation Support,虛空操縱輔助,zh-TW
+Void Shockwave Support,虛空震波輔助,zh-TW
+Void Sphere,虛無玉,zh-TW
+Void Sphere of Rending,虛無玉．分裂,zh-TW
+Voidhome,逝空之錘,zh-TW
+Voidstorm Support,虛空風暴輔助,zh-TW
+Volatile Dead,致命之息,zh-TW
+Volatile Dead of Confinement,致命之息．禁閉,zh-TW
+Volatile Dead of Seething,致命之息．沸騰,zh-TW
+Volatility Support,易變輔助,zh-TW
+Volcanic Fissure,炎火脈動,zh-TW
+Volcanic Fissure of Snaking,炎火脈動．蜿蜒,zh-TW
+Volley Support,齊射輔助,zh-TW
+Voltaxic Burst,魔痕爆發,zh-TW
+Vortex,漩渦,zh-TW
+Vortex Mine,漩渦地雷,zh-TW
+Vortex of Projection,漩渦．投射,zh-TW
+Vulnerability,脆弱,zh-TW
+Wall of Force,力量之壁,zh-TW
+Wand Teleport,法杖傳送,zh-TW
+War Banner,戰爭之旗,zh-TW
+Ward Support,保護輔助,zh-TW
+Warlord's Mark,督軍印記,zh-TW
+Wave of Conviction,信念浪湧,zh-TW
+Wave of Conviction of Trarthus,特拉特斯信念浪湧,zh-TW
+Whirling Blades,迴旋之刃,zh-TW
+Wild Strike,野性打擊,zh-TW
+Wild Strike of Extremes,野性打擊．極致,zh-TW
+Wildfire,地獄火群,zh-TW
+Windburst Support,風破輔助,zh-TW
+Winter Orb,凜冬之球,zh-TW
+Wintertide Brand,冬潮烙印,zh-TW
+WIP Support,WIP 支援,zh-TW
+Wither,死亡凋零,zh-TW
+Withering Step,凋零之步,zh-TW
+Withering Touch Support,凋零之觸輔助,zh-TW
+Wrath,雷霆,zh-TW
+Wreathed in Light,光暈纏繞,zh-TW
+Zealotry,狂熱,zh-TW
+Corpse-Grown Beetle,屍生甲蟲,zh-TW
+Corpse-Grown Pest,屍生害蟲,zh-TW
+Corpse-Grown Worm,屍生蠕蟲,zh-TW
+"Ersi, Mother of Thorns",荊棘之母．埃爾希,zh-TW
+Facetor's Lens,費斯特之鏡,zh-TW
+Infused Beachhead,神域之殿．煉獄,zh-TW
+Infused Engineer's Orb,充能的工程石,zh-TW
+"Janaar, the Omen",預兆．珍納爾,zh-TW
+"Leo, Wolf of the Pits",狼嚎里歐,zh-TW
+"Namharim, Born of Night",夜誕．南莫哈姆,zh-TW
+Primal Blisterlord,原始之膿泡君王,zh-TW
+Primal Chimeral,原始之龍蜥,zh-TW
+Primal Cleaveling,原始之劈斬蟲,zh-TW
+Primal Crushclaw,原始之粉碎之爪,zh-TW
+Primal Cystcaller,原始之羊人,zh-TW
+Primal Dustcrab,原始之塵蟹,zh-TW
+Primal Dustspitter,原始之噴沙獸,zh-TW
+Primal Feasting Horror,原始之恐懼盛宴,zh-TW
+Primal Maw,原始之裂齒獸,zh-TW
+Primal Reborn,原始之重生,zh-TW
+Primal Rhex,原始之野雛,zh-TW
+Primal Rhex Matriarch,原始之野雛女酋,zh-TW
+Primal Rhoa,原始之恐喙鳥,zh-TW
+Primal Scrabbler,原始之躍蜥,zh-TW
+Primal Viper,原始之毒蛇,zh-TW
+Vivid Abberarach,靈現之艾伯拉赫,zh-TW
+Vivid Arachnid,靈現之毒蛛,zh-TW
+Vivid Devourer,靈現之吞噬獸,zh-TW
+Vivid Leech,靈現之水蛭,zh-TW
+Vivid Nestback,靈現之疫病毒蛛,zh-TW
+Vivid Parasite,靈現之寄生蟲,zh-TW
+Vivid Razorleg,靈現之剃腿,zh-TW
+Vivid Sapsucker,靈現之鷹嘴鳥,zh-TW
+Vivid Scorpion,靈現之毒蠍,zh-TW
+Vivid Striketail,靈現之蠍尾,zh-TW
+Vivid Thornweaver,靈現之荊棘巨蛛,zh-TW
+Vivid Vulture,靈現之禿鷹,zh-TW
+Vivid Watcher,靈現之看守者,zh-TW
+Vivid Weta,靈現之蟋蟀,zh-TW
+Vivid Whipleg,靈現之鞭笞,zh-TW
+Wild Ape,野性之狂猿,zh-TW
+Wild Brambleback,野性之叢林巨獸,zh-TW
+Wild Bristle Matron,野性之毛刺看守獸,zh-TW
+Wild Bristlebeast,野性之毛刺獸,zh-TW
+Wild Chieftain,野性之酋長,zh-TW
+Wild Hatchling,野性之幼蛛,zh-TW
+Wild Hellion,野性之地獄犬,zh-TW
+Wild Hellion Alpha,野性之地獄犬幻獸,zh-TW
+Wild Homunculus,野性之矮人,zh-TW
+Wild Infestation Queen,野性之寄生女皇,zh-TW
+Wild Snap Hound,野性之獵犬,zh-TW
+Wild Spikeback,野性之背刺獸,zh-TW
+Wild Thornmaw,野性之荊棘裂齒獸,zh-TW
+Wild Thornwolf,野性之荊棘狼,zh-TW
+Wild Ursaling,野性之墮落之爪,zh-TW
+Abyss Jewels,深淵珠寶,zh-TW
+Amulets,項鍊,zh-TW
+Astrolabe,星盤,zh-TW
+Belts,腰帶,zh-TW
+Blessing,祝福,zh-TW
+Blueprints,藍圖,zh-TW
+Body Armours,胸甲,zh-TW
+Bows,弓,zh-TW
+Breachstone,裂痕石,zh-TW
+Breachstones,裂痕石,zh-TW
+Catalysts,催化劑,zh-TW
+Claws,爪,zh-TW
+Cluster Jewel,星團珠寶,zh-TW
+Contracts,契約書,zh-TW
+Corpses,屍體,zh-TW
+Daggers,匕首,zh-TW
+Divination Cards,命運卡,zh-TW
+Embers of the Allflame,不滅之火餘燼,zh-TW
+Emblem,徽印,zh-TW
+Expedition Logbooks,探險日誌,zh-TW
+Experimented,實驗,zh-TW
+Fishing Rods,魚竿,zh-TW
+Flasks,藥劑,zh-TW
+Fossil,化石,zh-TW
+Foulborn,穢生,zh-TW
+Heist Brooches,劫盜胸針,zh-TW
+Heist Cloaks,劫盜披風,zh-TW
+Heist Gear,劫盜裝備,zh-TW
+Heist Targets,劫盜目標,zh-TW
+Heist Tools,劫盜工具,zh-TW
+Helmets,頭部,zh-TW
+Incubators,培育器,zh-TW
+Jewels,珠寶,zh-TW
+League Specific,聯盟限定,zh-TW
+Life Flasks,生命藥劑,zh-TW
+Lure,誘餌,zh-TW
+Lycia's Invocation,利希亞祈禱,zh-TW
+Mana Flasks,魔力藥劑,zh-TW
+Map Fragments,地圖碎片,zh-TW
+Misc Map Items,其它,zh-TW
+One Hand Axes,單手斧,zh-TW
+One Hand Maces,單手錘,zh-TW
+One Hand Swords,單手劍,zh-TW
+Pieces,碎片,zh-TW
+Quivers,箭袋,zh-TW
+Relics,聖物,zh-TW
+Replica,贗品,zh-TW
+Resonator,鑄新儀,zh-TW
+Rings,戒指,zh-TW
+Rune Daggers,符紋匕首,zh-TW
+Runegraft,符文之結,zh-TW
+Sanctum Research,聖域研究,zh-TW
+Scarab,聖甲蟲,zh-TW
+Sceptres,權杖,zh-TW
+Shields,盾,zh-TW
+Splinter,裂片,zh-TW
+Stackable Currency,可堆疊通貨,zh-TW
+Staves,長杖,zh-TW
+Tattoo,紋身,zh-TW
+Thrusting One Hand Swords,細劍,zh-TW
+Timeless Jewel,永恆珠寶,zh-TW
+Tinctures,萃取物,zh-TW
+Trarthus Gems,特拉特斯寶石,zh-TW
+Trinkets,飾品,zh-TW
+Two Hand Axes,雙手斧,zh-TW
+Two Hand Maces,雙手錘,zh-TW
+Two Hand Swords,雙手劍,zh-TW
+Unique,傳奇,zh-TW
+Utility Flasks,功能藥劑,zh-TW
+Vault Keys,遺鑰,zh-TW
+Vial,罈,zh-TW
+Wands,法杖,zh-TW
+Warstaves,征戰長杖,zh-TW
+Absence of Mercy and Empathy,無悲憫與同情之地,zh-TW
+Acton's Nightmare Overgrown Shrine Map,輪迴的夢魘 密草神殿,zh-TW
+Altered Distant Memory Synthesised Map,遙遠記憶：編造 尋夢追憶,zh-TW
+Ancient Reliquary,古典寶庫,zh-TW
+Archive Reliquary,文書寶庫,zh-TW
+Augmented Distant Memory Synthesised Map,遙遠記憶：增幅 尋夢追憶,zh-TW
+"Caer Blaidd, Wolfpack's Den Underground River Map",塞爾．佈雷德狼穴 地底之河,zh-TW
+Cosmic Reliquary,宇宙寶庫,zh-TW
+Crux of Nothingness,無量困境,zh-TW
+Death and Taxes Necropolis Map,亡者之財 魔影墓場,zh-TW
+Decaying Reliquary,腐化寶庫,zh-TW
+Domain of Timeless Conflict,永恆鬥爭之域,zh-TW
+Doryani's Machinarium Maze Map,多里亞尼的機械迷城 冥神之域,zh-TW
+Forge of the Titans,泰坦族的熔爐,zh-TW
+Forgotten Reliquary,遺忘寶庫,zh-TW
+Hall of Grandmasters Promenade Map,元帥殿堂 月色迴廊,zh-TW
+Hallowed Ground Cemetery Map,萬聖之地 晨曦墓地,zh-TW
+Higher Map Tier Chance,高階地圖機率,zh-TW
+Hive Colony,巢裔聚落,zh-TW
+Infused Beachhead Harbinger Map,神域之殿．煉獄 神諭之殿．煉獄,zh-TW
+Invasive Adversaries,侵略性對手,zh-TW
+Lonely Reliquary,孤寂寶庫,zh-TW
+Maelström of Chaos Atoll Map,混沌之淵 濱海山丘,zh-TW
+Mao Kun Shore Map,賊窩 暮光海灘,zh-TW
+Map Drop Chance,地圖掉落機率,zh-TW
+Map Magic Monsters,地圖魔法怪物,zh-TW
+Map Pack Size,地圖怪物群大小,zh-TW
+Map Rare Monsters,地圖稀有怪物,zh-TW
+Mastermind's Lair,密教本營,zh-TW
+NULL,無,zh-TW
+Oba's Cursed Trove Underground Sea Map,歐霸的咒怨寶庫 濱海幽穴,zh-TW
+Olmec's Sanctum Bone Crypt Map,遠古之印 骨跡陵墓,zh-TW
+Oubliette Reliquary,地窖寶庫,zh-TW
+Overloaded Circuits,超載電路,zh-TW
+Pillars of Arun Dunes Map,艾倫之柱 暮色沙丘,zh-TW
+Poorjoy's Asylum Temple Map,沉淪之間 奪魂之殿,zh-TW
+Replica Cortex Synthesised Map,贗品．深沉記憶 尋夢追憶,zh-TW
+Replica Pillars of Arun Dunes Map,贗品．艾倫之柱 暮色沙丘,zh-TW
+Replica Poorjoy's Asylum Temple Map,贗品．沉淪之間 奪魂之殿,zh-TW
+Reverent Reliquary,虔敬寶庫,zh-TW
+Rewritten Distant Memory Synthesised Map,遙遠記憶：改寫 尋夢追憶,zh-TW
+Scarab Drop Chance,聖甲蟲掉落率,zh-TW
+Shaping the Mountains,雕塑山型,zh-TW
+Shaping the Skies,雕塑天空,zh-TW
+Shaping the World,雕塑世界,zh-TW
+Shiny Reliquary,閃耀寶庫,zh-TW
+Skittering Swarms,掠奪蟲群,zh-TW
+The Alluring Abyss,誘人的深淵,zh-TW
+The Apex of Sacrifice,生贄之尖,zh-TW
+The Beachhead Harbinger Map,神諭之殿 神諭之殿．歸徒,zh-TW
+The Coward's Trial Cursed Crypt Map,懦者的試驗 惡咒陵墓,zh-TW
+The Lake of Kalandra,卡蘭德迷湖,zh-TW
+The Putrid Cloister Museum Map,腐臭迴廊 古博物館,zh-TW
+The Twilight Temple Moon Temple Map,暮色神廟 嬋娟神殿,zh-TW
+The Utzaal Arena,奧札爾競技場,zh-TW
+The Vinktar Square Courtyard Map,維克塔廣場 奇術之庭,zh-TW
+Timeworn Reliquary,古朽寶庫,zh-TW
+Traumatic Reliquary,創傷寶庫,zh-TW
+Twisted Distant Memory Synthesised Map,遙遠記憶：扭曲 尋夢追憶,zh-TW
+Vaal Reliquary,瓦爾寶庫,zh-TW
+Vaal Temple Map,瓦爾密殿,zh-TW
+Vaults of Atziri Vaal Pyramid Map,阿茲里的秘寶庫 瓦爾金字塔,zh-TW
+Visceral Reliquary,吞噬寶庫,zh-TW
+Voidborn Reliquary,虛誕寶庫,zh-TW
+Whakawairua Tuahu Strand Map,禁閉祭壇 致命岩灘,zh-TW
+Absence of Patience and Wisdom,躁動失智之地,zh-TW
+Absence of Symmetry and Harmony,扭曲不諧之地,zh-TW
+Absence of Value and Meaning,飄渺虛境,zh-TW
+Acrobatics,移形換影,zh-TW
+"Al-Hezmin, The Hunter",狩獵者．奧赫茲明,zh-TW
+All,All,zh-TW
+Altered Distant Memory,遙遠記憶：編造,zh-TW
+Amplifying Power Core,增強動力核心,zh-TW
+Ancestral Vision Viridian Jewel,先祖預視 翠綠珠寶,zh-TW
+Arcanist's Strongbox,奧術師的保險箱,zh-TW
+Arn's Anguish Cloth Belt,昂恩的煩惱 飾布腰帶,zh-TW
+Assassin's Garb,刺殺者之裝,zh-TW
+Astral Plate,星芒戰鎧,zh-TW
+Atlas Memories,Atlas Memories,zh-TW
+Augmented Distant Memory,遙遠記憶：增幅,zh-TW
+Augmenting Power Core,提升動力核心,zh-TW
+"Baran, The Crusader",聖戰軍王．巴倫,zh-TW
+Blasting Wand,爆裂魔杖,zh-TW
+Body Armours(dex),胸甲(敏),zh-TW
+Body Armours(dex_int),胸甲(敏智),zh-TW
+Body Armours(int),胸甲(智),zh-TW
+Body Armours(str),胸甲(力),zh-TW
+Body Armours(str_dex),胸甲(力敏),zh-TW
+Body Armours(str_dex_int),胸甲(力敏智),zh-TW
+Body Armours(str_int),胸甲(力智),zh-TW
+Bone Ring,骸骨之戒,zh-TW
+Boots(dex),鞋子(敏),zh-TW
+Boots(dex_int),鞋子(敏智),zh-TW
+Boots(int),鞋子(智),zh-TW
+Boots(str),鞋子(力),zh-TW
+Boots(str_dex),鞋子(力敏),zh-TW
+Boots(str_int),鞋子(力智),zh-TW
+Breachlord Bloodline,裂痕君王血裔,zh-TW
+Broad Sword,闊劍,zh-TW
+Burial Idol,埋葬魔偶,zh-TW
+Burst Band,暴裂法帶,zh-TW
+"Caer Blaidd, Wolfpack's Den",塞爾．佈雷德狼穴,zh-TW
+Carnal Armour,禁禮之甲,zh-TW
+Cartographer's Strongbox,製圖師的保險箱,zh-TW
+Chambers of Impurity Map,不淨密室地圖,zh-TW
+Chemist's Strongbox,藥師的保險箱,zh-TW
+Cobalt Jewel,鈷藍珠寶,zh-TW
+Cogwork Ring,齒輪戒指,zh-TW
+Composite Ring,複合戒指,zh-TW
+Conqueror Idol,征服者魔偶,zh-TW
+Convoking Wand,召喚法杖,zh-TW
+Corrupted Gaze,汙染凝視,zh-TW
+Cortex,深沉記憶,zh-TW
+Corvine Charm,烏鴉咒語,zh-TW
+Courtyard of Wasting Map,糜爛之庭地圖,zh-TW
+Cowards' Wail Ezomyte Tower Shield,懦夫之哀 艾茲麥塔盾,zh-TW
+Cryogenesis,霜晶滅世,zh-TW
+Crystallised Omniscience Onyx Amulet,晶化全知 黑曜護身符,zh-TW
+Destructive Play,毀滅遊戲,zh-TW
+Diviner's Strongbox,命運的保險箱,zh-TW
+Djinn-Touched Vaal Orb,巨靈瓦爾寶珠,zh-TW
+"Drox, The Warlord",總督軍．圖拉克斯,zh-TW
+Extremely Foul,極度穢惡,zh-TW
+Eye of the Storm,暴風之眼,zh-TW
+Eyes of the Greatwolf Greatwolf Talisman,巨狼之眼 狼王魔符,zh-TW
+Fading Reflecting Mist,消逝映像迷霧,zh-TW
+Firesong Crimson Jewel,炔頌 赤紅珠寶,zh-TW
+Focused Amulet,專注護身符,zh-TW
+Foliate Brooch,箔片胸針,zh-TW
+Forge of the Phoenix Map,火鳳凰熔核,zh-TW
+Fury Valve Turquoise Amulet,憤怒閉鎖 青玉護身符,zh-TW
+Gemcutter's Strongbox,珠寶匠的保險箱,zh-TW
+Geodesic Ring,大地戒指,zh-TW
+Ghastly Eye Jewel,極懼之眼珠寶,zh-TW
+Glorious Plate,榮耀戰鎧,zh-TW
+Gloves(dex),手套(敏),zh-TW
+Gloves(dex_int),手套(敏智),zh-TW
+Gloves(int),手套(智),zh-TW
+Gloves(str),手套(力),zh-TW
+Gloves(str_dex),手套(力敏),zh-TW
+Gloves(str_int),手套(力智),zh-TW
+Grandmaster Keyring,大師鑰匙圈,zh-TW
+Graven's Secret Cloth Belt,格雷文的秘密 飾布腰帶,zh-TW
+Greatwolf Talisman,狼王魔符,zh-TW
+Hands of the High Templar Crusader Gloves,聖宗神手 聖戰手套,zh-TW
+Harbinger's Orb,神諭石,zh-TW
+Headhunter Leather Belt,獵首 皮革腰帶,zh-TW
+Heist league,劫盜同盟,zh-TW
+Helical Ring,螺旋戒指,zh-TW
+Helmets(dex),頭部(敏),zh-TW
+Helmets(dex_int),頭部(敏智),zh-TW
+Helmets(int),頭部(智),zh-TW
+Helmets(str),頭部(力),zh-TW
+Helmets(str_dex),頭部(力敏),zh-TW
+Helmets(str_int),頭部(力智),zh-TW
+Hypnotic Eye Jewel,催眠之眼珠寶,zh-TW
+Incandescent Invitation,熾熱之邀,zh-TW
+Infamous Modifiers,萬惡詞綴,zh-TW
+Inspired Learning Crimson Jewel,求知的熱情 赤紅珠寶,zh-TW
+Iron Flask,鋼鐵藥劑,zh-TW
+Jeweller's Strongbox,工匠的保險箱,zh-TW
+Kamasan Idol,卡瑪薩魔偶,zh-TW
+Kinetic Wand,動能魔杖,zh-TW
+Lair of the Hydra Map,九頭蛇冰窟,zh-TW
+Large Cluster Jewel,巨型星團珠寶,zh-TW
+Lioneye's Fall Viridian Jewel,獅眼的隕落 翠綠珠寶,zh-TW
+Lupine Charm,狼族咒語,zh-TW
+Manifold Ring,孔洞戒指,zh-TW
+Maps(Low),異界地圖(低階),zh-TW
+Maps(Mid),異界地圖(中階),zh-TW
+Maps(Old),異界地圖(舊版),zh-TW
+Maps(Top),異界地圖(高階),zh-TW
+Maps(Uber),異界地圖(T17),zh-TW
+Master Lockpick,專業鎖撬,zh-TW
+Maven's Invitation,釋界之邀,zh-TW
+Maven's Invitation: The Elderslayers,釋界之邀：尊師殺手,zh-TW
+Maven's Invitation: The Forgotten,釋界之邀：遺忘,zh-TW
+Maven's Invitation: The Formed,釋界之邀：塑型,zh-TW
+Maven's Invitation: The Hidden,釋界之邀：隱匿,zh-TW
+Maven's Invitation: The Remembered,釋界之邀：返憶,zh-TW
+Maven's Invitation: The Twisted,釋界之邀：扭曲,zh-TW
+Maze of the Minotaur Map,牛頭人謎域,zh-TW
+Medium Cluster Jewel,中型星團珠寶,zh-TW
+Megalomaniac Medium Cluster Jewel,妄想症 中型星團珠寶,zh-TW
+Meticulous Appraiser,細膩鑑定師,zh-TW
+Minor Idol,次要魔偶,zh-TW
+Moment of Reverence,敬畏時刻,zh-TW
+Mounting Modifiers,騎乘詞綴,zh-TW
+Multiplying Modifiers,詞綴倍化,zh-TW
+Murderous Eye Jewel,殺戮之眼珠寶,zh-TW
+Nebulis Void Sceptre,銀河星雲 虛影權杖,zh-TW
+Noble Idol,高貴魔偶,zh-TW
+Obsidian Sharpening Stone,黑曜磨刀石,zh-TW
+Occultist's Vestment,秘術長衣,zh-TW
+Olesya's Delight Cloth Belt,奧莉西亞的喜悅 飾布腰帶,zh-TW
+Opalescent Strongbox,特工的保險箱,zh-TW
+Operative's Scouting Report,技工偵查報告,zh-TW
+Operative's Strongbox,特工的保險箱,zh-TW
+Pit of the Chimera Map,奇美拉魔坑,zh-TW
+Polaric Invitation,極地之邀,zh-TW
+Polaric Void,極地虛無,zh-TW
+Precise Arrowhead,精準箭矢,zh-TW
+Prismatic Jewel,三相珠寶,zh-TW
+Prove Yourself Worthy,證明自我,zh-TW
+rarity,稀有度,zh-TW
+Ratcheting Ring,荊棘戒指,zh-TW
+Regicide Disguise Kit,弒君偽裝套組,zh-TW
+Replica Headhunter Leather Belt,贗品．獵首 皮革腰帶,zh-TW
+Replica Nebulis Void Sceptre,贗品．銀河星雲 虛影權杖,zh-TW
+Rewritten Distant Memory,遙遠記憶：改寫,zh-TW
+Rigwald's Curse Wereclaw Talisman,瑞佛詛咒 亡爪魔符,zh-TW
+Rite of Ruin,毀滅儀式,zh-TW
+Royale Hands of the High Templar Chain Gloves,Royale 聖宗神手 鏈甲手套,zh-TW
+Ruinous Wager,毀滅賭注,zh-TW
+Runic Crown,魔符皇冠,zh-TW
+Runic Gauntlets,魔符護手,zh-TW
+Runic Sabatons,魔符短靴,zh-TW
+Screaming Invitation,尖嘯之邀,zh-TW
+Searching Eye Jewel,勘查之眼珠寶,zh-TW
+Seething Chyme,灼燒食糜,zh-TW
+Seven-League Step,盟誓之跡,zh-TW
+Sextant,六分儀,zh-TW
+Shields(dex),盾(敏),zh-TW
+Shields(dex_int),盾(敏智),zh-TW
+Shields(int),盾(智),zh-TW
+Shields(str),盾(力),zh-TW
+Shields(str_dex),盾(力敏),zh-TW
+Shields(str_int),盾(力智),zh-TW
+Silkweave Sole,絲織鞋底,zh-TW
+Silver Flask,真銀藥劑,zh-TW
+Simplex Amulet,簡純護身符,zh-TW
+Small Cluster Jewel,小型星團珠寶,zh-TW
+Somatic Wand,軀體魔杖,zh-TW
+Split Personality Crimson Jewel,人格分裂 赤紅珠寶,zh-TW
+Steel Bracers,鋼鐵護腕,zh-TW
+Stormshroud Viridian Jewel,風暴籠罩 翠綠珠寶,zh-TW
+Stranglegasp Onyx Amulet,扼殺之息 黑曜護身符,zh-TW
+String of Servitude Heavy Belt,奴役之索 重革腰帶,zh-TW
+Summon Arbalists,召喚弩兵,zh-TW
+Synthesis league,追憶聯盟,zh-TW
+Synthesised Stability,追憶穩定性,zh-TW
+talisman,魔符,zh-TW
+"Tasalio, Cleansing Water",淨化之水．塔薩里奧,zh-TW
+Thaumaturgical Sensing Charm,奇術感知咒術,zh-TW
+Thaumaturgical Ward,奇術法杖,zh-TW
+Thaumetic Blowtorch,奇術噴管,zh-TW
+Thaumetic Flashpowder,奇術閃光粉,zh-TW
+The Balance of Terror Cobalt Jewel,恐怖平衡 鈷藍珠寶,zh-TW
+The Constrictor,異界．干擾,zh-TW
+The Crusader,聖戰軍王,zh-TW
+The Enslaver,異界．奴役,zh-TW
+The Eradicator,異界．根除,zh-TW
+The Hallowed Monarch Faithful Helmet,受祈聖君 信仰頭盔,zh-TW
+The Hollow-Eyed Skull Emberstone Stalker Sentinel,挖眼髏骨 灰石的潛行守望,zh-TW
+The Hunter,狩獵者,zh-TW
+The Maven's Crucible,釋界的試煉,zh-TW
+The Perfect Form Zodiac Leather,完美姿態 星辰皮甲,zh-TW
+The Purifier,異界．淨化,zh-TW
+The Putrid Cloister,腐臭迴廊,zh-TW
+The Redeemer,救贖者,zh-TW
+The Shaper's Realm,塑者之界,zh-TW
+The Whispering Ice,冰點低語,zh-TW
+Theatre of Lies Map,謊言劇院地圖,zh-TW
+Tombfist Steelscale Gauntlets,陵拳 鋼影護手,zh-TW
+Tormented Spirit,苦痛,zh-TW
+Totemic Idol,圖騰魔偶,zh-TW
+Triumvirate Authority Unset Ring,三體權威 潛能之戒,zh-TW
+Twist of Fate,命運的轉折,zh-TW
+Twisted Distant Memory,遙遠記憶：扭曲,zh-TW
+Twisted Wish Minor Idol,扭曲之願 次要魔偶,zh-TW
+Unset Ring,潛能之戒,zh-TW
+Ursine Charm,熊族咒語,zh-TW
+Utula's Hunger Majestic Plate,烏圖拉的飢餓 莊嚴之鎧,zh-TW
+Vaal Vessel,瓦爾容器,zh-TW
+"Valako, Storm's Embrace",風暴之擁．瓦拉庫,zh-TW
+Veiled Modifiers,隱匿 詞綴,zh-TW
+"Veritania, The Redeemer",救贖者．維羅提尼亞,zh-TW
+Viridian Jewel,翠綠珠寶,zh-TW
+Vorana's March Runic Sabatons,沃拉娜的軍隊 魔符短靴,zh-TW
+Watcher's Eye Prismatic Jewel,看守之眼 三相珠寶,zh-TW
+weapons,武器,zh-TW
+Whakawairua Tuahu,禁閉祭壇,zh-TW
+Whisper-woven Cloak,細織披風,zh-TW
+Writhing Invitation,纏繞之邀,zh-TW
+Acrimony,尖酸刻薄,zh-TW
+Acuity,心眼,zh-TW
+Adamant,堅定不移,zh-TW
+Adaptive Steel,適性之鋼,zh-TW
+Adder's Touch,毒蛇之觸,zh-TW
+Adjacent Animosity,相鄰憎恨,zh-TW
+Admonisher,告誡者,zh-TW
+Aggressive Bastion,進擊的壁壘,zh-TW
+Always Angry,保持憤怒,zh-TW
+Amber,琥珀,zh-TW
+Ambidexterity,卓越,zh-TW
+Amplify,增幅,zh-TW
+Annihilation,橫掃千軍,zh-TW
+Anointed Flesh,聖油鮮肉,zh-TW
+Arcane Capacitor,秘能容器,zh-TW
+Arcane Chemistry,祕法學,zh-TW
+Arcane Expanse,秘能擴張,zh-TW
+Arcane Focus,秘能之心,zh-TW
+Arcane Guarding,秘能守護,zh-TW
+Arcane Potency,秘能爆發,zh-TW
+Arcane Retaliation,秘術報復,zh-TW
+Arcane Sanctuary,秘能聖所,zh-TW
+Arcane Will,秘能意志,zh-TW
+Arcanist's Dominion,奧術師之統御,zh-TW
+Arcing Blows,電能之擊,zh-TW
+Arsonist,縱火,zh-TW
+Art of the Gladiator,鬥士藝術,zh-TW
+As The Mountain,宛如神山,zh-TW
+As The Thunder,宛如雷鳴,zh-TW
+Ascendancy,昇華試煉,zh-TW
+"Ash, Frost and Storm",三相之力,zh-TW
+Aspect of Stone,巨石祝福,zh-TW
+Aspect of the Eagle,鷹靈祝福,zh-TW
+Aspect of the Lynx,山貓之靈,zh-TW
+Assassination,刺殺,zh-TW
+Assured Strike,珍重打擊,zh-TW
+Asylum,避難所,zh-TW
+Atrophy,萎縮,zh-TW
+Avatar of the Hunt,狩獵之徵,zh-TW
+Awe and Terror,敬畏與恐懼,zh-TW
+Azure,碧藍,zh-TW
+Backstabbing,背刺,zh-TW
+Ballistics,彈道學,zh-TW
+Bannerman,掌旗手,zh-TW
+Barbarism,野蠻,zh-TW
+Bastion Breaker,堡壘破壞者,zh-TW
+Bastion of Faith,信心堡壘,zh-TW
+Battle Rouse,戰鬥鼓舞,zh-TW
+Battle Trance,戰鬥冥想,zh-TW
+Beacon of Hope,希望信標,zh-TW
+Berserking,狂戰之魂,zh-TW
+Black,漆黑,zh-TW
+Blacksmith's Clout,鐵匠之擊,zh-TW
+Blade Barrier,劍刃屏障,zh-TW
+Blade Master,刀劍宗師,zh-TW
+Blade of Cunning,巧刃,zh-TW
+Bladedancer,舞劍者,zh-TW
+Blast Radius,法術範圍增幅,zh-TW
+Blast Waves,爆炸浪潮,zh-TW
+Blood Drinker,嗜血者,zh-TW
+Blood Siphon,血液抽取,zh-TW
+Bloodless,無血之體,zh-TW
+Bloodletting,出血,zh-TW
+Blunt Trauma,麻痺創傷,zh-TW
+Bone Breaker,破骨,zh-TW
+Born to Fight,為戰而生,zh-TW
+Brand Equity,烙印正義,zh-TW
+Bravery,英勇,zh-TW
+Breath of Flames,火焰之息,zh-TW
+Breath of Lightning,閃電之息,zh-TW
+Breath of Rime,霜雪之息,zh-TW
+Breathstealer,偷息 火蝮鱗手套,zh-TW
+Brink of Death,死亡邊緣,zh-TW
+Brinkmanship,邊緣政策,zh-TW
+Brutal Blade,殘暴之刃,zh-TW
+Brutal Skewering,殘酷串燒,zh-TW
+Burning Brutality,燃燒殘暴,zh-TW
+Burst of Energy,能量爆發,zh-TW
+Butchery,屠戮,zh-TW
+Cannibalistic Rite,食人儀式,zh-TW
+Careful Conservationist,謹慎資源保護者,zh-TW
+Careful Counterattack,謹慎反擊,zh-TW
+Cauterisation,燒灼,zh-TW
+Champion of the Cause,起源,zh-TW
+Charisma,魅力,zh-TW
+Circle of Life,生命循環,zh-TW
+Claws of the Falcon,獵鷹之爪,zh-TW
+Claws of the Hawk,鷹爪功,zh-TW
+Claws of the Magpie,鵲爪,zh-TW
+Cleansed Thoughts,淨化思想,zh-TW
+Clear,清透,zh-TW
+Cleaving,劈砍,zh-TW
+Clever Construction,聰明的建設,zh-TW
+Clever Thief,聰穎盜賊,zh-TW
+Cloth and Chain,迅影秘術,zh-TW
+Coldhearted Calculation,冷酷計算,zh-TW
+Colloidal Mixture,膠體混合物,zh-TW
+Combat Stamina,戰鬥精力,zh-TW
+Command of Steel,鋼鐵命令,zh-TW
+Concussive Force,震爆之力,zh-TW
+Conjured Barrier,召喚屏障,zh-TW
+Constitution,構成,zh-TW
+Contaminate,污毒之域,zh-TW
+Coordination,和諧之體,zh-TW
+Cornered Prey,甕中之鱉,zh-TW
+Corruption,腐化,zh-TW
+Counterweight,平衡反擊,zh-TW
+Courage,勇氣,zh-TW
+Cowl of the Ceraunophile,狂雷斗篷 日耀之冠,zh-TW
+Cowl of the Cryophile,酷寒斗篷 綢緞之兜,zh-TW
+Cowl of the Thermophile,嗜炎斗篷 艾茲麥堅盔,zh-TW
+Crackling Speed,神速暴裂,zh-TW
+Crimson,緋紅,zh-TW
+Cruel Preparation,殘忍準備,zh-TW
+Cruel Retort,殘酷反駁,zh-TW
+Crusader,十字軍,zh-TW
+Crushing Reply,粉碎回應,zh-TW
+Crystal Skin,魔晶之膚,zh-TW
+Dance of Blades,劍舞,zh-TW
+Dark Arts,黯黑藝術,zh-TW
+Dazzling Strikes,閃耀之擊,zh-TW
+Deadly Draw,致命箭矢,zh-TW
+Deadly Inclinations,致命愛好,zh-TW
+Death Attunement,亡靈諧曲,zh-TW
+Decay Ward,腐蝕之衛,zh-TW
+Deep Breaths,深呼吸,zh-TW
+Deep Thoughts,沉靜思維,zh-TW
+Deep Wisdom,沉靜智慧,zh-TW
+Defiance,反抗,zh-TW
+Defiant Stand,反抗立場,zh-TW
+Defiled Forces,玷汙之利,zh-TW
+Deliberate Brutality,蓄意殘虐,zh-TW
+Depth Perception,潛意識,zh-TW
+Dervish,修行之刃,zh-TW
+Destroyer,破壞者,zh-TW
+Destructive Apparatus,毀滅裝置,zh-TW
+Devastating Devices,破壞設置,zh-TW
+Devotion,奉獻,zh-TW
+Diamond Skin,珍鑽肌膚,zh-TW
+Dire Torment,悲慘折磨,zh-TW
+Dirty Techniques,三流手段,zh-TW
+Disciple of the Forbidden,禁忌紀律,zh-TW
+Disciple of the Slaughter,屠宰者之使徒,zh-TW
+Disciple of the Unyielding,不屈之徒,zh-TW
+Discipline and Training,嚴峻訓練,zh-TW
+Discord Artisan,不諧匠師,zh-TW
+Disemboweling,開腸剖肚,zh-TW
+Disintegration,異變,zh-TW
+Dismembering,肢解,zh-TW
+Divine Fervour,聖情,zh-TW
+Divine Fury,聖之狂怒,zh-TW
+Divine Judgement,聖之審判,zh-TW
+Divine Wrath,聖之雷霆,zh-TW
+Doom Cast,滅世之靈,zh-TW
+Dreamer,幻夢者,zh-TW
+Druidic Rite,德魯伊的儀式,zh-TW
+Dynamo,蓄電,zh-TW
+Eagle Eye,鷹眼,zh-TW
+Efficient Explosives,高能炸彈,zh-TW
+Elder Power,智慧之力,zh-TW
+Elemental Focus,元素專注,zh-TW
+Empowered Bond,賦予之絆,zh-TW
+Endurance,耐力,zh-TW
+Enduring Bond,持久合作,zh-TW
+Enigmatic Defence,謎樣防禦,zh-TW
+Enigmatic Reach,謎樣之域,zh-TW
+Entrench,壕溝戰,zh-TW
+Entropy,亂世,zh-TW
+Escalation,進階,zh-TW
+Essence Extraction,萃取精華,zh-TW
+Essence Infusion,精髓灌注,zh-TW
+Essence Sap,靈魂虛空,zh-TW
+Essence Surge,精純之潮,zh-TW
+Ethereal Feast,虛空盛宴,zh-TW
+Exceptional Performance,卓越的表現,zh-TW
+Excess Sustenance,營養過剩,zh-TW
+Executioner,處決者,zh-TW
+Expeditious Munitions,快速彈藥,zh-TW
+Expert Hunter,獵人專家,zh-TW
+Explosive Elements,爆炸元素,zh-TW
+Explosive Impact,暴烈衝擊,zh-TW
+Explosive Runes,爆裂魔符,zh-TW
+Faith and Steel,鋼之信仰,zh-TW
+Fangs of Frost,刺骨寒冰,zh-TW
+Fangs of the Viper,毒蛇之牙,zh-TW
+Farsight,遠視,zh-TW
+Fatal Blade,致命之刃,zh-TW
+Fatal Toxins,致命之毒,zh-TW
+Fearsome Force,恐怖之力,zh-TW
+Feline Swiftness,貓族迅捷,zh-TW
+Feller of Foes,開墾之敵,zh-TW
+Fending,自衛術,zh-TW
+Fervour,激情,zh-TW
+Field Medicine,野戰醫學,zh-TW
+Finesse,嫻熟,zh-TW
+Fingers of Frost,凜冽之指,zh-TW
+Fire Walker,火靈之道,zh-TW
+Flash Freeze,閃現冰凍,zh-TW
+Flaying,剝皮刃,zh-TW
+Fleetfoot,飛毛腿,zh-TW
+Flow of Battle,戰鬥節奏,zh-TW
+Force of Darkness,黑暗之力,zh-TW
+Force Shaper,力量成形,zh-TW
+Forceful Skewering,強勢刺穿,zh-TW
+Forces of Nature,自然之力,zh-TW
+Foresight,先見之明,zh-TW
+Forethought,前瞻性,zh-TW
+Freedom of Movement,解放行動,zh-TW
+Frenetic,狂熱,zh-TW
+From the Shadows,影刃,zh-TW
+Frost Walker,冰靈之道,zh-TW
+Fury Bolts,破空彈,zh-TW
+Fusillade,聚靈之杖,zh-TW
+Galvanic Hammer,聚能之錘,zh-TW
+Glacial Cage,冰牢,zh-TW
+Gladiator's Perseverance,衛士之毅,zh-TW
+Glory of Command,號令榮耀,zh-TW
+Golden,金黃,zh-TW
+Golem Commander,魔像指揮官,zh-TW
+Golem's Blood,魔像血統,zh-TW
+Goliath,巨靈,zh-TW
+Graceful Assault,權貴攻擊,zh-TW
+Grave Intentions,亡靈之誓,zh-TW
+Gravepact,亡靈之約,zh-TW
+Growth and Decay,成長與衰變,zh-TW
+Hardened Scars,硬疤,zh-TW
+Harpooner,魚叉手,zh-TW
+Harrier,海獵鷹,zh-TW
+Harsh Lessons,慘痛教訓,zh-TW
+Harvester of Foes,勁敵收割,zh-TW
+Hasty Demise,倉促消亡,zh-TW
+Hatchet Master,斧刃宗師,zh-TW
+Heart and Soul,心與靈,zh-TW
+Heart of Darkness,黑暗之心,zh-TW
+Heart of Ice,冰雪之心,zh-TW
+Heart of Oak,橡木之心,zh-TW
+Heart of the Warrior,戰士之心,zh-TW
+Heart of Thunder,雷霆之心,zh-TW
+Heartseeker,刺心者,zh-TW
+Hearty,爽朗,zh-TW
+Heavy Draw,強弩,zh-TW
+Hematophagy,吸血,zh-TW
+Herbalism,藥草學,zh-TW
+High Explosives,煉獄炸彈,zh-TW
+High Voltage,高壓伏特,zh-TW
+Hired Killer,受雇殺手,zh-TW
+Hollow Effigy,空洞雕像,zh-TW
+Holy Dominion,聖御,zh-TW
+Holy Fire,神聖之火,zh-TW
+Hunter's Gambit,獵人之局,zh-TW
+Incorporeal,無形之靈,zh-TW
+Indigo,靛青,zh-TW
+Indiscriminate Revenge,無差別報復,zh-TW
+Indomitable Army,頑固軍隊,zh-TW
+Inexorable,無可避免,zh-TW
+Influence,影響,zh-TW
+Infused,灌注,zh-TW
+Infused Flesh,注入肉體,zh-TW
+Insightfulness,洞見觀瞻,zh-TW
+Inspiring Bond,啟發之絆,zh-TW
+Instability,聚能之界,zh-TW
+Instinct,本能,zh-TW
+Intuition,直覺,zh-TW
+Inveterate,根深蒂固,zh-TW
+Invigorating Blaze,振奮之焰,zh-TW
+Ironwood,鐵木,zh-TW
+Jagged Wounds,鋸齒重創,zh-TW
+Kinetic Impacts,動能影響,zh-TW
+King of the Hill,強弩之弦,zh-TW
+Knowledge Barrier,知識屏障,zh-TW
+Last Rites,最後儀式,zh-TW
+Lasting Tempest,恆久風暴,zh-TW
+Lava Lash,熔岩之力,zh-TW
+Leader of the Pack,群體領袖,zh-TW
+Leadership,領導精神,zh-TW
+Legacy of the Wilds,荒野的傳承,zh-TW
+Lethality,致命鋒芒,zh-TW
+Life Raker,生靈收割者,zh-TW
+Light Eater,嗜光者,zh-TW
+Light of Divinity,神聖啟蒙,zh-TW
+Lightning Walker,雷靈之道,zh-TW
+Longshot,長射,zh-TW
+Lord of the Dead,亡靈之主,zh-TW
+Lust for Carnage,汲血者,zh-TW
+Magmatic Strikes,岩漿之擊,zh-TW
+Malicious Intent,惡之意,zh-TW
+Mana Flows,魔力之流,zh-TW
+Mark the Prey,標記獵物,zh-TW
+Marked for Death,死亡印記,zh-TW
+Martial Experience,武術經驗,zh-TW
+Master Fletcher,飛矢宗師,zh-TW
+Master of Blades,劍刃大師,zh-TW
+Master of the Arena,決戰宗師,zh-TW
+Master of Wounds,創傷大師,zh-TW
+Master Sapper,工兵大師,zh-TW
+Measured Fury,縝密狂怒,zh-TW
+Melding,融合,zh-TW
+Mental Rapidity,精神迅捷,zh-TW
+Merciless Skewering,無情串燒,zh-TW
+Mind Drinker,汲靈術,zh-TW
+Mixed Munitions,混合彈藥,zh-TW
+Multishot,多重射擊,zh-TW
+Mystic Bulwark,神幻壁壘,zh-TW
+Mystic Talents,神幻天賦,zh-TW
+Mysticism,玄幻之意,zh-TW
+Natural Authority,自然權威,zh-TW
+Natural Remedies,自然療法,zh-TW
+Nature's Concoction,自然調劑,zh-TW
+Nightstalker,夜襲,zh-TW
+Nimbleness,巧語,zh-TW
+No Forgiveness,絕不饒恕,zh-TW
+Nomadic Teachings,浪人教誨,zh-TW
+One With Nature,自然合一,zh-TW
+One with the River,河流之子,zh-TW
+Opalescent,乳白,zh-TW
+Overcharge,強化聚能,zh-TW
+Overcharged,超載,zh-TW
+Overprepared,過度準備,zh-TW
+Pain Forger,偽痛,zh-TW
+Path of the Hunter,獵人之路,zh-TW
+Path of the Savant,賢者之路,zh-TW
+Path of the Warrior,戰士之路,zh-TW
+Perfected Formula,完美配方,zh-TW
+Perfectionist,完美主義者,zh-TW
+Persistence,堅持不懈,zh-TW
+Piercing Shots,穿射箭矢,zh-TW
+Poisonous Fangs,迴轉死神,zh-TW
+Potency of Will,意志之力,zh-TW
+Potent Connections,強大聯繫,zh-TW
+Powerful Bond,強大之繫,zh-TW
+Practical Application,化虛為實,zh-TW
+Practised Reapplication,熟以致用,zh-TW
+Prepared Response,預備反應,zh-TW
+Presage,預示,zh-TW
+Primal Manifestation,圖騰專精,zh-TW
+Primal Spirit,原始精神,zh-TW
+Primeval Force,太古之力,zh-TW
+Prism Weave,綾彩交織,zh-TW
+Prismatic,三相的,zh-TW
+Prismatic Skin,稜彩之膚,zh-TW
+Prodigal Perfection,完美浪子,zh-TW
+Profane Chemistry,生物學,zh-TW
+Purity of Flesh,肉體之純潔,zh-TW
+Quick Recovery,快速回復,zh-TW
+Rallying Icon,團結象徵,zh-TW
+Rampart,壁壘,zh-TW
+Ravenous Horde,貪婪之徒,zh-TW
+Razor's Edge,剃刃,zh-TW
+Redemption,救贖,zh-TW
+Reflexes,反射,zh-TW
+Relentless,冷酷無情,zh-TW
+Relentless Pursuit,努力不懈,zh-TW
+Renowned Deeds,著名事蹟,zh-TW
+Replenishing Remedies,補藥,zh-TW
+Replica Stampede Assassin's Boots,贗品．潰逃之靴 刺殺者之靴,zh-TW
+Resourcefulness,足智多謀,zh-TW
+Retaliation,復仇,zh-TW
+Retribution,制裁,zh-TW
+Revelry,狂歡,zh-TW
+Revenge of the Hunted,死亡通緝,zh-TW
+Ribcage Crusher,碎胸者,zh-TW
+Righteous Army,正義軍團,zh-TW
+Righteous Decree,正義審判,zh-TW
+Righteous Fury,正義怒火,zh-TW
+Roaring Challenge,咆哮挑戰,zh-TW
+Robust,堅固,zh-TW
+Runesmith,魔符匠,zh-TW
+Sacrifice,獻祭,zh-TW
+Safeguard,庇護,zh-TW
+Sanctity,聖潔之力,zh-TW
+Sanctuary,庇護聖所,zh-TW
+Sanctum of Thought,靈思聖殿,zh-TW
+Savage Intensity,野性強化,zh-TW
+Savage Skewering,野蠻穿刺,zh-TW
+Savage Wounds,殘疤,zh-TW
+Savagery,野性之心,zh-TW
+Searing Heat,灼熱,zh-TW
+Season of Ice,冰霜季節,zh-TW
+Seasoned Swordplay,劍術精通,zh-TW
+Selective Precision,細選精準,zh-TW
+Sentinel,哨兵,zh-TW
+Sepia,深褐,zh-TW
+Serpent Stance,蛇影戰陣,zh-TW
+Serpentine Spellslinger,毒蛇法術回音,zh-TW
+Settling Ash,沉澱灰燼,zh-TW
+Shaman's Dominion,薩滿領地,zh-TW
+Shamanistic Fury,薩滿之怒,zh-TW
+Shaper,聖杯,zh-TW
+Shining Justice,閃耀正義,zh-TW
+Silent Steps,悄無聲息,zh-TW
+Silver,純銀,zh-TW
+Sione's Ambition,西奧妮的野心,zh-TW
+Skittering Runes,飛掠符文,zh-TW
+Skull Cracking,碎顱,zh-TW
+Slaughter,屠殺,zh-TW
+Sleight of Hand,戲法,zh-TW
+Smashing Strikes,沉重之擊,zh-TW
+Snowforged,雪鍛,zh-TW
+Soul of Steel,堅鋼之靈,zh-TW
+Soul Siphon,靈魂吸收,zh-TW
+Soul Thief,竊魂者,zh-TW
+Sovereignty,主權,zh-TW
+Spiked Bulwark,荊棘壁壘,zh-TW
+Spinecruncher,碎脊者,zh-TW
+Spirit of War,戰爭之靈,zh-TW
+Spirit Void,精華抽取,zh-TW
+Spiritual Aid,精神救助,zh-TW
+Spiritual Command,精神號令,zh-TW
+Split Shot,分裂射擊,zh-TW
+Sporeguard,毒孢守衛 聖者鏈甲,zh-TW
+Stamina,充沛精力,zh-TW
+Static Blows,充能之擊,zh-TW
+Steadfast,堅貞不渝,zh-TW
+Steelwood Stance,鋼木之姿,zh-TW
+Steeped in the Profane,褻瀆之身,zh-TW
+Storm Weaver,風暴織者,zh-TW
+Strong Arm,強壯手臂,zh-TW
+Successive Detonations,連續爆破,zh-TW
+Surge of Vigour,活力之湧,zh-TW
+Surveillance,監視,zh-TW
+Survivalist,死裡逃生,zh-TW
+Swagger,雙刃之舞,zh-TW
+Swift Venoms,迅速猛毒,zh-TW
+Taste for Blood,血味,zh-TW
+Teal,清綠,zh-TW
+Tempest Blast,風暴衝擊,zh-TW
+Tenacity,不屈不撓,zh-TW
+Testudo,龜甲盾,zh-TW
+The Stampede,潰逃之靴 刺殺者之靴,zh-TW
+Thick Skin,強化之膚,zh-TW
+Thrill Killer,驚險殺手,zh-TW
+Thrill of Battle,戰鬥亢奮,zh-TW
+Throatseeker,割喉者,zh-TW
+Tireless,冷酷,zh-TW
+Titanic Impacts,巨大影響,zh-TW
+Tolerance,寬容,zh-TW
+Totemic Zeal,熱情圖騰,zh-TW
+Toxic Strikes,毒化之擊,zh-TW
+Tranquility,寧靜,zh-TW
+Trial of the Faith,信仰試煉,zh-TW
+Tribal Fury,部落之怒,zh-TW
+Trick Shot,花式射擊,zh-TW
+Trickery,詭計,zh-TW
+True Strike,真實之擊,zh-TW
+Twin Terrors,雙重懼刃,zh-TW
+Undertaker,送葬者,zh-TW
+Unfaltering,堅定不移,zh-TW
+Unnatural Calm,沉寂之心,zh-TW
+Unstable Munitions,不穩定彈藥,zh-TW
+Utmost Intellect,極度聰穎,zh-TW
+Utmost Might,極度權勢,zh-TW
+Utmost Swiftness,極度迅速,zh-TW
+Vampirism,吸血主義,zh-TW
+Vanquisher,勝者,zh-TW
+Vengeance,復仇,zh-TW
+Vengeant Cascade,復仇浪湧,zh-TW
+Verdant,翠綠,zh-TW
+Versatility,俊敏,zh-TW
+Veteran Soldier,老兵,zh-TW
+Veteran's Wrath,老兵的暴怒,zh-TW
+Vigour,活力之源,zh-TW
+Vinespike Cordial,荊刺之誠,zh-TW
+Violet,奼紫,zh-TW
+Vitality Void,活力虛空,zh-TW
+Void Barrier,虛影屏障,zh-TW
+Volatile Mines,零秒出手,zh-TW
+Wall of Steel,鋼鐵之壁,zh-TW
+Wandslinger,鬥杖者之力,zh-TW
+Warrior Training,戰士訓練,zh-TW
+Warrior's Blood,戰士之血,zh-TW
+Wasting,浪費,zh-TW
+Watchtowers,看守塔,zh-TW
+Way of the Warrior,戰士之道,zh-TW
+Weapon Artistry,舞刃宗師,zh-TW
+Weathered Hunter,夜之狩獵,zh-TW
+Whirling Barrier,杖影屏障,zh-TW
+Whispers of Doom,滅世之語,zh-TW
+Wicked Blade,殘靈刀刃,zh-TW
+Wild Hunger,野性渴望,zh-TW
+Will of Blades,刀刃意志,zh-TW
+Window of Opportunity,機會之窗,zh-TW
+Winter Spirit,寒冬之靈,zh-TW
+"Wood, Stone, and Spell",木頭、石頭和法術,zh-TW
+Worship the Blightheart,崇拜凋落之心,zh-TW
+Wrecking Ball,崩雷,zh-TW
+Written in Blood,血書,zh-TW
+"""O' Eternal""",《永恆》,zh-TW
+"""The Kiss Goodnight""",《晚安吻》,zh-TW
+"""The Nameless Play""",《無名小卒》,zh-TW
+A Call to Arms,武裝號召,zh-TW
+A Choice of Futures,先見之明,zh-TW
+A Dirty Job,腐水之息,zh-TW
+A Fixture of Fate,命運之語,zh-TW
+A Glimpse Beyond,驚鴻一瞥,zh-TW
+A Merciful Hunt,仁慈狩獵,zh-TW
+A Swig of Hope,重生的渴望,zh-TW
+Admiral Darnaw,達爾奈上將,zh-TW
+Admiral Darnaw's Papers,達爾奈上將的報告,zh-TW
+Aiding an Archivist,幫助檔案管理員,zh-TW
+Alchemical Supplies,鍊金設備,zh-TW
+Alder Spiked Shield,榿木刺盾,zh-TW
+Alira's Amulet,阿莉亞的古靈之記,zh-TW
+Allflame,不滅之火,zh-TW
+Altered Flesh,變形肉體,zh-TW
+Ambusher,伏擊刺刃,zh-TW
+Ammonite Glyph,雕紋：菊紋,zh-TW
+An End to Hunger,終結饑荒,zh-TW
+An Indomitable Spirit,不屈意志,zh-TW
+Ankh of Eternity,永恆的十字架,zh-TW
+Aquamarine Flask,海藍藥劑,zh-TW
+Atlas Book of Skill,輿圖天賦書,zh-TW
+Baffling Blueprints,費解的藍圖,zh-TW
+Baleful Gem,邪影寶石,zh-TW
+Barbed Club,銳刺木棒,zh-TW
+Basalt Flask,石化藥劑,zh-TW
+Basilisk Acid,蜥毒,zh-TW
+Battle Lamellar,爭戰鱗甲,zh-TW
+Become the Darkness,成為黑暗,zh-TW
+Bestel's Epic,畢斯特之詩,zh-TW
+Bestel's Manuscript,畢斯特的手稿,zh-TW
+Bismuth Flask,灰岩藥劑,zh-TW
+Black Venom,黑色毒液,zh-TW
+Blackguard Personnel Files,烏旗守衛個人資料,zh-TW
+Blood Crucible,血腥匣盒,zh-TW
+Blood Raiment,血色之衣,zh-TW
+Blunt Arrow Quiver,鈍矢箭袋,zh-TW
+Book of Regrets,後悔之書,zh-TW
+Book of Skill,天賦之書,zh-TW
+Bottled Storm,瓶風暴,zh-TW
+Branded Kite Shield,聖記鳶盾,zh-TW
+Breachlord Limbs,裂痕領主之肢,zh-TW
+Breaking Some Eggs,打破鳥蛋,zh-TW
+Breaking the Seal,突破封印,zh-TW
+Bunker,碉堡,zh-TW
+Burnished Foil,冷芒刺劍,zh-TW
+Bust of Gaius Sentari,蓋厄斯．山特立的半身像,zh-TW
+Bust of Hector Titucius,赫克特．提圖瑟的半身像,zh-TW
+Bust of Marceus Lioneye,穆希爾斯．獅眼的半身像,zh-TW
+Butcher Knife,屠夫刀,zh-TW
+Calendar of Fortune,命運之曆,zh-TW
+Callous Mask,無情之面,zh-TW
+Carnal Boots,禁禮之靴,zh-TW
+Censer Relic,香爐聖物,zh-TW
+Census Records,戶口名簿,zh-TW
+Ceremonial Voidstone,儀式虛空石,zh-TW
+Chainmail Vest,鎖鏈背心,zh-TW
+Chitus' Plum,切特斯的梅果,zh-TW
+Clasped Skull,扣合頭骨,zh-TW
+Claw Bramble,爪棘,zh-TW
+Cloth Belt,飾布腰帶,zh-TW
+Coiled Wand,纏繞法杖,zh-TW
+Colourful Roses,多彩玫瑰,zh-TW
+Confront Nashta,面對納什塔,zh-TW
+Conjurer Boots,咒者長靴,zh-TW
+Contract: A Matter of Honour,契約書：榮譽之重,zh-TW
+Contract: A Mundane Sample,契約書：一般的樣本,zh-TW
+Contract: Breaking the Unbreakable,契約書：攻破不破者,zh-TW
+Contract: Credit Where Credit's Due,契約書：償還貸款,zh-TW
+Contract: Death to Darnaw,契約書：達爾奈之死,zh-TW
+Contract: Disengagement,契約書：解除婚約,zh-TW
+Contract: Enoch's Remains,契約書：以諾的遺物,zh-TW
+Contract: Enoch's Whereabouts,契約書：以諾的下落,zh-TW
+Contract: Finding Opal,契約書：尋找歐帕蘿,zh-TW
+Contract: Findings for Fidium,契約書：找尋菲迪恩,zh-TW
+Contract: Flying False Colours,契約書：虛假色彩,zh-TW
+Contract: Follow the Paper Trail,契約書：依循證據,zh-TW
+Contract: Grocery List,契約書：雜貨清單,zh-TW
+Contract: Heart of Glory,契約書：榮譽之心,zh-TW
+Contract: Hyrri's Gift,契約書：西里的贈禮,zh-TW
+Contract: Isla's Designs,契約書：伊絲菈的設計,zh-TW
+Contract: Isla's Prototypes,契約書：伊絲菈的原型,zh-TW
+Contract: Jamanra's Rest,契約書：賈嫚拉之息,zh-TW
+Contract: Karst's Revenge,契約書：卡司特的復仇,zh-TW
+Contract: Opal's Jewels,契約書：蛋白石珠寶,zh-TW
+Contract: Rational Tools,契約書：適當的工具,zh-TW
+Contract: Slaver's Revenge,契約書：奴隸的復仇,zh-TW
+Contract: Stolen Lockpicks,契約書：失竊的鎖撬,zh-TW
+Contract: The Admiral's Records,契約書：上將的紀錄,zh-TW
+Contract: The Book of Jamanra,契約書：賈嫚拉之書,zh-TW
+Contract: The Finest Costumes,契約書：華麗服裝,zh-TW
+Contract: The Nameless Play,契約書：無名小卒,zh-TW
+Contract: The Negotiation,契約書：談判,zh-TW
+Contract: The Rescue,契約書：營救,zh-TW
+Contract: The Slaver King,契約書：奴隸王,zh-TW
+Contract: The Twins,契約書：雙胞胎,zh-TW
+Contract: The Vinderi Bomb,契約書：溫德利炸彈,zh-TW
+Contract: The Wedding Dress,契約書：婚紗,zh-TW
+Contract: Trial Run,契約書：試煉之行,zh-TW
+Corpus Malachus,瑪拉凱遺骸,zh-TW
+Corundum Flask,金剛藥劑,zh-TW
+Culling the Cultists,消滅邪教,zh-TW
+Cutlass,軍用長刃,zh-TW
+Deal with the Bandits,與盜賊們打交道,zh-TW
+Death and Rebirth,死與生,zh-TW
+Death to Purity,死得其所,zh-TW
+Decanter Spiritus,聚魂美酒,zh-TW
+Decayed Voidstone,腐朽虛空石,zh-TW
+Decurve Bow,直弓,zh-TW
+Deshret's Banner,迪虛瑞特的紅旗,zh-TW
+Devout Chainmail,虔誠鏈甲,zh-TW
+Diamond Flask,寶鑽藥劑,zh-TW
+Divine Life Flask,不朽生命藥劑,zh-TW
+Divine Mana Flask,不朽魔力藥劑,zh-TW
+Dream Furnace,邪夢冶煉,zh-TW
+Dying for a Fight,我的拳頭感到飢渴,zh-TW
+Ebony Tower Shield,烏木塔盾,zh-TW
+Einhar's Hunt,埃哈的狩獵,zh-TW
+Einhar's Menagerie,埃哈的獸園,zh-TW
+Elder's Orb,尊師玉,zh-TW
+Eldritch Voidstone,異能虛空石,zh-TW
+Elegant Ringmail,權貴環甲,zh-TW
+Elixir of Allure,催情劑,zh-TW
+Enemy at the Gate,大門口的敵人,zh-TW
+Enoch's Tags,以諾的標籤,zh-TW
+Essence of the Artist,藝術家的精髓,zh-TW
+Essence of the Hag,女巫的精髓,zh-TW
+Essence of Umbra,烏姆布拉的精髓,zh-TW
+Etched Kite Shield,刻文鳶盾,zh-TW
+Exploring Kingsmarch,探索金司馬區,zh-TW
+Explosive Archaeology,爆破考古,zh-TW
+Eye of Conquest,征服之眼,zh-TW
+Eyes of Zeal,熱情之眼,zh-TW
+Ezomyte Blade,艾茲麥巨劍,zh-TW
+Fastis Fortuna,天佑勇者,zh-TW
+Fencer Helm,擊劍士之盔,zh-TW
+Fertilising the Genesis Tree,滋養創生之樹,zh-TW
+Fiery Dust,餘燼之塵,zh-TW
+Figments Reforged,虛構重鑄,zh-TW
+Firefly,螢火蟲,zh-TW
+Fleet Orders,艦隊秩序,zh-TW
+Flesh Compass,血肉羅盤,zh-TW
+Fossilised Spirit Shield,石化魔盾,zh-TW
+Foul Hand,污穢之手,zh-TW
+Fumarole Tar,噴氣孔焦油,zh-TW
+Gavel,堅錘,zh-TW
+General's Brigandine,將軍鎧甲,zh-TW
+Gifts for the Genesis Tree,獻予創生之樹的贈禮,zh-TW
+Gladiator Plate,角鬥重鎧,zh-TW
+Gladius,鬥士長劍,zh-TW
+Gold,黃金,zh-TW
+Gold Ring,金光戒指,zh-TW
+Golden Hand,黃金之手,zh-TW
+Golden Page,黃金之頁,zh-TW
+Golden Plate,金耀之鎧,zh-TW
+Goliath Gauntlets,巨靈護手,zh-TW
+Goliath Greaves,巨靈脛甲,zh-TW
+Gouger,穿體鑿,zh-TW
+Greater Life Flask,良質生命藥劑,zh-TW
+Greater Mana Flask,良質魔力藥劑,zh-TW
+Greust's Necklace,古斯特的項鍊,zh-TW
+Haliotis Glyph,雕紋：孔螺,zh-TW
+Handmouth,掌口,zh-TW
+Hapihapi's Charm,黑本哈皮的咒術,zh-TW
+Headsman Axe,行刑巨斧,zh-TW
+Heavy Belt,重革腰帶,zh-TW
+Highland Blade,高山重刃,zh-TW
+Hinekora's Hair,悉妮蔻拉之髮,zh-TW
+Horned Skull,長角頭骨,zh-TW
+Hunt for the Crow,獵捕烏鴉,zh-TW
+In Memory of Greust,緬懷古斯特,zh-TW
+In Search of the Sanctum,探索聖域,zh-TW
+In Service to Science,服務至上,zh-TW
+Infernal Talc,煉獄之粉,zh-TW
+Into the Breach,踏入裂痕,zh-TW
+Into The Nexus,進入叉點,zh-TW
+Intruders in Black,黑色入侵者,zh-TW
+"Jamanra, the Legendary Warrior",傳奇戰士．賈嫚拉,zh-TW
+Karst's Lockpicks,卡司特的鎖撬,zh-TW
+Key of Devotion,奉獻之鑰,zh-TW
+Key of Strength,力量之鑰,zh-TW
+Kingsmarch Disenchanting,金司馬區破幻,zh-TW
+Kingsmarch Farming,金司馬區耕種,zh-TW
+Kingsmarch Mapping,金司馬區刷圖,zh-TW
+Kingsmarch Prospecting,金司馬區探礦,zh-TW
+Kingsmarch Shipping,金司馬區運送,zh-TW
+Kingsmarch Smelting,金司馬區冶煉,zh-TW
+Kishara's Star,奇夏拉之星,zh-TW
+Kitava's Torments,奇塔弗的折磨,zh-TW
+Kraityn's Amulet,克雷頓的古靈之記,zh-TW
+Laboratory,實驗室,zh-TW
+Lacquered Buckler,漆彩輕盾,zh-TW
+Lathi,武術長杖,zh-TW
+Leather Belt,皮革腰帶,zh-TW
+Lighting the Way,點亮路途,zh-TW
+Lost in Love,迷失的愛情,zh-TW
+Lost Voidstones,遺失虛空石,zh-TW
+Love is Dead,愛已墜落,zh-TW
+Luminous Astrolabe,閃爍星盤,zh-TW
+Lunar Eclipse,月蝕,zh-TW
+Malachai's Entrails,瑪拉凱的臟器,zh-TW
+Malachai's Heart,瑪拉凱的心,zh-TW
+Malachai's Lungs,瑪拉凱的肺,zh-TW
+Maligaro's Map,馬雷葛蘿的地圖,zh-TW
+Maligaro's Sanctum,馬雷葛蘿的書房,zh-TW
+Maligaro's Spike,馬雷葛蘿的尖刺,zh-TW
+Mansion,官邸,zh-TW
+Map (Tier 1),地圖（階級1）,zh-TW
+Map to Tsoatha,特索塔地圖,zh-TW
+Maple Round Shield,楓木圓盾,zh-TW
+Master Key,大師鑰匙,zh-TW
+Maven's Invitation: Glennach Cairns,釋界之邀：格倫納許．凱恩斯,zh-TW
+Maven's Invitation: Haewark Hamlet,釋界之邀：海沃克．哈姆雷特,zh-TW
+Maven's Invitation: Lex Ejoris,釋界之邀：雷克斯．伊喬里斯,zh-TW
+Maven's Invitation: Lex Proxima,釋界之邀：雷克斯．普拉克斯瑪,zh-TW
+Maven's Invitation: Lira Arthain,釋界之邀：里拉．奧斯汀,zh-TW
+Maven's Invitation: New Vastir,釋界之邀：新瓦斯提里,zh-TW
+Maven's Invitation: The Atlas,釋界之邀：輿圖,zh-TW
+Maven's Invitation: Tirn's End,釋界之邀：特恩之盡,zh-TW
+Maven's Invitation: Valdo's Rest,釋界之邀：瓦爾多憩地,zh-TW
+Medicine Chest,醫藥箱,zh-TW
+Medium Life Flask,中型生命藥劑,zh-TW
+Medium Mana Flask,中型魔力藥劑,zh-TW
+Memory Fragment I,記憶斷片I,zh-TW
+Memory Fragment II,記憶斷片II,zh-TW
+Memory Fragment III,記憶斷片III,zh-TW
+Memory Fragment IV,記憶斷片IV,zh-TW
+Memory Fragment IX,記憶斷片IX,zh-TW
+Memory Fragment V,記憶斷片V,zh-TW
+Memory Fragment VI,記憶斷片VI,zh-TW
+Memory Fragment VII,記憶斷片VII,zh-TW
+Memory Fragment VIII,記憶斷片VIII,zh-TW
+Memory Fragment X,記憶斷片X,zh-TW
+Memory Fragment XI,記憶斷片XI,zh-TW
+Memory Fragment XII,記憶斷片XII,zh-TW
+Memory Fragment XIII,記憶斷片XIII,zh-TW
+Memory Fragment XIV,記憶斷片XIV,zh-TW
+Memory Fragment XV,記憶斷片XV,zh-TW
+Mercy Mission,醫者之心,zh-TW
+Merveil's Wedding Dress,莫薇兒的婚紗,zh-TW
+Miasmeter,探測棒,zh-TW
+Military Staff,軍用長杖,zh-TW
+Moment of Loneliness,孤獨時刻,zh-TW
+Moment of Trauma,創傷時刻,zh-TW
+Moon Orb,月影之石,zh-TW
+Nashta's War Journal,納什塔的戰爭日記,zh-TW
+Negotiate with the Client,與客戶談判,zh-TW
+Niko's Explosives,尼科的炸藥,zh-TW
+Niko's Fuel,尼科的燃料,zh-TW
+Niko's Mine,尼科的礦脈,zh-TW
+No Love for Old Ghosts,缺愛幽魂,zh-TW
+No Time like the Present,時不我與,zh-TW
+Noble Tricorne,貴族三角帽,zh-TW
+Oak Buckler,橡木輕盾,zh-TW
+Oak's Amulet,歐克的古靈之記,zh-TW
+Obsidian Key,黑曜之鑰,zh-TW
+Omen Wand,靈兆法杖,zh-TW
+Opal Sceptre,靈石權杖,zh-TW
+Painted Tower Shield,彩繪塔盾,zh-TW
+Paying Tribute,上繳貢禮,zh-TW
+Piety's Pets,派蒂的寵物,zh-TW
+Pile of Inexplicable Junk,一堆奇妙的垃圾,zh-TW
+Piledriver,掃蕩者,zh-TW
+Plate Vest,鐵製背心,zh-TW
+Poisoned Lockpick,有毒的鎖撬,zh-TW
+Pound of Flesh,肉塊,zh-TW
+Quartz Flask,石英藥劑,zh-TW
+Queen of Despair,絕望之后,zh-TW
+Queen of the Sands,沙瀑女王,zh-TW
+Ranger Bow,漫遊之弓,zh-TW
+Reaver Axe,殘暴之斧,zh-TW
+Records Office,紀錄室,zh-TW
+Recurring Nightmare,夢魘匪懈,zh-TW
+Redwood Spiked Shield,紅木刺盾,zh-TW
+Reflection of Terror,恐懼的血照,zh-TW
+Repository,展覽室,zh-TW
+Rescue Hana,營救哈娜,zh-TW
+Return to Oriath,重返奧瑞亞,zh-TW
+Ribbon Spool,絲帶線軸,zh-TW
+Roseus Glyph,雕紋：長春花,zh-TW
+Safe and Sound,安全與寧靜,zh-TW
+Safe Passage,安全通關,zh-TW
+Sanctum Temptations,誘惑聖域,zh-TW
+Scale Vest,細鱗背心,zh-TW
+Sekhem,威能權杖,zh-TW
+Sekhema Feather,絲克瑪之羽,zh-TW
+Sentinel Controller,守望控制器,zh-TW
+Sever the Right Hand,剷除左右手,zh-TW
+Severed Limb,斷裂肢體,zh-TW
+Sewer Keys,下水道鑰匙,zh-TW
+Shadow of the Vaal,瓦爾之影,zh-TW
+Shagreen Boots,粗革短靴,zh-TW
+Shaper's Orb (Tier 1),塑界玉（階級1）,zh-TW
+Shaper's Orb (Tier 10),塑界玉（階級10）,zh-TW
+Shaper's Orb (Tier 2),塑界玉（階級2）,zh-TW
+Shaper's Orb (Tier 3),塑界玉（階級3）,zh-TW
+Shaper's Orb (Tier 4),塑界玉（階級4）,zh-TW
+Shaper's Orb (Tier 5),塑界玉（階級5）,zh-TW
+Shaper's Orb (Tier 6),塑界玉（階級6）,zh-TW
+Shaper's Orb (Tier 7),塑界玉（階級7）,zh-TW
+Shaper's Orb (Tier 8),塑界玉（階級8）,zh-TW
+Shaper's Orb (Tier 9),塑界玉（階級9）,zh-TW
+Sharp and Cruel,清理蜘蛛,zh-TW
+Shattered Past,破碎過去,zh-TW
+Shrinking Light,這樣太危險，光太暗,zh-TW
+Siege Helmet,破城之盔,zh-TW
+Sign of Purity,純淨之印,zh-TW
+Silver Locket,銀色寶盒,zh-TW
+Slaver's Records,奴隸的紀錄,zh-TW
+Smuggler's Den,走私者老巢,zh-TW
+Solar Eclipse,日蝕,zh-TW
+Soldier Boots,戰士之靴,zh-TW
+Soldier Gloves,戰士手套,zh-TW
+Solerai's Spear,索拉萊之矛,zh-TW
+Soul of Abberath,艾貝拉斯之魂,zh-TW
+Soul of Arakaali,艾爾卡莉之魂,zh-TW
+Soul of Garukhan,卡洛翰之魂,zh-TW
+Soul of Gruthkul,葛魯斯寇之魂,zh-TW
+Soul of Lunaris,月影神之魂,zh-TW
+Soul of Ralakesh,芮勒蓋許之魂,zh-TW
+Soul of Ryslatha,瑞斯拉薩之魂,zh-TW
+Soul of Shakari,夏卡莉之魂,zh-TW
+Soul of Solaris,日耀神之魂,zh-TW
+Soul of the Brine King,海洋王之魂,zh-TW
+Soul of Tukohama,圖克哈瑪之魂,zh-TW
+Soul of Yugul,伊果之魂,zh-TW
+Spike-Point Arrow Quiver,刺鋒箭袋,zh-TW
+Spiked Limb,尖刺肢體,zh-TW
+Spiteful Winter,殘酷之冬,zh-TW
+Steel Circlet,冷鋼之冠,zh-TW
+Steelhead,沉鋼重錘,zh-TW
+Stibnite Flask,迷霧藥劑,zh-TW
+Storm Blade,風暴飛刃,zh-TW
+Strange Growths,變異孳生,zh-TW
+Strange Limb,畸異肢體,zh-TW
+Strengthening Darkness,這樣太危險，抗性太低,zh-TW
+Studded Belt,扣釘腰帶,zh-TW
+Sulphur Flask,硫磺藥劑,zh-TW
+Sun Orb,日耀之石,zh-TW
+Sundering Axe,裂甲巨斧,zh-TW
+Teak Round Shield,柚木圓盾,zh-TW
+Tempered Foil,強化細劍,zh-TW
+Templar Uniforms,聖宗服飾,zh-TW
+Thaumetic Emblem,奇術徽章,zh-TW
+Thaumetic Sulphite,托麥迪克亞硫酸,zh-TW
+The Apex,巨靈之印,zh-TW
+The Atlas of Worlds,吞噬天地,zh-TW
+The Bandit Lord Alira,幫助盜賊頭目－阿莉亞,zh-TW
+The Bandit Lord Kraityn,幫助盜賊頭目－克雷頓,zh-TW
+The Bandit Lord Oak,幫助盜賊頭目－歐克,zh-TW
+The Black Flag,黑色旗幟,zh-TW
+The Blood Idol,血腥崇拜,zh-TW
+The Book of Jamanra,賈嫚拉之書,zh-TW
+The Brine King,海洋之王,zh-TW
+The Caged Brute,衝出監牢,zh-TW
+The Cloven One,堅蹄亡羊,zh-TW
+The Dweller of the Deep,黑淵危機,zh-TW
+The Eternal Nightmare,永恆夢魘,zh-TW
+The Eye of Desire,慾望之眼,zh-TW
+The Eye of Fury,憤怒之眼,zh-TW
+The Father of War,戰爭之父,zh-TW
+The Forbidden Sanctum,禁忌聖域,zh-TW
+The Gemling Legion,古靈軍閥,zh-TW
+The Gemling Queen,寶石皇后,zh-TW
+The Great White Beast,白色巨獸,zh-TW
+The Head of Vruun,弗倫之首,zh-TW
+The Immortal Syndicate,永生密教,zh-TW
+The Key to Freedom,自由之鑰,zh-TW
+The King of Desire,慾望之王,zh-TW
+The King of Fury,暴怒之王,zh-TW
+The King's Feast,國王的盛宴,zh-TW
+The Lord's Labyrinth,帝王試煉迷宮,zh-TW
+The Lost Expedition,失落探險,zh-TW
+The Marooned Mariner,被放逐的水手,zh-TW
+The Master of a Million Faces,裝容大師,zh-TW
+The Maven's Beacon,釋界信標,zh-TW
+The Maven's Game,釋界的遊戲,zh-TW
+The Mortinomicon Exitio Immortalis,亡者之書：終結不朽,zh-TW
+The Mother of Spiders,蜘蛛之母,zh-TW
+The Puppet Mistress,傀儡女王,zh-TW
+The Ravenous God,貪婪之神,zh-TW
+The Ribbon Spool,絲帶線軸,zh-TW
+The Rogue Harbour,盜賊港灣,zh-TW
+The Root of the Problem,盤根錯節,zh-TW
+The Ruler of Highgate,統治者之爭,zh-TW
+The Sacred Grove,聖殿密園,zh-TW
+The Sceptre of God,神之權杖,zh-TW
+The Shaper's Key,塑者之鑰,zh-TW
+The Silver Locket,銀盒,zh-TW
+The Siren's Cadence,海妖之歌,zh-TW
+The Staff of Purity,純淨之杖,zh-TW
+The Storm Blade,風暴飛刃,zh-TW
+The Teardrop,淚珠,zh-TW
+The Thought Extractor,思想萃取器,zh-TW
+The Trarthan Code,特拉特斯法典,zh-TW
+The Twilight Strand,絕望岩灘,zh-TW
+The Unbreakable,不破者,zh-TW
+The Undertaker's Apprentice,送葬者的學徒,zh-TW
+The Vox Twins,瓦克斯雙胞胎,zh-TW
+The Way Forward,開路先鋒,zh-TW
+The Wings of Vastiri,瓦斯提里之翼,zh-TW
+Thirst for Blood,渴望鮮血,zh-TW
+Threads of the Originator,開創者綢帶,zh-TW
+Throat Stabber,刺喉刃,zh-TW
+Through Sacred Ground,夢中聖地,zh-TW
+Tibbs' Wealth,堤布斯的財富,zh-TW
+Tolman's Bracelet,托爾曼的手鐲,zh-TW
+Tomahawk,征戰之斧,zh-TW
+Toward the Future,走向未來,zh-TW
+Tower Key,神塔之鑰,zh-TW
+Trarthan Powder,查爾森之粉,zh-TW
+Tukohama's Tooth,圖克哈瑪之牙,zh-TW
+Tullina's Engagement Ring,圖利納的訂婚戒指,zh-TW
+Tunnels,地道,zh-TW
+Twisted Dreams,扭曲之夢,zh-TW
+Uncarved Gemstone,未雕刻寶石,zh-TW
+Unearthing the Past,挖掘過往,zh-TW
+Valako's Jaw,瓦拉庫之顎,zh-TW
+Vault Key,寶庫鑰匙,zh-TW
+Victario's Secrets,維多里奧的秘寶,zh-TW
+Vilenta's Vengeance,范尼達的復仇,zh-TW
+Viridi's Finger,維里迪的手指,zh-TW
+Viscera Cauldron,內臟釜鍋,zh-TW
+Vivid Rescue,拯救妖精,zh-TW
+Walnut Spirit Shield,桃木魔盾,zh-TW
+War for the Wildwood,荒林之戰,zh-TW
+Web of Secrets,秘密網羅,zh-TW
+Widowsilk Robe,毒蛛絲之袍,zh-TW
+Wings of Vastiri,瓦斯提里之翼,zh-TW
+Wyrmscale Boots,地蝮鱗長靴,zh-TW
+Wyrmscale Gauntlets,蝮鱗手套,zh-TW
+Zealot Helmet,熱戰之盔,zh-TW
+Zodiac Leather,星辰皮甲,zh-TW
+Awakened Support Gems,Awakened Support Gems,zh-TW
+Skill bar,Skill bar,zh-TW
+Treasure Key,古銅鑰匙,zh-TW
+Added Cold Damage Support,附加冰冷傷害輔助,zh-TW
+Agate Amulet,瑪瑙護身符,zh-TW
+Agnerod East,東方雷霆聖杖,zh-TW
+Agnerod North,北方雷霆聖杖,zh-TW
+Agnerod South,南方雷霆聖杖,zh-TW
+Agnerod West,西方雷霆聖杖,zh-TW
+Ahkeli's Mountain,阿卡莉的山巒,zh-TW
+Amber Amulet,琥珀護身符,zh-TW
+Amethyst Flask,紫晶藥劑,zh-TW
+Animate Weapon,幻化武器,zh-TW
+Apep's Slumber,艾普之眠,zh-TW
+Apep's Supremacy,艾普霸權,zh-TW
+Arborix,阿布里斯,zh-TW
+Architect's Hand,構築之手,zh-TW
+Astrolabe Amulet,星盤護身符,zh-TW
+Beltimber Blade,刀鋒禁材,zh-TW
+Berek's Grip,貝雷克的冰與雷之曲,zh-TW
+Berek's Pass,貝雷克的冰與火之歌,zh-TW
+Berek's Respite,貝雷克的火與雷之樂,zh-TW
+Bitterdream,苦夢,zh-TW
+Blessing of Chayula,夏烏拉的祝福,zh-TW
+Blessing of Esh,艾許的祝福,zh-TW
+Blessing of Tul,托沃的祝福,zh-TW
+Blessing of Uul-Netol,烏爾尼多的祝福,zh-TW
+Blessing of Xoph,索伏的祝福,zh-TW
+Blink Arrow,閃現射擊,zh-TW
+Block Chance Reduction Support,減少格擋率輔助,zh-TW
+Bone Spirit Shield,骨製魔盾,zh-TW
+Bonechill Support,寒冰刺骨輔助,zh-TW
+Book of Reform,抉擇之書,zh-TW
+Book of Regression,逆行之書,zh-TW
+Bound Rune,邊界符文,zh-TW
+Bounty Rune,寶藏符文,zh-TW
+Breach Ring,裂痕戒指,zh-TW
+Brutal Restraint,殘酷的紀律,zh-TW
+Cameria's Avarice,卡美利亞的貪婪,zh-TW
+Cameria's Maul,卡美利亞之錘,zh-TW
+Chain Belt,扣鏈腰帶,zh-TW
+Choir of the Storm,暴風之語,zh-TW
+Citrine Amulet,黃晶護身符,zh-TW
+Cold Penetration Support,冰冷穿透輔助,zh-TW
+Combat Focus,專精作戰,zh-TW
+Combustion Support,燃燒輔助,zh-TW
+Concentrated Effect Support,集中效應輔助,zh-TW
+Coral Amulet,珊瑚護身符,zh-TW
+Coral Ring,珊瑚戒指,zh-TW
+Coward's Chains,懦夫的鎖鏈,zh-TW
+Coward's Legacy,懦夫的遺產,zh-TW
+Crimson Jewel,赤紅珠寶,zh-TW
+Cryonic Ring,低溫之戒,zh-TW
+Dance of the Offered,奉獻之舞,zh-TW
+Dash,幻步,zh-TW
+Dead Reckoning,死亡清算,zh-TW
+Deregulation Scroll,反常卷軸,zh-TW
+Discharge,解放,zh-TW
+Duskdawn,宵曉,zh-TW
+Electroshock Scroll,電擊卷軸,zh-TW
+Elegant Hubris,優雅的高傲,zh-TW
+Elegant Sword,貴族之劍,zh-TW
+Elemental Aegis,元素聖盾,zh-TW
+Elemental Hit,元素打擊,zh-TW
+Elemental Penetration Support,元素穿透輔助,zh-TW
+Endless Misery,無盡謎團,zh-TW
+Enthalpic Ring,焓能之戒,zh-TW
+Esh's Mirror,艾許之鏡,zh-TW
+Esh's Visage,艾許之面,zh-TW
+Expedition Logbook,探險日誌,zh-TW
+Eye of Chayula,夏烏拉之眼,zh-TW
+Faminebind,饑荒之結,zh-TW
+Fate of the Vaal,瓦爾之命,zh-TW
+Feastbind,盛宴之結,zh-TW
+Fire Penetration Support,火焰穿透輔助,zh-TW
+Formless Ring,無形之戒,zh-TW
+Fragmentation Scroll,碎片卷軸,zh-TW
+Frostblink,霜漣之瞬,zh-TW
+Fugitive Ring,亡命之戒,zh-TW
+Glacial Hammer,冰霜之錘,zh-TW
+Glorious Vanity,輝煌的虛榮,zh-TW
+Gold Amulet,帝金護身符,zh-TW
+Granite Flask,堅岩藥劑,zh-TW
+Grasping Mail,貪婪鎧甲,zh-TW
+Grelwood Shank,沃德步伐,zh-TW
+Haemocombustion Scroll,爆燃卷軸,zh-TW
+Hand of Thought and Motion,思動之手,zh-TW
+Hand of Wisdom and Action,智行之手,zh-TW
+Heartbreaker,裂心刃,zh-TW
+Hypothermia Support,急凍輔助,zh-TW
+Hyrri's Bite,西里的嗜血之矢,zh-TW
+Ice Bite Support,霜咬輔助,zh-TW
+Ice Spear,冰矛,zh-TW
+Immolate Support,犧牲輔助,zh-TW
+Innervate Support,亢奮輔助,zh-TW
+Inscribed Ultimatum,最後通牒雕刻,zh-TW
+Inspiration Support,啟發輔助,zh-TW
+Invictus Solaris,堅毅日耀,zh-TW
+Iron Reflexes,霸體,zh-TW
+Iron Ring,鍛鐵戒指,zh-TW
+Jade Amulet,翠玉護身符,zh-TW
+Jade Flask,翠玉藥劑,zh-TW
+Journey Rune,旅途符文,zh-TW
+Kingmaker,王者之刃,zh-TW
+Lapis Amulet,海玉護身符,zh-TW
+Lethal Pride,致命的驕傲,zh-TW
+Life Rune,生命符文,zh-TW
+Light of Lunaris,月影之耀,zh-TW
+Lightning Penetration Support,閃電穿透輔助,zh-TW
+Lightning Warp,閃電傳送,zh-TW
+Loreweave,智者織衫,zh-TW
+Lost Unity,失落同心,zh-TW
+Magna Eclipsis,堅毅之蝕,zh-TW
+Mask of the Spirit Drinker,魂飲化面,zh-TW
+Mask of the Stitched Demon,惡縫之面,zh-TW
+Militant Faith,激進的信仰,zh-TW
+Mirror Arrow,魅影射擊,zh-TW
+Mountain Rune,山脊符文,zh-TW
+Omeyocan,歐門悠根,zh-TW
+Onyx Amulet,黑曜護身符,zh-TW
+Orb of Horizons,地平石,zh-TW
+Organic Ring,有機之戒,zh-TW
+Paua Amulet,海靈護身符,zh-TW
+Paua Ring,海靈戒指,zh-TW
+Precursor's Emblem,先引之征,zh-TW
+Presence of Chayula,夏烏拉之印,zh-TW
+Primordial Eminence,先祖卓越,zh-TW
+Primordial Harmony,先祖和諧,zh-TW
+Primordial Might,先祖力量,zh-TW
+Prismatic Ring,三相戒指,zh-TW
+Puncture,放血,zh-TW
+Putembo's Valley,普坦堡的峽谷,zh-TW
+Quicksilver Flask,水銀藥劑,zh-TW
+Rain of Arrows,箭雨,zh-TW
+Replica Bitterdream,贗品．苦夢,zh-TW
+River Rune,河川符文,zh-TW
+Ruby Flask,紅玉藥劑,zh-TW
+Ruby Ring,紅玉戒指,zh-TW
+Rustic Sash,素布腰帶,zh-TW
+Sacrificial Heart,犧牲之心,zh-TW
+Sanctified Relic,神化聖物,zh-TW
+Sapphire Flask,藍玉藥劑,zh-TW
+Sapphire Ring,藍玉戒指,zh-TW
+Second Wind Support,恢復輔助,zh-TW
+Severed in Sleep,離異夢寐,zh-TW
+Shade of Solaris,日耀之影,zh-TW
+Sharktooth Arrow Quiver,鯊齒箭袋,zh-TW
+Skin of the Lords,君主之膚,zh-TW
+Skin of the Loyal,忠誠之膚,zh-TW
+Slavedriver's Hand,奴役之手,zh-TW
+Soul Catcher,追魂者,zh-TW
+Soul Ripper,碎魂者,zh-TW
+Soul Taker,開膛斧,zh-TW
+Specularity Scroll,反射卷軸,zh-TW
+Spirit Guards,精神守護,zh-TW
+Star of Wraeclast,瓦爾克拉斯之星,zh-TW
+Story of the Vaal,瓦爾之序,zh-TW
+Summon Skeletons,召喚骷髏,zh-TW
+Sun Rune,太陽符文,zh-TW
+Synaptic Ring,突觸之戒,zh-TW
+Tempered Flesh,冶鍊之體,zh-TW
+Tempered Mind,冶鍊之意,zh-TW
+Tempered Spirit,冶鍊之靈,zh-TW
+The Anima Stone,聚魂石,zh-TW
+The Anticipation,懸念,zh-TW
+The Blue Dream,碧影夢境,zh-TW
+The Blue Nightmare,碧影夢魘,zh-TW
+The Enmity Divine,惡言聖語,zh-TW
+The Flow Untethered,潺流不息,zh-TW
+The Formless Flame,無形火炬,zh-TW
+The Formless Inferno,無形煉獄,zh-TW
+The Fracturing Spinner,裂斷蛛絲,zh-TW
+The Goddess Bound,女神的靈縛,zh-TW
+The Goddess Scorned,女神的怒炎,zh-TW
+The Green Dream,青影夢境,zh-TW
+The Green Nightmare,青影夢魘,zh-TW
+The Halcyon,太平,zh-TW
+The Immortal Will,不朽之意志,zh-TW
+The Infinite Pursuit,無盡之距,zh-TW
+The Pandemonius,群魔殿,zh-TW
+The Perfect Form,完美姿態,zh-TW
+The Red Dream,赤影夢境,zh-TW
+The Red Nightmare,赤影夢魘,zh-TW
+The Red Trail,赤紅蹤跡,zh-TW
+The Retch,嘔吐,zh-TW
+The Rippling Thoughts,漣漪冥想,zh-TW
+The Shattered Divinity,碎裂之神力,zh-TW
+The Snowblind Grace,雪盲恩惠,zh-TW
+The Sundered Will,破碎之志,zh-TW
+The Surging Thoughts,湧浪之思想,zh-TW
+The Surrender,降伏,zh-TW
+The Taming,元素之章,zh-TW
+The Tempest's Binding,風暴的拘束,zh-TW
+The Tempest's Liberation,暴雨之解放,zh-TW
+The Torrent's Reclamation,奔流之開拓,zh-TW
+The Unshattered Will,不滅意志,zh-TW
+The Vinktar Square,維克塔廣場,zh-TW
+The Will of Esh,艾許之意志,zh-TW
+The Will of Tul,托沃之意志,zh-TW
+The Will of Uul-Netol,烏爾尼托之意志,zh-TW
+The Will of Xoph,索伏之意志,zh-TW
+The Yielding Mortality,屈服之死相,zh-TW
+Time Rune,時間符文,zh-TW
+Time-light Scroll,時光卷軸,zh-TW
+Topaz Flask,黃玉藥劑,zh-TW
+Topaz Ring,黃玉戒指,zh-TW
+Transcendent Flesh,超凡之體,zh-TW
+Transcendent Mind,超凡之意,zh-TW
+Transcendent Spirit,超凡之靈,zh-TW
+Tulborn,托沃崩,zh-TW
+Tulfall,托沃臥,zh-TW
+Turquoise Amulet,青玉護身符,zh-TW
+Two-Stone Ring,雙玉戒指,zh-TW
+Unbound Ailments Support,無邊異能輔助,zh-TW
+United in Dream,合流夢寐,zh-TW
+Uul-Netol's Embrace,烏爾尼多的擁抱,zh-TW
+Uul-Netol's Kiss,烏爾尼多之吻,zh-TW
+Uzaza's Meadow,尤莎莎的草原,zh-TW
+Vaults of Atziri,阿茲里的秘寶庫,zh-TW
+Vial of Awakening,覺醒之罈,zh-TW
+Vial of Consequence,因果之罈,zh-TW
+Vial of Dominance,統御之罈,zh-TW
+Vial of Fate,命運之罈,zh-TW
+Vial of Sacrifice,獻祭之罈,zh-TW
+Vial of Summoning,召喚之罈,zh-TW
+Vial of the Ghost,亡靈之罈,zh-TW
+Vial of the Ritual,儀式之罈,zh-TW
+Vial of Transcendence,超越之罈,zh-TW
+Vix Lunaris,波動月影,zh-TW
+Voice of the Storm,暴風之言,zh-TW
+War Rune,戰爭符文,zh-TW
+Xoph's Blood,索伏之血,zh-TW
+Xoph's Heart,索伏之心,zh-TW
+Xoph's Inception,索伏的始源,zh-TW
+Xoph's Nurture,索伏的愛撫,zh-TW
+Zerphi's Heart,澤佛伊之心,zh-TW
+Endgame,終局,zh-TW
+Tier,階級,zh-TW
+Chain,連鎖,zh-TW
+Fork,分裂,zh-TW
+Pierce,穿透,zh-TW
+Return,返回,zh-TW
+Totem,圖騰,zh-TW
+Trap,陷阱,zh-TW
+Energy Shield Leech,能量護盾偷取,zh-TW
+Life Leech,生命偷取,zh-TW
+Mana Leech,魔力偷取,zh-TW
+Recharge,充能恢復,zh-TW
+Recoup,補償恢復,zh-TW
+Recovery,恢復,zh-TW
+Regeneration,再生,zh-TW
+Life,生命,zh-TW
+Mana,魔力,zh-TW
+Rage,盛怒,zh-TW
+Reservation,保留,zh-TW
+Spirit,精魂,zh-TW
+Active Skill,主動技能,zh-TW
+Area of Effect,範圍效果,zh-TW
+Aura,光環,zh-TW
+Banner,旗幟,zh-TW
+Brand,烙印,zh-TW
+Channelling,引導,zh-TW
+Guard Skill,防護技能,zh-TW
+Herald,捷,zh-TW
+Mine,地雷,zh-TW
+Minion,召喚物,zh-TW
+Slam,重擊,zh-TW
+Strike,打擊,zh-TW
+Travel,位移,zh-TW
+Vaal Skill,瓦爾技能,zh-TW
+Warcry,戰吼,zh-TW
+Guild,公會,zh-TW
+Party,隊伍,zh-TW
+Attack Speed,攻擊速度,zh-TW
+Attacks per Second,每秒攻擊次數,zh-TW
+Additional,附加,zh-TW
+Increased,增加,zh-TW
+Less,更少,zh-TW
+More,更多,zh-TW
+Nearby,附近,zh-TW
+Recently,近期內,zh-TW
+Reduced,減少,zh-TW
+Buff,增益效果,zh-TW
+Debuff,減益效果,zh-TW
+Stash,倉庫,zh-TW
+Buyout,直購價,zh-TW
+Want To Buy,想買,zh-TW
+Want To Sell,想賣,zh-TW
+Want To Trade,想換,zh-TW
+Cast on Critical Strike,暴擊時施放,zh-TW
+Axe,斧,zh-TW
+Bow,弓,zh-TW
+Claw,爪,zh-TW
+Crossbow,十字弓,zh-TW
+Dagger,匕首,zh-TW
+Flail,鏈錘,zh-TW
+Mace,錘,zh-TW
+Quarterstaff,細杖,zh-TW
+Sceptre,權杖,zh-TW
+Spear,長鋒,zh-TW
+Staff,長杖,zh-TW
+Sword,劍,zh-TW
+Wand,法杖,zh-TW
+Area,區域,zh-TW
+Hideout,藏身處,zh-TW
+Portal,傳送門,zh-TW
+Town,城鎮,zh-TW
+Waypoint,傳送點,zh-TW

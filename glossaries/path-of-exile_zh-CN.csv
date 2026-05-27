@@ -1,0 +1,4164 @@
+﻿source,target,tgt_lng
+AoE,范围,zh-CN
+PoE,POE,zh-CN
+PoE2,POE2,zh-CN
+Supporter,赞助者,zh-CN
+Ailment,异常状态,zh-CN
+Bleed,流血,zh-CN
+Bleeding,流血,zh-CN
+Chill,冰缓,zh-CN
+Corrupted Blood,腐化之血,zh-CN
+Damaging Ailment,伤害型异常状态,zh-CN
+Freeze,冻结,zh-CN
+Ignite,点燃,zh-CN
+Non-damaging Ailment,非伤害型异常状态,zh-CN
+Poison,中毒,zh-CN
+Shock,感电,zh-CN
+Brittle,脆弱,zh-CN
+Sap,精疲力尽,zh-CN
+Scorch,灼烧,zh-CN
+Body Armour,胸甲,zh-CN
+Boots,鞋子,zh-CN
+Gloves,手套,zh-CN
+Helmet,头盔,zh-CN
+Acolyte of Chayula,夏乌拉侍僧,zh-CN
+Amazon,亚马逊,zh-CN
+Blood Mage,血法师,zh-CN
+Chronomancer,时空幻术师,zh-CN
+Deadeye,锐眼,zh-CN
+Infernalist,狱火师,zh-CN
+Lich,巫妖,zh-CN
+Pathfinder,追猎者,zh-CN
+Stormweaver,风暴编织者,zh-CN
+Titan,泰坦,zh-CN
+Warbringer,战争使者,zh-CN
+Witchhunter,女巫猎人,zh-CN
+Trial of Chaos,混沌试炼,zh-CN
+Trial of the Sekhemas,塞克玛试炼,zh-CN
+Dexterity,敏捷,zh-CN
+Intelligence,智慧,zh-CN
+Strength,力量,zh-CN
+Adrenaline,肾上腺素,zh-CN
+Arcane Surge,秘术增强,zh-CN
+Elusive,灵巧,zh-CN
+Onslaught,猛攻,zh-CN
+Phasing,迷踪,zh-CN
+Rampage,暴怒,zh-CN
+Tailwind,提速尾流,zh-CN
+Act,章节,zh-CN
+Ascendancy Class,升华职业,zh-CN
+Character,角色,zh-CN
+NPC,NPC,zh-CN
+Endurance Charge,耐力球,zh-CN
+Frenzy Charge,狂怒球,zh-CN
+Inspiration Charge,启迪球,zh-CN
+Power Charge,暴击球,zh-CN
+Virulence,毒力,zh-CN
+Druid,德鲁伊,zh-CN
+Huntress,女猎人,zh-CN
+Mercenary,佣兵,zh-CN
+Monk,僧侣,zh-CN
+Ranger,游侠,zh-CN
+Sorceress,女术者,zh-CN
+Warrior,战士,zh-CN
+Witch,女巫,zh-CN
+Accuracy,命中值,zh-CN
+Attack,攻击,zh-CN
+Conversion,伤害转换,zh-CN
+Critical Hit,暴击,zh-CN
+Critical Strike Chance,暴击率,zh-CN
+Critical Strike Multiplier,暴击伤害加成,zh-CN
+Damage,伤害,zh-CN
+Gain as Extra,获得额外,zh-CN
+Hit,击中,zh-CN
+Melee,近战,zh-CN
+Penetration,穿透抗性,zh-CN
+Projectile,投射物,zh-CN
+Spell,法术,zh-CN
+4L,4连,zh-CN
+4S,4孔,zh-CN
+5L,5连,zh-CN
+5S,5孔,zh-CN
+6L,6连,zh-CN
+6S,6孔,zh-CN
+AA,AA,zh-CN
+AG,AG,zh-CN
+Alch,点金,zh-CN
+Alt,改造,zh-CN
+Ammy,项链,zh-CN
+AoF,火之化身,zh-CN
+AW,幻化武器,zh-CN
+BAMA,BAMA,zh-CN
+BB,飞刃风暴/刀爆,zh-CN
+Best in Slot,毕业装,zh-CN
+BF,刀雨/刀刃乱舞,zh-CN
+BM,血魔法,zh-CN
+BoR,祭礼之雨,zh-CN
+BR,鲜血狂怒,zh-CN
+Bricked,报废,zh-CN
+BV,飞刃风暴,zh-CN
+CA,腐蚀箭矢,zh-CN
+CB,腐化之血,zh-CN
+CF,腐化潮,zh-CN
+CI,异灵之体,zh-CN
+CoC,暴击时施放,zh-CN
+CoD,死亡时施放,zh-CN
+CoH,击中附加诅咒,zh-CN
+CoMK,近战击败时施放,zh-CN
+Conc,集中效应,zh-CN
+CwC,吟唱时施放,zh-CN
+CwDT,受伤时施放,zh-CN
+CwS,被晕眩时施放,zh-CN
+DoT,持续伤害,zh-CN
+DPS,每秒伤害,zh-CN
+EE,元素之相,zh-CN
+EO,元素超载,zh-CN
+ES,能量护盾,zh-CN
+GGG,GGG,zh-CN
+HoA,苦痛之捷/灰烬之捷,zh-CN
+HoI,冰霜之捷,zh-CN
+HoT,闪电之捷,zh-CN
+IC,不朽怒嚎,zh-CN
+IR,霸体,zh-CN
+LL,低血/生命偷取,zh-CN
+MoM,心灵升华,zh-CN
+MS,移动速度,zh-CN
+RF,正义之火,zh-CN
+RT,必中,zh-CN
+SC,普通模式/标准,zh-CN
+SSF,独狼自给,zh-CN
+ST,灵体投掷/单体,zh-CN
+VP,瓦尔冥约,zh-CN
+Full Energy Shield,满能量护盾,zh-CN
+Full Life,满血,zh-CN
+Low Life,低血,zh-CN
+Low Mana,低魔,zh-CN
+Stun,眩晕,zh-CN
+Chaos Orb,混沌石,zh-CN
+Divine Orb,神圣石,zh-CN
+Exalted Orb,崇高石,zh-CN
+Mirror of Kalandra,卡兰德的魔镜,zh-CN
+Orb,石,zh-CN
+Orb of Alchemy,点金石,zh-CN
+Orb of Annulment,剥离石,zh-CN
+Orb of Augmentation,增幅石,zh-CN
+Vaal Orb,瓦尔宝珠,zh-CN
+Damage over Time,持续伤害,zh-CN
+Chaos Damage,混沌伤害,zh-CN
+Cold Damage,冰霜伤害,zh-CN
+Elemental Damage,元素伤害,zh-CN
+Fire Damage,火焰伤害,zh-CN
+Lightning Damage,闪电伤害,zh-CN
+Physical Damage,物理伤害,zh-CN
+Covered in Ash,被灰烬缠身,zh-CN
+Curse,诅咒,zh-CN
+Exposure,曝露,zh-CN
+Hinder,缓速,zh-CN
+Intimidate,威吓,zh-CN
+Maim,瘫痪,zh-CN
+Unnerve,胆怯,zh-CN
+Withered,凋零,zh-CN
+Armour,护甲,zh-CN
+Block,格挡,zh-CN
+Damage Reduction,伤害减免,zh-CN
+Deflection,偏斜,zh-CN
+Energy Shield,能量护盾,zh-CN
+Evasion,闪避,zh-CN
+Fortification,护体层数,zh-CN
+Fortify,护体,zh-CN
+Guard,守护,zh-CN
+Hit Pool,有效生命池,zh-CN
+Resistance,抗性,zh-CN
+Spell Suppression,法术压制,zh-CN
+Map,地图,zh-CN
+Waystone,换界石,zh-CN
+Boss,首领,zh-CN
+Monster,怪物,zh-CN
+Pinnacle Boss,巅峰首领,zh-CN
+Life Flask,生命药剂,zh-CN
+Mana Flask,魔力药剂,zh-CN
+Challenge League,挑战赛季,zh-CN
+Hardcore,专家模式,zh-CN
+League,赛季,zh-CN
+Private League,私人赛季,zh-CN
+Ruthless,残酷模式,zh-CN
+Softcore,普通模式,zh-CN
+Solo Self-Found,独狼自给,zh-CN
+Standard League,标准赛季,zh-CN
+Path of Exile 2,流放之路2,zh-CN
+Gem,宝石,zh-CN
+Skill Gem,技能宝石,zh-CN
+Support Gem,辅助宝石,zh-CN
+Gem Level,宝石等级,zh-CN
+Base Item,基础物品,zh-CN
+Catalyst,催化剂,zh-CN
+Currency,通货,zh-CN
+Equipment,装备,zh-CN
+Essence,精华,zh-CN
+Item,物品,zh-CN
+Item Class,物品类别,zh-CN
+Omen,预兆,zh-CN
+Shard,碎片,zh-CN
+Abyss Jewel,深渊珠宝,zh-CN
+Charm,咒符,zh-CN
+Flask,药剂,zh-CN
+Jewel,珠宝,zh-CN
+Jewellery,饰品,zh-CN
+Off-hand,副手,zh-CN
+Weapon,武器,zh-CN
+Affix,词缀,zh-CN
+Explicit Modifier,显性词缀,zh-CN
+Global Mod,全局词条,zh-CN
+Implicit Modifier,固定词缀,zh-CN
+Mod,词条,zh-CN
+Modifier,词条,zh-CN
+Prefix,前缀,zh-CN
+Suffix,后缀,zh-CN
+Blue Socket,蓝色插槽,zh-CN
+Corrupted,已腐化,zh-CN
+Crusader Item,圣战者物品,zh-CN
+Elder Item,裂界者物品,zh-CN
+Fractured,破裂,zh-CN
+Green Socket,绿色插槽,zh-CN
+Hunter Item,狩猎者物品,zh-CN
+Influenced Item,势力物品,zh-CN
+Item Level,物品等级,zh-CN
+Linked Socket,连接插槽,zh-CN
+Mirrored,已复制,zh-CN
+Quality,品质,zh-CN
+Red Socket,红色插槽,zh-CN
+Redeemer Item,救赎者物品,zh-CN
+Shaper Item,塑界者物品,zh-CN
+Socket,插槽,zh-CN
+Synthesised,忆境,zh-CN
+Warlord Item,督军物品,zh-CN
+White Socket,白色插槽,zh-CN
+Magic Item,魔法物品,zh-CN
+Normal Item,普通物品,zh-CN
+Rare Item,稀有物品,zh-CN
+Unique Item,传奇物品,zh-CN
+Amulet,项链,zh-CN
+Belt,腰带,zh-CN
+Ring,戒指,zh-CN
+Mind Over Matter,心灵升华,zh-CN
+Abyss,深渊,zh-CN
+Affliction,苦痛,zh-CN
+Ancestor,先祖,zh-CN
+Archnemesis,宿敌,zh-CN
+Bestiary,野兽,zh-CN
+Betrayal,背叛,zh-CN
+Breach,裂隙,zh-CN
+Crucible,熔炉,zh-CN
+Delirium,谵妄,zh-CN
+Delve,掘狱,zh-CN
+Expedition,先祖秘藏,zh-CN
+Harvest,丰收,zh-CN
+Heist,夺宝,zh-CN
+Incursion,穿越,zh-CN
+Lake of Kalandra,卡兰德迷湖,zh-CN
+Legion,军团,zh-CN
+Metamorph,菌潮,zh-CN
+Necropolis,死寂亡城,zh-CN
+Ritual,祭祀,zh-CN
+Sanctum,圣所,zh-CN
+Scourge,灾魇,zh-CN
+Settlers of Kalguur,卡尔葛拓荒者,zh-CN
+Strongbox,保险箱,zh-CN
+Synthesis,忆境,zh-CN
+Ultimatum,最后通牒,zh-CN
+Dodge Roll,翻滚闪避,zh-CN
+Trigger,触发,zh-CN
+Buckler,轻盾,zh-CN
+Focus,法器,zh-CN
+Quiver,箭袋,zh-CN
+Shield,盾牌,zh-CN
+Keystone,关键天赋,zh-CN
+Notable,核心天赋,zh-CN
+Passive Skill,天赋技能,zh-CN
+Passive Skill Tree,天赋树,zh-CN
+attribute,attribute,zh-CN
+Ascendant,升华使徒,zh-CN
+Assassin,刺客,zh-CN
+Berserker,暴徒,zh-CN
+Champion,冠军,zh-CN
+Chieftain,酋长,zh-CN
+Elementalist,元素使,zh-CN
+Gladiator,卫士,zh-CN
+Guardian,守护者,zh-CN
+Hierophant,圣宗,zh-CN
+Inquisitor,判官,zh-CN
+Juggernaut,勇士,zh-CN
+Necromancer,死灵师,zh-CN
+Occultist,秘术家,zh-CN
+Raider,侠客,zh-CN
+Saboteur,破坏者,zh-CN
+Slayer,处刑者,zh-CN
+Trickster,欺诈师,zh-CN
+Afarud Ritual,阿法鲁德仪式,zh-CN
+Aul Bloodline,奥尔血脉,zh-CN
+"Aul, the Crystal King",晶之帝奥尔,zh-CN
+Beetle's Price,甲虫的代价,zh-CN
+Bitter Heresy,苦涩异端,zh-CN
+Bitter Lash,苦痛鞭笞,zh-CN
+Boon of the Mountain,山岳赐福,zh-CN
+Boon of the River,河流赐福,zh-CN
+Boon of the Sun,烈日赐福,zh-CN
+Bound Flesh,束缚血肉,zh-CN
+Breachlord,裂隙领主,zh-CN
+Catarina Bloodline,卡塔莉娜血脉,zh-CN
+Chaos Bloodline,混沌血脉,zh-CN
+Charge Duration,充能时间,zh-CN
+Cooldown Recovery Rate,冷却回复率,zh-CN
+Corruption's Embrace,腐化之拥,zh-CN
+Curse Effect,诅咒效果,zh-CN
+Damage Over Time Multiplier,持续伤害加成,zh-CN
+Death Offering,死亡奉献,zh-CN
+Debuff Expiry Rate,减益效果衰退速度,zh-CN
+Deceitful Servant,狡诈仆从,zh-CN
+Defences,防御,zh-CN
+Delirious,亢奋,zh-CN
+Delirious Bloodline,迷雾血脉,zh-CN
+Elusive effect,灵巧效果,zh-CN
+Enhanced Starlight,强化星辉,zh-CN
+Esh of the Storm,风暴之艾许,zh-CN
+Farewell to Flesh,告别血肉,zh-CN
+Farric Tiger Alpha,费尔罗猛虎幻兽,zh-CN
+Farric Will,大地意志,zh-CN
+Farrul Bloodline,法瑞尔血脉,zh-CN
+Farrul's Will,法瑞尔的意志,zh-CN
+"Farrul, First of the Plains",初始之地费尔罗,zh-CN
+Fertile Will,丰沃意志,zh-CN
+Herald and Minion Damage,捷技能和召唤生物伤害,zh-CN
+Huntleader,猎群首领,zh-CN
+It wasn't me!,不是我干的！,zh-CN
+Legacy of the King,王者传承,zh-CN
+Life Recovery rate,生命回复速度,zh-CN
+Lycia Bloodline,莉西娅血脉,zh-CN
+"Lycia, Herald of the Scourge",灾魇先锋．利希亚,zh-CN
+Maximum Life,生命上限,zh-CN
+Maximum Spectres and Minion Life,灵体和召唤生物生命上限,zh-CN
+Minion Damage,召唤物伤害,zh-CN
+Minion Life,召唤物生命,zh-CN
+Nameless Bloodline,无名血脉,zh-CN
+Necromantic,死灵法术,zh-CN
+Offering Duration,奉献效果持续时间,zh-CN
+Olroth Bloodline,欧罗什血脉,zh-CN
+"Olroth, Origin of the Fall",失落起源．奥尔罗斯,zh-CN
+Oshabi Bloodline,欧莱娜血脉,zh-CN
+Precursor's Release,先驱的解放,zh-CN
+Priest of Kamasa,卡马萨祭司,zh-CN
+Priest of Kopec,科佩克祭司,zh-CN
+Priest of Yaomac,夭马克的祭司,zh-CN
+Primal Roar,原始咆哮,zh-CN
+Prolonged Servitude,奴役延长,zh-CN
+Runic Boon,符文赐福,zh-CN
+Saresh Bloodline,萨瑞斯血脉,zh-CN
+Seal gain frequency,灵记获取频率,zh-CN
+Serpent's Price,毒蛇的代价,zh-CN
+Sinner Saint,罪人之圣,zh-CN
+That didn't happen!,根本没这回事！,zh-CN
+The Crystal King's Throne,晶之帝王座,zh-CN
+The King's Contempt,王之蔑视,zh-CN
+The King's Heritage,王之遗赠,zh-CN
+The King's Might,王之威能,zh-CN
+The Primal Owl,原始猫头鹰,zh-CN
+The Unseen Hand,无形之手,zh-CN
+The Vivid Cat,鲜活猎豹,zh-CN
+The Wild Bear,荒野巨熊,zh-CN
+Toad's Price,蟾蜍的代价,zh-CN
+Tul of the Blizzard,暴雪之托沃,zh-CN
+Umbral Army,暗影军团,zh-CN
+Unlight Silhouette,暗蚀剪影,zh-CN
+Vaal Souls,瓦尔之灵,zh-CN
+Volatile Runes,不稳定符文,zh-CN
+Warcry Speed,战吼速度,zh-CN
+Ward,结界,zh-CN
+Wild Will,狂野意志,zh-CN
+You're the crazy one!,你才疯了！,zh-CN
+Duelist,决斗者,zh-CN
+Marauder,野蛮人,zh-CN
+Scion,贵族,zh-CN
+Shadow,暗影刺客,zh-CN
+Templar,圣堂武僧,zh-CN
+Ancestral Fury,先祖狂怒,zh-CN
+Arcane Blessing,秘术保佑,zh-CN
+Armour Display,护甲展示台,zh-CN
+Aspect of Carnage,血肉之章,zh-CN
+Assassination Style,暗杀风格,zh-CN
+Augury of Penitence,忏悔之兆,zh-CN
+Avatar of the Wilds,荒野化身,zh-CN
+Avidity,熟稔,zh-CN
+Bane of Legends,传奇灾星,zh-CN
+Bastion of Elements,元素堡垒,zh-CN
+Bastion of Hope,希望壁垒,zh-CN
+Bomb Specialist,炸弹专家,zh-CN
+Bone Barrier,骸骨屏障,zh-CN
+Born in the Shadows,生在影中,zh-CN
+Bringer of Ruin,湮灭使者,zh-CN
+Brutal Fervour,残暴热情,zh-CN
+Calculated Risk,精算风险,zh-CN
+Caster Weapon Display,施法者武器展示台,zh-CN
+Chain Reaction,连锁反应,zh-CN
+Character class,角色职业,zh-CN
+Commander of Darkness,黑暗统御者,zh-CN
+Conviction of Power,力量定罪,zh-CN
+Corpse Pact,灵柩契约,zh-CN
+Crave the Slaughter,屠戮之欲,zh-CN
+Deathmarked,死亡印记,zh-CN
+Defy Pain,苦痛劫掠,zh-CN
+Demolitions Specialist,爆破天才,zh-CN
+Determined Survivor,坚毅求存,zh-CN
+Divine Guidance,神圣指引,zh-CN
+Duelist Ascendancy,决斗者升华职业,zh-CN
+Endless Hunger,无尽饥饿,zh-CN
+Endless Munitions,无限弹药,zh-CN
+Enduring Suffusion,持久弥散,zh-CN
+Escape Artist,逃脱艺术,zh-CN
+Essence Glutton,精华吞噬,zh-CN
+Experienced Herbalist,资深草药师,zh-CN
+Far Shot,狙击,zh-CN
+"First to Strike, Last to Fall",嗜战如命,zh-CN
+Focal Point,聚焦点,zh-CN
+Fortitude,坚毅,zh-CN
+Frigid Wake,彻骨之径,zh-CN
+Gathering Winds,聚风,zh-CN
+Gore Dancer,伤痕舞者,zh-CN
+Gratuitous Violence,免费力量,zh-CN
+Harmony of Purpose,和谐之源,zh-CN
+Headsman,刽子手,zh-CN
+Heart of Destruction,毁灭之心,zh-CN
+Heartstopper,凝心者,zh-CN
+"Hinekora, Death's Fury",死之狂怒.辛格拉,zh-CN
+Illuminated Devotion,无上奉献,zh-CN
+Impact,影响,zh-CN
+Inevitable Judgement,命运审判,zh-CN
+Infused Toxins,灌注毒素,zh-CN
+Inspirational,启发,zh-CN
+Instruments of Virtue,美德之器,zh-CN
+Instruments of Zeal,狂热之器,zh-CN
+Jagged Technique,锯刃战技,zh-CN
+Jewellery Display,首饰展示台,zh-CN
+Lesson of the Seasons,四季之训,zh-CN
+Liege of the Primordial,原始之君,zh-CN
+Like Clockwork,发条狂人,zh-CN
+Marauder Ascendancy,野蛮人升华职业,zh-CN
+Marshal of Divinity,神性统帅,zh-CN
+Martial Weapon Display,战斗武器展示台,zh-CN
+Master Alchemist,炼金术大师,zh-CN
+Master Distiller,蒸馏大师,zh-CN
+Master of Metal,钢铁大师,zh-CN
+Master Surgeon,手术大师,zh-CN
+Master Toxicist,制毒宗师,zh-CN
+Masterful Form,大师之形,zh-CN
+Mastermind of Discord,混沌天才,zh-CN
+Measured Retaliation,慎重回敬,zh-CN
+Mindless Aggression,盲目挑衅,zh-CN
+Mistress of Sacrifice,奉献女魔,zh-CN
+Mistwalker,迷雾行者,zh-CN
+More Than Skill,天眷英豪,zh-CN
+Mother's Teachings,母亲的教诲,zh-CN
+Mystical Infusion,神秘注入,zh-CN
+Nature's Adrenaline,大自然的肾上腺素,zh-CN
+Nature's Boon,自然的恩赐,zh-CN
+Nature's Reprisal,大自然的复仇,zh-CN
+"Ngamahu, Flame's Advance",火徒.努葛玛呼,zh-CN
+Oath of Spring,春日誓言,zh-CN
+Oath of Summer,炎夏誓言,zh-CN
+Oath of Winter,凛冬誓言,zh-CN
+Occupying Force,占领军,zh-CN
+One Step Ahead,快人一步,zh-CN
+Opportunistic,暗影,zh-CN
+Overwhelm,镇压,zh-CN
+Path of the Duelist,决斗者之道,zh-CN
+Path of the Marauder,野蛮人之道,zh-CN
+Path of the Ranger,游侠之道,zh-CN
+Path of the Shadow,暗影之道,zh-CN
+Path of the Templar,圣堂武僧之道,zh-CN
+Path of the Witch,女巫之道,zh-CN
+Perfect Crime,完美犯罪,zh-CN
+Pious Path,廉简之途,zh-CN
+Plaguebringer,疫病之源,zh-CN
+Polymath,博学者,zh-CN
+Profane Bloom,秽言亡语,zh-CN
+Pursuit of Faith,信念之诉,zh-CN
+Pyromaniac,焚烧,zh-CN
+Radiant Crusade,光芒圣战军,zh-CN
+Radiant Faith,信念之辉,zh-CN
+"Ramako, Sun's Light",雷默科，太阳之光,zh-CN
+Ranger Ascendancy,游侠升华职业,zh-CN
+Reliquarian,守藏者,zh-CN
+Ricochet,弹射,zh-CN
+Righteous Providence,正义之庭,zh-CN
+Ritual of Awakening,升华仪式,zh-CN
+Sanctuary of Thought,意识圣殿,zh-CN
+Seasoned Hunter,资深猎手,zh-CN
+Shadow Ascendancy,暗影升华职业,zh-CN
+Shadowed Blood,暗影之血,zh-CN
+Shaper of Flames,火焰塑形,zh-CN
+Shaper of Storms,风暴塑形,zh-CN
+Shaper of Winter,寒冬塑形,zh-CN
+Shrapnel Specialist,破片专家,zh-CN
+Sign of Purpose,目的标识,zh-CN
+"Sione, Sun's Roar",西奥妮，太阳之啸,zh-CN
+Soul Drinker,灵魂饮者,zh-CN
+Spellbreaker,破魔者,zh-CN
+Swift Killer,敏捷克星,zh-CN
+Templar Ascendancy,圣堂武僧升华职业,zh-CN
+the Labyrinth,帝王试炼迷宫,zh-CN
+Time of Need,紧急时刻,zh-CN
+Toxic Delivery,毒物私运,zh-CN
+"Tukohama, War's Herald",战争使者.图克哈玛,zh-CN
+Unbreakable,坚不可破,zh-CN
+Undeniable,不可置疑,zh-CN
+Unflinching,永不动摇,zh-CN
+Unholy Authority,邪恶君王,zh-CN
+Unnatural Strength,亵渎之力,zh-CN
+Unrelenting,灭无赦,zh-CN
+Unstable Infusion,不稳定化身,zh-CN
+Unstoppable,势不可挡,zh-CN
+Unstoppable Hero,不败英雄,zh-CN
+Untiring,不知疲倦,zh-CN
+Unwavering Crusade,坚毅圣战军,zh-CN
+Unwavering Faith,不动信念,zh-CN
+Unyielding,屹立不摇,zh-CN
+Vile Bastion,残劣壁垒,zh-CN
+Void Beacon,虚无之塔,zh-CN
+War Bringer,战争使者,zh-CN
+War of Attrition,持久鏖战,zh-CN
+Warden,守望者,zh-CN
+Weapon Master,武器大师,zh-CN
+Wind Ward,风之结界,zh-CN
+Witch Ascendancy,女巫升华职业,zh-CN
+Withering Presence,凋零姿态,zh-CN
+Worthy Causes,可敬的大业,zh-CN
+Worthy Foe,可敬的对手,zh-CN
+A Chilling Wind,一股寒风,zh-CN
+A Dab of Ink,墨水点滴,zh-CN
+A Dusty Memory,尘封记忆,zh-CN
+A Familiar Call,熟悉的呼唤,zh-CN
+A Fate Worse Than Death,比死亡更悲惨的命运,zh-CN
+A Modest Request,微末的请求,zh-CN
+A Mother's Parting Gift,母亲的礼物,zh-CN
+A Note in the Wind,风中之语,zh-CN
+A Sea of Blue,蔚蓝之海,zh-CN
+A Stone Perfected,完美之石,zh-CN
+Abandoned Wealth,弃财求生,zh-CN
+Aberrant Fossil,畸变化石,zh-CN
+Abrasive Catalyst,研磨催化剂,zh-CN
+Abyss Scarab,深渊圣甲虫,zh-CN
+Abyss Scarab of Descending,下降之深渊圣甲虫,zh-CN
+Abyss Scarab of Edifice,巨构之深渊圣甲虫,zh-CN
+Abyss Scarab of Multitudes,结群之深渊圣甲虫,zh-CN
+Abyss Scarab of Profound Depth,邃狱之深渊圣甲虫,zh-CN
+Abyssal Delirium Orb,深渊的雾魇宝珠,zh-CN
+Accelerating Catalyst,加速催化剂,zh-CN
+Acclimatisation,气候适应,zh-CN
+Aetheric Fossil,以太化石,zh-CN
+Akil's Prophecy,阿凯的预言,zh-CN
+Al-Hezmin's Crest,阿尔赫兹敏之冠,zh-CN
+Alchemy Shard,点金石碎片,zh-CN
+Alivia's Grace,艾莉薇娅之雅,zh-CN
+Allflame Ember of Flesh,血肉之不灭余烬,zh-CN
+Allflame Ember of Kulemak,库勒马克之不灭余烬,zh-CN
+Allflame Ember of Propagation,传播之不灭余烬,zh-CN
+Allflame Ember of Resplendence,炫灿之不灭余烬,zh-CN
+Allflame Ember of the Ethereal,虚无之不灭余烬,zh-CN
+Allflame Ember of the Gilded,亮丽之不灭余烬,zh-CN
+Allflame Ember of the Wildwood,荒林之不灭余烬,zh-CN
+Allflame Ember of Toads,蟾蜍之不灭余烬,zh-CN
+Alluring Bounty,诱人的奖赏,zh-CN
+Alone in the Darkness,黑暗中独行,zh-CN
+Alteration Shard,改造石碎片,zh-CN
+Altered Perception,改变知觉,zh-CN
+Amber Oil,琥珀圣油,zh-CN
+Ambitious Obsession,执着的野心,zh-CN
+Ambush Scarab,强袭圣甲虫,zh-CN
+Ambush Scarab of Containment,收容之强袭圣甲虫,zh-CN
+Ambush Scarab of Discernment,鉴赏之强袭圣甲虫,zh-CN
+Ambush Scarab of Hidden Compartments,暗格之强袭圣甲虫,zh-CN
+Ambush Scarab of Potency,效能之强袭圣甲虫,zh-CN
+An Audience With The King,谒王之约,zh-CN
+Anarchy Scarab,混乱圣甲虫,zh-CN
+Anarchy Scarab of Gigantification,巨化之混乱圣甲虫,zh-CN
+Anarchy Scarab of Partnership,结伴之混乱圣甲虫,zh-CN
+Anarchy Scarab of the Exceptional,卓越之混乱圣甲虫,zh-CN
+Anarchy's Price,混乱代价,zh-CN
+Ancient Orb,远古石,zh-CN
+Annulment Shard,剥离石碎片,zh-CN
+Apocalypse,天启,zh-CN
+Armourer's Scrap,护甲片,zh-CN
+Armoursmith's Delirium Orb,铸甲师的雾魇宝珠,zh-CN
+Arrogance of the Vaal,瓦尔的傲慢,zh-CN
+Ascendancy Classes,升华职业,zh-CN
+Assassin's Favour,暗影恩惠,zh-CN
+Assassin's Gift,刺客的馈赠,zh-CN
+Astragali,骨牌,zh-CN
+Astral Protection,星界防护,zh-CN
+Atziri's Arsenal,阿兹里的武器库,zh-CN
+Audacity,胆识,zh-CN
+Auspicious Ambitions,吉庆雄心,zh-CN
+Avian Pursuit,猛禽追猎,zh-CN
+Awakener's Orb,觉醒者之石,zh-CN
+Awakening Fragment,觉醒碎片,zh-CN
+Azure Oil,天蓝圣油,zh-CN
+Azure Rage,天蓝之怒,zh-CN
+Azyran's Reward,阿祖兰的奖赏,zh-CN
+Baited Expectations,前程的诱惑,zh-CN
+Baran's Crest,巴兰之冠,zh-CN
+Beauty Through Death,来生之美,zh-CN
+Bestiary Scarab,猎魔圣甲虫,zh-CN
+Bestiary Scarab of Duplicating,复制之猎魔圣甲虫,zh-CN
+Bestiary Scarab of the Herd,兽群之猎魔圣甲虫,zh-CN
+Bestiary Scarab of the Shadowed Crow,暮鸦之猎魔圣甲虫,zh-CN
+Betrayal Scarab,背叛者圣甲虫,zh-CN
+Betrayal Scarab of Reinforcements,增援之背叛者圣甲虫,zh-CN
+Betrayal Scarab of the Allflame,不灭余烬之背叛者圣甲虫,zh-CN
+Betrayal Scarab of Unbreaking,不破之背叛者圣甲虫,zh-CN
+Beyond Scarab,超越圣甲虫,zh-CN
+Beyond Scarab of Corruption,腐化之超越圣甲虫,zh-CN
+Beyond Scarab of Haemophilia,放血之超越圣甲虫,zh-CN
+Beyond Scarab of Resurgence,复兴之超越圣甲虫,zh-CN
+Beyond Scarab of the Invasion,侵袭之超越圣甲虫,zh-CN
+Bijoux,地摊货,zh-CN
+Black Oil,漆黑圣油,zh-CN
+Blacksmith's Delirium Orb,铁匠的雾魇宝珠,zh-CN
+Blacksmith's Whetstone,磨刀石,zh-CN
+Blazing Fragment,焚焰碎片,zh-CN
+Blessed Orb,祝福石,zh-CN
+Blight Scarab,菌潮圣甲虫,zh-CN
+Blight Scarab of Blooming,繁茂之菌潮圣甲虫,zh-CN
+Blight Scarab of Bounty,丰饶之菌潮圣甲虫,zh-CN
+Blight Scarab of Invigoration,活跃之菌潮圣甲虫,zh-CN
+Blight Scarab of the Blightheart,菌心之菌潮圣甲虫,zh-CN
+Blighted Delirium Orb,枯萎的雾魇宝珠,zh-CN
+Blind Venture,盲途,zh-CN
+Bloodstained Fossil,溅血化石,zh-CN
+Boon of Justice,司法的恩赐,zh-CN
+Boon of the First Ones,先祖赐福,zh-CN
+Bound by Flame,烈焰缠身,zh-CN
+Bound Fossil,绑缚化石,zh-CN
+Boundless Realms,无尽之域,zh-CN
+Bowyer's Dream,弓匠的梦想,zh-CN
+Breach Scarab of Instability,不稳之裂隙圣甲虫,zh-CN
+Breach Scarab of Resonant Cascade,增涌共鸣之裂隙圣甲虫,zh-CN
+Breach Scarab of the Dreamer,逐梦者之圣甲虫,zh-CN
+Breach Scarab of the Hive,虫群之裂隙圣甲虫,zh-CN
+Breach Scarab of the Incensed Swarm,狂怒虫群之裂隙圣甲虫,zh-CN
+Breach Scarab of the Marshal,元帅之裂隙圣甲虫,zh-CN
+Broken Promises,破灭之诺,zh-CN
+Broken Truce,破碎休战,zh-CN
+Brother's Gift,兄弟赐福,zh-CN
+Brother's Stash,兄弟的秘藏,zh-CN
+Brotherhood in Exile,流放兄弟会,zh-CN
+"Brush, Paint and Palette",笔墨横姿,zh-CN
+Burial Medallion,葬礼徽章,zh-CN
+Buried Treasure,埋葬的宝藏,zh-CN
+Burning Blood,燃烧之血,zh-CN
+Call to the First Ones,远古召唤,zh-CN
+Cameria's Cut,卡梅莉亚的回报,zh-CN
+Cartographer's Delight,制图者的青睐,zh-CN
+Cartographer's Delirium Orb,制图师的雾魇宝珠,zh-CN
+Cartography Scarab of Corruption,腐化之制图者圣甲虫,zh-CN
+Cartography Scarab of Escalation,激增之制图者圣甲虫,zh-CN
+Cartography Scarab of Risk,险地之制图者圣甲虫,zh-CN
+Cartography Scarab of Singularity,奇异之制图者圣甲虫,zh-CN
+Cartography Scarab of the Multitude,维度之制图者圣甲虫,zh-CN
+Challenging Delirium Orb,艰巨的雾魇宝珠,zh-CN
+Chaos Shard,混沌石碎片,zh-CN
+Chaotic Astrolabe,混沌星盘,zh-CN
+Chaotic Disposition,浑沌性情,zh-CN
+Chasing Risk,风险追逐,zh-CN
+Checkmate,挫败,zh-CN
+Choking Guilt,窒息愧疚,zh-CN
+Chromatic Orb,幻色石,zh-CN
+Clear Oil,清澈圣油,zh-CN
+Coin of Desecration,亵渎硬币,zh-CN
+Coin of Knowledge,知识硬币,zh-CN
+Coin of Power,力量硬币,zh-CN
+Coin of Restoration,回复硬币,zh-CN
+Coin of Skill,技能硬币,zh-CN
+Concurrent Players,Concurrent Players,zh-CN
+Corroded Fossil,腐蚀化石,zh-CN
+Cosmic Fragment,寰宇碎片,zh-CN
+Costly Curio,无价之宝,zh-CN
+Council of Cats,猫咪议会,zh-CN
+Coveted Possession,饥渴之占,zh-CN
+Crescent Splinter,新月裂片,zh-CN
+Crimson Oil,绯红圣油,zh-CN
+Crusader's Exalted Orb,圣战者的崇高石,zh-CN
+Crystallised Rancour,憎恨结晶,zh-CN
+Cursed Words,恶言诅咒,zh-CN
+Damnation,咒缚,zh-CN
+Dark Dreams,黑暗之梦,zh-CN
+Dark Temptation,黑暗的引诱,zh-CN
+Darker Half,黑暗半面,zh-CN
+Deadly Joy,致命之愉,zh-CN
+Deafening Essence of Anger,愤怒之破空精华,zh-CN
+Deafening Essence of Anguish,煎熬之破空精华,zh-CN
+Deafening Essence of Contempt,轻视之破空精华,zh-CN
+Deafening Essence of Doubt,疑惑之破空精华,zh-CN
+Deafening Essence of Dread,忌惮之破空精华,zh-CN
+Deafening Essence of Envy,忌妒之破空精华,zh-CN
+Deafening Essence of Fear,恐惧之破空精华,zh-CN
+Deafening Essence of Greed,贪婪之破空精华,zh-CN
+Deafening Essence of Hatred,憎恨之破空精华,zh-CN
+Deafening Essence of Loathing,厌恶之破空精华,zh-CN
+Deafening Essence of Misery,凄惨之破空精华,zh-CN
+Deafening Essence of Rage,肆虐之破空精华,zh-CN
+Deafening Essence of Scorn,傲视之破空精华,zh-CN
+Deafening Essence of Sorrow,哀惜之破空精华,zh-CN
+Deafening Essence of Spite,刻毒之破空精华,zh-CN
+Deafening Essence of Suffering,苦难之破空精华,zh-CN
+Deafening Essence of Torment,折磨之破空精华,zh-CN
+Deafening Essence of Woe,悲痛之破空精华,zh-CN
+Deafening Essence of Wrath,雷霆之破空精华,zh-CN
+Deafening Essence of Zeal,热情之破空精华,zh-CN
+Death,死亡,zh-CN
+Deathly Designs,致命谋划,zh-CN
+Decaying Fragment,枯败碎片,zh-CN
+Dedication to the Goddess,女神祭献,zh-CN
+Deft Fossil,机巧化石,zh-CN
+Delirium Orb,雾魇宝珠,zh-CN
+Delirium Scarab,惊悸迷雾圣甲虫,zh-CN
+Delirium Scarab of Delusions,妄念之惊悸迷雾圣甲虫,zh-CN
+Delirium Scarab of Mania,狂躁之惊悸迷雾圣甲虫,zh-CN
+Delirium Scarab of Neuroses,神经之惊悸迷雾圣甲虫,zh-CN
+Delirium Scarab of Paranoia,偏执之惊悸迷雾圣甲虫,zh-CN
+Dementophobia,恐魔症,zh-CN
+Demigod's Wager,半神的赌局,zh-CN
+Dense Fossil,致密化石,zh-CN
+Desecrated Virtue,被亵渎的美德,zh-CN
+Desperate Crusade,绝望圣战,zh-CN
+Destined to Crumble,殒落的命运,zh-CN
+Devouring Fragment,灭界碎片,zh-CN
+Dextral Catalyst,右旋催化剂,zh-CN
+Dialla's Subjugation,达拉夫人的宝石,zh-CN
+Disdain,蔑视,zh-CN
+Divination Scarab of Pilfering,搜掠之神恩圣甲虫,zh-CN
+Divination Scarab of Plenty,充裕之神恩圣甲虫,zh-CN
+Divination Scarab of The Cloister,遁世之神恩圣甲虫,zh-CN
+Divine Beauty,至美圣容,zh-CN
+Divine Justice,神圣的正义,zh-CN
+Divine Vessel,禁灵之瓶,zh-CN
+Diviner's Delirium Orb,预言师的雾魇宝珠,zh-CN
+Doedre's Madness,德瑞竞之狂,zh-CN
+Domination Scarab,支配圣甲虫,zh-CN
+Domination Scarab of Apparitions,幽灵之支配圣甲虫,zh-CN
+Domination Scarab of Evolution,进化之支配圣甲虫,zh-CN
+Domination Scarab of Terrors,惊魂之支配圣甲虫,zh-CN
+Doryani's Epiphany,多里亚尼的启蒙,zh-CN
+Draped in Dreams,梦之涟漪,zh-CN
+Drox's Crest,狄洛克斯之冠,zh-CN
+Duality,二刀流,zh-CN
+Dying Anguish,消逝之怒,zh-CN
+Dying Light,消逝的光芒,zh-CN
+Earth Drinker,大地吞食者,zh-CN
+Echo of Loneliness,孤寂之回响,zh-CN
+Echo of Reverence,敬仰之回响,zh-CN
+Echo of Trauma,创伤之回响,zh-CN
+Echoes of Love,爱的回音,zh-CN
+Economy,Economy,zh-CN
+Edit,Edit,zh-CN
+Elder's Exalted Orb,裂界者的崇高石,zh-CN
+Eldritch Chaos Orb,古灵混沌石,zh-CN
+Eldritch Exalted Orb,古灵崇高石,zh-CN
+Eldritch Orb of Annulment,古灵剥离石,zh-CN
+Eldritch Perfection,古灵完满,zh-CN
+Emperor of Purity,纯净帝王,zh-CN
+Emperor's Luck,帝运,zh-CN
+Endless Night,无尽夜晚,zh-CN
+Enkindling Orb,启明石,zh-CN
+Enshrouded Astrolabe,遮蔽星盘,zh-CN
+Essence of Delirium,谵妄精华,zh-CN
+Essence of Desolation,哀恸精华,zh-CN
+Essence of Horror,极恐精华,zh-CN
+Essence of Hysteria,浮夸精华,zh-CN
+Essence of Insanity,错乱精华,zh-CN
+Essence Scarab,精华圣甲虫,zh-CN
+Essence Scarab of Adaptation,应变之精华圣甲虫,zh-CN
+Essence Scarab of Ascent,升格之精华圣甲虫,zh-CN
+Essence Scarab of Calcification,钙化之精华圣甲虫,zh-CN
+Essence Scarab of Stability,稳定之精华圣甲虫,zh-CN
+Etched in Blood,以血镌刻,zh-CN
+Eternal Bonds,永恒羁绊,zh-CN
+Eternal Orb,永恒宝珠,zh-CN
+Ever-Changing,变幻无定,zh-CN
+Exalted Shard,崇高石碎片,zh-CN
+Exceptional,Exceptional,zh-CN
+Exceptional Eldritch Ember,卓越古灵余烬,zh-CN
+Exceptional Eldritch Ichor,卓越古灵溶液,zh-CN
+Exotic Coinage,异域铸币,zh-CN
+Expedition Scarab,先祖秘藏圣甲虫,zh-CN
+Expedition Scarab of Archaeology,考古之先祖秘藏圣甲虫,zh-CN
+Expedition Scarab of Infusion,灌注之先祖秘藏圣甲虫,zh-CN
+Expedition Scarab of Runefinding,觅符之先祖秘藏圣甲虫,zh-CN
+Expedition Scarab of Verisium Powder,维金之先祖秘藏圣甲虫,zh-CN
+Faceted Fossil,棱面化石,zh-CN
+Fateful Meeting,命中注定,zh-CN
+Father's Love,慈父之爱,zh-CN
+Fertile Catalyst,丰沃催化剂,zh-CN
+Fine Delirium Orb,良好的雾魇宝珠,zh-CN
+Fire Of Unknown Origin,无根之火,zh-CN
+Flesh of Xesht,薛斯的血肉,zh-CN
+Forbidden Power,禁忌之力,zh-CN
+Fossilised Delirium Orb,石化的雾魇宝珠,zh-CN
+Foulborn Exalted Orb,秽生崇高石,zh-CN
+Foulborn Orb of Augmentation,秽生增幅石,zh-CN
+Foulborn Regal Orb,秽生富豪石,zh-CN
+Fractured Fossil,分裂化石,zh-CN
+Fracturing Orb,破溃宝珠,zh-CN
+Fracturing Shard,破溃碎片,zh-CN
+Fragment of Constriction,裂界守卫：约束碎片,zh-CN
+Fragment of Emptiness,空虚碎片,zh-CN
+Fragment of Enslavement,裂界守卫：奴役碎片,zh-CN
+Fragment of Eradication,裂界守卫：寂灭碎片,zh-CN
+Fragment of Knowledge,知识碎片,zh-CN
+Fragment of Purification,裂界守卫：净世碎片,zh-CN
+Fragment of Shape,塑形碎片,zh-CN
+Fragment of Terror,恐怖碎片,zh-CN
+Fragment of the Chimera,记忆碎片(奇美拉),zh-CN
+Fragment of the Hydra,记忆碎片(九头蛇),zh-CN
+Fragment of the Minotaur,记忆碎片(牛头人),zh-CN
+Fragment of the Phoenix,记忆碎片(不死鸟),zh-CN
+Fragmented Delirium Orb,破碎的雾魇宝珠,zh-CN
+Friendship,友谊,zh-CN
+Frigid Fossil,冰冽化石,zh-CN
+From Bone to Ashes,从骨到灰,zh-CN
+Fruiting Astrolabe,果实星盘,zh-CN
+Fundamental Fossil,根基化石,zh-CN
+Fungal Astrolabe,真菌星盘,zh-CN
+Further Invention,更新发明,zh-CN
+Gemcutter's Mercy,宝石匠的仁慈,zh-CN
+Gemcutter's Prism,宝石匠的棱镜,zh-CN
+Gemcutter's Promise,宝石匠的允诺,zh-CN
+GGG Tracker,GGG Tracker,zh-CN
+Gift of Asenath,安赛娜丝的馈赠,zh-CN
+Gift of the Gemling Queen,宝石皇后的赠礼,zh-CN
+Gift to the Goddess,女神之礼,zh-CN
+Gilded Fossil,镶金化石,zh-CN
+Glassblower's Bauble,玻璃弹珠,zh-CN
+Glimmer of Hope,希望微光,zh-CN
+Glyphic Fossil,雕刻化石,zh-CN
+Golden Oil,金色圣油,zh-CN
+Grand Eldritch Ember,上级古灵余烬,zh-CN
+Grand Eldritch Ichor,上级古灵溶液,zh-CN
+Grasping Astrolabe,贪婪星盘,zh-CN
+Grave Knowledge,亡灵智慧,zh-CN
+Greater Eldritch Ember,高级古灵余烬,zh-CN
+Greater Eldritch Ichor,高级古灵溶液,zh-CN
+Guardian's Challenge,守卫的挑战,zh-CN
+Harmony of Souls,魂之和谐,zh-CN
+Harvest Scarab,庄园圣甲虫,zh-CN
+Harvest Scarab of Cornucopia,富饶之庄园圣甲虫,zh-CN
+Harvest Scarab of Doubling,倍增之庄园圣甲虫,zh-CN
+Haunting Shadows,幽影纠缠,zh-CN
+Her Mask,她的面具,zh-CN
+Heterochromia,阴阳眼,zh-CN
+Hinekora's Lock,辛格拉的发辫,zh-CN
+History,历史,zh-CN
+Hivebrain Gland,虫脑腺体,zh-CN
+Hollow Fossil,镂空化石,zh-CN
+Home,家园,zh-CN
+Hope,希望,zh-CN
+Horned Scarab of Awakening,觉醒之犄角圣甲虫,zh-CN
+Horned Scarab of Bloodlines,血族之犄角圣甲虫,zh-CN
+Horned Scarab of Glittering,闪光之犄角圣甲虫,zh-CN
+Horned Scarab of Nemeses,死地之犄角圣甲虫,zh-CN
+Horned Scarab of Pandemonium,魔域之犄角圣甲虫,zh-CN
+Horned Scarab of Preservation,恩护之犄角圣甲虫,zh-CN
+Horned Scarab of Tradition,传统之犄角圣甲虫,zh-CN
+Horticrafting,花园工艺,zh-CN
+House of Mirrors,明镜,zh-CN
+Hubris,狂妄,zh-CN
+Humility,谦逊,zh-CN
+Hunter's Exalted Orb,猎人的崇高石,zh-CN
+Hunter's Resolve,猎者之愿,zh-CN
+Hunter's Reward,猎人的奖赏,zh-CN
+I See Brothers,兄弟之容,zh-CN
+Imbued Catalyst,灌注催化剂,zh-CN
+Immortal Resolve,不朽决心,zh-CN
+Imperfect Memories,不完美的回忆,zh-CN
+Imperial Delirium Orb,帝国的雾魇宝珠,zh-CN
+Imperial Legacy,帝国的遗产,zh-CN
+Incursion Scarab,穿越圣甲虫,zh-CN
+Incursion Scarab of Champions,冠军之穿越圣甲虫,zh-CN
+Incursion Scarab of Invasion,侵入之穿越圣甲虫,zh-CN
+Incursion Scarab of Timelines,时流之穿越圣甲虫,zh-CN
+Indigo Oil,靛青圣油,zh-CN
+Influencing Scarab of Hordes,部落之影响圣甲虫,zh-CN
+Influencing Scarab of Interference,干涉之影响圣甲虫,zh-CN
+Influencing Scarab of the Elder,裂界者之影响圣甲虫,zh-CN
+Influencing Scarab of the Shaper,塑界者之影响圣甲虫,zh-CN
+Instilling Orb,灌顶石,zh-CN
+Intrinsic Catalyst,内在催化剂,zh-CN
+Jack in the Box,惊喜盒,zh-CN
+Jagged Fossil,锯齿化石,zh-CN
+Jeweller's Delirium Orb,珠宝匠的雾魇宝珠,zh-CN
+Jeweller's Orb,工匠石,zh-CN
+Journey Tattoo of the Body,身躯的旅途文身,zh-CN
+Journey Tattoo of the Mind,意志的旅途文身,zh-CN
+Journey Tattoo of the Soul,灵魂的旅途文身,zh-CN
+Judging Voices,审判之音,zh-CN
+Justified Ambition,志向高远,zh-CN
+Kalguuran Delirium Orb,卡古兰雾魇宝珠,zh-CN
+Kalguuran Scarab,卡古兰圣甲虫,zh-CN
+Kalguuran Scarab of Enriching,富足之卡古兰圣甲虫,zh-CN
+Kalguuran Scarab of Guarded Riches,森严重宝之卡古兰圣甲虫,zh-CN
+Kalguuran Scarab of Refinement,精炼之卡古兰圣甲虫,zh-CN
+Keeper's Corruption,守护者之腐,zh-CN
+Lachrymal Necrosis,泪腺坏死,zh-CN
+Lantador's Lost Love,兰塔朵迷惘之爱,zh-CN
+Last Hope,最后希望,zh-CN
+Last Stand,背水一战,zh-CN
+Left to Fate,听天由命,zh-CN
+Legion Scarab,军团圣甲虫,zh-CN
+Legion Scarab of Eternal Conflict,永战之军团圣甲虫,zh-CN
+Legion Scarab of Officers,军官之军团圣甲虫,zh-CN
+Legion Scarab of The Sekhema,丝克玛之军团圣甲虫,zh-CN
+Legion Scarab of Treasures,宝藏之军团圣甲虫,zh-CN
+Lesser Eldritch Ember,次级古灵余烬,zh-CN
+Lesser Eldritch Ichor,次级古灵溶液,zh-CN
+Lethean Temptation,遗忘诱惑,zh-CN
+Light and Truth,光与真实,zh-CN
+Lightless Astrolabe,暗光星盘,zh-CN
+Lingering Remnants,稍纵即逝,zh-CN
+Lonely Fragment,孤寂碎片,zh-CN
+Lonely Warrior,孤胆英雄,zh-CN
+Lost Worlds,失落帝国,zh-CN
+Love Through Ice,跨冰之恋,zh-CN
+Loyalty,忠诚,zh-CN
+Lucent Fossil,透光化石,zh-CN
+Lucky Bastion,幸运堡垒,zh-CN
+Lucky Connections,好运连连,zh-CN
+Lucky Deck,命运垂青,zh-CN
+Luminous Trove,锃亮的宝箱,zh-CN
+Lysah's Respite,莉莎之息,zh-CN
+Magnum Opus,代表作,zh-CN
+Man With Bear,人熊合一,zh-CN
+Maps,地图,zh-CN
+Matryoshka,套娃,zh-CN
+Maven's Chisel of Avarice,贪婪之贤主钉,zh-CN
+Maven's Chisel of Divination,神恩之贤主钉,zh-CN
+Maven's Chisel of Procurement,征用之贤主钉,zh-CN
+Maven's Chisel of Proliferation,激增之贤主钉,zh-CN
+Maven's Chisel of Scarabs,圣甲虫之贤主钉,zh-CN
+Mawr Blaidd,狼之信物,zh-CN
+Memory of Loneliness,孤寂之回忆,zh-CN
+Memory of Reverence,敬仰之回忆,zh-CN
+Memory of Trauma,创伤之回忆,zh-CN
+Merciless Armament,无情军械,zh-CN
+Metallic Fossil,金属化石,zh-CN
+Metamods,工艺互动,zh-CN
+Might is Right,正气,zh-CN
+Mirror Shard,卡兰德的魔镜碎片,zh-CN
+Misery in Darkness,黑暗之苦,zh-CN
+Mitts,露指手套,zh-CN
+Modifiers,词缀,zh-CN
+Monochrome,黑白世界,zh-CN
+More is Never Enough,永不知足,zh-CN
+Mortal Grief,凡人的哀伤,zh-CN
+Mortal Hope,凡人的希望,zh-CN
+Mortal Ignorance,凡人的无知,zh-CN
+Mortal Rage,凡人的愤怒,zh-CN
+Muttering Essence of Anger,愤怒之呢喃精华,zh-CN
+Muttering Essence of Contempt,轻视之呢喃精华,zh-CN
+Muttering Essence of Fear,恐惧之呢喃精华,zh-CN
+Muttering Essence of Greed,贪婪之呢喃精华,zh-CN
+Muttering Essence of Hatred,憎恨之呢喃精华,zh-CN
+Muttering Essence of Sorrow,哀惜之呢喃精华,zh-CN
+Muttering Essence of Torment,折磨之呢喃精华,zh-CN
+Muttering Essence of Woe,悲痛之呢喃精华,zh-CN
+Nameless Astrolabe,无名星盘,zh-CN
+No Traces,无迹可寻,zh-CN
+Nook's Crown,诺克之冠,zh-CN
+Noxious Catalyst,有害催化剂,zh-CN
+Obscured Delirium Orb,朦胧的雾魇宝珠,zh-CN
+Offering to the Goddess,女神祭品,zh-CN
+Oil,圣油,zh-CN
+Omen of Adrenaline,肾上腺素预兆,zh-CN
+Omen of Amelioration,进步预兆,zh-CN
+Omen of Blanching,苍白预兆,zh-CN
+Omen of Brilliance,才华预兆,zh-CN
+Omen of Connections,连接预兆,zh-CN
+Omen of Death's Door,笑傲死亡预兆,zh-CN
+Omen of Death-dancing,死舞预兆,zh-CN
+Omen of Fortune,命运预兆,zh-CN
+Omen of Refreshment,恢复预兆,zh-CN
+Omen of Return,回返预兆,zh-CN
+Omen of the Jeweller,珠宝商预兆,zh-CN
+Omen of the Soul Devourer,噬魂预兆,zh-CN
+One Last Score,最后一票,zh-CN
+Opalescent Oil,乳白圣油,zh-CN
+Opulent Fossil,丰裕化石,zh-CN
+Orb of Alteration,改造石,zh-CN
+Orb of Binding,高阶点金石,zh-CN
+Orb of Chance,机会石,zh-CN
+Orb of Conflict,冲突石,zh-CN
+Orb of Dominance,统御宝珠,zh-CN
+Orb of Fusing,链结石,zh-CN
+Orb of Intention,意念石,zh-CN
+Orb of Regret,后悔石,zh-CN
+Orb of Remembrance,铭记石,zh-CN
+Orb of Scouring,重铸石,zh-CN
+Orb of Transmutation,蜕变石,zh-CN
+Orb of Unmaking,粉碎石,zh-CN
+Orb of Unravelling,解析石,zh-CN
+Outfoxed,以计取胜,zh-CN
+Parasitic Passengers,寄生客,zh-CN
+Peaceful Moments,安宁之时,zh-CN
+Perfection,至臻完美,zh-CN
+Poisoned Faith,毒浸信仰,zh-CN
+Portal Scroll,传送卷轴,zh-CN
+Potent Alchemical Resonator,强能炼金共振器,zh-CN
+Potent Chaotic Resonator,强能混乱共振器,zh-CN
+Powerful Alchemical Resonator,巨能炼金共振器,zh-CN
+Powerful Chaotic Resonator,巨能混乱共振器,zh-CN
+Prejudice,成见,zh-CN
+Pride Before the Fall,骄者必败,zh-CN
+Pride of the First Ones,先祖的代价,zh-CN
+Primal Crystallised Lifeforce,原始蓝晶命能,zh-CN
+Primal Delirium Orb,原始的雾魇宝珠,zh-CN
+Prime Alchemical Resonator,威能炼金共振器,zh-CN
+Prime Chaotic Resonator,威能混乱共振器,zh-CN
+Primitive Alchemical Resonator,原始炼金共振器,zh-CN
+Primitive Chaotic Resonator,原始混乱共振器,zh-CN
+Prismatic Catalyst,棱光催化剂,zh-CN
+Prismatic Fossil,五彩化石,zh-CN
+Prismatic Oil,虹彩圣油,zh-CN
+Pristine Fossil,原始化石,zh-CN
+Privacy,Privacy,zh-CN
+Prometheus' Armoury,普罗米修斯之备,zh-CN
+Prosperity,兴盛,zh-CN
+Quest,使命,zh-CN
+Rain of Chaos,混沌之雨,zh-CN
+Rain Tempter,诱惑之雨,zh-CN
+Rats,鼠辈,zh-CN
+Reality Fragment,现实碎片,zh-CN
+Rebirth,重生,zh-CN
+Rebirth and Renewal,重生与新生,zh-CN
+Reckless Ambition,莽撞的野心,zh-CN
+Redeemer's Exalted Orb,救赎者的崇高石,zh-CN
+Reflecting Mist,倒映薄雾,zh-CN
+Reflection of the Heart,心之倒影,zh-CN
+Reflective Oil,反光圣油,zh-CN
+Refracting Fog,折射之雾,zh-CN
+Regal Orb,富豪石,zh-CN
+Regal Shard,富豪石碎片,zh-CN
+Remembrance,铭记,zh-CN
+Reverent Fragment,虔敬碎片,zh-CN
+Ritual Scarab of Abundance,丰沛之仪式圣甲虫,zh-CN
+Ritual Scarab of Corpses,尸骸之仪式圣甲虫,zh-CN
+Ritual Scarab of Selectiveness,选择之仪式圣甲虫,zh-CN
+Ritual Scarab of Wisps,鬼灵之仪式圣甲虫,zh-CN
+Ritual Splinter,驱灵裂片,zh-CN
+Ritual Vessel,驱灵法器,zh-CN
+Rogue's Marker,赏金猎人印记,zh-CN
+Runegraft of Bellows,咆哮之符文嵌板,zh-CN
+Runegraft of Blasphemy,渎神之符文嵌板,zh-CN
+Runegraft of Connection,联结之符文嵌板,zh-CN
+Runegraft of Consecration,奉献之符文嵌板,zh-CN
+Runegraft of Fury,狂怒之符文嵌板,zh-CN
+Runegraft of Gemcraft,宝石工艺之符文嵌板,zh-CN
+Runegraft of Loyalty,忠诚之符文嵌板,zh-CN
+Runegraft of Quaffing,畅饮之符文嵌板,zh-CN
+Runegraft of Rallying,奋锐之符文嵌板,zh-CN
+Runegraft of Refraction,折射之符文嵌板,zh-CN
+Runegraft of Restitching,缝合之符文嵌板,zh-CN
+Runegraft of Resurgence,复苏之符文嵌板,zh-CN
+Runegraft of Rotblood,腐血之符文嵌板,zh-CN
+Runegraft of Stability,稳定之符文嵌板,zh-CN
+Runegraft of Suffering,苦难之符文嵌板,zh-CN
+Runegraft of the Agile,灵巧之符文嵌板,zh-CN
+Runegraft of the Angler,渔夫之符文嵌板,zh-CN
+Runegraft of the Bound,束缚之符文嵌板,zh-CN
+Runegraft of the Combatant,战士之符文嵌板,zh-CN
+Runegraft of the Fortress,堡垒之符文嵌板,zh-CN
+Runegraft of the Imbued,灌注之符文嵌板,zh-CN
+Runegraft of the Jeweller,珠宝匠之符文嵌板,zh-CN
+Runegraft of the Novamark,新星印记之符文嵌板,zh-CN
+Runegraft of the River,河川之符文嵌板,zh-CN
+Runegraft of the Sinistral,左旋之符文嵌板,zh-CN
+Runegraft of the Soulwick,魂芯之符文嵌板,zh-CN
+Runegraft of the Spellbound,着魔之符文嵌板,zh-CN
+Runegraft of the Warp,曲空之符文嵌板,zh-CN
+Runegraft of the Witchmark,女巫印记之符文嵌板,zh-CN
+Runegraft of Time,时光之符文嵌板,zh-CN
+Runegraft of Treachery,背叛之符文嵌板,zh-CN
+Runic Astrolabe,符文星盘,zh-CN
+Runic Luck,符文幸运,zh-CN
+Ruthless mode,Ruthless mode,zh-CN
+Sacred Blossom,神圣之花,zh-CN
+Sacred Crystallised Lifeforce,神圣白晶命能,zh-CN
+Sacred Orb,崇神石,zh-CN
+Sacrifice at Dawn,黎明的奉献,zh-CN
+Sacrifice at Dusk,黄昏的奉献,zh-CN
+Sacrifice at Midnight,午夜的奉献,zh-CN
+Sacrifice at Noon,正午的奉献,zh-CN
+Sambodhi's Vow,萨博辛的誓言,zh-CN
+Sambodhi's Wisdom,萨博辛之智,zh-CN
+Sanctified Fossil,圣洁化石,zh-CN
+Scarab of Adversaries,强敌之圣甲虫,zh-CN
+Scarab of Divinity,神性之圣甲虫,zh-CN
+Scarab of Hunted Traitors,追猎叛徒之圣甲虫,zh-CN
+Scarab of Monstrous Lineage,庞大世系之圣甲虫,zh-CN
+Scarab of Radiant Storms,辉煌风暴之圣甲虫,zh-CN
+Scarab of Stability,稳定之圣甲虫,zh-CN
+Scarab of the Dextral,右旋之圣甲虫,zh-CN
+Scarab of the Sinistral,左旋之圣甲虫,zh-CN
+Scarab of Wisps,鬼灵之圣甲虫,zh-CN
+Scholar of the Seas,海洋学者,zh-CN
+Scorched Fossil,炽炎化石,zh-CN
+Scrap Metal,废金属,zh-CN
+Screaming Essence of Anger,愤怒之咆哮精华,zh-CN
+Screaming Essence of Anguish,煎熬之咆哮精华,zh-CN
+Screaming Essence of Contempt,轻视之咆哮精华,zh-CN
+Screaming Essence of Doubt,疑惑之咆哮精华,zh-CN
+Screaming Essence of Dread,忌惮之咆哮精华,zh-CN
+Screaming Essence of Envy,忌妒之咆哮精华,zh-CN
+Screaming Essence of Fear,恐惧之咆哮精华,zh-CN
+Screaming Essence of Greed,贪婪之咆哮精华,zh-CN
+Screaming Essence of Hatred,憎恨之咆哮精华,zh-CN
+Screaming Essence of Loathing,厌恶之咆哮精华,zh-CN
+Screaming Essence of Misery,凄惨之咆哮精华,zh-CN
+Screaming Essence of Rage,肆虐之咆哮精华,zh-CN
+Screaming Essence of Scorn,傲视之咆哮精华,zh-CN
+Screaming Essence of Sorrow,哀惜之咆哮精华,zh-CN
+Screaming Essence of Spite,刻毒之咆哮精华,zh-CN
+Screaming Essence of Suffering,苦难之咆哮精华,zh-CN
+Screaming Essence of Torment,折磨之咆哮精华,zh-CN
+Screaming Essence of Woe,悲痛之咆哮精华,zh-CN
+Screaming Essence of Wrath,雷霆之咆哮精华,zh-CN
+Screaming Essence of Zeal,热情之咆哮精华,zh-CN
+Scroll of Wisdom,知识卷轴,zh-CN
+Sepia Oil,墨色圣油,zh-CN
+Serrated Fossil,狼牙化石,zh-CN
+Seven Years Bad Luck,七年厄运,zh-CN
+Shaper's Exalted Orb,塑界者的崇高石,zh-CN
+Shard of Fate,命运之晶,zh-CN
+Shrieking Essence of Anger,愤怒之尖啸精华,zh-CN
+Shrieking Essence of Anguish,煎熬之尖啸精华,zh-CN
+Shrieking Essence of Contempt,轻视之尖啸精华,zh-CN
+Shrieking Essence of Doubt,疑惑之尖啸精华,zh-CN
+Shrieking Essence of Dread,忌惮之尖啸精华,zh-CN
+Shrieking Essence of Envy,忌妒之尖啸精华,zh-CN
+Shrieking Essence of Fear,恐惧之尖啸精华,zh-CN
+Shrieking Essence of Greed,贪婪之尖啸精华,zh-CN
+Shrieking Essence of Hatred,憎恨之尖啸精华,zh-CN
+Shrieking Essence of Loathing,厌恶之尖啸精华,zh-CN
+Shrieking Essence of Misery,凄惨之尖啸精华,zh-CN
+Shrieking Essence of Rage,肆虐之尖啸精华,zh-CN
+Shrieking Essence of Scorn,傲视之尖啸精华,zh-CN
+Shrieking Essence of Sorrow,哀惜之尖啸精华,zh-CN
+Shrieking Essence of Spite,刻毒之尖啸精华,zh-CN
+Shrieking Essence of Suffering,苦难之尖啸精华,zh-CN
+Shrieking Essence of Torment,折磨之尖啸精华,zh-CN
+Shrieking Essence of Woe,悲痛之尖啸精华,zh-CN
+Shrieking Essence of Wrath,雷霆之尖啸精华,zh-CN
+Shrieking Essence of Zeal,热情之尖啸精华,zh-CN
+Shuddering Fossil,震颤化石,zh-CN
+Silence and Frost,死寂严冬,zh-CN
+Silver Oil,白银圣油,zh-CN
+Simulacrum,梦魇拟像,zh-CN
+Simulacrum Splinter,梦魇拟像裂片,zh-CN
+Singular Delirium Orb,单独的雾魇宝珠,zh-CN
+Sinistral Catalyst,左旋催化剂,zh-CN
+Skill Gems,技能宝石,zh-CN
+Skittering Delirium Orb,迷踪的雾魇宝珠,zh-CN
+Society's Remorse,社团之悔,zh-CN
+Something Dark,黑暗之物,zh-CN
+Squandered Prosperity,挥霍无度,zh-CN
+Stacked Deck,未知的命运卡,zh-CN
+Struck by Lightning,雷劈,zh-CN
+Succor of the Sinless,无罪之援,zh-CN
+Sulphite Scarab,亚硫酸圣甲虫,zh-CN
+Sulphite Scarab of Fumes,烟尘之亚硫酸圣甲虫,zh-CN
+Sulphite Scarab of Greed,贪婪之亚硫酸圣甲虫,zh-CN
+Support Gems,辅助宝石,zh-CN
+Syndicate Medallion,辛迪加徽章,zh-CN
+Synthesising Fragment,追忆碎片,zh-CN
+Tailoring Orb,裁剪石,zh-CN
+Tainted Armourer's Scrap,污秽护甲片,zh-CN
+Tainted Blacksmith's Whetstone,污秽磨刀石,zh-CN
+Tainted Catalyst,污秽催化剂,zh-CN
+Tainted Chaos Orb,污秽混沌石,zh-CN
+Tainted Chromatic Orb,污秽幻色石,zh-CN
+Tainted Divine Teardrop,污染神泪,zh-CN
+Tainted Exalted Orb,污秽崇高石,zh-CN
+Tainted Jeweller's Orb,污秽工匠石,zh-CN
+Tainted Mythic Orb,污秽神秘石,zh-CN
+Tainted Oil,污秽圣油,zh-CN
+Tainted Orb of Fusing,污秽链结石,zh-CN
+Tangled Fossil,纠缠化石,zh-CN
+Tattoo of the Arohongui Moonwarden,亚欧红古月之守卫的文身,zh-CN
+Tattoo of the Arohongui Scout,亚欧红古斥候的文身,zh-CN
+Tattoo of the Arohongui Shaman,亚欧红古萨满的文身,zh-CN
+Tattoo of the Arohongui Warmonger,亚欧红古好战者的文身,zh-CN
+Tattoo of the Arohongui Warrior,亚欧红古战士的文身,zh-CN
+Tattoo of the Hinekora Deathwarden,辛格拉死亡守卫的文身,zh-CN
+Tattoo of the Hinekora Shaman,辛格拉萨满的文身,zh-CN
+Tattoo of the Hinekora Storyteller,辛格拉说书人的文身,zh-CN
+Tattoo of the Hinekora Warmonger,辛格拉好战者的文身,zh-CN
+Tattoo of the Hinekora Warrior,辛格拉战士的文身,zh-CN
+Tattoo of the Kitava Blood Drinker,奇塔弗汲血者的文身,zh-CN
+Tattoo of the Kitava Heart Eater,奇塔弗吞心者的文身,zh-CN
+Tattoo of the Kitava Rebel,奇塔弗义军的文身,zh-CN
+Tattoo of the Kitava Shaman,奇塔弗萨满的文身,zh-CN
+Tattoo of the Kitava Warrior,奇塔弗战士的文身,zh-CN
+Tattoo of the Ngamahu Firewalker,努葛玛呼烈焰行者的文身,zh-CN
+Tattoo of the Ngamahu Shaman,努葛玛呼萨满的文身,zh-CN
+Tattoo of the Ngamahu Warmonger,努葛玛呼好战者的文身,zh-CN
+Tattoo of the Ngamahu Warrior,努葛玛呼战士的文身,zh-CN
+Tattoo of the Ngamahu Woodcarver,努葛玛呼木匠的文身,zh-CN
+Tattoo of the Ramako Archer,雷默科弓手的文身,zh-CN
+Tattoo of the Ramako Fleetfoot,雷默科捷足者的文身,zh-CN
+Tattoo of the Ramako Scout,雷默科斥候的文身,zh-CN
+Tattoo of the Ramako Shaman,雷默科萨满的文身,zh-CN
+Tattoo of the Ramako Sniper,雷默科狙击手的文身,zh-CN
+Tattoo of the Rongokurai Brute,隆戈库莱野蛮人的文身,zh-CN
+Tattoo of the Rongokurai Goliath,隆戈库莱巨人的文身,zh-CN
+Tattoo of the Rongokurai Guard,隆戈库莱守卫的文身,zh-CN
+Tattoo of the Rongokurai Turtle,隆戈库莱巨龟的文身,zh-CN
+Tattoo of the Rongokurai Warrior,隆戈库莱战士的文身,zh-CN
+Tattoo of the Tasalio Bladedancer,塔萨里奥剑舞者的文身,zh-CN
+Tattoo of the Tasalio Scout,塔萨里奥斥候的文身,zh-CN
+Tattoo of the Tasalio Shaman,塔萨里奥萨满的文身,zh-CN
+Tattoo of the Tasalio Tideshifter,塔萨里奥潮汐变换者的文身,zh-CN
+Tattoo of the Tasalio Warrior,塔萨里奥战士的文身,zh-CN
+Tattoo of the Tawhoa Herbalist,塔赫亚草药师的文身,zh-CN
+Tattoo of the Tawhoa Naturalist,塔赫亚自然术士的文身,zh-CN
+Tattoo of the Tawhoa Scout,塔赫亚斥候的文身,zh-CN
+Tattoo of the Tawhoa Shaman,塔赫亚萨满的文身,zh-CN
+Tattoo of the Tawhoa Warrior,塔赫亚战士的文身,zh-CN
+Tattoo of the Tukohama Brawler,图克哈玛斗士的文身,zh-CN
+Tattoo of the Tukohama Shaman,图克哈玛萨满的文身,zh-CN
+Tattoo of the Tukohama Warcaller,图克哈玛战争司号的文身,zh-CN
+Tattoo of the Tukohama Warmonger,图克哈玛好战者的文身,zh-CN
+Tattoo of the Tukohama Warrior,图克哈玛战士的文身,zh-CN
+Tattoo of the Valako Scout,瓦拉克斥候的文身,zh-CN
+Tattoo of the Valako Shaman,瓦拉克萨满的文身,zh-CN
+Tattoo of the Valako Shieldbearer,瓦拉克盾卫的文身,zh-CN
+Tattoo of the Valako Stormrider,瓦拉克驭雷者的文身,zh-CN
+Tattoo of the Valako Warrior,瓦拉克战士的文身,zh-CN
+Teal Oil,水蓝圣油,zh-CN
+Temperance,千锤百炼,zh-CN
+Tempering Catalyst,回火催化剂,zh-CN
+Tempering Orb,回火石,zh-CN
+Templar Astrolabe,圣堂星盘,zh-CN
+Terrible Secret of Space,洪荒秘辛,zh-CN
+Thaumaturge's Delirium Orb,奇术师的雾魇宝珠,zh-CN
+The Academic,学院派,zh-CN
+The Admirer,仰慕者,zh-CN
+The Adventuring Spirit,冒险精神,zh-CN
+The Aesthete,大艺术家,zh-CN
+The Apothecary,药剂师,zh-CN
+The Archmage's Right Hand,大法师的右手,zh-CN
+The Arena Champion,竞技场冠军,zh-CN
+The Army of Blood,鲜血大军,zh-CN
+The Artist,艺者,zh-CN
+The Aspirant,雄心,zh-CN
+The Astromancer,星象学家,zh-CN
+The Avenger,复仇者,zh-CN
+The Awakened,觉醒,zh-CN
+The Battle Born,战火锻造,zh-CN
+The Bear Woman,熊女,zh-CN
+The Beast,狂兽,zh-CN
+The Betrayal,背叛,zh-CN
+The Bitter Blossom,猛烈绽放,zh-CN
+The Black Barya,漆黑巴雅,zh-CN
+The Blazing Fire,灼热之火,zh-CN
+The Blessing of Moosh,穆希保佑,zh-CN
+The Body,血肉之躯,zh-CN
+The Bones,骸骨,zh-CN
+The Brawny Battle Mage,强壮的战斗法师,zh-CN
+The Breach,裂隙,zh-CN
+The Brittle Emperor,枯骨皇帝,zh-CN
+The Cache,密藏,zh-CN
+The Cacophony,不协之音,zh-CN
+The Calling,越界的呼唤,zh-CN
+The Card Sharp,神恩之赐,zh-CN
+The Carrion Crow,食腐掠鸦,zh-CN
+The Cataclysm,巨变,zh-CN
+The Catalyst,灾变,zh-CN
+The Catch,隐情,zh-CN
+The Celestial Justicar,天堂执法官,zh-CN
+The Celestial Stone,天堂之石,zh-CN
+The Chains that Bind,束缚之链,zh-CN
+The Chosen,天选,zh-CN
+The Coming Storm,风暴来袭,zh-CN
+The Conduit,雷针,zh-CN
+The Craving,渴求,zh-CN
+The Cursed King,诅咒之王,zh-CN
+The Damned,咒诅之灵,zh-CN
+The Dapper Prodigy,极致不凡,zh-CN
+The Dark Mage,黑暗术者,zh-CN
+The Darkest Dream,深深黑梦,zh-CN
+The Deal,买卖,zh-CN
+The Deceiver,狡徒,zh-CN
+The Deep Ones,深渊之子,zh-CN
+The Demon,恶魔,zh-CN
+The Demoness,魅魔,zh-CN
+The Destination,目的地,zh-CN
+The Doctor,疯医,zh-CN
+The Doppelganger,傀儡,zh-CN
+The Dragon,巨龙,zh-CN
+The Dragon's Heart,龙之心,zh-CN
+The Dreamer,追梦者,zh-CN
+The Dreamland,梦境,zh-CN
+The Drunken Aristocrat,酒醉贵族,zh-CN
+The Dungeon Master,地下城大师,zh-CN
+The Easy Stroll,轻松漫步,zh-CN
+The Eldritch Decay,裂界之殇,zh-CN
+The Emptiness,万事皆空,zh-CN
+The Encroaching Darkness,黑暗来犯,zh-CN
+The Endless Darkness,无尽黑暗,zh-CN
+The Endurance,耐久者,zh-CN
+The Enforcer,执行官,zh-CN
+The Enlightened,智慧启蒙,zh-CN
+The Enthusiasts,古道热肠,zh-CN
+The Escape,逃亡,zh-CN
+The Eternal War,永恒之战,zh-CN
+The Ethereal,空灵,zh-CN
+The Everlasting,永世长存,zh-CN
+The Explorer,探险家,zh-CN
+The Eye of Terror,恐怖之眼,zh-CN
+The Eye of the Dragon,龙之眼,zh-CN
+The Fathomless Depths,无尽深渊,zh-CN
+The Feast,盛宴,zh-CN
+The Fiend,劣魔,zh-CN
+The Finishing Touch,终结一触,zh-CN
+The Fishmonger,鱼贩,zh-CN
+The Fletcher,制箭者,zh-CN
+The Flora's Gift,芙劳拉的赠礼,zh-CN
+The Fool,愚人,zh-CN
+The Forbidden Fruit,禁忌果实,zh-CN
+The Forgotten Treasure,被遗忘的宝藏,zh-CN
+The Formless Sea,无迹之海,zh-CN
+The Forsaken,遗弃之物,zh-CN
+The Fortunate,垂青之运,zh-CN
+The Forward Gaze,放远目光,zh-CN
+The Fox,狡狐,zh-CN
+The Fox in the Brambles,荆林之狐,zh-CN
+The Gambler,赌徒,zh-CN
+The Garish Power,炫耀之力,zh-CN
+The Gemcutter,珠宝匠,zh-CN
+The Gentleman,绅士之风,zh-CN
+The Gladiator,斗士,zh-CN
+The Golden Era,黄金纪元,zh-CN
+The Greatest Intentions,至高之愿,zh-CN
+The Gulf,天人永隔,zh-CN
+The Hale Heart,壮心不已,zh-CN
+The Harvester,收割者,zh-CN
+The Hermit,隐士,zh-CN
+The Heroic Shot,英勇打击,zh-CN
+The Hive of Knowledge,知识之巢,zh-CN
+The Hoarder,宝箱,zh-CN
+The Hook,钩子,zh-CN
+The Hunger,饥饿,zh-CN
+The Immortal,永恒不朽,zh-CN
+The Incantation,咒语,zh-CN
+The Innocent,无辜者,zh-CN
+The Inoculated,移花接木,zh-CN
+The Insane Cat,失智猫咪,zh-CN
+The Insatiable,永不满足,zh-CN
+The Inventor,发明家,zh-CN
+The Jester,小丑,zh-CN
+The Jeweller's Boon,珠宝匠的福祉,zh-CN
+The Journalist,狗仔队,zh-CN
+The Journey,旅程,zh-CN
+The King's Blade,王者之刃,zh-CN
+The King's Heart,王者之心,zh-CN
+The Lake,卡兰德之湖,zh-CN
+The Last Laugh,笑到最后,zh-CN
+The Last One Standing,屹立不败之人,zh-CN
+The Last Supper,最后的晚餐,zh-CN
+The Leviathan,海怪,zh-CN
+The Lich,巫妖,zh-CN
+The Life Thief,生命窃贼,zh-CN
+The Lion,雄狮,zh-CN
+The Long Con,长线钓鱼,zh-CN
+The Long Watch,漫长守望,zh-CN
+The Lord in Black,暗黑之王,zh-CN
+The Lord of Celebration,欢庆领主,zh-CN
+The Lover,情人,zh-CN
+The Lunaris Priestess,月影女祭司,zh-CN
+The Mad King,狂王,zh-CN
+The Magma Crab,熔岩蟹,zh-CN
+The Master Artisan,工匠大师,zh-CN
+The Maven's Writ,贤主敕令,zh-CN
+The Mayor,庄园主,zh-CN
+The Mercenary,佣兵,zh-CN
+The Messenger,信使,zh-CN
+The Metalsmith's Gift,铁匠的赠礼,zh-CN
+The Mind's Eyes,心灵之眼,zh-CN
+The Miracle,奇迹,zh-CN
+The Mountain,山脉,zh-CN
+The Nurse,照料者,zh-CN
+The Oath,力之誓言,zh-CN
+The Offering,奉献,zh-CN
+The Offspring,苗裔,zh-CN
+The Old Man,老人,zh-CN
+The One That Got Away,离开的人是你,zh-CN
+The One With All,完人,zh-CN
+The Opulent,净白,zh-CN
+The Pack Leader,群聚之首,zh-CN
+The Pact,协约,zh-CN
+The Patient,病患,zh-CN
+The Penitent,忏悔者,zh-CN
+The Poet,诗人,zh-CN
+The Polymath,博学者,zh-CN
+The Porcupine,射成筛子,zh-CN
+The Price of Devotion,虔诚的代价,zh-CN
+The Price of Loyalty,忠诚的代价,zh-CN
+The Price of Prescience,预见的代价,zh-CN
+The Price of Protection,保护的代价,zh-CN
+The Primordial,起源,zh-CN
+The Prince of Darkness,黑暗君王,zh-CN
+The Professor,教授,zh-CN
+The Progeny of Lunaris,月影的子嗣,zh-CN
+The Queen,女王,zh-CN
+The Rabbit's Foot,幸运兔脚,zh-CN
+The Rabid Rhoa,疯狂恐喙鸟,zh-CN
+The Realm,家的捷径,zh-CN
+The Return of the Rat,硕鼠归来,zh-CN
+The Risk,危机,zh-CN
+The Rite of Elements,元素祭祀,zh-CN
+The Road to Power,力量之道,zh-CN
+The Rusted Bard,锈铁诗人,zh-CN
+The Ruthless Ceinture,残酷之环,zh-CN
+The Sacrifice,牺牲,zh-CN
+The Saint's Treasure,圣人之礼,zh-CN
+The Samurai's Eye,武士之眼,zh-CN
+The Scarred Meadow,创痕之原,zh-CN
+The Scavenger,拾荒者,zh-CN
+The Scholar,学者,zh-CN
+The Scout,斥候,zh-CN
+The Seeker,寻觅者,zh-CN
+The Sephirot,生命之树,zh-CN
+The Shepherd's Sandals,牧羊人的凉鞋,zh-CN
+The Shieldbearer,持盾人,zh-CN
+The Shortcut,捷径,zh-CN
+The Side Quest,支线任务,zh-CN
+The Sigil,魔符,zh-CN
+The Silly Boy,傻小子,zh-CN
+The Siren,海妖,zh-CN
+The Skeleton,魔侍,zh-CN
+The Slumbering Beast,沉睡之兽,zh-CN
+The Soul,灵魂,zh-CN
+The Spark and the Flame,闪光与火焰,zh-CN
+The Spoiled Prince,骄纵皇子,zh-CN
+The Standoff,冷淡,zh-CN
+The Stormcaller,风暴使者,zh-CN
+The Strategist,兵法家,zh-CN
+The Summoner,召唤师,zh-CN
+The Sun,烈日,zh-CN
+The Surgeon,外科医师,zh-CN
+The Surveyor,勘查员,zh-CN
+The Survivalist,求生专家,zh-CN
+The Sword King's Salute,剑圣的致敬,zh-CN
+The Thaumaturgist,大奇术师,zh-CN
+The Throne,王座,zh-CN
+The Tinkerer's Table,修补匠之桌,zh-CN
+The Tireless Extractor,恒久榨取,zh-CN
+The Tower,塔峰,zh-CN
+The Traitor,背叛者,zh-CN
+The Transformation,变身,zh-CN
+The Trial,远征,zh-CN
+The Tumbleweed,风滚草,zh-CN
+The Twilight Moon,暮光之月,zh-CN
+The Twins,孪生,zh-CN
+The Tyrant,暴虐之灵,zh-CN
+The Undaunted,无畏者,zh-CN
+The Undisputed,无可争议者,zh-CN
+The Unexpected Prize,意外收获,zh-CN
+The Union,联姻,zh-CN
+The Valkyrie,女之武神,zh-CN
+The Vast,平壤,zh-CN
+The Visionary,梦想家,zh-CN
+The Void,虚空,zh-CN
+The Warden,典狱长,zh-CN
+The Warlord,大军阀,zh-CN
+The Watcher,凝视者,zh-CN
+The Web,命运之网,zh-CN
+The Wedding Gift,新婚赠礼,zh-CN
+The White Knight,白衣骑士,zh-CN
+The Whiteout,雪盲,zh-CN
+The Wilted Rose,枯萎玫瑰,zh-CN
+The Wind,风,zh-CN
+The Witch,巫婆,zh-CN
+The Wolf,群狼之王,zh-CN
+The Wolf's Legacy,狼王的遗产,zh-CN
+The Wolf's Shadow,狼的影子,zh-CN
+The Wolven King's Bite,狼王之弦,zh-CN
+The Wolverine,金刚狼,zh-CN
+The World Eater,噬界者,zh-CN
+The Wrath,怨忿,zh-CN
+The Wretched,死灵遗物,zh-CN
+Thirst for Knowledge,求知若渴,zh-CN
+Three Faces in the Dark,黑暗三面,zh-CN
+Three Voices,三魔音,zh-CN
+Thunderous Skies,怒雷之空,zh-CN
+Time-Lost Relic,失落遗骨,zh-CN
+Timeless Astrolabe,永恒星盘,zh-CN
+Timeless Delirium Orb,永恒的雾魇宝珠,zh-CN
+Timeless Eternal Emblem,永恒帝国印记,zh-CN
+Timeless Eternal Empire Splinter,永恒帝国裂片,zh-CN
+Timeless Karui Emblem,永恒卡鲁印记,zh-CN
+Timeless Karui Splinter,永恒卡鲁裂片,zh-CN
+Timeless Maraketh Emblem,永恒马拉克斯印记,zh-CN
+Timeless Maraketh Splinter,永恒马拉克斯裂片,zh-CN
+Timeless Templar Emblem,永恒圣堂印记,zh-CN
+Timeless Templar Splinter,永恒圣堂裂片,zh-CN
+Timeless Vaal Emblem,永恒瓦尔印记,zh-CN
+Timeless Vaal Splinter,永恒瓦尔裂片,zh-CN
+Titanic Scarab,泰坦圣甲虫,zh-CN
+Titanic Scarab of Legend,传奇之泰坦圣甲虫,zh-CN
+Titanic Scarab of Treasures,宝藏之泰坦圣甲虫,zh-CN
+Torment Scarab,苦痛圣甲虫,zh-CN
+Torment Scarab of Peculiarity,怪奇之苦痛圣甲虫,zh-CN
+Torment Scarab of Possession,附身之苦痛圣甲虫,zh-CN
+Torment Scarab of Release,解脱之苦痛圣甲虫,zh-CN
+Toxic Tidings,剧毒浪潮,zh-CN
+Tranquillity,宁静,zh-CN
+Transfigured Gems,改造宝石,zh-CN
+Transmutation Shard,蜕变石碎片,zh-CN
+Traumatic Fragment,创痛碎片,zh-CN
+Treasure Hunter,赏金猎手,zh-CN
+Tribute to the Goddess,女神贡品,zh-CN
+Triskaidekaphobia,十三大忌,zh-CN
+Turbulent Catalyst,猛烈催化剂,zh-CN
+Turn the Other Cheek,忍辱,zh-CN
+Ultimatum Scarab,致命贪婪圣甲虫,zh-CN
+Ultimatum Scarab of Bribing,贿赂之致命贪婪圣甲虫,zh-CN
+Ultimatum Scarab of Catalysing,催化之致命贪婪圣甲虫,zh-CN
+Ultimatum Scarab of Dueling,决斗之致命贪婪圣甲虫,zh-CN
+Ultimatum Scarab of Inscription,战书之致命贪婪圣甲虫,zh-CN
+Unchained,破除枷锁,zh-CN
+Underground Forest,地下森林,zh-CN
+Unrelenting Timeless Eternal Emblem,不屈帝国印记,zh-CN
+Unrelenting Timeless Karui Emblem,不屈卡鲁印记,zh-CN
+Unrelenting Timeless Maraketh Emblem,不屈马拉克斯印记,zh-CN
+Unrelenting Timeless Templar Emblem,不屈圣堂印记,zh-CN
+Unrelenting Timeless Vaal Emblem,不屈瓦尔印记,zh-CN
+Unrequited Love,一厢情愿,zh-CN
+Unstable Catalyst,不稳定的催化剂,zh-CN
+Valdo's Puzzle Box,瓦尔多的谜之匣,zh-CN
+Vanity,虚荣,zh-CN
+Veiled Chaos Orb,加密混沌石,zh-CN
+Veiled Exalted Orb,加密崇高石,zh-CN
+Vendor Recipes,商人物品配方,zh-CN
+Verdant Oil,翠绿圣油,zh-CN
+Veritania's Crest,维利塔妮娅之冠,zh-CN
+Vile Power,恶毒的权力,zh-CN
+Vinia's Token,薇妮雅的信物,zh-CN
+Violet Oil,紫色圣油,zh-CN
+Vivid Crystallised Lifeforce,活性黄晶命能,zh-CN
+Void of the Elements,元素虚空,zh-CN
+Voidborn Reliquary Key,圣物厅钥匙：虚空血脉,zh-CN
+Volatile Power,不稳定的力量,zh-CN
+Volatile Vaal Orb,无常瓦尔宝珠,zh-CN
+Wailing Essence of Anger,愤怒之哀嚎精华,zh-CN
+Wailing Essence of Anguish,煎熬之哀嚎精华,zh-CN
+Wailing Essence of Contempt,轻视之哀嚎精华,zh-CN
+Wailing Essence of Doubt,疑惑之哀嚎精华,zh-CN
+Wailing Essence of Fear,恐惧之哀嚎精华,zh-CN
+Wailing Essence of Greed,贪婪之哀嚎精华,zh-CN
+Wailing Essence of Hatred,憎恨之哀嚎精华,zh-CN
+Wailing Essence of Loathing,厌恶之哀嚎精华,zh-CN
+Wailing Essence of Rage,肆虐之哀嚎精华,zh-CN
+Wailing Essence of Sorrow,哀惜之哀嚎精华,zh-CN
+Wailing Essence of Spite,刻毒之哀嚎精华,zh-CN
+Wailing Essence of Suffering,苦难之哀嚎精华,zh-CN
+Wailing Essence of Torment,折磨之哀嚎精华,zh-CN
+Wailing Essence of Woe,悲痛之哀嚎精华,zh-CN
+Wailing Essence of Wrath,雷霆之哀嚎精华,zh-CN
+Wailing Essence of Zeal,热情之哀嚎精华,zh-CN
+Warlord's Exalted Orb,督军的崇高石,zh-CN
+Wealth and Power,钱与权,zh-CN
+Weeping Essence of Anger,愤怒之啼泣精华,zh-CN
+Weeping Essence of Contempt,轻视之啼泣精华,zh-CN
+Weeping Essence of Doubt,疑惑之啼泣精华,zh-CN
+Weeping Essence of Fear,恐惧之啼泣精华,zh-CN
+Weeping Essence of Greed,贪婪之啼泣精华,zh-CN
+Weeping Essence of Hatred,憎恨之啼泣精华,zh-CN
+Weeping Essence of Rage,肆虐之啼泣精华,zh-CN
+Weeping Essence of Sorrow,哀惜之啼泣精华,zh-CN
+Weeping Essence of Suffering,苦难之啼泣精华,zh-CN
+Weeping Essence of Torment,折磨之啼泣精华,zh-CN
+Weeping Essence of Woe,悲痛之啼泣精华,zh-CN
+Weeping Essence of Wrath,雷霆之啼泣精华,zh-CN
+When Currents Blaze,炽焰疾电,zh-CN
+Whispering Delirium Orb,低语的雾魇宝珠,zh-CN
+Whispering Essence of Contempt,轻视之低语精华,zh-CN
+Whispering Essence of Greed,贪婪之低语精华,zh-CN
+Whispering Essence of Hatred,憎恨之低语精华,zh-CN
+Whispering Essence of Woe,悲痛之低语精华,zh-CN
+Who Asked,求取之人,zh-CN
+Wild Crystallised Lifeforce,狂野紫晶命能,zh-CN
+Winter's Embrace,凛冬之拥,zh-CN
+Arcane,奥术,zh-CN
+Arkhon's Vault,首席院士宝库,zh-CN
+"Aukuna, the Black Sekhema",奥库娜，漆黑丝克玛,zh-CN
+"Beidat, Archangel of Death",死亡天使贝达特,zh-CN
+Cardinal Sanctus Vox,圣沃克斯大主教,zh-CN
+"Catarina, Master of Undeath",亡灵大师卡塔莉娜,zh-CN
+Chaining,连锁,zh-CN
+Chaos,混沌,zh-CN
+Cold,冰霜,zh-CN
+Critical,暴击,zh-CN
+Duration,持续时间,zh-CN
+Fire,火焰,zh-CN
+General Marceus Lioneye,穆希尔斯·狮眼将军,zh-CN
+"Ghorr, the Grasping Maw",贪婪巨喉咕尔,zh-CN
+Hex,魔蛊,zh-CN
+Incarnation of Dread,惊怖化形,zh-CN
+Incarnation of Fear,畏惧化形,zh-CN
+Incarnation of Neglect,漠视化形,zh-CN
+It That Was Esh,曾为艾许之物,zh-CN
+It That Was Tul,曾为托沃之物,zh-CN
+"K'tash, the Hate Shepherd",憎恨牧者科塔席,zh-CN
+"Kosis, The Revelation",天启勇士卡西斯,zh-CN
+Lightning,闪电,zh-CN
+Nightmare of Lycia,莉西娅的梦魇,zh-CN
+Nightmare of the Depraved Trinity,不洁三巨头的梦魇,zh-CN
+Nightmare of the Unbreakable,牢不可破装置的梦魇,zh-CN
+Nightmare of Uhtred,乌崔德的梦魇,zh-CN
+Originator Voidstone,Originator Voidstone,zh-CN
+"Oshabi, Avatar of the Grove",庄园化身欧莱娜,zh-CN
+Physical,物理,zh-CN
+Queen Hyrri Ngamaku,西里·伽玛库女王,zh-CN
+"Saresh, of the Weeping Black",萨瑞斯，漆黑鸣泣,zh-CN
+Scholar's Vault,学者宝库,zh-CN
+"Sirus, Awakener of Worlds",诸界觉者希鲁斯,zh-CN
+Support,辅助,zh-CN
+The Eater of Worlds,世界吞噬者,zh-CN
+The Elder,裂界者,zh-CN
+The King in the Mists,迷雾之王,zh-CN
+The Maven,贤主,zh-CN
+The Searing Exarch,灼督,zh-CN
+The Shaper,塑界者,zh-CN
+The Trialmaster,试炼使者,zh-CN
+Vaal,瓦尔,zh-CN
+Venarius,维纳留斯,zh-CN
+Viper Napuatzi,蝰蛇娜帕齐,zh-CN
+"Vruun, Marshal of Xesht",弗伦，薛斯的元帅,zh-CN
+Zealot's Vault,狂热者宝库,zh-CN
+Path of Exile,流放之路,zh-CN
+[DNT] Call of the Wild,[DNT] Call of the Wild,zh-CN
+[UNUSED] Blitz,DNT Blitz,zh-CN
+[UNUSED] Blood Whirl,[UNUSED] Blood Whirl,zh-CN
+[UNUSED] Bone Armour,[UNUSED] Bone Armour,zh-CN
+[UNUSED] Coiling Assault,[UNUSED] Coiling Assault,zh-CN
+[UNUSED] Handcast Rapid Fire,DNT Handcast Rapid Fire,zh-CN
+[UNUSED] Quick Block,[DNT] Quick Block,zh-CN
+[UNUSED] Replicate,[DNT] Replicate,zh-CN
+[UNUSED] Serpent Strike,[UNUSED] Serpent Strike,zh-CN
+[UNUSED] Slice And Dice,[DNT] Slice And Dice,zh-CN
+Absolution,赦罪,zh-CN
+Absolution of Inspiring,奋发之赦罪,zh-CN
+Added Chaos Damage Support,附加混沌伤害(辅),zh-CN
+Added Fire Damage Support,附加火焰伤害(辅),zh-CN
+Added Lightning Damage Support,附加闪电伤害(辅),zh-CN
+Additional Accuracy Support,额外命中(辅),zh-CN
+Advanced Traps Support,陷阱冷却(辅),zh-CN
+Alchemist's Mark,炼金师印记,zh-CN
+Ambush,伏击,zh-CN
+Ancestral Blademaster,先祖大剑师,zh-CN
+Ancestral Call Support,先祖召唤(辅),zh-CN
+Ancestral Cry,先祖战吼,zh-CN
+Ancestral Protector,先祖卫士,zh-CN
+Ancestral Warchief,先祖战士长,zh-CN
+Anger,愤怒,zh-CN
+Animate Guardian,幻化守卫,zh-CN
+Animate Guardian of Smiting,惩击之幻化守卫,zh-CN
+Animate Weapon of Ranged Arms,远程之幻化武器,zh-CN
+Animate Weapon of Self Reflection,自省之幻化武器,zh-CN
+Annihilation Support,抹灭（辅）,zh-CN
+Arc,电弧,zh-CN
+Arc of Oscillating,震荡之电弧,zh-CN
+Arc of Surging,激涌之电弧,zh-CN
+Arcane Cloak,奥术斗篷,zh-CN
+Arcane Surge Support,秘术增强(辅),zh-CN
+Arcanist Brand,奥法烙印,zh-CN
+Archmage Support,大法师（辅）,zh-CN
+Arctic Armour,极地装甲,zh-CN
+Armageddon Brand,末日烙印,zh-CN
+Armageddon Brand of Recall,回溯之末日烙印,zh-CN
+Armageddon Brand of Volatility,无常之末日烙印,zh-CN
+Arrogance Support,赤嚣（辅）,zh-CN
+Arrow Nova Support,箭之新星（辅）,zh-CN
+Artillery Ballista,火力弩炮,zh-CN
+Artillery Ballista of Cross Strafe,交叉扫射之火力弩炮,zh-CN
+Artillery Ballista of Focus Fire,锁定打击之火力弩炮,zh-CN
+Assassin's Mark,暗影印记,zh-CN
+Autoexertion,自动增助,zh-CN
+Automation,自动化,zh-CN
+Awakened Added Chaos Damage Support,附加混沌伤害（强辅）,zh-CN
+Awakened Added Cold Damage Support,附加冰霜伤害（强辅）,zh-CN
+Awakened Added Fire Damage Support,附加火焰伤害（强辅）,zh-CN
+Awakened Added Lightning Damage Support,附加闪电伤害（强辅）,zh-CN
+Awakened Ancestral Call Support,先祖召唤（强辅）,zh-CN
+Awakened Arrow Nova Support,箭之新星（强辅）,zh-CN
+Awakened Blasphemy Support,渎神（强辅）,zh-CN
+Awakened Brutality Support,残暴（强辅）,zh-CN
+Awakened Burning Damage Support,增加燃烧伤害（强辅）,zh-CN
+Awakened Cast On Critical Strike Support,暴击时施放（强辅）,zh-CN
+Awakened Cast While Channelling Support,吟唱时施放（强辅）,zh-CN
+Awakened Chain Support,连锁（强辅）,zh-CN
+Awakened Cold Penetration Support,冰霜穿透（强辅）,zh-CN
+Awakened Controlled Destruction Support,精准破坏（强辅）,zh-CN
+Awakened Deadly Ailments Support,致命异常状态（强辅）,zh-CN
+Awakened Elemental Damage with Attacks Support,武器元素伤害（强辅）,zh-CN
+Awakened Elemental Focus Support,元素集中（强辅）,zh-CN
+Awakened Empower Support,赋予（强辅）,zh-CN
+Awakened Enhance Support,增幅（强辅）,zh-CN
+Awakened Enlighten Support,启蒙（强辅）,zh-CN
+Awakened Fire Penetration Support,火焰穿透（强辅）,zh-CN
+Awakened Fork Support,分裂（强辅）,zh-CN
+Awakened Generosity Support,和善（强辅）,zh-CN
+Awakened Greater Multiple Projectiles Support,高阶多重投射（强辅）,zh-CN
+Awakened Hextouch Support,蛊咒【强辅】,zh-CN
+Awakened Increased Area of Effect Support,增大范围（强辅）,zh-CN
+Awakened Lightning Penetration Support,闪电穿透（强辅）,zh-CN
+Awakened Melee Physical Damage Support,近战物理伤害（强辅）,zh-CN
+Awakened Melee Splash Support,近战伤害扩散（强辅）,zh-CN
+Awakened Minion Damage Support,召唤生物伤害（强辅）,zh-CN
+Awakened Multistrike Support,多重打击（强辅）,zh-CN
+Awakened Spell Cascade Support,多重范围施法（强辅）,zh-CN
+Awakened Spell Echo Support,施法回响（强辅）,zh-CN
+Awakened Swift Affliction Support,极速腐化（强辅）,zh-CN
+Awakened Unbound Ailments Support,异常爆发（强辅）,zh-CN
+Awakened Unleash Support,释出（强辅）,zh-CN
+Awakened Vicious Projectiles Support,邪恶投掷（强辅）,zh-CN
+Awakened Void Manipulation Support,虚空操纵（强辅）,zh-CN
+Backstab,背刺,zh-CN
+Ball Lightning,天雷之珠,zh-CN
+Ball Lightning of Orbiting,周转之天雷之珠,zh-CN
+Ball Lightning of Static,静滞之天雷之珠,zh-CN
+Ballista Totem Support,弩炮图腾（辅）,zh-CN
+Bane,混沌之毒,zh-CN
+Bane of Condemnation,罪罚之混沌之毒,zh-CN
+Barrage,弹幕,zh-CN
+Barrage of Volley Fire,齐发之弹幕,zh-CN
+Barrage Support,弹幕（辅）,zh-CN
+Battlemage's Cry,魔武战号,zh-CN
+Bear Trap,捕熊陷阱,zh-CN
+Bear Trap of Skewers,钉刺之捕熊陷阱,zh-CN
+Behead Support,斩首（辅）,zh-CN
+Berserk,盛怒,zh-CN
+BestiaryRecipe,献祭猎谱,zh-CN
+Blade Blast,乱剑穿心,zh-CN
+Blade Blast of Dagger Detonation,轰匕之乱剑穿心,zh-CN
+Blade Blast of Unloading,倾泻之乱剑穿心,zh-CN
+Blade Flurry,刀刃乱舞,zh-CN
+Blade Flurry of Incision,割痕之刀刃乱舞,zh-CN
+Blade Trap,剑刃陷阱,zh-CN
+Blade Trap of Greatswords,巨剑之剑刃陷阱,zh-CN
+Blade Trap of Laceration,裂伤之剑刃陷阱,zh-CN
+Blade Vortex,飞刃风暴,zh-CN
+Blade Vortex of the Scythe,巨镰之飞刃风暴,zh-CN
+Bladefall,虚空刀雨,zh-CN
+Bladefall of Impaling,穿刺之虚空刀雨,zh-CN
+Bladefall of Trarthus,特拉特斯之虚空刀雨,zh-CN
+Bladefall of Volleys,连绵之虚空刀雨,zh-CN
+Bladestorm,剑刃风暴,zh-CN
+Bladestorm of Uncertainty,无定之剑刃风暴,zh-CN
+Blasphemy Support,诅咒光环(辅),zh-CN
+Blast Rain,爆裂箭雨,zh-CN
+Blast Rain of Trarthus,特拉特斯之爆裂箭雨,zh-CN
+Blastchain Mine Support,链爆地雷（辅）,zh-CN
+Blazing Salvo,怒炎穿心,zh-CN
+Blessed Call Support,祝福呼唤（辅）,zh-CN
+Blight,枯萎,zh-CN
+Blight of Atrophy,萎缩之枯萎,zh-CN
+Blight of Contagion,传染之枯萎,zh-CN
+Blind Support,致盲(辅),zh-CN
+Blinding Aura,盲目光环,zh-CN
+Blink Arrow of Bombarding Clones,轰炸复制体之闪现射击,zh-CN
+Blink Arrow of Prismatic Clones,棱光复制体之闪现射击,zh-CN
+Blood and Sand,血与沙,zh-CN
+Blood Offering,生命奉献,zh-CN
+Blood Rage,狂野怒火,zh-CN
+Bloodlust Support,血怒（辅）,zh-CN
+Bloodsoaked Banner Support,血染旗帜（辅）,zh-CN
+Bloodthirst Support,血气（辅）,zh-CN
+Bodyswap,灵体转换,zh-CN
+Bodyswap of Sacrifice,牺牲之灵体转换,zh-CN
+Bone Offering,装甲奉献,zh-CN
+Boneshatter,七伤破,zh-CN
+Boneshatter of Carnage,不坏之七伤破,zh-CN
+Boneshatter of Complex Trauma,重创之七伤破,zh-CN
+Bonespire Support,白骨尖塔（辅）,zh-CN
+Brand Recall,烙印召回,zh-CN
+Brutality Support,残暴(辅),zh-CN
+Burning Arrow,燃烧箭矢,zh-CN
+Burning Arrow of Vigour,气焰之燃烧箭矢,zh-CN
+Burning Damage Support,增加燃烧伤害(辅),zh-CN
+Call the Pyre,苍焰火柱,zh-CN
+Capture Monster,捕获魔物,zh-CN
+Cast On Critical Strike Support,暴击时施放(辅),zh-CN
+Cast on Death Support,死亡时施放(辅),zh-CN
+Cast on Melee Kill Support,近战击败时施放(辅),zh-CN
+Cast on Ward Break Support,结界破碎时释放（辅）,zh-CN
+Cast when Damage Taken Support,受伤时施放(辅),zh-CN
+Cast when Stunned Support,晕眩时施放(辅),zh-CN
+Cast while Channelling Support,吟唱时施放(辅),zh-CN
+Caustic Arrow,腐蚀箭矢,zh-CN
+Caustic Arrow of Poison,剧毒之腐蚀箭矢,zh-CN
+Chain Hook,钩链攻击,zh-CN
+Chain Hook of Trarthus,特拉特斯之钩链攻击,zh-CN
+Chain Support,连锁辅助,zh-CN
+Chance to Bleed Support,几率流血(辅),zh-CN
+Chance to Flee Support,几率逃跑(辅),zh-CN
+Chance to Poison Support,低阶毒化(辅),zh-CN
+Charged Dash,蓄力疾风闪,zh-CN
+Charged Dash of Projection,投射之蓄力疾风闪,zh-CN
+Charged Mines Support,充能地雷（辅）,zh-CN
+Charged Traps Support,充能陷阱（辅）,zh-CN
+Chitus' Apex,切特斯的威权,zh-CN
+Clarity,清晰,zh-CN
+Cleave,劈砍,zh-CN
+Cleave of Rage,怒火之劈砍,zh-CN
+Close Combat Support,近战（辅）,zh-CN
+Cluster Traps Support,散弹陷阱(辅),zh-CN
+Cobra Lash,毒蛇鞭击,zh-CN
+Cold Snap,霜暴,zh-CN
+Cold Snap of Power,强能之霜暴,zh-CN
+Cold to Fire Support,寒冰转烈焰(辅),zh-CN
+Companionship Support,忠诚伙伴（辅）,zh-CN
+Conductivity,导电,zh-CN
+Conflagration,燃火箭雨,zh-CN
+Congregation Support,亡灵大军（辅）,zh-CN
+Consecrated Path,奉献之路,zh-CN
+Consecrated Path of Endurance,强韧之奉献之路,zh-CN
+Contagion,顽疾,zh-CN
+Contagion of Subsiding,痼疾之瘟疫,zh-CN
+Contagion of Transference,转移之瘟疫,zh-CN
+Controlled Blaze Support,精准炽炎（辅）,zh-CN
+Controlled Destruction Support,精准破坏(辅),zh-CN
+Conversion Trap,迷魅陷阱,zh-CN
+Convocation,号召,zh-CN
+Cooldown Recovery Support,冷却回复（辅）,zh-CN
+Corrupt,腐化,zh-CN
+Corrupting Cry Support,腐化战吼（辅）,zh-CN
+Corrupting Fever,腐灼热瘟,zh-CN
+Crackling Lance,霹雳长枪,zh-CN
+Crackling Lance of Branching,分叉之霹雳长枪,zh-CN
+Crackling Lance of Disintegration,瓦解之霹雳长枪,zh-CN
+Creeping Frost,电光寒霜,zh-CN
+Creeping Frost of Floes,浮冰之电光寒霜,zh-CN
+Cremation,火葬,zh-CN
+Cremation of Exhuming,掘灭之火葬,zh-CN
+Cremation of the Volcano,火山之火葬,zh-CN
+Critical Strike Affliction Support,毒化(辅),zh-CN
+Cruelty Support,凌厉（辅）,zh-CN
+Crushing Fist,粉碎重拳,zh-CN
+Cull the Weak Support,弱肉强食（辅）,zh-CN
+Culling Strike Support,终结(辅),zh-CN
+Cursed Ground Support,诅咒之地辅助,zh-CN
+Cyclone,旋风斩,zh-CN
+Cyclone of Tumult,嚣狂之旋风斩,zh-CN
+Damage Infusion,伤害灌注,zh-CN
+Damage on Full Life Support,满血伤害（辅）,zh-CN
+Dance in the White,白霜漫舞,zh-CN
+Dark Pact,暗夜契约,zh-CN
+Dark Pact of Trarthus,特拉特斯之暗夜血契,zh-CN
+Deadly Ailments Support,致命异常状态(辅),zh-CN
+Death Aura,陨命光环,zh-CN
+Decay Support,腐蚀(辅),zh-CN
+Decoy Totem,诱饵图腾,zh-CN
+Defiance Banner,抗争之旗,zh-CN
+Desecrate,亵渎,zh-CN
+Despair,绝望,zh-CN
+Destructive Link,毁灭羁绊,zh-CN
+Determination,坚定,zh-CN
+Detonate Dead,爆灵术,zh-CN
+Detonate Dead of Chain Reaction,连锁之爆灵术,zh-CN
+Detonate Dead of Scavenging,掠命之爆灵术,zh-CN
+Detonate Mines,引爆地雷,zh-CN
+Devour Support,吞噬（辅）,zh-CN
+Devouring Totem,吞噬图腾,zh-CN
+Dialla's Malefaction,达拉的罪刑,zh-CN
+Discharge of Misery,苦难之解放,zh-CN
+Discipline,纪律,zh-CN
+Discorectangle Slam,魔方之击,zh-CN
+Divine Blast,神圣冲击,zh-CN
+Divine Blessing Support,神圣祝福（辅）,zh-CN
+Divine Ire,圣怨,zh-CN
+Divine Ire of Disintegration,瓦解之圣怨,zh-CN
+Divine Ire of Holy Lightning,神雷之圣怨,zh-CN
+Divine Retribution,神圣报应,zh-CN
+Divine Sentinel Support,神圣哨兵（辅）,zh-CN
+Dominating Blow,霸气之击,zh-CN
+Dominating Blow of Inspiring,奋发之霸气之击,zh-CN
+Double Strike,双重打击,zh-CN
+Double Strike of Impaling,穿刺之双重打击,zh-CN
+Double Strike of Momentum,动量之双重打击,zh-CN
+Dread Banner,恐怖之旗,zh-CN
+Dual Strike,双持打击,zh-CN
+Dual Strike of Ambidexterity,巧手之双持打击,zh-CN
+Earthbreaker Support,裂地之灵（辅）,zh-CN
+Earthquake,震地,zh-CN
+Earthquake of Amplification,增幅之地震,zh-CN
+Earthshatter,尖刺战吼,zh-CN
+Earthshatter of Fragility,脆弱之尖刺战吼,zh-CN
+Earthshatter of Prominence,涌升之尖刺战吼,zh-CN
+Eclipse Support,月蚀（辅）,zh-CN
+Edify Support,启发（辅）,zh-CN
+Efficacy Support,效能(辅),zh-CN
+Eldritch Blasphemy Support,古神亵渎（辅）,zh-CN
+Elemental Army Support,元素大军（辅）,zh-CN
+Elemental Damage with Attacks Support,武器元素伤害(辅),zh-CN
+Elemental Focus Support,元素集中(辅),zh-CN
+Elemental Hit of the Spectrum,光谱之元素打击,zh-CN
+Elemental Projectiles,元素投掷物,zh-CN
+Elemental Proliferation Support,元素扩散(辅),zh-CN
+Elemental Weakness,元素要害,zh-CN
+Empower Support,赋予辅助,zh-CN
+Endurance Charge on Melee Stun Support,近战击晕获得耐力球(辅),zh-CN
+Enduring Cry,坚决战吼,zh-CN
+Energy Blade,能量之刃,zh-CN
+Energy Leech Support,能量偷取（辅）,zh-CN
+Enervating Grasp,虚弱之握,zh-CN
+Enfeeble,衰弱,zh-CN
+Enhance Support,增幅辅助,zh-CN
+Enlighten Support,启蒙辅助,zh-CN
+Ensnaring Arrow,诱捕之箭,zh-CN
+Envy,嫉妒,zh-CN
+Essence Drain,精华吸取,zh-CN
+Essence Drain of Desperation,绝望之灵魂吸取,zh-CN
+Essence Drain of Wickedness,邪门之灵魂吸取,zh-CN
+Eternal Blessing Support,永恒祝福 （辅）,zh-CN
+Ethereal Knives,虚空匕首,zh-CN
+Ethereal Knives of Lingering Blades,徘徊之虚空匕首,zh-CN
+Ethereal Knives of the Massacre,狂戮之虚空匕首,zh-CN
+Eviscerate,剔骨,zh-CN
+Excommunicate Support,神圣驱逐(辅）,zh-CN
+Exemplar Support,英勇典范（辅）,zh-CN
+Expert Retaliation Support,专擅反击（辅）,zh-CN
+Explosive Arrow,爆炸箭矢,zh-CN
+Explosive Concoction,爆破灵药,zh-CN
+Explosive Concoction of Destruction,毁灭之爆破灵药,zh-CN
+Explosive Trap,爆炸陷阱,zh-CN
+Explosive Trap of Magnitude,剧烈之爆炸陷阱,zh-CN
+Explosive Trap of Shrapnel,破片之爆炸陷阱,zh-CN
+Exsanguinate,赤炼魔光,zh-CN
+Exsanguinate of Transmission,传输之赤炼魔光,zh-CN
+Eye of Winter,凛冬之眼,zh-CN
+Eye of Winter of Finality,暮冬之凛冬之眼,zh-CN
+Eye of Winter of Transience,瞬息之凛冬之眼,zh-CN
+Fallen from Grace,贵族殒落,zh-CN
+Falling Crystals,天坠冰晶,zh-CN
+Faster Attacks Support,快速攻击(辅),zh-CN
+Faster Casting Support,快速施法(辅),zh-CN
+Faster Projectiles Support,快速投射(辅),zh-CN
+Feeding Frenzy Support,狂噬（辅）,zh-CN
+Fire Trap,火焰陷阱,zh-CN
+Fire Trap of Blasting,震爆之火焰陷阱,zh-CN
+Fire Weapon,烈焰武器,zh-CN
+Fireball,火球,zh-CN
+Firestorm,烈炎风暴,zh-CN
+Firestorm of Meteors,陨星之烈炎风暴,zh-CN
+Firestorm of Pelting,碎焰之烈炎风暴,zh-CN
+Fissure Support,裂缝（辅）,zh-CN
+Fist of War Support,战争铁拳（辅）,zh-CN
+Flame Dash,烈焰冲刺,zh-CN
+Flame Dash of Return,归返之烈焰冲刺,zh-CN
+Flame Link,烈炎羁绊,zh-CN
+Flame Surge,怒焰奔腾,zh-CN
+Flame Surge of Combusting,爆燃之怒焰奔腾,zh-CN
+Flame Wall,烈焰之墙,zh-CN
+Flameblast,烈焰爆破,zh-CN
+Flameblast of Celerity,敏捷之烈焰爆破,zh-CN
+Flameblast of Contraction,聚火之烈焰爆破,zh-CN
+Flamethrower Trap,掷火陷阱,zh-CN
+Flamethrower Trap of Stability,稳定之掷火陷阱,zh-CN
+Flamewood Support,焚木烈火（辅）,zh-CN
+Flammability,易燃,zh-CN
+Flammable Shot,诱燃射击,zh-CN
+Flesh and Stone,血肉与岩石,zh-CN
+Flesh Offering,血肉奉献,zh-CN
+Flicker Strike,闪现打击,zh-CN
+Flicker Strike of Power,强能之闪现打击,zh-CN
+Focused Ballista Support,弩炮集火（辅）,zh-CN
+Focused Channelling Support,专注吟唱（辅）,zh-CN
+Forbidden Rite,禁断典仪,zh-CN
+Forbidden Rite of Soul Sacrifice,祭魂之禁断典仪,zh-CN
+Fork Support,分裂(辅),zh-CN
+Fortify Support,护体(辅),zh-CN
+Foulgrasp Support,邪秽之握（辅）,zh-CN
+Freezing Pulse,冰霜脉冲,zh-CN
+Frenzy,狂怒,zh-CN
+Frenzy of Onslaught,猛攻之狂怒,zh-CN
+Fresh Meat Support,鲜肉（辅）,zh-CN
+Frigid Bond Support,冰冽连接（辅）,zh-CN
+Frost Blades,冰霜之刃,zh-CN
+Frost Blades of Katabasis,冥域之冰霜之刃,zh-CN
+Frost Bomb,寒霜爆,zh-CN
+Frost Bomb of Forthcoming,延时之寒霜爆,zh-CN
+Frost Bomb of Instability,动荡之寒霜爆,zh-CN
+Frost Shield,冰霜护盾,zh-CN
+Frost Wall,冰墙,zh-CN
+Frost Wall of Encroachment,侵袭之冰墙,zh-CN
+Frostbite,冻伤,zh-CN
+Frostblink of Wintry Blast,冰爆之冰霜闪现,zh-CN
+Frostbolt,寒冰弹,zh-CN
+Frostferno,霜狱,zh-CN
+Frostmage Support,寒霜法师（辅）,zh-CN
+Frozen Legion,冰封军团,zh-CN
+Frozen Legion of Rallying,集结之冰封军团,zh-CN
+Galvanic Arrow,电光箭,zh-CN
+Galvanic Arrow of Energy,聚能之电光箭,zh-CN
+Galvanic Arrow of Surging,浪涌之电光箭,zh-CN
+Galvanic Field,电流场,zh-CN
+Galvanic Field of Intensity,剧烈之电流场,zh-CN
+General's Cry,将军之吼,zh-CN
+Generosity Support,和善(辅),zh-CN
+Glacial Cascade,冰川之刺,zh-CN
+Glacial Cascade of the Fissure,裂隙之冰川之刺,zh-CN
+Glacial Hammer of Shattering,碎冰之冰霜之锤,zh-CN
+Glacial Shield Swipe,冰川盾袭,zh-CN
+Glowing Silhouette,光铸剪影,zh-CN
+Gluttony of Elements,元素饕餮,zh-CN
+Gluttony Support,暴食（辅）,zh-CN
+Grace,优雅,zh-CN
+Grand Heist,劫盗之星,zh-CN
+Greater Ancestral Call Support,高阶先祖召唤（辅）,zh-CN
+Greater Chain Support,高阶连锁（辅）,zh-CN
+Greater Devour Support,高阶吞噬（辅）,zh-CN
+Greater Fork Support,高阶分裂（辅）,zh-CN
+Greater Kinetic Instability Support,高阶念动失稳（辅）,zh-CN
+Greater Multiple Projectiles Support,高阶多重投射辅助,zh-CN
+Greater Multistrike Support,高阶多重打击（辅）,zh-CN
+Greater Spell Cascade Support,高阶多重施法范围（辅）,zh-CN
+Greater Spell Echo Support,高阶施法回响（辅）,zh-CN
+Greater Unleash Support,高阶释出（辅）,zh-CN
+Greater Volley Support,高阶齐射（辅）,zh-CN
+Ground Slam,裂地之击,zh-CN
+Ground Slam of Earthshaking,震地之裂地之击,zh-CN
+Guardian's Blessing Support,守卫祝福（辅）,zh-CN
+Hallow Support,圣化（辅）,zh-CN
+Harrowing Throng Support,亡灵大军（辅）,zh-CN
+Haste,迅捷,zh-CN
+Hatred,憎恨,zh-CN
+Heart of Flame,烈焰之心,zh-CN
+Heavy Strike,重击,zh-CN
+Heavy Strike of Trarthus,特拉特斯之重击,zh-CN
+Herald of Agony,苦痛之捷,zh-CN
+Herald of Ash,灰烬之捷,zh-CN
+Herald of Ice,寒冰之捷,zh-CN
+Herald of Purity,纯净之捷,zh-CN
+Herald of Thunder,闪电之捷,zh-CN
+Hex Bloom Support,魔蛊绽放辅助,zh-CN
+Hexblast,魔蛊爆炸,zh-CN
+Hexblast of Contradiction,悖论之魔蛊爆炸,zh-CN
+Hexblast of Havoc,浩劫之魔蛊爆炸,zh-CN
+Hexpass Support,魔蛊通道（辅）,zh-CN
+Hextoad Support,魔蛊蟾蜍（辅）,zh-CN
+Hextouch Support,蛊咒（辅）,zh-CN
+High-Impact Mine Support,高爆地雷（辅）,zh-CN
+His Burning Message,焚世箴言,zh-CN
+Hiveborn Support,裂隙虫群（辅）,zh-CN
+Holy Flame Totem,圣焰图腾,zh-CN
+Holy Flame Totem of Ire,怒焰之圣焰图腾,zh-CN
+Holy Hammers,神圣之锤,zh-CN
+Holy Strike,神圣打击,zh-CN
+Holy Sweep,神圣横扫,zh-CN
+Hydrosphere,水源法球,zh-CN
+Ice Crash,寒冰冲击,zh-CN
+Ice Crash of Cadence,错落之寒冰冲击,zh-CN
+Ice Nova,冰霜新星,zh-CN
+Ice Nova of Deep Freeze,深寒之冰霜新星,zh-CN
+Ice Nova of Frostbolts,寒冰弹之冰霜新星,zh-CN
+Ice Shot,冰霜射击,zh-CN
+Ice Shot of Penetration,贯穿之冰霜射击,zh-CN
+Ice Spear of Splitting,分裂之冰矛,zh-CN
+Ice Trap,冰冻陷阱,zh-CN
+Ice Trap of Hollowness,空洞之冰冻陷阱,zh-CN
+Icefire,霜火,zh-CN
+Icicle Mine,冰锥地雷,zh-CN
+Icicle Mine of Fanning,扩散之冰锥地雷,zh-CN
+Icicle Mine of Sabotage,破坏之冰锥地雷,zh-CN
+Ignite Proliferation Support,点燃扩散(辅),zh-CN
+Immortal Call,不朽怒嚎,zh-CN
+Impale Support,穿刺,zh-CN
+Impending Doom Support,末日将至（辅）,zh-CN
+Incinerate,烧毁,zh-CN
+Incinerate of Expanse,蔓延之烧毁,zh-CN
+Incinerate of Venting,泄火之烧毁,zh-CN
+Increased Area of Effect Support,增大范围(辅),zh-CN
+Increased Critical Damage Support,提高暴击伤害(辅),zh-CN
+Increased Critical Strikes Support,提高暴击几率(辅),zh-CN
+Incursion league,穿越联盟,zh-CN
+Infernal Blow,炼狱之击,zh-CN
+Infernal Blow of Immolation,献祭之炼狱之击,zh-CN
+Infernal Cry,炼狱战吼,zh-CN
+Infernal Legion Support,炎军（辅）,zh-CN
+Infernal Sweep,炼狱裂击,zh-CN
+Infused Channelling Support,灌能吟唱(辅),zh-CN
+Intensify Support,法术凝聚（辅）,zh-CN
+Intimidating Cry,威吓战吼,zh-CN
+Intuitive Link,直觉羁绊,zh-CN
+Invention Support,发明（辅）,zh-CN
+Invert the Rules Support,逆转规则（辅）,zh-CN
+Iron Grip Support,钢铁之握(辅),zh-CN
+Iron Will Support,钢铁意志(辅),zh-CN
+Item Quantity Support,物品数量增幅(辅),zh-CN
+Item Rarity Support,物品稀有度增幅(辅),zh-CN
+Item socket,物品插槽,zh-CN
+Karui Shores,卡鲁沿岸,zh-CN
+Kinetic Blast,力量爆破,zh-CN
+Kinetic Blast of Clustering,集束之力量爆破,zh-CN
+Kinetic Bolt,念动飞箭,zh-CN
+Kinetic Bolt of Fragmentation,碎裂之念动飞箭,zh-CN
+Kinetic Fusillade,念动齐射,zh-CN
+Kinetic Fusillade of Detonation,引爆之念动齐射,zh-CN
+Kinetic Instability Support,念动失稳（辅）,zh-CN
+Kinetic Rain,念动之雨,zh-CN
+Kinetic Rain of Impact,冲击之念动之雨,zh-CN
+Knockback Support,击退(辅),zh-CN
+Lacerate,破空斩,zh-CN
+Lacerate of Butchering,痛宰之破空斩,zh-CN
+Lacerate of Haemorrhage,血涌之破空斩,zh-CN
+Lancing Steel,断金之刃,zh-CN
+Lancing Steel of Spraying,飞射之断金之刃,zh-CN
+Leap Slam,跃击,zh-CN
+Leap Slam of Groundbreaking,破土之震地跃击,zh-CN
+Less Duration Support,持续时间缩短(辅),zh-CN
+Lesser Reduced Mana Cost Support,低阶减小魔力消耗(辅),zh-CN
+Lethal Dose Support,致死剂量（辅）,zh-CN
+Life Gain on Hit Support,击中生命回复(辅),zh-CN
+Life Leech Support,生命偷取辅助,zh-CN
+Lifetap Support,赤炼（辅）,zh-CN
+Lightning Arrow,闪电箭矢,zh-CN
+Lightning Arrow of Electrocution,电殛之闪电箭矢,zh-CN
+Lightning Channel,闪电链结,zh-CN
+Lightning Circle,雷霆之环,zh-CN
+Lightning Conduit,闪电通道,zh-CN
+Lightning Conduit of the Heavens,苍穹之闪电通道,zh-CN
+Lightning Spire Trap,电塔陷阱,zh-CN
+Lightning Spire Trap of Overloading,超载之电塔陷阱,zh-CN
+Lightning Spire Trap of Zapping,震荡之电塔陷阱,zh-CN
+Lightning Strike,闪电打击,zh-CN
+Lightning Strike of Arcing,弧光之闪电打击,zh-CN
+Lightning Tendrils,电能释放,zh-CN
+Lightning Tendrils of Eccentricity,离心之电能释放,zh-CN
+Lightning Tendrils of Escalation,增幅之电能释放,zh-CN
+Lightning Trap,闪电陷阱,zh-CN
+Lightning Trap of Sparking,火花之闪电陷阱,zh-CN
+Lilly Roth,莉莉罗斯,zh-CN
+Living Lightning Support,活体闪电（辅）,zh-CN
+Locus Mine Support,核心地雷（辅）,zh-CN
+Machinations Support,诡诈阴谋（辅）,zh-CN
+Magnetism Support,磁力（辅）,zh-CN
+Maim Support,瘫痪(辅),zh-CN
+Malevolence,怨毒光环,zh-CN
+Mana Leech Support,魔力偷取(辅),zh-CN
+Manabond,缚魔电场,zh-CN
+Manaforged Arrows Support,法铸箭矢（辅）,zh-CN
+Mark On Hit Support,击中时施加印记（辅）,zh-CN
+Meat Shield Support,肉盾（辅）,zh-CN
+Melee Physical Damage Support,近战物理伤害(辅),zh-CN
+Melee Splash Support,近战伤害扩散(辅),zh-CN
+Minefield Support,地雷网(辅),zh-CN
+Minion Damage Support,召唤物伤害辅助,zh-CN
+Minion Life Support,召唤生物生命(辅),zh-CN
+Minion Pact Support,随从契约（辅）,zh-CN
+Minion Speed Support,召唤物速度辅助,zh-CN
+Mirage Archer Support,幻影射手(辅),zh-CN
+Mirror Arrow of Bombarding Clones,轰炸复制体之魅影射击,zh-CN
+Mirror Arrow of Prismatic Clones,棱光复制体之魅影射击,zh-CN
+Molten Shell,熔岩护盾,zh-CN
+Molten Strike,熔岩之击,zh-CN
+Molten Strike of the Zenith,天顶之熔岩之击,zh-CN
+Momentum Support,动量（辅）,zh-CN
+More Duration Support,持续时间总增（辅）,zh-CN
+Multiple Projectiles Support,多重投射(辅),zh-CN
+Multiple Totems Support,多重图腾（辅）,zh-CN
+Multiple Traps Support,多重陷阱(辅),zh-CN
+Multistrike Support,多重打击(辅),zh-CN
+Mutated Growth,堕落异体,zh-CN
+New Blade Vortex,新飞刃风暴,zh-CN
+New Shock Nova,新式闪电新星,zh-CN
+NewPunishment,新惩戒,zh-CN
+Nightblade Support,夜刃（辅）,zh-CN
+Orb of Storms,风暴漩涡,zh-CN
+Orb of Storms of Squalls,狂风之风暴旋涡,zh-CN
+Order: To me!,命令：来我身边！,zh-CN
+Overcharge Support,过载（辅）,zh-CN
+Overcharged Sinews,血肉过载,zh-CN
+Overexertion Support,超能增助（辅）,zh-CN
+Overheat Support,过热（辅）,zh-CN
+Overloaded Intensity Support,过载强度（辅）,zh-CN
+Pacifism Support,和平主义（辅）,zh-CN
+Penance Brand,忏悔烙印,zh-CN
+Penance Brand of Conduction,传导之忏悔烙印,zh-CN
+Penance Brand of Dissipation,辐照之忏悔烙印,zh-CN
+Perandus Signet,普兰德斯之记,zh-CN
+Perforate,凿击,zh-CN
+Perforate of Bloodshed,喋血之凿击,zh-CN
+Perforate of Duality,对偶之凿击,zh-CN
+Pestilent Strike,致疫打击,zh-CN
+Petrified Blood,赤血凝结,zh-CN
+Phase Run,暗影迷踪,zh-CN
+Physical to Lightning Support,物理转闪电(辅),zh-CN
+Pierce Support,穿透(辅),zh-CN
+Pinpoint Support,会心一击（辅）,zh-CN
+Plague Bearer,灾难使徒,zh-CN
+Playtest Attack,无穷之击,zh-CN
+Playtest Slam,无穷猛击,zh-CN
+Playtest Spell,无穷法术,zh-CN
+Poacher's Mark,盗猎者印记,zh-CN
+Point Blank Support,零点射击(辅),zh-CN
+Poisonous Concoction,毒爆灵药,zh-CN
+Poisonous Concoction of Bouncing,弹跃之毒爆灵药,zh-CN
+Power Charge On Critical Support,暴击获得暴击球(辅),zh-CN
+Power Siphon,力量抽取,zh-CN
+Power Siphon of the Archmage,大法师之力量抽取,zh-CN
+Precision,精准,zh-CN
+Predator Support,掠食（辅）,zh-CN
+Preserving Stillness,静谧守恒,zh-CN
+Pride,尊严,zh-CN
+Prismatic Burst Support,棱光魔爆（辅）,zh-CN
+Protective Link,防御羁绊,zh-CN
+Pulverise Support,粉碎（辅）,zh-CN
+Puncture of Shanking,割碎之放血,zh-CN
+Punishment,惩戒,zh-CN
+Purifying Flame,净化烈焰,zh-CN
+Purifying Flame of Revelations,启示之净化烈焰,zh-CN
+Purity of Elements,元素净化,zh-CN
+Purity of Fire,火焰净化,zh-CN
+Purity of Ice,冰霜净化,zh-CN
+Purity of Lightning,闪电净化,zh-CN
+Pyre Support,燃焰（辅）,zh-CN
+Pyroclast Mine,火屑地雷,zh-CN
+Pyroclast Mine of Sabotage,破坏之火屑地雷,zh-CN
+Quickstep,疾步,zh-CN
+Rage Support,怒火（辅）,zh-CN
+Rage Vortex,怒火漩涡,zh-CN
+Rage Vortex of Berserking,狂暴之怒火漩涡,zh-CN
+Rain of Arrows of Artillery,炮击之箭雨,zh-CN
+Rain of Arrows of Saturation,饱和之箭雨,zh-CN
+Raise Spectre,召唤灵体,zh-CN
+Raise Spectre of Transience,瞬息之召唤灵体,zh-CN
+Raise Zombie,魔卫复苏,zh-CN
+Raise Zombie of Falling,殒命之魔卫复苏,zh-CN
+Raise Zombie of Slamming,猛击之魔卫复苏,zh-CN
+Rallying Cry,激励战吼,zh-CN
+Reap,绝命之镰,zh-CN
+Reave,冲击波,zh-CN
+Reave of Refraction,折射之冲击波,zh-CN
+Rejuvenation Totem,回春图腾,zh-CN
+Rending Steel,裂肉铁刃,zh-CN
+Return to Dust,归于尘土,zh-CN
+Returning Projectiles Support,投射物归返（辅）,zh-CN
+Righteous Fire,正义之火,zh-CN
+Righteous Fire of Arcane Devotion,尊法之正义之火,zh-CN
+Righteous Lightning,正义怒雷,zh-CN
+Riptide,激流,zh-CN
+Rolling Magma,熔岩奔涌,zh-CN
+Rupture Support,残破（辅）,zh-CN
+Ruthless Support,无情(辅),zh-CN
+Sacred Wisps Support,圣洁鬼灵（辅）,zh-CN
+Sacrifice Support,牺牲（辅）,zh-CN
+Sadism Support,凌虐（辅）,zh-CN
+Scorching Ray,灼热光线,zh-CN
+Scorching Ray of Immolation,焚灭之灼热光线,zh-CN
+Scornful Herald Support,蔑视使者（辅）,zh-CN
+Scourge Arrow,天灾之箭,zh-CN
+Scourge Arrow of Menace,威胁之天灾之箭,zh-CN
+Searing Bond,灼热连接,zh-CN
+Searing Bond of Detonation,引爆之灼热连接,zh-CN
+Seismic Cry,震地战吼,zh-CN
+Seismic Trap,震波陷阱,zh-CN
+Seismic Trap of Swells,膨胀之震波陷阱,zh-CN
+Seize the Flesh,攫取血肉,zh-CN
+Shadow Blades,幻影之刃,zh-CN
+Shattering Steel,破碎铁刃,zh-CN
+Shattering Steel of Ammunition,备弹之破碎铁刃,zh-CN
+Shield Charge,重盾冲锋,zh-CN
+Shield Crush,盾牌碾压,zh-CN
+Shield Crush of the Chieftain,酋长之盾牌碾压,zh-CN
+Shield of Light,光明之盾,zh-CN
+Shock Nova,闪电新星,zh-CN
+Shock Nova of Procession,加护之闪电新星,zh-CN
+Shockwave Support,震波（辅）,zh-CN
+Shockwave Totem,震波图腾,zh-CN
+Shockwave Totem of Authority,统御之震波图腾,zh-CN
+Shrapnel Ballista,散射弩炮,zh-CN
+Shrapnel Ballista of Steel,刚刃之散射弩炮,zh-CN
+Siege Ballista,攻城炮台,zh-CN
+Siege Ballista of Splintering,分叉之攻城炮台,zh-CN
+Siege Ballista of Trarthus,特拉特斯之攻城炮台,zh-CN
+Sigil of Power,威能法印,zh-CN
+Siosa,萨欧赛,zh-CN
+Siphoning Trap,虹吸陷阱,zh-CN
+Siphoning Trap of Pain,痛苦之虹吸陷阱,zh-CN
+Slower Projectiles Support,投射物减速(辅),zh-CN
+Smite,惩击,zh-CN
+Smite of Divine Judgement,圣裁之惩击,zh-CN
+Smoke Mine,烟雾地雷,zh-CN
+Snipe,狙击,zh-CN
+Sniper's Mark,狙击印记,zh-CN
+Somatic Shell,念动壁垒,zh-CN
+Soul Link,灵魂羁绊,zh-CN
+Soulrend,裂魂术,zh-CN
+Soulrend of Reaping,收割之裂魂术,zh-CN
+Soulrend of the Spiral,螺旋之裂魂术,zh-CN
+Spark,电球,zh-CN
+Spark of the Nova,新星之电球,zh-CN
+Spark of Unpredictability,无常之电球,zh-CN
+Spectral Helix,灵幻旋斩,zh-CN
+Spectral Helix of Trarthus,特拉特斯之灵幻旋斩,zh-CN
+Spectral Shield Throw,灵盾投掷,zh-CN
+Spectral Shield Throw of Shattering,碎裂之灵盾投掷,zh-CN
+Spectral Shield Throw of Trarthus,特拉特斯之灵盾投掷,zh-CN
+Spectral Spinning Weapon,灵体武器,zh-CN
+Spectral Throw,灵体投掷,zh-CN
+Spectral Throw of Materialising,具化之灵体投掷,zh-CN
+Spectral Throw of Trarthus,特拉特斯之灵体投掷,zh-CN
+Spell Cascade Support,多重范围施法(辅),zh-CN
+Spell Echo Support,施法回响(辅),zh-CN
+Spell Totem Support,法术图腾(辅),zh-CN
+Spellblade Support,碎影魔刃（辅）,zh-CN
+Spellslinger,法术节魔,zh-CN
+Spirit Offering,灵魂奉献,zh-CN
+Split Arrow,分裂箭矢,zh-CN
+Split Arrow of Splitting,分裂之分裂箭矢,zh-CN
+Split Projectiles Support,投射物分裂(辅),zh-CN
+Splitting Steel,分裂钢刃,zh-CN
+Splitting Steel of Ammunition,备弹之分裂钢刃,zh-CN
+Stat,统计数据,zh-CN
+Static Strike,充能打击,zh-CN
+Static Strike of Gathering Lightning,聚雷之充能打击,zh-CN
+Static Tether,静电锁链,zh-CN
+Steelskin,钢铁之肤,zh-CN
+Storm Brand,风暴烙印,zh-CN
+Storm Brand of Indecision,无定之风暴烙印,zh-CN
+Storm Burst,裂风雷球,zh-CN
+Storm Burst of Repulsion,抗拒之裂风雷球,zh-CN
+Storm Call,风暴呼唤,zh-CN
+Storm Call of Trarthus,特拉特斯之风暴呼唤,zh-CN
+Storm Rain,暴雨箭,zh-CN
+Storm Rain of the Conduit,引雷之暴雨箭,zh-CN
+Storm Rain of the Fence,栅篱之暴雨箭,zh-CN
+Stormbind,缚雷之纹,zh-CN
+Stormbind of Teleportation,传送之缚雷之纹,zh-CN
+Stormblast Mine,雷暴地雷,zh-CN
+Stun Support,击晕(辅),zh-CN
+Summon Carrion Golem,召唤腐化魔像,zh-CN
+Summon Carrion Golem of Hordes,结群之召唤腐化魔像,zh-CN
+Summon Carrion Golem of Scavenging,敛骸之召唤腐化魔像,zh-CN
+Summon Chaos Golem,召唤混沌魔像,zh-CN
+Summon Chaos Golem of Hordes,结群之召唤混沌魔像,zh-CN
+Summon Chaos Golem of the Maelström,混渊之召唤混沌魔像,zh-CN
+Summon Flame Golem,召唤烈焰魔像,zh-CN
+Summon Flame Golem of Hordes,结群之召唤烈焰魔像,zh-CN
+Summon Flame Golem of the Meteor,陨星之召唤烈焰魔像,zh-CN
+Summon Holy Relic,召唤圣物,zh-CN
+Summon Holy Relic of Conviction,定罪之召唤圣物,zh-CN
+Summon Ice Golem,召唤寒冰魔像,zh-CN
+Summon Ice Golem of Hordes,结群之召唤寒冰魔像,zh-CN
+Summon Ice Golem of Shattering,碎冰之召唤寒冰魔像,zh-CN
+Summon Lightning Golem,召唤闪电魔像,zh-CN
+Summon Lightning Golem of Hordes,结群之召唤闪电魔像,zh-CN
+Summon Phantasm Support,召唤幻影（辅）,zh-CN
+Summon Raging Spirit,召唤愤怒狂灵,zh-CN
+Summon Raging Spirit of Enormity,凶恶之召唤愤怒狂灵,zh-CN
+Summon Reaper,召唤追命死灵,zh-CN
+Summon Reaper of Eviscerating,裂骨之召唤追命死灵,zh-CN
+Summon Reaper of Revenants,亡魂之召唤追命死灵,zh-CN
+Summon Skeletons Channelled,召唤魔侍(吟唱),zh-CN
+Summon Skeletons of Archers,射手之召唤魔侍,zh-CN
+Summon Skeletons of Mages,法师之召唤魔侍,zh-CN
+Summon Skitterbots,召唤飞掠者,zh-CN
+Summon Stone Golem,召唤巨石魔像,zh-CN
+Summon Stone Golem of Hordes,结群之召唤巨石魔像,zh-CN
+Summon Stone Golem of Safeguarding,卫护之召唤巨石魔像,zh-CN
+Sunder,大地震击,zh-CN
+Sunder of Earthbreaking,裂地之大地震击,zh-CN
+Sunder of Trarthus,特拉特斯之震击,zh-CN
+Swift Affliction Support,极速腐化(辅),zh-CN
+Swift Assembly Support,迅整（辅）,zh-CN
+Swiftbrand Support,迅猛烙印（辅）,zh-CN
+Swordstorm,落刃风暴,zh-CN
+Tectonic Slam,破釜一击,zh-CN
+Tectonic Slam of Cataclysm,灾变之破釜一击,zh-CN
+Tempest Shield,暴风之盾,zh-CN
+Temporal Chains,时空锁链,zh-CN
+Temporal Rift,时空裂隙,zh-CN
+Tender Embrace,温柔之拥,zh-CN
+The Great Avalanche,崩塌盛雪,zh-CN
+The Grey Wind Howls,灰风呼号,zh-CN
+The Supreme Truth,无上箴言,zh-CN
+The Temple of Atzoatl,阿兹瓦特神殿,zh-CN
+Thunderstorm,雷霆风暴,zh-CN
+Tornado,龙卷旋风,zh-CN
+Tornado of Elemental Turbulence,元素激变之龙卷旋风,zh-CN
+Tornado Shot,龙卷射击,zh-CN
+Tornado Shot of Cloudburst,穿云之龙卷射击,zh-CN
+Touch of God,天谴之拳,zh-CN
+Toxic Rain,毒雨,zh-CN
+Toxic Rain of Sporeburst,孢子迸发之毒雨,zh-CN
+Toxic Rain of Withering,凋零之毒雨,zh-CN
+Transfusion Support,渗透（辅）,zh-CN
+Trap and Mine Damage Support,陷阱及地雷伤害(辅),zh-CN
+Trap Support,陷阱(辅),zh-CN
+Trauma Support,内伤（辅）,zh-CN
+Trinity Support,三位一体（辅）,zh-CN
+Unearth,亵渎之矛,zh-CN
+Unholy Trinity Support,不洁三体（辅）,zh-CN
+Unleash Support,释出（辅）,zh-CN
+Urgent Orders Support,紧急号令（辅）,zh-CN
+Vaal Absolution,瓦尔：赦罪,zh-CN
+Vaal Ancestral Warchief,瓦尔：先祖战士长,zh-CN
+Vaal Animate Weapon,瓦尔：幻化武器,zh-CN
+Vaal Arc,瓦尔：电弧,zh-CN
+Vaal Arctic Armour,瓦尔：极地装甲,zh-CN
+Vaal Blade Flurry,瓦尔：刀刃乱舞,zh-CN
+Vaal Blade Vortex,瓦尔：飞刃风暴,zh-CN
+Vaal Blight,瓦尔：枯萎,zh-CN
+Vaal Breach,瓦尔：裂隙,zh-CN
+Vaal Burning Arrow,瓦尔：燃烧箭矢,zh-CN
+Vaal Caustic Arrow,瓦尔：腐蚀箭矢,zh-CN
+Vaal Clarity,瓦尔：清晰,zh-CN
+Vaal Cleave,瓦尔：劈砍,zh-CN
+Vaal Cold Snap,瓦尔：霜暴,zh-CN
+Vaal Cyclone,瓦尔：旋风斩,zh-CN
+Vaal Detonate Dead,瓦尔：爆灵术,zh-CN
+Vaal Discipline,瓦尔：纪律,zh-CN
+Vaal Domination,瓦尔：霸气之击,zh-CN
+Vaal Double Strike,瓦尔：双重打击,zh-CN
+Vaal Earthquake,瓦尔：震地,zh-CN
+Vaal Fireball,瓦尔：火球,zh-CN
+Vaal Firestorm,瓦尔：烈炎风暴,zh-CN
+Vaal FireTrap,瓦尔：火焰陷阱,zh-CN
+Vaal Flameblast,瓦尔：烈焰爆破,zh-CN
+Vaal Flesh Offering,瓦尔：血肉奉献,zh-CN
+Vaal Flicker Strike,瓦尔：闪现打击,zh-CN
+Vaal Glacial Hammer,瓦尔：冰霜之锤,zh-CN
+Vaal Grace,瓦尔：优雅,zh-CN
+Vaal Ground Slam,瓦尔：裂地之击,zh-CN
+Vaal Haste,瓦尔：迅捷,zh-CN
+Vaal Heavy Strike,瓦尔：重击,zh-CN
+Vaal Ice Nova,瓦尔：冰霜新星,zh-CN
+Vaal Ice Shot,瓦尔：冰霜射击,zh-CN
+Vaal Immortal Call,瓦尔：不朽怒嚎,zh-CN
+Vaal Impurity of Fire,瓦尔：不净之火,zh-CN
+Vaal Impurity of Ice,瓦尔：不净之冰,zh-CN
+Vaal Impurity of Lightning,瓦尔：不净之雷,zh-CN
+Vaal Lightning Arrow,瓦尔：闪电箭矢,zh-CN
+Vaal Lightning Strike,瓦尔：闪电打击,zh-CN
+Vaal Lightning Trap,瓦尔：闪电陷阱,zh-CN
+Vaal Lightning Warp,瓦尔：闪电传送,zh-CN
+Vaal Molten Shell,瓦尔：熔岩护盾,zh-CN
+Vaal Molten Strike,瓦尔：熔岩之击,zh-CN
+Vaal Power Siphon,瓦尔：力量抽取,zh-CN
+Vaal Rain of Arrows,瓦尔：箭雨,zh-CN
+Vaal Reap,瓦尔：绝命之镰,zh-CN
+Vaal Reave,瓦尔：冲击波,zh-CN
+Vaal Rejuvenation Totem,瓦尔：回春图腾,zh-CN
+Vaal Righteous Fire,瓦尔：正义之火,zh-CN
+Vaal Sacrifice Support,瓦尔献祭（辅）,zh-CN
+Vaal Smite,瓦尔：惩击,zh-CN
+Vaal Soul Harvesting,瓦尔：灵魂收割,zh-CN
+Vaal Spark,瓦尔：电球,zh-CN
+Vaal Spectral Throw,瓦尔：灵体投掷,zh-CN
+Vaal Split Arrow,瓦尔：分裂箭矢,zh-CN
+Vaal Storm Call,瓦尔：风暴呼唤,zh-CN
+Vaal Summon Skeletons,瓦尔：召唤魔侍,zh-CN
+Vaal Sweep,瓦尔：横扫,zh-CN
+Vaal Temptation Support,瓦尔诱惑（辅）,zh-CN
+Vaal Venom Gyre,瓦尔：剧毒旋风,zh-CN
+Vaal Volcanic Fissure,瓦尔：火山裂缝,zh-CN
+Vampiric Link,血灵羁绊,zh-CN
+VendorRecipes,商店配方,zh-CN
+Vengeful Cry,复仇咆哮,zh-CN
+Venom Gyre,剧毒旋风,zh-CN
+Vicious Projectiles Support,邪恶投掷(辅),zh-CN
+Vigilant Strike,戒备打击,zh-CN
+Vile Toxins Support,猛毒(辅),zh-CN
+Violent Desire,暴烈欲望,zh-CN
+Viper Strike,毒蛇打击,zh-CN
+Viper Strike of the Mamba,曼巴之毒蛇打击,zh-CN
+Vitality,活力,zh-CN
+Void Manipulation Support,虚空操纵(辅),zh-CN
+Void Shockwave Support,虚空震波（辅）,zh-CN
+Void Sphere,虚空法球,zh-CN
+Void Sphere of Rending,撕碎之虚空法球,zh-CN
+Voidhome,逝空之锤,zh-CN
+Voidstorm Support,虚空风暴（辅）,zh-CN
+Volatile Dead,灵体火球,zh-CN
+Volatile Dead of Confinement,拘束之灵体火球,zh-CN
+Volatile Dead of Seething,沸燃之灵体火球,zh-CN
+Volatility Support,无常（辅）,zh-CN
+Volcanic Fissure,火山裂缝,zh-CN
+Volcanic Fissure of Snaking,蜿蜒之火山裂缝,zh-CN
+Volley Support,齐射(辅),zh-CN
+Voltaxic Burst,雷电魔爆,zh-CN
+Vortex,漩涡,zh-CN
+Vortex Mine,漩涡地雷,zh-CN
+Vortex of Projection,投射之漩涡,zh-CN
+Vulnerability,脆弱,zh-CN
+Wall of Force,力场之墙,zh-CN
+Wand Teleport,法杖传送,zh-CN
+War Banner,战旗,zh-CN
+Ward Support,结界（辅）,zh-CN
+Warlord's Mark,督军印记,zh-CN
+Wave of Conviction,定罪波,zh-CN
+Wave of Conviction of Trarthus,特拉特斯之定罪波,zh-CN
+Whirling Blades,回旋之刃,zh-CN
+Wild Strike,野性打击,zh-CN
+Wild Strike of Extremes,极限之野性打击,zh-CN
+Wildfire,地狱火群,zh-CN
+Windburst Support,风爆术（辅）,zh-CN
+Winter Orb,寒冬宝珠,zh-CN
+Wintertide Brand,冬潮烙印,zh-CN
+WIP Support,WIP Support,zh-CN
+Wither,死亡凋零,zh-CN
+Withering Step,凋零步,zh-CN
+Withering Touch Support,凋零之触（辅）,zh-CN
+Wrath,雷霆,zh-CN
+Wreathed in Light,辉耀加身,zh-CN
+Zealotry,奋锐光环,zh-CN
+Corpse-Grown Beetle,食尸甲虫,zh-CN
+Corpse-Grown Pest,食尸害虫,zh-CN
+Corpse-Grown Worm,食尸巨蛆,zh-CN
+"Ersi, Mother of Thorns",荆棘之母厄稀,zh-CN
+Facetor's Lens,费斯特之镜,zh-CN
+Infused Beachhead,神域之殿．炼狱,zh-CN
+Infused Engineer's Orb,充能的工程石,zh-CN
+"Janaar, the Omen",凶兆贾纳尔,zh-CN
+"Leo, Wolf of the Pits",狼嚎里欧,zh-CN
+"Namharim, Born of Night",夜生之子囊赫利姆,zh-CN
+Primal Blisterlord,原始疱王,zh-CN
+Primal Chimeral,原始斑纹,zh-CN
+Primal Cleaveling,原始劈凿,zh-CN
+Primal Crushclaw,原始利爪,zh-CN
+Primal Cystcaller,原始囊行,zh-CN
+Primal Dustcrab,原始飞尘,zh-CN
+Primal Dustspitter,原始扬尘,zh-CN
+Primal Feasting Horror,原始惊怖,zh-CN
+Primal Maw,原始深喉,zh-CN
+Primal Reborn,原始重生,zh-CN
+Primal Rhex,原始凶鸟,zh-CN
+Primal Rhex Matriarch,原始鸟母,zh-CN
+Primal Rhoa,原始恐喙,zh-CN
+Primal Scrabbler,原始爬虫,zh-CN
+Primal Viper,原始蝰蛇,zh-CN
+Vivid Abberarach,活性纺纱,zh-CN
+Vivid Arachnid,活性利蛛,zh-CN
+Vivid Devourer,活性吞噬,zh-CN
+Vivid Leech,活性水蛭,zh-CN
+Vivid Nestback,活性巢背,zh-CN
+Vivid Parasite,活性寄生,zh-CN
+Vivid Razorleg,活性刃肢,zh-CN
+Vivid Sapsucker,活性浆虫,zh-CN
+Vivid Scorpion,活性蝎子,zh-CN
+Vivid Striketail,活性利尾,zh-CN
+Vivid Thornweaver,活性荆蛛,zh-CN
+Vivid Vulture,活性匿者,zh-CN
+Vivid Watcher,活性守望,zh-CN
+Vivid Weta,活性巨虫,zh-CN
+Vivid Whipleg,活性鞭肢,zh-CN
+Wild Ape,荒野猿猴,zh-CN
+Wild Brambleback,荒野荆背,zh-CN
+Wild Bristle Matron,荒野母兽,zh-CN
+Wild Bristlebeast,荒野鬃兽,zh-CN
+Wild Chieftain,荒野头领,zh-CN
+Wild Hatchling,荒野雏鸟,zh-CN
+Wild Hellion,荒野幼狼,zh-CN
+Wild Hellion Alpha,荒野头狼,zh-CN
+Wild Homunculus,荒野幼猴,zh-CN
+Wild Infestation Queen,荒野疫后,zh-CN
+Wild Snap Hound,荒野灵犬,zh-CN
+Wild Spikeback,荒野钉背,zh-CN
+Wild Thornmaw,荒野荆喉,zh-CN
+Wild Thornwolf,荒野荆狼,zh-CN
+Wild Ursaling,荒野幼熊,zh-CN
+Abyss Jewels,深渊珠宝,zh-CN
+Amulets,项链,zh-CN
+Astrolabe,星盘,zh-CN
+Belts,腰带,zh-CN
+Blessing,祝福,zh-CN
+Blueprints,蓝图,zh-CN
+Body Armours,胸甲,zh-CN
+Bows,弓,zh-CN
+Breachstone,裂隙石,zh-CN
+Breachstones,裂隙石,zh-CN
+Catalysts,催化,zh-CN
+Claws,爪,zh-CN
+Cluster Jewel,星团珠宝,zh-CN
+Contracts,契约,zh-CN
+Corpses,灵柩,zh-CN
+Daggers,匕首,zh-CN
+Divination Cards,命运卡,zh-CN
+Embers of the Allflame,不灭余烬,zh-CN
+Emblem,徽印,zh-CN
+Expedition Logbooks,先祖秘藏日志,zh-CN
+Experimented,试验,zh-CN
+Fishing Rods,鱼竿,zh-CN
+Flasks,药剂,zh-CN
+Fossil,化石,zh-CN
+Foulborn,秽生,zh-CN
+Heist Brooches,赏金猎人胸针,zh-CN
+Heist Cloaks,赏金猎人披风,zh-CN
+Heist Gear,赏金猎人装备,zh-CN
+Heist Targets,赏金目标,zh-CN
+Heist Tools,赏金猎人工具,zh-CN
+Helmets,头部,zh-CN
+Incubators,孕育石,zh-CN
+Jewels,珠宝,zh-CN
+League Specific,联盟限定,zh-CN
+Life Flasks,生命药剂,zh-CN
+Lure,诱饵,zh-CN
+Lycia's Invocation,Lycia's Invocation,zh-CN
+Mana Flasks,魔力药剂,zh-CN
+Map Fragments,地图碎片,zh-CN
+Misc Map Items,裂隙之石,zh-CN
+One Hand Axes,单手斧,zh-CN
+One Hand Maces,单手锤,zh-CN
+One Hand Swords,单手剑,zh-CN
+Pieces,片段,zh-CN
+Quivers,箭袋,zh-CN
+Relics,遗物,zh-CN
+Replica,赝品,zh-CN
+Resonator,共振器,zh-CN
+Rings,戒指,zh-CN
+Rune Daggers,符文匕首,zh-CN
+Runegraft,符文之结,zh-CN
+Sanctum Research,禁域研究,zh-CN
+Scarab,圣甲虫,zh-CN
+Sceptres,短杖,zh-CN
+Shields,盾牌,zh-CN
+Splinter,裂片,zh-CN
+Stackable Currency,可堆叠通货,zh-CN
+Staves,长杖,zh-CN
+Tattoo,文身,zh-CN
+Thrusting One Hand Swords,细剑,zh-CN
+Timeless Jewel,永恒珠宝,zh-CN
+Tinctures,酊剂,zh-CN
+Trarthus Gems,特拉特斯宝石,zh-CN
+Trinkets,饰品,zh-CN
+Two Hand Axes,双手斧,zh-CN
+Two Hand Maces,双手锤,zh-CN
+Two Hand Swords,双手剑,zh-CN
+Unique,传奇,zh-CN
+Utility Flasks,功能药剂,zh-CN
+Vault Keys,宝库钥匙,zh-CN
+Vial,坛,zh-CN
+Wands,法杖,zh-CN
+Warstaves,战杖,zh-CN
+Absence of Mercy and Empathy,断情绝境,zh-CN
+Acton's Nightmare Overgrown Shrine Map,轮回的梦魇 密草神殿,zh-CN
+Altered Distant Memory Synthesised Map,改变的遥远回忆 幻境地图,zh-CN
+Ancient Reliquary,古藏宝库,zh-CN
+Archive Reliquary,档案圣物厅,zh-CN
+Augmented Distant Memory Synthesised Map,增强的遥远回忆 幻境地图,zh-CN
+"Caer Blaidd, Wolfpack's Den Underground River Map",塞尔.布雷德狼穴 地底之河,zh-CN
+Cosmic Reliquary,宇宙圣物厅,zh-CN
+Crux of Nothingness,虚无症结,zh-CN
+Death and Taxes Necropolis Map,亡者之财 魔影墓场,zh-CN
+Decaying Reliquary,腐烂圣物厅,zh-CN
+Domain of Timeless Conflict,永战之域,zh-CN
+Doryani's Machinarium Maze Map,多利亚尼的迷城 冥神之域,zh-CN
+Forge of the Titans,泰坦熔炉,zh-CN
+Forgotten Reliquary,遗忘之圣物,zh-CN
+Hall of Grandmasters Promenade Map,元帅殿堂 月色回廊,zh-CN
+Hallowed Ground Cemetery Map,魔诅之域 晨曦墓地,zh-CN
+Higher Map Tier Chance,更高地图位阶几率,zh-CN
+Hive Colony,裂隙巢穴群落,zh-CN
+Infused Beachhead Harbinger Map,灌注的降临之地 先驱者地图,zh-CN
+Invasive Adversaries,侵略之敌,zh-CN
+Lonely Reliquary,孤寂圣物厅,zh-CN
+Maelström of Chaos Atoll Map,混沌之渊 滨海山丘,zh-CN
+Mao Kun Shore Map,贼窝 暮光海滩,zh-CN
+Map Drop Chance,地图掉落几率,zh-CN
+Map Magic Monsters,地图魔法怪物,zh-CN
+Map Pack Size,地图怪物群规模,zh-CN
+Map Rare Monsters,地图稀有怪物,zh-CN
+Mastermind's Lair,主脑之巢,zh-CN
+NULL,起点,zh-CN
+Oba's Cursed Trove Underground Sea Map,欧霸的咒怨宝库 滨海幽穴,zh-CN
+Olmec's Sanctum Bone Crypt Map,远古之印 古石陵墓,zh-CN
+Oubliette Reliquary,地牢圣物厅,zh-CN
+Overloaded Circuits,电路超载,zh-CN
+Pillars of Arun Dunes Map,阿尔伦神柱 暮色沙丘,zh-CN
+Poorjoy's Asylum Temple Map,沉沦之间 夺魂之殿,zh-CN
+Replica Cortex Synthesised Map,脑层【仿品】 幻境地图,zh-CN
+Replica Pillars of Arun Dunes Map,阿尔伦神柱【仿品】 暮色沙丘,zh-CN
+Replica Poorjoy's Asylum Temple Map,沉沦之间【仿品】 夺魂之殿,zh-CN
+Reverent Reliquary,虔敬圣物厅,zh-CN
+Rewritten Distant Memory Synthesised Map,重著的遥远回忆 幻境地图,zh-CN
+Scarab Drop Chance,圣甲虫掉落几率,zh-CN
+Shaping the Mountains,塑造山脉,zh-CN
+Shaping the Skies,塑造天空,zh-CN
+Shaping the World,塑造世界,zh-CN
+Shiny Reliquary,闪亮圣物厅,zh-CN
+Skittering Swarms,飞掠虫群,zh-CN
+The Alluring Abyss,诱人的深渊,zh-CN
+The Apex of Sacrifice,生贽之尖,zh-CN
+The Beachhead Harbinger Map,降临之地 先驱者地图,zh-CN
+The Coward's Trial Cursed Crypt Map,懦者的试验 咒怨陵墓,zh-CN
+The Lake of Kalandra,卡兰德之湖,zh-CN
+The Putrid Cloister Museum Map,幽秘博物馆 古博物馆,zh-CN
+The Twilight Temple Moon Temple Map,暮光古庙 月影神殿,zh-CN
+The Utzaal Arena,乌扎尔竞技场,zh-CN
+The Vinktar Square Courtyard Map,维克塔广场 奇术之庭,zh-CN
+Timeworn Reliquary,尘封圣物厅,zh-CN
+Traumatic Reliquary,创痛圣物厅,zh-CN
+Twisted Distant Memory Synthesised Map,扭曲的遥远回忆 幻境地图,zh-CN
+Vaal Reliquary,瓦尔遗物厅,zh-CN
+Vaal Temple Map,瓦尔密殿,zh-CN
+Vaults of Atziri Vaal Pyramid Map,阿兹里的秘宝库 瓦尔金字塔,zh-CN
+Visceral Reliquary,内脏残骸,zh-CN
+Voidborn Reliquary,虚空血脉圣物厅,zh-CN
+Whakawairua Tuahu Strand Map,禁闭祭坛 致命岩滩,zh-CN
+Absence of Patience and Wisdom,无耐亦无智,zh-CN
+Absence of Symmetry and Harmony,无和亦无谐,zh-CN
+Absence of Value and Meaning,缥缈幻境,zh-CN
+Acrobatics,移形换影,zh-CN
+"Al-Hezmin, The Hunter",猎人阿尔赫兹敏,zh-CN
+All,All,zh-CN
+Altered Distant Memory,改变的遥远回忆,zh-CN
+Amplifying Power Core,放大力量核心,zh-CN
+Ancestral Vision Viridian Jewel,先祖的远视 翠绿珠宝,zh-CN
+Arcanist's Strongbox,奥术师的保险箱,zh-CN
+Arn's Anguish Cloth Belt,阿恩的痛苦 饰布腰带,zh-CN
+Assassin's Garb,刺杀者之装,zh-CN
+Astral Plate,星芒战铠,zh-CN
+Atlas Memories,Atlas Memories,zh-CN
+Augmented Distant Memory,增强的遥远回忆,zh-CN
+Augmenting Power Core,增强力量核心,zh-CN
+"Baran, The Crusader",圣战者巴兰,zh-CN
+Blasting Wand,爆破法杖,zh-CN
+Body Armours(dex),胸甲(dex),zh-CN
+Body Armours(dex_int),胸甲(dex_int),zh-CN
+Body Armours(int),胸甲(int),zh-CN
+Body Armours(str),胸甲(str),zh-CN
+Body Armours(str_dex),胸甲(str_dex),zh-CN
+Body Armours(str_dex_int),胸甲(str_dex_int),zh-CN
+Body Armours(str_int),胸甲(str_int),zh-CN
+Bone Ring,骨环,zh-CN
+Boots(dex),鞋子(dex),zh-CN
+Boots(dex_int),鞋子(dex_int),zh-CN
+Boots(int),鞋子(int),zh-CN
+Boots(str),鞋子(str),zh-CN
+Boots(str_dex),鞋子(str_dex),zh-CN
+Boots(str_int),鞋子(str_int),zh-CN
+Breachlord Bloodline,裂隙领主血脉,zh-CN
+Broad Sword,阔剑,zh-CN
+Burial Idol,埋葬雕像,zh-CN
+Burst Band,爆破带,zh-CN
+"Caer Blaidd, Wolfpack's Den",塞尔.布雷德狼穴,zh-CN
+Carnal Armour,禁礼之甲,zh-CN
+Cartographer's Strongbox,制图师的保险箱,zh-CN
+Chambers of Impurity Map,不净之殿地图,zh-CN
+Chemist's Strongbox,药师的保险箱,zh-CN
+Cobalt Jewel,钴蓝珠宝,zh-CN
+Cogwork Ring,齿轮戒指,zh-CN
+Composite Ring,复合戒指,zh-CN
+Conqueror Idol,征服者雕像,zh-CN
+Convoking Wand,召集法杖,zh-CN
+Corrupted Gaze,腐化凝视,zh-CN
+Cortex,脑层,zh-CN
+Corvine Charm,暗鸦咒符,zh-CN
+Courtyard of Wasting Map,荒废之庭地图,zh-CN
+Cowards' Wail Ezomyte Tower Shield,懦夫哀嚎 艾兹麦塔盾,zh-CN
+Cryogenesis,寒霜之源,zh-CN
+Crystallised Omniscience Onyx Amulet,结晶全知 黑曜护身符,zh-CN
+Destructive Play,毁灭游戏,zh-CN
+Diviner's Strongbox,神圣的秘宝,zh-CN
+Djinn-Touched Vaal Orb,巨灵触碰的瓦尔宝珠,zh-CN
+"Drox, The Warlord",督军狄洛克斯,zh-CN
+Extremely Foul,极致腐化,zh-CN
+Eye of the Storm,风暴之眼,zh-CN
+Eyes of the Greatwolf Greatwolf Talisman,巨狼之眼 狼王魔符,zh-CN
+Fading Reflecting Mist,衰退倒映薄雾,zh-CN
+Firesong Crimson Jewel,烈火之歌 赤红珠宝,zh-CN
+Focused Amulet,聚焦项链,zh-CN
+Foliate Brooch,叶饰胸针,zh-CN
+Forge of the Phoenix Map,不死鸟锻台,zh-CN
+Fury Valve Turquoise Amulet,愤怒之阀 青玉护身符,zh-CN
+Gemcutter's Strongbox,宝石匠的保险箱,zh-CN
+Geodesic Ring,地线戒指,zh-CN
+Ghastly Eye Jewel,苍白之凝珠宝,zh-CN
+Glorious Plate,荣耀战铠,zh-CN
+Gloves(dex),手套(dex),zh-CN
+Gloves(dex_int),手套(dex_int),zh-CN
+Gloves(int),手套(int),zh-CN
+Gloves(str),手套(str),zh-CN
+Gloves(str_dex),手套(str_dex),zh-CN
+Gloves(str_int),手套(str_int),zh-CN
+Grandmaster Keyring,巅峰钥匙环,zh-CN
+Graven's Secret Cloth Belt,葛拉文的秘宝 饰布腰带,zh-CN
+Greatwolf Talisman,狼王魔符,zh-CN
+Hands of the High Templar Crusader Gloves,神主之手 圣战手套,zh-CN
+Harbinger's Orb,神谕石,zh-CN
+Headhunter Leather Belt,猎首 皮革腰带,zh-CN
+Heist league,劫盗同盟,zh-CN
+Helical Ring,螺纹戒指,zh-CN
+Helmets(dex),头部(dex),zh-CN
+Helmets(dex_int),头部(dex_int),zh-CN
+Helmets(int),头部(int),zh-CN
+Helmets(str),头部(str),zh-CN
+Helmets(str_dex),头部(str_dex),zh-CN
+Helmets(str_int),头部(str_int),zh-CN
+Hypnotic Eye Jewel,安睡之凝珠宝,zh-CN
+Incandescent Invitation,炽焰的邀请,zh-CN
+Infamous Modifiers,恶名词缀,zh-CN
+Inspired Learning Crimson Jewel,求知的热情 赤红珠宝,zh-CN
+Iron Flask,坚铁药剂,zh-CN
+Jeweller's Strongbox,珠宝匠的保险箱,zh-CN
+Kamasan Idol,卡马萨雕像,zh-CN
+Kinetic Wand,念动法杖,zh-CN
+Lair of the Hydra Map,九头蛇巢穴,zh-CN
+Large Cluster Jewel,大型星团珠宝,zh-CN
+Lioneye's Fall Viridian Jewel,狮眼的陨落 翠绿珠宝,zh-CN
+Lupine Charm,幽狼咒符,zh-CN
+Manifold Ring,集成戒指,zh-CN
+Maps(Low),异界地图(Low),zh-CN
+Maps(Mid),异界地图(Mid),zh-CN
+Maps(Old),异界地图(Old),zh-CN
+Maps(Top),异界地图(Top),zh-CN
+Maps(Uber),异界地图(Uber),zh-CN
+Master Lockpick,卓越解密工具,zh-CN
+Maven's Invitation,贤主之邀：恐惧,zh-CN
+Maven's Invitation: The Elderslayers,贤主之邀：裂界屠杀者,zh-CN
+Maven's Invitation: The Forgotten,贤主之邀：虚空忆境,zh-CN
+Maven's Invitation: The Formed,贤主之邀：塑界守卫,zh-CN
+Maven's Invitation: The Hidden,贤主之邀：裂隙领主,zh-CN
+Maven's Invitation: The Remembered,贤主之邀：裂隙领主,zh-CN
+Maven's Invitation: The Twisted,贤主之邀：裂界守卫,zh-CN
+Maze of the Minotaur Map,牛头人迷宫,zh-CN
+Medium Cluster Jewel,中型星团珠宝,zh-CN
+Megalomaniac Medium Cluster Jewel,妄想症 中型星团珠宝,zh-CN
+Meticulous Appraiser,严谨鉴定师,zh-CN
+Minor Idol,小型雕像,zh-CN
+Moment of Reverence,敬仰之时,zh-CN
+Mounting Modifiers,众词归一,zh-CN
+Multiplying Modifiers,倍增词缀,zh-CN
+Murderous Eye Jewel,凶残之凝珠宝,zh-CN
+Nebulis Void Sceptre,内布利斯 虚影短杖,zh-CN
+Noble Idol,权贵雕像,zh-CN
+Obsidian Sharpening Stone,黑曜磨刀石,zh-CN
+Occultist's Vestment,秘术长衣,zh-CN
+Olesya's Delight Cloth Belt,奥莱西亚的喜悦 饰布腰带,zh-CN
+Opalescent Strongbox,乳白保险箱,zh-CN
+Operative's Scouting Report,侦探侦察报告,zh-CN
+Operative's Strongbox,侦探的保险箱,zh-CN
+Pit of the Chimera Map,奇美拉领域,zh-CN
+Polaric Invitation,极星的邀请,zh-CN
+Polaric Void,虹光虚空,zh-CN
+Precise Arrowhead,精准箭头,zh-CN
+Prismatic Jewel,三相珠宝,zh-CN
+Prove Yourself Worthy,彰示神威,zh-CN
+rarity,稀有度,zh-CN
+Ratcheting Ring,渐变戒指,zh-CN
+Regicide Disguise Kit,弑君易容工具,zh-CN
+Replica Headhunter Leather Belt,猎首【仿品】 皮革腰带,zh-CN
+Replica Nebulis Void Sceptre,内布利斯【仿品】 虚影短杖,zh-CN
+Rewritten Distant Memory,重著的遥远回忆,zh-CN
+Rigwald's Curse Wereclaw Talisman,瑞佛诅咒 亡爪魔符,zh-CN
+Rite of Ruin,毁灭仪式,zh-CN
+Royale Hands of the High Templar Chain Gloves,Royale 神主之手 链甲手套,zh-CN
+Ruinous Wager,摧灭豪赌,zh-CN
+Runic Crown,符文王冠,zh-CN
+Runic Gauntlets,符文手甲,zh-CN
+Runic Sabatons,符文战靴,zh-CN
+Screaming Invitation,咆哮的邀请,zh-CN
+Searching Eye Jewel,锐利之凝珠宝,zh-CN
+Seething Chyme,沸腾之糜,zh-CN
+Seven-League Step,盟誓之迹,zh-CN
+Sextant,六分仪,zh-CN
+Shields(dex),盾牌(dex),zh-CN
+Shields(dex_int),盾牌(dex_int),zh-CN
+Shields(int),盾牌(int),zh-CN
+Shields(str),盾牌(str),zh-CN
+Shields(str_dex),盾牌(str_dex),zh-CN
+Shields(str_int),盾牌(str_int),zh-CN
+Silkweave Sole,丝网鞋底,zh-CN
+Silver Flask,真银药剂,zh-CN
+Simplex Amulet,朴实项链,zh-CN
+Small Cluster Jewel,小型星团珠宝,zh-CN
+Somatic Wand,肉体法杖,zh-CN
+Split Personality Crimson Jewel,人格分裂 赤红珠宝,zh-CN
+Steel Bracers,钢制护腕,zh-CN
+Stormshroud Viridian Jewel,暴风遮罩 翠绿珠宝,zh-CN
+Stranglegasp Onyx Amulet,绞杀之息 黑曜护身符,zh-CN
+String of Servitude Heavy Belt,奴役之索 重革腰带,zh-CN
+Summon Arbalists,召唤劲弩,zh-CN
+Synthesis league,追忆联盟,zh-CN
+Synthesised Stability,统合稳定,zh-CN
+talisman,魔符,zh-CN
+"Tasalio, Cleansing Water",塔赛里奥，纯净之水,zh-CN
+Thaumaturgical Sensing Charm,奇术感知魔符,zh-CN
+Thaumaturgical Ward,奇术结界,zh-CN
+Thaumetic Blowtorch,奇术喷灯,zh-CN
+Thaumetic Flashpowder,托麦迪克闪光粉,zh-CN
+The Balance of Terror Cobalt Jewel,恐惧之平衡 钴蓝珠宝,zh-CN
+The Constrictor,裂界守卫：约束,zh-CN
+The Crusader,圣战者,zh-CN
+The Enslaver,裂界守卫：奴役,zh-CN
+The Eradicator,裂界守卫：寂灭,zh-CN
+The Hallowed Monarch Faithful Helmet,圣洁君临 信仰之盔,zh-CN
+The Hollow-Eyed Skull Emberstone Stalker Sentinel,空眼之颅 余烬追猎护卫,zh-CN
+The Hunter,狩猎者,zh-CN
+The Maven's Crucible,贤主熔炉,zh-CN
+The Perfect Form Zodiac Leather,完美姿态 星辰皮甲,zh-CN
+The Purifier,裂界守卫：净世,zh-CN
+The Putrid Cloister,幽秘博物馆,zh-CN
+The Redeemer,救赎者,zh-CN
+The Shaper's Realm,创世之境,zh-CN
+The Whispering Ice,冰点低语,zh-CN
+Theatre of Lies Map,谎言剧院地图,zh-CN
+Tombfist Steelscale Gauntlets,陵拳 钢影护手,zh-CN
+Tormented Spirit,苦痛,zh-CN
+Totemic Idol,图腾雕像,zh-CN
+Triumvirate Authority Unset Ring,三头威仪 潜能之戒,zh-CN
+Twist of Fate,扭转命运,zh-CN
+Twisted Distant Memory,扭曲的遥远回忆,zh-CN
+Twisted Wish Minor Idol,扭曲的心愿 小型雕像,zh-CN
+Unset Ring,潜能之戒,zh-CN
+Ursine Charm,蛮熊咒符,zh-CN
+Utula's Hunger Majestic Plate,尤图拉之贪噬 庄严之铠,zh-CN
+Vaal Vessel,瓦尔容器,zh-CN
+"Valako, Storm's Embrace",瓦拉克，风暴之拥,zh-CN
+Veiled Modifiers,隐匿 词缀,zh-CN
+"Veritania, The Redeemer",救赎者维利塔妮娅,zh-CN
+Viridian Jewel,翠绿珠宝,zh-CN
+Vorana's March Runic Sabatons,沃拉娜的征途 符文战靴,zh-CN
+Watcher's Eye Prismatic Jewel,守望之眼 三相珠宝,zh-CN
+weapons,武器,zh-CN
+Whakawairua Tuahu,禁闭祭坛,zh-CN
+Whisper-woven Cloak,隐匿披风,zh-CN
+Writhing Invitation,蠕动的邀请,zh-CN
+Acrimony,尖刻,zh-CN
+Acuity,心眼,zh-CN
+Adamant,金钟罩,zh-CN
+Adaptive Steel,激变坚钢,zh-CN
+Adder's Touch,毒蛇之牙,zh-CN
+Adjacent Animosity,咫尺之恨,zh-CN
+Admonisher,训诫,zh-CN
+Aggressive Bastion,好战壁垒,zh-CN
+Always Angry,怒意难平,zh-CN
+Amber,琥珀,zh-CN
+Ambidexterity,卓越,zh-CN
+Amplify,增幅,zh-CN
+Annihilation,横扫千军,zh-CN
+Anointed Flesh,祝圣之体,zh-CN
+Arcane Capacitor,奥术充能,zh-CN
+Arcane Chemistry,秘法学,zh-CN
+Arcane Expanse,秘术扩张,zh-CN
+Arcane Focus,秘能之心,zh-CN
+Arcane Guarding,奥术护卫,zh-CN
+Arcane Potency,秘能爆发,zh-CN
+Arcane Retaliation,秘术反击,zh-CN
+Arcane Sanctuary,奥术圣所,zh-CN
+Arcane Will,奥术意志,zh-CN
+Arcanist's Dominion,奥术师的统御,zh-CN
+Arcing Blows,电能之击,zh-CN
+Arsonist,焚烧,zh-CN
+Art of the Gladiator,斗士艺术,zh-CN
+As The Mountain,稳若泰山,zh-CN
+As The Thunder,轰若惊雷,zh-CN
+Ascendancy,升华试炼,zh-CN
+"Ash, Frost and Storm",三相之力,zh-CN
+Aspect of Stone,岩石之势,zh-CN
+Aspect of the Eagle,鹰灵祝福,zh-CN
+Aspect of the Lynx,山猫之灵,zh-CN
+Assassination,暗影,zh-CN
+Assured Strike,十拿九稳,zh-CN
+Asylum,逃难所,zh-CN
+Atrophy,萎缩,zh-CN
+Avatar of the Hunt,狩猎之征,zh-CN
+Awe and Terror,震慑惊惧,zh-CN
+Azure,天蓝,zh-CN
+Backstabbing,偷袭,zh-CN
+Ballistics,弹道学,zh-CN
+Bannerman,旗手,zh-CN
+Barbarism,野蛮,zh-CN
+Bastion Breaker,破壁者,zh-CN
+Bastion of Faith,信仰壁垒,zh-CN
+Battle Rouse,战斗鼓舞,zh-CN
+Battle Trance,战斗迷神,zh-CN
+Beacon of Hope,希望道标,zh-CN
+Berserking,狂战之魂,zh-CN
+Black,漆黑,zh-CN
+Blacksmith's Clout,铁匠之捶,zh-CN
+Blade Barrier,剑刃屏障,zh-CN
+Blade Master,刀剑宗师,zh-CN
+Blade of Cunning,巧刃,zh-CN
+Bladedancer,剑舞者,zh-CN
+Blast Radius,法术范围增幅,zh-CN
+Blast Waves,冲击波纹,zh-CN
+Blood Drinker,汲血者,zh-CN
+Blood Siphon,血液抽取,zh-CN
+Bloodless,无血之体,zh-CN
+Bloodletting,出血,zh-CN
+Blunt Trauma,麻痹创伤,zh-CN
+Bone Breaker,破骨,zh-CN
+Born to Fight,为战而生,zh-CN
+Brand Equity,公正烙印,zh-CN
+Bravery,英勇,zh-CN
+Breath of Flames,火焰之息,zh-CN
+Breath of Lightning,闪电之息,zh-CN
+Breath of Rime,霜雪之息,zh-CN
+Breathstealer,扼息者 火蝮鳞手套,zh-CN
+Brink of Death,生死边缘,zh-CN
+Brinkmanship,羁縻,zh-CN
+Brutal Blade,残暴之刃,zh-CN
+Brutal Skewering,残忍穿刺,zh-CN
+Burning Brutality,凶残烈焰,zh-CN
+Burst of Energy,能量爆发,zh-CN
+Butchery,屠夫,zh-CN
+Cannibalistic Rite,惨绝典礼,zh-CN
+Careful Conservationist,谨慎保护,zh-CN
+Careful Counterattack,慎重反击,zh-CN
+Cauterisation,焰灼血肉,zh-CN
+Champion of the Cause,起源,zh-CN
+Charisma,魅力,zh-CN
+Circle of Life,生命之环,zh-CN
+Claws of the Falcon,猎鹰之爪,zh-CN
+Claws of the Hawk,鹰隼之爪,zh-CN
+Claws of the Magpie,鹊爪,zh-CN
+Cleansed Thoughts,净化的思想,zh-CN
+Clear,清澈,zh-CN
+Cleaving,劈砍,zh-CN
+Clever Construction,聪明的建设,zh-CN
+Clever Thief,机敏猎人,zh-CN
+Cloth and Chain,迅影秘术,zh-CN
+Coldhearted Calculation,冷酷计算,zh-CN
+Colloidal Mixture,胶质调和,zh-CN
+Combat Stamina,战斗精力,zh-CN
+Command of Steel,钢铁命令,zh-CN
+Concussive Force,震荡之力,zh-CN
+Conjured Barrier,咒法屏障,zh-CN
+Constitution,构成,zh-CN
+Contaminate,玷污,zh-CN
+Coordination,和谐之体,zh-CN
+Cornered Prey,困兽犹斗,zh-CN
+Corruption,腐化,zh-CN
+Counterweight,长杖化身,zh-CN
+Courage,勇毅,zh-CN
+Cowl of the Ceraunophile,嗜雷之冠 日耀之冠,zh-CN
+Cowl of the Cryophile,嗜寒之冠 绸缎之兜,zh-CN
+Cowl of the Thermophile,嗜火之冠 艾兹麦坚盔,zh-CN
+Crackling Speed,神速暴裂,zh-CN
+Crimson,绯红,zh-CN
+Cruel Preparation,残忍准备,zh-CN
+Cruel Retort,残忍报复,zh-CN
+Crusader,圣战,zh-CN
+Crushing Reply,粉碎回敬,zh-CN
+Crystal Skin,魔晶之肤,zh-CN
+Dance of Blades,刃舞,zh-CN
+Dark Arts,黑暗艺术,zh-CN
+Dazzling Strikes,耀目打击,zh-CN
+Deadly Draw,致命箭矢,zh-CN
+Deadly Inclinations,致命倾向,zh-CN
+Death Attunement,亡灵谐曲,zh-CN
+Decay Ward,腐蚀之卫,zh-CN
+Deep Breaths,深呼吸,zh-CN
+Deep Thoughts,沉静思维,zh-CN
+Deep Wisdom,沉静智慧,zh-CN
+Defiance,抗争,zh-CN
+Defiant Stand,笑傲群雄,zh-CN
+Defiled Forces,污秽大军,zh-CN
+Deliberate Brutality,刻意凌虐,zh-CN
+Depth Perception,潜意识,zh-CN
+Dervish,修行之刃,zh-CN
+Destroyer,破坏者,zh-CN
+Destructive Apparatus,毁灭装置,zh-CN
+Devastating Devices,毁灭装置,zh-CN
+Devotion,奉献,zh-CN
+Diamond Skin,晶钻之肤,zh-CN
+Dire Torment,恐怖折磨,zh-CN
+Dirty Techniques,卑劣手法,zh-CN
+Disciple of the Forbidden,禁礼门徒,zh-CN
+Disciple of the Slaughter,冷血门徒,zh-CN
+Disciple of the Unyielding,不屈门徒,zh-CN
+Discipline and Training,严峻训练,zh-CN
+Discord Artisan,不谐之艺,zh-CN
+Disemboweling,开肠剖肚,zh-CN
+Disintegration,解离,zh-CN
+Dismembering,肢解,zh-CN
+Divine Fervour,元素催化,zh-CN
+Divine Fury,圣怒,zh-CN
+Divine Judgement,神圣审判,zh-CN
+Divine Wrath,神圣怒火,zh-CN
+Doom Cast,灭世之灵,zh-CN
+Dreamer,幻梦者,zh-CN
+Druidic Rite,德鲁伊的仪式,zh-CN
+Dynamo,蓄电,zh-CN
+Eagle Eye,鹰眼,zh-CN
+Efficient Explosives,高效爆炸,zh-CN
+Elder Power,智慧之力,zh-CN
+Elemental Focus,元素集中,zh-CN
+Empowered Bond,强化纽带,zh-CN
+Endurance,耐力,zh-CN
+Enduring Bond,持久契约,zh-CN
+Enigmatic Defence,秘巫防御,zh-CN
+Enigmatic Reach,秘巫之触,zh-CN
+Entrench,牢固,zh-CN
+Entropy,乱世,zh-CN
+Escalation,升级,zh-CN
+Essence Extraction,精华萃取,zh-CN
+Essence Infusion,精华灌注,zh-CN
+Essence Sap,灵魂虚空,zh-CN
+Essence Surge,精纯之潮,zh-CN
+Ethereal Feast,空灵盛宴,zh-CN
+Exceptional Performance,卓越的表现,zh-CN
+Excess Sustenance,营养过剩,zh-CN
+Executioner,处决者,zh-CN
+Expeditious Munitions,快速弹药,zh-CN
+Expert Hunter,老练猎手,zh-CN
+Explosive Elements,爆破元素,zh-CN
+Explosive Impact,暴烈冲击,zh-CN
+Explosive Runes,爆炸符文,zh-CN
+Faith and Steel,钢之信仰,zh-CN
+Fangs of Frost,刺骨寒冰,zh-CN
+Fangs of the Viper,毒蛇之牙,zh-CN
+Farsight,远视,zh-CN
+Fatal Blade,致命之刃,zh-CN
+Fatal Toxins,致命之毒,zh-CN
+Fearsome Force,恐怖之力,zh-CN
+Feline Swiftness,迅如猛虎,zh-CN
+Feller of Foes,破敌者,zh-CN
+Fending,自卫术,zh-CN
+Fervour,激情,zh-CN
+Field Medicine,医学领域,zh-CN
+Finesse,娴熟,zh-CN
+Fingers of Frost,凛冽之指,zh-CN
+Fire Walker,火灵之道,zh-CN
+Flash Freeze,急速冻结,zh-CN
+Flaying,剥皮刃,zh-CN
+Fleetfoot,迷踪步,zh-CN
+Flow of Battle,战斗潮流,zh-CN
+Force of Darkness,黑暗之力,zh-CN
+Force Shaper,力量成形,zh-CN
+Forceful Skewering,强力穿刺,zh-CN
+Forces of Nature,自然之力,zh-CN
+Foresight,先见之明,zh-CN
+Forethought,未卜先知,zh-CN
+Freedom of Movement,行动自如,zh-CN
+Frenetic,狂热,zh-CN
+From the Shadows,影刃,zh-CN
+Frost Walker,冰灵之道,zh-CN
+Fury Bolts,破空弹,zh-CN
+Fusillade,聚灵之杖,zh-CN
+Galvanic Hammer,聚能之锤,zh-CN
+Glacial Cage,冰川牢笼,zh-CN
+Gladiator's Perseverance,坚毅斗士,zh-CN
+Glory of Command,统御之荣,zh-CN
+Golden,金色,zh-CN
+Golem Commander,魔像指挥官,zh-CN
+Golem's Blood,魔像血统,zh-CN
+Goliath,巨人之力,zh-CN
+Graceful Assault,矫若惊龙,zh-CN
+Grave Intentions,亡灵之誓,zh-CN
+Gravepact,亡灵之约,zh-CN
+Growth and Decay,成长与衰变,zh-CN
+Hardened Scars,百战伤疤,zh-CN
+Harpooner,鱼叉猎手,zh-CN
+Harrier,海猎鹰,zh-CN
+Harsh Lessons,严厉教训,zh-CN
+Harvester of Foes,斩敌者,zh-CN
+Hasty Demise,迅疾陨灭,zh-CN
+Hatchet Master,斧刃宗师,zh-CN
+Heart and Soul,心与灵,zh-CN
+Heart of Darkness,黑暗之心,zh-CN
+Heart of Ice,冰雪之心,zh-CN
+Heart of Oak,橡木之心,zh-CN
+Heart of the Warrior,战士之心,zh-CN
+Heart of Thunder,雷霆之心,zh-CN
+Heartseeker,刺心者,zh-CN
+Hearty,热忱,zh-CN
+Heavy Draw,强弩,zh-CN
+Hematophagy,吸血,zh-CN
+Herbalism,药草学,zh-CN
+High Explosives,炼狱炸弹,zh-CN
+High Voltage,高压,zh-CN
+Hired Killer,生命撷取,zh-CN
+Hollow Effigy,空洞雕像,zh-CN
+Holy Dominion,神圣统御,zh-CN
+Holy Fire,神圣之火,zh-CN
+Hunter's Gambit,猎人之势,zh-CN
+Incorporeal,无影无形,zh-CN
+Indigo,靛青,zh-CN
+Indiscriminate Revenge,仇怨倾泻,zh-CN
+Indomitable Army,不败之军,zh-CN
+Inexorable,势不可挡,zh-CN
+Influence,影响,zh-CN
+Infused,灌注,zh-CN
+Infused Flesh,血肉灌注,zh-CN
+Insightfulness,洞察万物,zh-CN
+Inspiring Bond,同进同退,zh-CN
+Instability,聚能之界,zh-CN
+Instinct,本能,zh-CN
+Intuition,直觉感知,zh-CN
+Inveterate,根深蒂固,zh-CN
+Invigorating Blaze,欢欣炽炎,zh-CN
+Ironwood,铁木,zh-CN
+Jagged Wounds,锯齿创伤,zh-CN
+Kinetic Impacts,动能冲击,zh-CN
+King of the Hill,强弩之弦,zh-CN
+Knowledge Barrier,学识壁垒,zh-CN
+Last Rites,最后仪式,zh-CN
+Lasting Tempest,持久风暴,zh-CN
+Lava Lash,熔岩之力,zh-CN
+Leader of the Pack,行伍领袖,zh-CN
+Leadership,领导精神,zh-CN
+Legacy of the Wilds,荒野传承,zh-CN
+Lethality,致命锋芒,zh-CN
+Life Raker,生命收割,zh-CN
+Light Eater,光芒吞噬者,zh-CN
+Light of Divinity,神圣启蒙,zh-CN
+Lightning Walker,雷灵之道,zh-CN
+Longshot,远射,zh-CN
+Lord of the Dead,亡灵之主,zh-CN
+Lust for Carnage,汲血者,zh-CN
+Magmatic Strikes,熔岩打击,zh-CN
+Malicious Intent,不善意图,zh-CN
+Mana Flows,魔力之流,zh-CN
+Mark the Prey,标记猎物,zh-CN
+Marked for Death,死亡印记,zh-CN
+Martial Experience,沙场历练,zh-CN
+Master Fletcher,飞矢宗师,zh-CN
+Master of Blades,刀剑之主,zh-CN
+Master of the Arena,决战宗师,zh-CN
+Master of Wounds,创痕主宰,zh-CN
+Master Sapper,工兵大师,zh-CN
+Measured Fury,克制之怒,zh-CN
+Melding,融合,zh-CN
+Mental Rapidity,精神迅捷,zh-CN
+Merciless Skewering,无情穿刺,zh-CN
+Mind Drinker,汲灵术,zh-CN
+Mixed Munitions,混合弹药,zh-CN
+Multishot,多重射击,zh-CN
+Mystic Bulwark,秘言守护,zh-CN
+Mystic Talents,秘言天赋,zh-CN
+Mysticism,灵秘,zh-CN
+Natural Authority,自然威仪,zh-CN
+Natural Remedies,自然疗法,zh-CN
+Nature's Concoction,自然灵药,zh-CN
+Nightstalker,夜袭,zh-CN
+Nimbleness,巧语,zh-CN
+No Forgiveness,罪无可恕,zh-CN
+Nomadic Teachings,浪客的教诲,zh-CN
+One With Nature,天人合一,zh-CN
+One with the River,与水同行,zh-CN
+Opalescent,乳白,zh-CN
+Overcharge,强化聚能,zh-CN
+Overcharged,超载,zh-CN
+Overprepared,过度准备,zh-CN
+Pain Forger,痛苦大师,zh-CN
+Path of the Hunter,猎人之路,zh-CN
+Path of the Savant,贤者之路,zh-CN
+Path of the Warrior,战士之路,zh-CN
+Perfected Formula,完美配方,zh-CN
+Perfectionist,完美之人,zh-CN
+Persistence,锲而不舍,zh-CN
+Piercing Shots,穿射箭矢,zh-CN
+Poisonous Fangs,回转死神,zh-CN
+Potency of Will,意志之力,zh-CN
+Potent Connections,强效连接,zh-CN
+Powerful Bond,戮力同心,zh-CN
+Practical Application,化虚为实,zh-CN
+Practised Reapplication,娴熟涂抹,zh-CN
+Prepared Response,预演响应,zh-CN
+Presage,预知之力,zh-CN
+Primal Manifestation,图腾专精,zh-CN
+Primal Spirit,原始精神,zh-CN
+Primeval Force,元素注入,zh-CN
+Prism Weave,绫彩交织,zh-CN
+Prismatic,虹彩,zh-CN
+Prismatic Skin,虹光之肤,zh-CN
+Prodigal Perfection,完美无缺,zh-CN
+Profane Chemistry,生物学,zh-CN
+Purity of Flesh,肉体之纯净,zh-CN
+Quick Recovery,快速回复,zh-CN
+Rallying Icon,集结之兆,zh-CN
+Rampart,壁垒,zh-CN
+Ravenous Horde,贪婪部落,zh-CN
+Razor's Edge,剃刃,zh-CN
+Redemption,救赎,zh-CN
+Reflexes,反射,zh-CN
+Relentless,冷酷无情,zh-CN
+Relentless Pursuit,无尽追踪,zh-CN
+Renowned Deeds,英名冠世,zh-CN
+Replenishing Remedies,重装拯救,zh-CN
+Replica Stampede Assassin's Boots,溃败【仿品】 暗影之靴,zh-CN
+Resourcefulness,智谋,zh-CN
+Retaliation,复仇,zh-CN
+Retribution,制裁,zh-CN
+Revelry,狂欢,zh-CN
+Revenge of the Hunted,死亡通缉,zh-CN
+Ribcage Crusher,开膛手,zh-CN
+Righteous Army,公正大军,zh-CN
+Righteous Decree,正义审判,zh-CN
+Righteous Fury,正义之怒,zh-CN
+Roaring Challenge,怒嚎挑战,zh-CN
+Robust,健壮,zh-CN
+Runesmith,符文工匠,zh-CN
+Sacrifice,亡灵招集,zh-CN
+Safeguard,护卫,zh-CN
+Sanctity,圣洁之力,zh-CN
+Sanctuary,庇护圣所,zh-CN
+Sanctum of Thought,思维圣殿,zh-CN
+Savage Intensity,残暴增幅,zh-CN
+Savage Skewering,残暴穿刺,zh-CN
+Savage Wounds,狂野之创,zh-CN
+Savagery,野性之心,zh-CN
+Searing Heat,灼热,zh-CN
+Season of Ice,寒冰之季,zh-CN
+Seasoned Swordplay,熟练剑技,zh-CN
+Selective Precision,定向精准,zh-CN
+Sentinel,哨兵,zh-CN
+Sepia,墨色,zh-CN
+Serpent Stance,蛇影战阵,zh-CN
+Serpentine Spellslinger,蜿蜒节魔,zh-CN
+Settling Ash,沉降灰烬,zh-CN
+Shaman's Dominion,萨满圣域,zh-CN
+Shamanistic Fury,萨满之怒,zh-CN
+Shaper,圣杯,zh-CN
+Shining Justice,辉光正义,zh-CN
+Silent Steps,神出鬼没,zh-CN
+Silver,白银,zh-CN
+Sione's Ambition,西奥妮的野心,zh-CN
+Skittering Runes,飞掠符文,zh-CN
+Skull Cracking,碎颅,zh-CN
+Slaughter,冷血,zh-CN
+Sleight of Hand,戏法,zh-CN
+Smashing Strikes,沉重之击,zh-CN
+Snowforged,雪锻,zh-CN
+Soul of Steel,坚钢之灵,zh-CN
+Soul Siphon,灵魂吸收,zh-CN
+Soul Thief,窃魂者,zh-CN
+Sovereignty,主权,zh-CN
+Spiked Bulwark,荆刺守护,zh-CN
+Spinecruncher,钻击者,zh-CN
+Spirit of War,战争英魂,zh-CN
+Spirit Void,精华抽取,zh-CN
+Spiritual Aid,灵魂援助,zh-CN
+Spiritual Command,灵魂之令,zh-CN
+Split Shot,分裂射击,zh-CN
+Sporeguard,孢囊守卫 圣者链甲,zh-CN
+Stamina,充沛精力,zh-CN
+Static Blows,电能之击,zh-CN
+Steadfast,坚韧不拔,zh-CN
+Steelwood Stance,身坚如铁,zh-CN
+Steeped in the Profane,沉溺于亵渎,zh-CN
+Storm Weaver,风暴织者,zh-CN
+Strong Arm,强壮手臂,zh-CN
+Successive Detonations,连续引爆,zh-CN
+Surge of Vigour,活力之涌,zh-CN
+Surveillance,洞若观火,zh-CN
+Survivalist,死里逃生,zh-CN
+Swagger,双刃之舞,zh-CN
+Swift Venoms,迅速致毒,zh-CN
+Taste for Blood,赤色之味,zh-CN
+Teal,水蓝,zh-CN
+Tempest Blast,风暴冲击,zh-CN
+Tenacity,顽强,zh-CN
+Testudo,龟甲盾,zh-CN
+The Stampede,溃败 暗影之靴,zh-CN
+Thick Skin,强化之肤,zh-CN
+Thrill Killer,颤栗打击者,zh-CN
+Thrill of Battle,鏖战热血,zh-CN
+Throatseeker,割战者,zh-CN
+Tireless,冷酷,zh-CN
+Titanic Impacts,泰坦冲击,zh-CN
+Tolerance,宽容,zh-CN
+Totemic Zeal,热情图腾,zh-CN
+Toxic Strikes,涂毒攻击,zh-CN
+Tranquility,宁静,zh-CN
+Trial of the Faith,信仰试炼,zh-CN
+Tribal Fury,部落之怒,zh-CN
+Trick Shot,诡射,zh-CN
+Trickery,诡计,zh-CN
+True Strike,真实之击,zh-CN
+Twin Terrors,双重惧刃,zh-CN
+Undertaker,送葬者,zh-CN
+Unfaltering,稳步坚决,zh-CN
+Unnatural Calm,沉寂之心,zh-CN
+Unstable Munitions,不稳定弹药,zh-CN
+Utmost Intellect,终极智慧,zh-CN
+Utmost Might,终极之力,zh-CN
+Utmost Swiftness,终极之速,zh-CN
+Vampirism,吸血鬼症,zh-CN
+Vanquisher,百战百胜,zh-CN
+Vengeance,复仇,zh-CN
+Vengeant Cascade,复仇奔流,zh-CN
+Verdant,翠绿,zh-CN
+Versatility,俊敏,zh-CN
+Veteran Soldier,饱经征战,zh-CN
+Veteran's Wrath,老兵之怒,zh-CN
+Vigour,活力之源,zh-CN
+Vinespike Cordial,狂躁脊针,zh-CN
+Violet,紫色,zh-CN
+Vitality Void,活力虚空,zh-CN
+Void Barrier,虚影屏障,zh-CN
+Volatile Mines,零秒出手,zh-CN
+Wall of Steel,钢壁坚垒,zh-CN
+Wandslinger,斗杖者之力,zh-CN
+Warrior Training,武士训练,zh-CN
+Warrior's Blood,战士之血,zh-CN
+Wasting,浪费,zh-CN
+Watchtowers,守望之塔,zh-CN
+Way of the Warrior,战士之道,zh-CN
+Weapon Artistry,舞刃宗师,zh-CN
+Weathered Hunter,夜之狩猎,zh-CN
+Whirling Barrier,杖影屏障,zh-CN
+Whispers of Doom,灭世之语,zh-CN
+Wicked Blade,残灵之刃,zh-CN
+Wild Hunger,荒野饥渴,zh-CN
+Will of Blades,利刃意志,zh-CN
+Window of Opportunity,大好时机,zh-CN
+Winter Spirit,物冰转换,zh-CN
+"Wood, Stone, and Spell",砖石与法术,zh-CN
+Worship the Blightheart,崇拜菌潮之心,zh-CN
+Wrecking Ball,崩雷,zh-CN
+Written in Blood,血书,zh-CN
+"""O' Eternal""",《哀哉永恒》,zh-CN
+"""The Kiss Goodnight""",《良夜之吻》,zh-CN
+"""The Nameless Play""",《无名大戏》,zh-CN
+A Call to Arms,召集部队,zh-CN
+A Choice of Futures,待价而沽,zh-CN
+A Dirty Job,腐水之息,zh-CN
+A Fixture of Fate,命运之语,zh-CN
+A Glimpse Beyond,异界惊鸿,zh-CN
+A Merciful Hunt,慈悲狩猎,zh-CN
+A Swig of Hope,重生的渴望,zh-CN
+Admiral Darnaw,海军上将达诺,zh-CN
+Admiral Darnaw's Papers,达诺上将的文件,zh-CN
+Aiding an Archivist,帮助档案管理员,zh-CN
+Alchemical Supplies,炼金工具,zh-CN
+Alder Spiked Shield,桤木刺盾,zh-CN
+Alira's Amulet,阿莉亚的古灵之记,zh-CN
+Allflame,不灭之火,zh-CN
+Altered Flesh,改变血肉,zh-CN
+Ambusher,伏击刺刃,zh-CN
+Ammonite Glyph,雕纹:菊纹,zh-CN
+An End to Hunger,饥饿的终点,zh-CN
+An Indomitable Spirit,不屈意志,zh-CN
+Ankh of Eternity,永恒十字架,zh-CN
+Aquamarine Flask,海蓝药剂,zh-CN
+Atlas Book of Skill,异界图鉴技能之书,zh-CN
+Baffling Blueprints,费解的蓝图,zh-CN
+Baleful Gem,邪影宝石,zh-CN
+Barbed Club,锐刺木棒,zh-CN
+Basalt Flask,石化药剂,zh-CN
+Basilisk Acid,蛇怪酸液,zh-CN
+Battle Lamellar,争战鳞甲,zh-CN
+Become the Darkness,化身黑暗,zh-CN
+Bestel's Epic,毕斯特传奇,zh-CN
+Bestel's Manuscript,毕斯特的手稿,zh-CN
+Bismuth Flask,灰岩药剂,zh-CN
+Black Venom,灾厄毒液,zh-CN
+Blackguard Personnel Files,乌旗守卫私人文件,zh-CN
+Blood Crucible,赤炼玄炉,zh-CN
+Blood Raiment,血色之衣,zh-CN
+Blunt Arrow Quiver,钝矢箭袋,zh-CN
+Book of Regrets,后悔之书,zh-CN
+Book of Skill,技能之书,zh-CN
+Bottled Storm,风暴之瓶,zh-CN
+Branded Kite Shield,圣记鸢盾,zh-CN
+Breachlord Limbs,裂隙领主肢体,zh-CN
+Breaking Some Eggs,打破鸟蛋,zh-CN
+Breaking the Seal,突破封印,zh-CN
+Bunker,堡垒,zh-CN
+Burnished Foil,冷芒刺剑,zh-CN
+Bust of Gaius Sentari,盖厄斯：山特立的半身像,zh-CN
+Bust of Hector Titucius,赫克特：提图瑟的半身像,zh-CN
+Bust of Marceus Lioneye,穆希尔斯：狮眼的半身像,zh-CN
+Butcher Knife,屠兽利刃,zh-CN
+Calendar of Fortune,命运之历,zh-CN
+Callous Mask,无情之面,zh-CN
+Carnal Boots,禁礼之靴,zh-CN
+Censer Relic,香炉遗物,zh-CN
+Census Records,人口普查记录,zh-CN
+Ceremonial Voidstone,仪庆虚空石,zh-CN
+Chainmail Vest,锁链背心,zh-CN
+Chitus' Plum,切特斯的梅果,zh-CN
+Clasped Skull,紧扣之颅,zh-CN
+Claw Bramble,棘藤之爪,zh-CN
+Cloth Belt,饰布腰带,zh-CN
+Coiled Wand,盘曲法杖,zh-CN
+Colourful Roses,多彩玫瑰,zh-CN
+Confront Nashta,跟纳希塔对峙,zh-CN
+Conjurer Boots,咒者长靴,zh-CN
+Contract: A Matter of Honour,契约：事关荣誉,zh-CN
+Contract: A Mundane Sample,契约：平凡样本,zh-CN
+Contract: Breaking the Unbreakable,契约：牢不可破,zh-CN
+Contract: Credit Where Credit's Due,契约：诚信至上,zh-CN
+Contract: Death to Darnaw,契约：达诺的覆灭,zh-CN
+Contract: Disengagement,契约：分崩离析,zh-CN
+Contract: Enoch's Remains,契约：伊诺克的遗骸,zh-CN
+Contract: Enoch's Whereabouts,契约：伊诺克的下落,zh-CN
+Contract: Finding Opal,契约：寻找欧珀,zh-CN
+Contract: Findings for Fidium,契约：借力打力,zh-CN
+Contract: Flying False Colours,契约：冒名顶替,zh-CN
+Contract: Follow the Paper Trail,契约：来龙去脉,zh-CN
+Contract: Grocery List,契约：杂货清单,zh-CN
+Contract: Heart of Glory,契约：荣誉之心,zh-CN
+Contract: Hyrri's Gift,契约：定情之物,zh-CN
+Contract: Isla's Designs,契约：伊斯拉设计图,zh-CN
+Contract: Isla's Prototypes,契约：伊斯拉的原型机,zh-CN
+Contract: Jamanra's Rest,契约：亚曼拉之陵,zh-CN
+Contract: Karst's Revenge,契约：为卡斯特复仇,zh-CN
+Contract: Opal's Jewels,契约：欧珀的珠宝,zh-CN
+Contract: Rational Tools,契约：理性工具,zh-CN
+Contract: Slaver's Revenge,契约：奴隶之怒,zh-CN
+Contract: Stolen Lockpicks,契约：失窃的工具箱,zh-CN
+Contract: The Admiral's Records,契约：上将黑料,zh-CN
+Contract: The Book of Jamanra,契约：亚曼拉之书,zh-CN
+Contract: The Finest Costumes,契约：最佳服饰,zh-CN
+Contract: The Nameless Play,契约：无名大戏,zh-CN
+Contract: The Negotiation,契约：讨价还价,zh-CN
+Contract: The Rescue,契约：救援行动,zh-CN
+Contract: The Slaver King,契约：贩奴之王,zh-CN
+Contract: The Twins,契约：罪恶双生,zh-CN
+Contract: The Vinderi Bomb,契约：温氏炸弹,zh-CN
+Contract: The Wedding Dress,契约：结婚礼服,zh-CN
+Contract: Trial Run,契约：赛跑,zh-CN
+Corpus Malachus,Corpus Malachus,zh-CN
+Corundum Flask,刚玉药剂,zh-CN
+Culling the Cultists,剔除教徒,zh-CN
+Cutlass,军用长刃,zh-CN
+Deal with the Bandits,与盗贼们打交道,zh-CN
+Death and Rebirth,死亡和重生,zh-CN
+Death to Purity,灭亡纯净教,zh-CN
+Decanter Spiritus,聚魂美酒,zh-CN
+Decayed Voidstone,腐坏虚空石,zh-CN
+Decurve Bow,直弓,zh-CN
+Deshret's Banner,迪虚瑞特的红旗,zh-CN
+Devout Chainmail,虔诚链甲,zh-CN
+Diamond Flask,宝钻药剂,zh-CN
+Divine Life Flask,不朽生命药剂,zh-CN
+Divine Mana Flask,不朽魔力药剂,zh-CN
+Dream Furnace,梦想熔炉,zh-CN
+Dying for a Fight,为战而死,zh-CN
+Ebony Tower Shield,乌木塔盾,zh-CN
+Einhar's Hunt,伊恩哈尔的猎魔,zh-CN
+Einhar's Menagerie,伊恩哈尔的魔物园,zh-CN
+Elder's Orb,裂界之玉,zh-CN
+Eldritch Voidstone,古灵虚空石,zh-CN
+Elegant Ringmail,权贵环甲,zh-CN
+Elixir of Allure,真爱药水,zh-CN
+Enemy at the Gate,大门口的敌人,zh-CN
+Enoch's Tags,伊诺克的标牌,zh-CN
+Essence of the Artist,马雷格罗,zh-CN
+Essence of the Hag,巫婆精华,zh-CN
+Essence of Umbra,黑影精华,zh-CN
+Etched Kite Shield,刻文鸢盾,zh-CN
+Exploring Kingsmarch,探索君锋镇,zh-CN
+Explosive Archaeology,爆破考古,zh-CN
+Eye of Conquest,征服之眼,zh-CN
+Eyes of Zeal,狂巫之眼,zh-CN
+Ezomyte Blade,艾兹麦巨剑,zh-CN
+Fastis Fortuna,命运之历,zh-CN
+Fencer Helm,击剑士之盔,zh-CN
+Fertilising the Genesis Tree,培育起源之树,zh-CN
+Fiery Dust,余烬之尘,zh-CN
+Figments Reforged,重铸的虚幻,zh-CN
+Firefly,萤火虫,zh-CN
+Fleet Orders,舰队命令,zh-CN
+Flesh Compass,血肉罗盘,zh-CN
+Fossilised Spirit Shield,石化魔盾,zh-CN
+Foul Hand,秽污之手,zh-CN
+Fumarole Tar,喷火焦油,zh-CN
+Gavel,坚锤,zh-CN
+General's Brigandine,将军铠甲,zh-CN
+Gifts for the Genesis Tree,献礼起源之树,zh-CN
+Gladiator Plate,角斗重铠,zh-CN
+Gladius,斗士长剑,zh-CN
+Gold,金币,zh-CN
+Gold Ring,金光戒指,zh-CN
+Golden Hand,黄金之手,zh-CN
+Golden Page,黄金之页,zh-CN
+Golden Plate,金耀之铠,zh-CN
+Goliath Gauntlets,巨灵护手,zh-CN
+Goliath Greaves,巨灵胫甲,zh-CN
+Gouger,穿体凿,zh-CN
+Greater Life Flask,良质生命药剂,zh-CN
+Greater Mana Flask,良质魔力药剂,zh-CN
+Greust's Necklace,古斯特的项链,zh-CN
+Haliotis Glyph,雕纹:孔螺,zh-CN
+Handmouth,口噬之手,zh-CN
+Hapihapi's Charm,哈比哈比的魔符,zh-CN
+Headsman Axe,行刑巨斧,zh-CN
+Heavy Belt,重革腰带,zh-CN
+Highland Blade,高山重刃,zh-CN
+Hinekora's Hair,辛格拉之发,zh-CN
+Horned Skull,荆棘之颅,zh-CN
+Hunt for the Crow,狩鸦之行,zh-CN
+In Memory of Greust,古斯特的墓碑,zh-CN
+In Search of the Sanctum,在禁域中搜寻,zh-CN
+In Service to Science,为科学服务,zh-CN
+Infernal Talc,炼狱之粉,zh-CN
+Into the Breach,深入裂隙,zh-CN
+Into The Nexus,走进枢纽,zh-CN
+Intruders in Black,黑色入侵者,zh-CN
+"Jamanra, the Legendary Warrior",传奇武士亚曼拉,zh-CN
+Karst's Lockpicks,卡斯特的解密工具,zh-CN
+Key of Devotion,奉献之钥,zh-CN
+Key of Strength,力量之钥,zh-CN
+Kingsmarch Disenchanting,君锋镇的分解,zh-CN
+Kingsmarch Farming,君锋镇的耕作,zh-CN
+Kingsmarch Mapping,君锋镇的异界冒险,zh-CN
+Kingsmarch Prospecting,君锋镇的勘探,zh-CN
+Kingsmarch Shipping,君锋镇的航海,zh-CN
+Kingsmarch Smelting,君锋镇的冶炼,zh-CN
+Kishara's Star,琪莎拉之星,zh-CN
+Kitava's Torments,奇塔弗的受难,zh-CN
+Kraityn's Amulet,克雷顿的古灵之记,zh-CN
+Laboratory,实验室,zh-CN
+Lacquered Buckler,漆彩轻盾,zh-CN
+Lathi,武术长杖,zh-CN
+Leather Belt,皮革腰带,zh-CN
+Lighting the Way,照亮道路,zh-CN
+Lost in Love,迷失的爱情,zh-CN
+Lost Voidstones,失落的虚空石,zh-CN
+Love is Dead,葬爱,zh-CN
+Luminous Astrolabe,锃亮的星盘,zh-CN
+Lunar Eclipse,月食,zh-CN
+Malachai's Entrails,玛拉凯的钥匙III,zh-CN
+Malachai's Heart,玛拉凯的钥匙II,zh-CN
+Malachai's Lungs,玛拉凯的钥匙I,zh-CN
+Maligaro's Map,马雷格罗的地图,zh-CN
+Maligaro's Sanctum,马雷格罗的藏身处,zh-CN
+Maligaro's Spike,马雷格罗的尖刺,zh-CN
+Mansion,豪宅,zh-CN
+Map (Tier 1),地图（1 阶）,zh-CN
+Map to Tsoatha,深海之路,zh-CN
+Maple Round Shield,枫木圆盾,zh-CN
+Master Key,主钥,zh-CN
+Maven's Invitation: Glennach Cairns,贤主之邀：格伦纳赫石冢,zh-CN
+Maven's Invitation: Haewark Hamlet,贤主之邀：海沃克村,zh-CN
+Maven's Invitation: Lex Ejoris,贤主之邀：恩约利斯之律,zh-CN
+Maven's Invitation: Lex Proxima,贤主之邀：未来之律,zh-CN
+Maven's Invitation: Lira Arthain,贤主之邀：利拉亚森,zh-CN
+Maven's Invitation: New Vastir,贤主之邀：新瓦斯蒂尔,zh-CN
+Maven's Invitation: The Atlas,贤主之邀：异界图鉴,zh-CN
+Maven's Invitation: Tirn's End,贤主之邀：提恩止境,zh-CN
+Maven's Invitation: Valdo's Rest,贤主之邀：瓦尔多之息,zh-CN
+Medicine Chest,医药箱,zh-CN
+Medium Life Flask,中型生命药剂,zh-CN
+Medium Mana Flask,中型魔力药剂,zh-CN
+Memory Fragment I,记忆碎片I,zh-CN
+Memory Fragment II,记忆碎片II,zh-CN
+Memory Fragment III,记忆碎片III,zh-CN
+Memory Fragment IV,记忆碎片IV,zh-CN
+Memory Fragment IX,记忆碎片IX,zh-CN
+Memory Fragment V,记忆碎片IV,zh-CN
+Memory Fragment VI,记忆碎片VI,zh-CN
+Memory Fragment VII,记忆碎片VII,zh-CN
+Memory Fragment VIII,记忆碎片VIII,zh-CN
+Memory Fragment X,记忆碎片X,zh-CN
+Memory Fragment XI,记忆碎片XI,zh-CN
+Memory Fragment XII,记忆碎片XII,zh-CN
+Memory Fragment XIII,记忆碎片XIII,zh-CN
+Memory Fragment XIV,记忆碎片XIV,zh-CN
+Memory Fragment XV,记忆碎片XV,zh-CN
+Mercy Mission,医者之心,zh-CN
+Merveil's Wedding Dress,莫薇儿的婚纱,zh-CN
+Miasmeter,米亚斯表,zh-CN
+Military Staff,军用长杖,zh-CN
+Moment of Loneliness,孤寂之时,zh-CN
+Moment of Trauma,创伤之时,zh-CN
+Moon Orb,月影法珠,zh-CN
+Nashta's War Journal,纳希塔战争日志,zh-CN
+Negotiate with the Client,跟客户谈判,zh-CN
+Niko's Explosives,尼克的炸药,zh-CN
+Niko's Fuel,尼克的燃料,zh-CN
+Niko's Mine,尼克的矿洞,zh-CN
+No Love for Old Ghosts,无爱旧魂,zh-CN
+No Time like the Present,机不可失,zh-CN
+Noble Tricorne,贵族三角帽,zh-CN
+Oak Buckler,橡木轻盾,zh-CN
+Oak's Amulet,欧克的古灵之记,zh-CN
+Obsidian Key,黑曜石钥匙,zh-CN
+Omen Wand,灵兆法杖,zh-CN
+Opal Sceptre,灵石短杖,zh-CN
+Painted Tower Shield,彩绘塔盾,zh-CN
+Paying Tribute,献上贡品,zh-CN
+Piety's Pets,派蒂的宠物,zh-CN
+Pile of Inexplicable Junk,莫名其妙的垃圾堆,zh-CN
+Piledriver,扫荡者,zh-CN
+Plate Vest,铁制背心,zh-CN
+Poisoned Lockpick,下毒的解密工具,zh-CN
+Pound of Flesh,切肤之肉,zh-CN
+Quartz Flask,石英药剂,zh-CN
+Queen of Despair,格鲁丝克,zh-CN
+Queen of the Sands,沙之女神,zh-CN
+Ranger Bow,游侠弓,zh-CN
+Reaver Axe,残暴之斧,zh-CN
+Records Office,档案处,zh-CN
+Recurring Nightmare,复活的梦魇,zh-CN
+Redwood Spiked Shield,红木刺盾,zh-CN
+Reflection of Terror,恐惧映射,zh-CN
+Repository,储藏库,zh-CN
+Rescue Hana,拯救哈娜,zh-CN
+Return to Oriath,回到奥瑞亚,zh-CN
+Ribbon Spool,缎带之轴,zh-CN
+Roseus Glyph,雕纹:长春花,zh-CN
+Safe and Sound,安身之地,zh-CN
+Safe Passage,安全通道,zh-CN
+Sanctum Temptations,禁域考验,zh-CN
+Scale Vest,细鳞背心,zh-CN
+Sekhem,威能短杖,zh-CN
+Sekhema Feather,领袖之羽,zh-CN
+Sentinel Controller,近卫控制器,zh-CN
+Sever the Right Hand,铲除左右手,zh-CN
+Severed Limb,凋零之肢,zh-CN
+Sewer Keys,下水道钥匙,zh-CN
+Shadow of the Vaal,瓦尔之影,zh-CN
+Shagreen Boots,粗革短靴,zh-CN
+Shaper's Orb (Tier 1),塑界之玉( 1 阶),zh-CN
+Shaper's Orb (Tier 10),塑界之玉( 10 阶),zh-CN
+Shaper's Orb (Tier 2),塑界之玉( 2 阶),zh-CN
+Shaper's Orb (Tier 3),塑界之玉( 3 阶),zh-CN
+Shaper's Orb (Tier 4),塑界之玉( 4 阶),zh-CN
+Shaper's Orb (Tier 5),塑界之玉( 5 阶),zh-CN
+Shaper's Orb (Tier 6),塑界之玉( 6 阶),zh-CN
+Shaper's Orb (Tier 7),塑界之玉( 7 阶),zh-CN
+Shaper's Orb (Tier 8),塑界之玉( 8 阶),zh-CN
+Shaper's Orb (Tier 9),塑界之玉( 9 阶),zh-CN
+Sharp and Cruel,清理蜘蛛,zh-CN
+Shattered Past,破碎的过去,zh-CN
+Shrinking Light,缩小光线,zh-CN
+Siege Helmet,破城之盔,zh-CN
+Sign of Purity,纯净之印,zh-CN
+Silver Locket,银色吊坠,zh-CN
+Slaver's Records,奴隶记录,zh-CN
+Smuggler's Den,珍宝之地,zh-CN
+Solar Eclipse,日食,zh-CN
+Soldier Boots,战士之靴,zh-CN
+Soldier Gloves,战士手套,zh-CN
+Solerai's Spear,索瑞之矛,zh-CN
+Soul of Abberath,割裂者 艾贝拉斯之魂,zh-CN
+Soul of Arakaali,暗影女皇 阿拉卡力之魂,zh-CN
+Soul of Garukhan,风暴女神 格鲁坎之魂,zh-CN
+Soul of Gruthkul,绝望之母 格鲁丝克之魂,zh-CN
+Soul of Lunaris,月影女神之魂,zh-CN
+Soul of Ralakesh,万面之主 拉克斯之魂,zh-CN
+Soul of Ryslatha,傀儡女王 瑞斯拉萨之魂,zh-CN
+Soul of Shakari,沙之女神 沙卡丽之魂,zh-CN
+Soul of Solaris,日耀女神之魂,zh-CN
+Soul of the Brine King,惊海之王 索亚格斯之魂,zh-CN
+Soul of Tukohama,战争之父 图克哈玛之魂,zh-CN
+Soul of Yugul,恐惧之源 尤格尔之魂,zh-CN
+Spike-Point Arrow Quiver,刺锋箭袋,zh-CN
+Spiked Limb,尖刺之肢,zh-CN
+Spiteful Winter,恶寒严冬,zh-CN
+Steel Circlet,冷钢之冠,zh-CN
+Steelhead,沉钢重锤,zh-CN
+Stibnite Flask,迷雾药剂,zh-CN
+Storm Blade,风暴之刃,zh-CN
+Strange Growths,奇异的瘤体,zh-CN
+Strange Limb,畸生之肢,zh-CN
+Strengthening Darkness,黑暗肆虐,zh-CN
+Studded Belt,扣钉腰带,zh-CN
+Sulphur Flask,硫磺药剂,zh-CN
+Sun Orb,日耀法珠,zh-CN
+Sundering Axe,裂甲巨斧,zh-CN
+Teak Round Shield,柚木圆盾,zh-CN
+Tempered Foil,强化细剑,zh-CN
+Templar Uniforms,圣堂制服,zh-CN
+Thaumetic Emblem,奇术徽章,zh-CN
+Thaumetic Sulphite,托麦迪克亚硫酸,zh-CN
+The Apex,巨灵之印,zh-CN
+The Atlas of Worlds,异界图鉴,zh-CN
+The Bandit Lord Alira,帮助盗贼头目－阿莉亚,zh-CN
+The Bandit Lord Kraityn,帮助盗贼头目－克雷顿,zh-CN
+The Bandit Lord Oak,帮助盗贼头目－欧克,zh-CN
+The Black Flag,黑旗,zh-CN
+The Blood Idol,染血塑像,zh-CN
+The Book of Jamanra,亚曼拉之书,zh-CN
+The Brine King,惊海之王,zh-CN
+The Caged Brute,冲出监牢,zh-CN
+The Cloven One,撕裂之神,zh-CN
+The Dweller of the Deep,黑渊危机,zh-CN
+The Eternal Nightmare,永恒梦魇,zh-CN
+The Eye of Desire,欲望之眼,zh-CN
+The Eye of Fury,愤怒之眼,zh-CN
+The Father of War,战争之父,zh-CN
+The Forbidden Sanctum,禁忌圣所,zh-CN
+The Gemling Legion,古灵使徒斗士,zh-CN
+The Gemling Queen,宝石皇后,zh-CN
+The Great White Beast,白色巨兽,zh-CN
+The Head of Vruun,弗伦之首,zh-CN
+The Immortal Syndicate,不朽辛迪加,zh-CN
+The Key to Freedom,自由之钥,zh-CN
+The King of Desire,欲望之王,zh-CN
+The King of Fury,暴怒之王,zh-CN
+The King's Feast,王的盛宴,zh-CN
+The Lord's Labyrinth,帝王试炼迷宫,zh-CN
+The Lost Expedition,失落的探险,zh-CN
+The Marooned Mariner,被放逐的水手,zh-CN
+The Master of a Million Faces,盗贼头目,zh-CN
+The Maven's Beacon,贤主信标,zh-CN
+The Maven's Game,贤主的游戏,zh-CN
+The Mortinomicon Exitio Immortalis,湮灭永生死灵之书,zh-CN
+The Mother of Spiders,阿拉卡力,zh-CN
+The Puppet Mistress,傀儡女王,zh-CN
+The Ravenous God,贪婪之神,zh-CN
+The Ribbon Spool,丝带线轴,zh-CN
+The Rogue Harbour,黄金港,zh-CN
+The Root of the Problem,盘根错节,zh-CN
+The Ruler of Highgate,海加特山脉的统治者,zh-CN
+The Sacred Grove,古灵庄园,zh-CN
+The Sceptre of God,神权之塔,zh-CN
+The Shaper's Key,塑界者之钥,zh-CN
+The Silver Locket,银色吊坠,zh-CN
+The Siren's Cadence,海妖之歌,zh-CN
+The Staff of Purity,纯净之杖,zh-CN
+The Storm Blade,风暴之刃,zh-CN
+The Teardrop,海神之泪,zh-CN
+The Thought Extractor,思想萃取器,zh-CN
+The Trarthan Code,特拉特斯规范,zh-CN
+The Twilight Strand,绝望岩滩,zh-CN
+The Unbreakable,牢不可破装置,zh-CN
+The Undertaker's Apprentice,送葬者的学徒,zh-CN
+The Vox Twins,沃克斯兄弟,zh-CN
+The Way Forward,开路先锋,zh-CN
+The Wings of Vastiri,瓦斯提里之翼,zh-CN
+Thirst for Blood,鲜血渴求,zh-CN
+Threads of the Originator,起源者之丝缕,zh-CN
+Throat Stabber,刺喉刃,zh-CN
+Through Sacred Ground,梦中圣地,zh-CN
+Tibbs' Wealth,特卜斯的财宝,zh-CN
+Tolman's Bracelet,托尔曼的手镯,zh-CN
+Tomahawk,征战之斧,zh-CN
+Toward the Future,走向未来,zh-CN
+Tower Key,神塔之钥,zh-CN
+Trarthan Powder,特拉珊粉,zh-CN
+Tukohama's Tooth,图克哈玛之牙,zh-CN
+Tullina's Engagement Ring,图林娜的婚戒,zh-CN
+Tunnels,隧道,zh-CN
+Twisted Dreams,扭曲之梦,zh-CN
+Uncarved Gemstone,待雕琢的宝石,zh-CN
+Unearthing the Past,往日挖掘,zh-CN
+Valako's Jaw,瓦拉库之颚,zh-CN
+Vault Key,宝库钥匙,zh-CN
+Victario's Secrets,维多里奥的秘宝,zh-CN
+Vilenta's Vengeance,薇伦塔的复仇,zh-CN
+Viridi's Finger,维里迪之指,zh-CN
+Viscera Cauldron,脏腑之炉,zh-CN
+Vivid Rescue,活性救援,zh-CN
+Walnut Spirit Shield,桃木魔盾,zh-CN
+War for the Wildwood,荒林之争,zh-CN
+Web of Secrets,灾异之兆,zh-CN
+Widowsilk Robe,毒蛛丝之袍,zh-CN
+Wings of Vastiri,瓦斯提里之翼,zh-CN
+Wyrmscale Boots,地蝮鳞长靴,zh-CN
+Wyrmscale Gauntlets,蝮鳞手套,zh-CN
+Zealot Helmet,热战之盔,zh-CN
+Zodiac Leather,星辰皮甲,zh-CN
+Awakened Support Gems,Awakened Support Gems,zh-CN
+Skill bar,Skill bar,zh-CN
+Treasure Key,古铜钥匙,zh-CN
+Added Cold Damage Support,附加冰霜伤害(辅),zh-CN
+Agate Amulet,玛瑙护身符,zh-CN
+Agnerod East,东方雷霆圣杖,zh-CN
+Agnerod North,北方雷霆圣杖,zh-CN
+Agnerod South,南方雷霆圣杖,zh-CN
+Agnerod West,西方雷霆圣杖,zh-CN
+Ahkeli's Mountain,阿克莱的高山,zh-CN
+Amber Amulet,琥珀护身符,zh-CN
+Amethyst Flask,紫晶药剂,zh-CN
+Animate Weapon,幻化武器,zh-CN
+Apep's Slumber,艾普之梦,zh-CN
+Apep's Supremacy,艾普的霸权,zh-CN
+Arborix,阿伯瑞斯,zh-CN
+Architect's Hand,建筑师之手,zh-CN
+Astrolabe Amulet,星盘项链,zh-CN
+Beltimber Blade,芯木腰刀,zh-CN
+Berek's Grip,贝雷克的冰与雷之曲,zh-CN
+Berek's Pass,贝雷克的冰与火之歌,zh-CN
+Berek's Respite,贝雷克的火与雷之乐,zh-CN
+Bitterdream,苦梦,zh-CN
+Blessing of Chayula,夏乌拉的祝福,zh-CN
+Blessing of Esh,艾许的祝福,zh-CN
+Blessing of Tul,托沃的祝福,zh-CN
+Blessing of Uul-Netol,乌尔尼多的祝福,zh-CN
+Blessing of Xoph,索伏的祝福,zh-CN
+Blink Arrow,闪现射击,zh-CN
+Block Chance Reduction Support,减少格挡几率(辅),zh-CN
+Bone Spirit Shield,骨制魔盾,zh-CN
+Bonechill Support,彻骨（辅）,zh-CN
+Book of Reform,抉择之书,zh-CN
+Book of Regression,逆行之书,zh-CN
+Bound Rune,束缚符文,zh-CN
+Bounty Rune,富裕符文,zh-CN
+Breach Ring,裂隙戒指,zh-CN
+Brutal Restraint,残酷的约束,zh-CN
+Cameria's Avarice,卡美利亚之贪婪,zh-CN
+Cameria's Maul,卡美利亚之锤,zh-CN
+Chain Belt,扣链腰带,zh-CN
+Choir of the Storm,暴风之语,zh-CN
+Citrine Amulet,黄晶护身符,zh-CN
+Cold Penetration Support,冰霜穿透(辅),zh-CN
+Combat Focus,战斗专注,zh-CN
+Combustion Support,几率点燃(辅),zh-CN
+Concentrated Effect Support,集中效应(辅),zh-CN
+Coral Amulet,珊瑚护身符,zh-CN
+Coral Ring,珊瑚戒指,zh-CN
+Coward's Chains,懦夫之链,zh-CN
+Coward's Legacy,懦夫之遗,zh-CN
+Crimson Jewel,赤红珠宝,zh-CN
+Cryonic Ring,冰凝戒指,zh-CN
+Dance of the Offered,献祭舞鞋,zh-CN
+Dash,冲刺,zh-CN
+Dead Reckoning,死亡清算,zh-CN
+Deregulation Scroll,解除卷轴,zh-CN
+Discharge,解放,zh-CN
+Duskdawn,宵晓,zh-CN
+Electroshock Scroll,电击卷轴,zh-CN
+Elegant Hubris,优雅的狂妄,zh-CN
+Elegant Sword,贵族之剑,zh-CN
+Elemental Aegis,元素守护,zh-CN
+Elemental Hit,元素打击,zh-CN
+Elemental Penetration Support,元素穿透（辅）,zh-CN
+Endless Misery,无尽之苦,zh-CN
+Enthalpic Ring,炽能戒指,zh-CN
+Esh's Mirror,艾许之镜,zh-CN
+Esh's Visage,艾许之面,zh-CN
+Expedition Logbook,先祖秘藏日志,zh-CN
+Eye of Chayula,寻宝者的心眼,zh-CN
+Faminebind,饥荒之结,zh-CN
+Fate of the Vaal,瓦尔命运,zh-CN
+Feastbind,盛宴之结,zh-CN
+Fire Penetration Support,火焰穿透(辅),zh-CN
+Formless Ring,无形戒指,zh-CN
+Fragmentation Scroll,破碎卷轴,zh-CN
+Frostblink,冰霜闪现,zh-CN
+Fugitive Ring,逃亡戒指,zh-CN
+Glacial Hammer,冰霜之锤,zh-CN
+Glorious Vanity,光彩夺目,zh-CN
+Gold Amulet,帝金护身符,zh-CN
+Granite Flask,坚岩药剂,zh-CN
+Grasping Mail,扼杀链甲,zh-CN
+Grelwood Shank,韧木曲刃,zh-CN
+Haemocombustion Scroll,焚血卷轴,zh-CN
+Hand of Thought and Motion,思动之手,zh-CN
+Hand of Wisdom and Action,智行之手,zh-CN
+Heartbreaker,裂心刃,zh-CN
+Hypothermia Support,急冻(辅),zh-CN
+Hyrri's Bite,西里的嗜血之矢,zh-CN
+Ice Bite Support,霜咬(辅),zh-CN
+Ice Spear,冰矛,zh-CN
+Immolate Support,献祭(辅),zh-CN
+Innervate Support,闪电支配(辅),zh-CN
+Inscribed Ultimatum,贪婪战书,zh-CN
+Inspiration Support,启迪（辅）,zh-CN
+Invictus Solaris,耀日,zh-CN
+Iron Reflexes,霸体,zh-CN
+Iron Ring,锻铁戒指,zh-CN
+Jade Amulet,翠玉护身符,zh-CN
+Jade Flask,翠玉药剂,zh-CN
+Journey Rune,旅途符文,zh-CN
+Kingmaker,王者之刃,zh-CN
+Lapis Amulet,海玉护身符,zh-CN
+Lethal Pride,致命的骄傲,zh-CN
+Life Rune,生命符文,zh-CN
+Light of Lunaris,月影之耀,zh-CN
+Lightning Penetration Support,闪电穿透(辅),zh-CN
+Lightning Warp,闪电传送,zh-CN
+Loreweave,满溢之甲,zh-CN
+Lost Unity,失落归一,zh-CN
+Magna Eclipsis,坚毅之食,zh-CN
+Mask of the Spirit Drinker,饮魂者面罩,zh-CN
+Mask of the Stitched Demon,缝合恶魔面罩,zh-CN
+Militant Faith,好战的信仰,zh-CN
+Mirror Arrow,魅影射击,zh-CN
+Mountain Rune,崇山符文,zh-CN
+Omeyocan,至高天堂,zh-CN
+Onyx Amulet,黑曜护身符,zh-CN
+Orb of Horizons,平行石,zh-CN
+Organic Ring,有机戒指,zh-CN
+Paua Amulet,海灵护身符,zh-CN
+Paua Ring,海灵戒指,zh-CN
+Precursor's Emblem,先驱的纹章,zh-CN
+Presence of Chayula,夏乌拉之印,zh-CN
+Primordial Eminence,起源卓越,zh-CN
+Primordial Harmony,起源和谐,zh-CN
+Primordial Might,起源力量,zh-CN
+Prismatic Ring,三相戒指,zh-CN
+Puncture,放血,zh-CN
+Putembo's Valley,普藤博的山谷,zh-CN
+Quicksilver Flask,水银药剂,zh-CN
+Rain of Arrows,箭雨,zh-CN
+Replica Bitterdream,苦梦【仿品】,zh-CN
+River Rune,河川符文,zh-CN
+Ruby Flask,红玉药剂,zh-CN
+Ruby Ring,红玉戒指,zh-CN
+Rustic Sash,素布腰带,zh-CN
+Sacrificial Heart,祭祀之心,zh-CN
+Sanctified Relic,圣洁遗物,zh-CN
+Sapphire Flask,蓝玉药剂,zh-CN
+Sapphire Ring,蓝玉戒指,zh-CN
+Second Wind Support,助力之风（辅）,zh-CN
+Severed in Sleep,离异梦寐,zh-CN
+Shade of Solaris,日耀之影,zh-CN
+Sharktooth Arrow Quiver,鲨齿箭袋,zh-CN
+Skin of the Lords,君主之肤,zh-CN
+Skin of the Loyal,忠诚之肤,zh-CN
+Slavedriver's Hand,奴隶贩子之手,zh-CN
+Soul Catcher,捕魂者,zh-CN
+Soul Ripper,裂魂者,zh-CN
+Soul Taker,开膛斧,zh-CN
+Specularity Scroll,光棱卷轴,zh-CN
+Spirit Guards,精神守护,zh-CN
+Star of Wraeclast,瓦尔克拉斯之星,zh-CN
+Story of the Vaal,瓦尔传说,zh-CN
+Summon Skeletons,召唤魔侍,zh-CN
+Sun Rune,太阳符文,zh-CN
+Synaptic Ring,突触戒指,zh-CN
+Tempered Flesh,淬火之躯,zh-CN
+Tempered Mind,淬火之心,zh-CN
+Tempered Spirit,淬火之魂,zh-CN
+The Anima Stone,聚魂石,zh-CN
+The Anticipation,悬念,zh-CN
+The Blue Dream,碧影梦境,zh-CN
+The Blue Nightmare,碧影梦魇,zh-CN
+The Enmity Divine,圣恶之喻,zh-CN
+The Flow Untethered,流逝之时,zh-CN
+The Formless Flame,无形火炬,zh-CN
+The Formless Inferno,无形炼狱,zh-CN
+The Fracturing Spinner,爆裂之射,zh-CN
+The Goddess Bound,女神的灵缚,zh-CN
+The Goddess Scorned,女神的怒炎,zh-CN
+The Green Dream,青影梦境,zh-CN
+The Green Nightmare,青影梦魇,zh-CN
+The Halcyon,太平,zh-CN
+The Immortal Will,不朽意志,zh-CN
+The Infinite Pursuit,无尽之距,zh-CN
+The Pandemonius,群魔殿,zh-CN
+The Perfect Form,完美姿态,zh-CN
+The Red Dream,赤影梦境,zh-CN
+The Red Nightmare,赤影梦魇,zh-CN
+The Red Trail,赤红踪迹,zh-CN
+The Retch,呕吐,zh-CN
+The Rippling Thoughts,秘法君临,zh-CN
+The Shattered Divinity,神性破碎,zh-CN
+The Snowblind Grace,雪盲恩惠,zh-CN
+The Sundered Will,崩解意志,zh-CN
+The Surging Thoughts,思想奔流,zh-CN
+The Surrender,降伏,zh-CN
+The Taming,元素之章,zh-CN
+The Tempest's Binding,风暴拘束,zh-CN
+The Tempest's Liberation,风雪释放,zh-CN
+The Torrent's Reclamation,沧海桑田,zh-CN
+The Unshattered Will,不屈之志,zh-CN
+The Vinktar Square,维克塔广场,zh-CN
+The Will of Esh,艾许的意志,zh-CN
+The Will of Tul,托沃的意志,zh-CN
+The Will of Uul-Netol,乌尔尼多的意志,zh-CN
+The Will of Xoph,索伏的意志,zh-CN
+The Yielding Mortality,死亡屈服,zh-CN
+Time Rune,时光符文,zh-CN
+Time-light Scroll,时光卷轴,zh-CN
+Topaz Flask,黄玉药剂,zh-CN
+Topaz Ring,黄玉戒指,zh-CN
+Transcendent Flesh,升华之躯,zh-CN
+Transcendent Mind,升华之心,zh-CN
+Transcendent Spirit,升华之魂,zh-CN
+Tulborn,托沃崩,zh-CN
+Tulfall,托沃卧,zh-CN
+Turquoise Amulet,青玉护身符,zh-CN
+Two-Stone Ring,双玉戒指,zh-CN
+Unbound Ailments Support,异常爆发(辅),zh-CN
+United in Dream,合流梦寐,zh-CN
+Uul-Netol's Embrace,乌尔尼多的拥抱,zh-CN
+Uul-Netol's Kiss,乌尔尼多之吻,zh-CN
+Uzaza's Meadow,乌扎萨的草原,zh-CN
+Vaults of Atziri,阿兹里的秘宝库,zh-CN
+Vial of Awakening,觉醒魔瓶,zh-CN
+Vial of Consequence,结论魔瓶,zh-CN
+Vial of Dominance,统御魔瓶,zh-CN
+Vial of Fate,命运魔瓶,zh-CN
+Vial of Sacrifice,献祭魔瓶,zh-CN
+Vial of Summoning,召唤魔瓶,zh-CN
+Vial of the Ghost,鬼魂魔瓶,zh-CN
+Vial of the Ritual,仪祭魔瓶,zh-CN
+Vial of Transcendence,超越魔瓶,zh-CN
+Vix Lunaris,影月,zh-CN
+Voice of the Storm,暴风之言,zh-CN
+War Rune,战争符文,zh-CN
+Xoph's Blood,索伏之血,zh-CN
+Xoph's Heart,索伏之心,zh-CN
+Xoph's Inception,索伏的始源,zh-CN
+Xoph's Nurture,索伏的爱抚,zh-CN
+Zerphi's Heart,泽佛伊之心,zh-CN
+Endgame,终局,zh-CN
+Tier,阶级,zh-CN
+Chain,连锁,zh-CN
+Fork,分裂,zh-CN
+Pierce,穿透,zh-CN
+Return,返回,zh-CN
+Totem,图腾,zh-CN
+Trap,陷阱,zh-CN
+Energy Shield Leech,能量护盾偷取,zh-CN
+Life Leech,生命偷取,zh-CN
+Mana Leech,魔力偷取,zh-CN
+Recharge,充能回复,zh-CN
+Recoup,补偿回复,zh-CN
+Recovery,回复,zh-CN
+Regeneration,再生,zh-CN
+Life,生命,zh-CN
+Mana,魔力,zh-CN
+Rage,怒火,zh-CN
+Reservation,保留,zh-CN
+Spirit,精魂,zh-CN
+Active Skill,主动技能,zh-CN
+Area of Effect,范围效果,zh-CN
+Aura,光环,zh-CN
+Banner,旗帜,zh-CN
+Brand,烙印,zh-CN
+Channelling,吟唱,zh-CN
+Guard Skill,防护技能,zh-CN
+Herald,捷,zh-CN
+Mine,地雷,zh-CN
+Minion,召唤生物,zh-CN
+Slam,猛击,zh-CN
+Strike,打击,zh-CN
+Travel,位移,zh-CN
+Vaal Skill,瓦尔技能,zh-CN
+Warcry,战吼,zh-CN
+Guild,公会,zh-CN
+Party,队伍,zh-CN
+Attack Speed,攻击速度,zh-CN
+Attacks per Second,每秒攻击次数,zh-CN
+Additional,附加,zh-CN
+Increased,提高,zh-CN
+Less,总降,zh-CN
+More,总增,zh-CN
+Nearby,周围,zh-CN
+Recently,近期内,zh-CN
+Reduced,降低,zh-CN
+Buff,增益效果,zh-CN
+Debuff,减益效果,zh-CN
+Stash,仓库,zh-CN
+Buyout,一口价,zh-CN
+Want To Buy,收购,zh-CN
+Want To Sell,出售,zh-CN
+Want To Trade,交换,zh-CN
+Cast on Critical Strike,暴击时施放,zh-CN
+Axe,斧,zh-CN
+Bow,弓,zh-CN
+Claw,爪,zh-CN
+Crossbow,弩,zh-CN
+Dagger,匕首,zh-CN
+Flail,链枷,zh-CN
+Mace,锤,zh-CN
+Quarterstaff,战杖,zh-CN
+Sceptre,权杖,zh-CN
+Spear,矛,zh-CN
+Staff,长杖,zh-CN
+Sword,剑,zh-CN
+Wand,法杖,zh-CN
+Area,区域,zh-CN
+Hideout,藏身处,zh-CN
+Portal,传送门,zh-CN
+Town,城镇,zh-CN
+Waypoint,传送点,zh-CN

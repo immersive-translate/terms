@@ -1,0 +1,33 @@
+{
+  "id": "path-of-exile",
+  "name": "Path of Exile",
+  "description": "Specialized in translating Path of Exile and Path of Exile 2 terminology, including game mechanics, items, skills, modifiers, community shorthand, and related proper nouns.",
+  "author": "hujin",
+  "glossary": "path-of-exile",
+  "matches": [
+    "*.pathofexile.com",
+    "*.pathofexile2.com",
+    "*.poewiki.net",
+    "*.poe2wiki.net",
+    "*.poedb.tw",
+    "*.poe2db.info"
+  ],
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "流放之路",
+      "description": "流放之路与流放之路 2 术语库，包含游戏机制、物品、技能、词缀、社区缩写和相关专有名词的简体中文翻译。"
+    },
+    "zh-TW": {
+      "name": "流亡黯道",
+      "description": "流亡黯道與流亡黯道 2 術語庫，包含遊戲機制、物品、技能、詞綴、社群縮寫和相關專有名詞的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Path of Exile",
+      "description": "Specialized in translating Path of Exile and Path of Exile 2 terminology, including game mechanics, items, skills, modifiers, community shorthand, and related proper nouns."
+    }
+  }
+}
