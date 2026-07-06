@@ -1,8 +1,8 @@
 {
   "id": "medical-dermatology-venereology",
   "name": "Medical - Dermatology and Venereology",
-  "description": "Dermatology and venereology glossary based on the Chinese-English term index of Dermatology and Venereology (10th Edition).",
-  "author": "immersive",
+  "description": "Medical glossary derived from the Chinese-English term index of Dermatology and Venereology (10th Edition). Source/version: Dermatology and Venereology, 10th Edition.",
+  "author": "ChungkeLee",
   "glossary": "medical-dermatology-venereology",
   "langs": [
     "zh-CN"
@@ -10,11 +10,11 @@
   "i18ns": {
     "zh-CN": {
       "name": "医学-皮肤性病学",
-      "description": "医学-皮肤性病学术语库，包含皮肤性病学相关中英文术语。"
+      "description": "医学-皮肤性病学术语库，基于《皮肤性病学（第10版）》中英文名词对照索引整理。（去除缩写避免错误翻译）"
     },
     "en": {
       "name": "Medical - Dermatology and Venereology",
-      "description": "Dermatology and venereology glossary based on the Chinese-English term index of Dermatology and Venereology (10th Edition)."
+      "description": "Medical glossary derived from the Chinese-English term index of Dermatology and Venereology (10th Edition). Source/version: Dermatology and Venereology, 10th Edition.(Remove abbreviations to avoid mistranslation)"
     }
   }
 }

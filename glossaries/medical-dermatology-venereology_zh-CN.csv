@@ -1,22 +1,16 @@
 source,target,tgt_lng
 308-nm excimer light/laser,308nm 准分子光/激光,zh-CN
 5-aminolevulinic acid,5-氨基酮戊酸,zh-CN
-ALA,5-氨基酮戊酸,zh-CN
 Bowen disease,Bowen 病,zh-CN
 C1 esterase inhibitor,C1 酯酶抑制物,zh-CN
-C1INH,C1 酯酶抑制物,zh-CN
 IgA vasculitis,IgA 血管炎,zh-CN
 Kaposi varicelliform eruption,Kaposi 水痘样疹,zh-CN
 Mohs micrographic surgery,Mohs 显微描记手术,zh-CN
 Paget disease,Paget 病,zh-CN
 Stevens-Johnson syndrome,Stevens-Johnson 综合征,zh-CN
-SJS,Stevens-Johnson 综合征,zh-CN
 Toll-like receptor 2,Toll 样受体-2,zh-CN
-TLR-2,Toll 样受体-2,zh-CN
 Toll-like receptor 4,Toll 样受体-4,zh-CN
-TLR-4,Toll 样受体-4,zh-CN
 T cell receptor,T 细胞受体,zh-CN
-TCR,T 细胞受体,zh-CN
 X-linked ichthyosis,X-连锁鱼鳞病,zh-CN
 β-carotene,β-胡萝卜素,zh-CN
 adapalene,阿达帕林,zh-CN
@@ -28,14 +22,12 @@ vitiligo,白癜风,zh-CN
 Behcet disease,白塞病,zh-CN
 atrophie blanche,白色萎缩,zh-CN
 interleukin,白细胞介素,zh-CN
-IL,白细胞介素,zh-CN
 white ringworm,白癣,zh-CN
 plaque,斑块,zh-CN
 patch,斑片,zh-CN
 maculopapule,斑丘疹,zh-CN
 patch test,斑贴试验,zh-CN
 alopecia areata,斑秃,zh-CN
-AA,斑秃,zh-CN
 macule,斑疹,zh-CN
 plakoglobin,斑珠蛋白,zh-CN
 macular amyloidosis,斑状淀粉样变,zh-CN
@@ -48,40 +40,32 @@ lamellar ichthyosis,板层状鱼鳞病,zh-CN
 hapten,半抗原,zh-CN
 hemidesmosome,半桥粒,zh-CN
 drug reaction with eosinophilia and systemic symptoms,伴嗜酸性粒细胞增多和系统症状的药疹,zh-CN
-DRESS,伴嗜酸性粒细胞增多和系统症状的药疹,zh-CN
 livedo reticularis with summer/winter ulceration,伴夏季/冬季溃疡的网状青斑,zh-CN
 sporotrichosis,孢子丝菌病,zh-CN
 fulminant acne,暴发性痤疮,zh-CN
 post-exposure prophylaxis,暴露后预防,zh-CN
-PEP,暴露后预防,zh-CN
 diphenhydramine,苯海拉明,zh-CN
 plane xanthoma,扁平黄瘤,zh-CN
 condyloma latum,扁平湿疣,zh-CN
 lichen planus,扁平苔藓,zh-CN
-LP,扁平苔藓,zh-CN
 verruca plana,扁平疣,zh-CN
 allergic contact dermatitis,变应性接触性皮炎,zh-CN
-epidermis 7,表皮,zh-CN
-epidermal melanin unit 9,表皮黑素单位,zh-CN
+epidermis,表皮,zh-CN
+epidermal melanin unit,表皮黑素单位,zh-CN
 allylamine,丙烯胺类,zh-CN
 syndromic management,病征管理,zh-CN
 drug-induced exfoliative dermatitis,剥脱性皮炎型药疹,zh-CN
 disseminated herpes zoster,播散性带状疱疹,zh-CN
 disseminated DLE,播散性盘状红斑狼疮,zh-CN
-DDLE,播散性盘状红斑狼疮,zh-CN
 psoralen-ultraviolet A,补骨脂素光化学疗法,zh-CN
-PUVA,补骨脂素光化学疗法,zh-CN
 unheated serum reagin test,不加热血清反应素试验,zh-CN
-USR,不加热血清反应素试验,zh-CN
 acrodermatitis enteropathica,肠病性肢端皮炎,zh-CN
 autosomal dominant inheritance,常染色体显性遗传,zh-CN
-AD,常染色体显性遗传,zh-CN
 autosomal recessive inheritance,常染色体隐性遗传,zh-CN
-AR,常染色体隐性遗传,zh-CN
 prurigo adultorum,成人痒疹,zh-CN
 insect bite dermatitis,虫咬皮炎,zh-CN
 cimicosis,臭虫叮咬,zh-CN
-f irst episode type,初发型,zh-CN
+first episode type,初发型,zh-CN
 molluscum contagiosum,传染性软疣,zh-CN
 infectious eczematoid dermatitis,传染性湿疹样皮炎,zh-CN
 irritant contact dermatitis,刺激性接触性皮炎,zh-CN
@@ -90,20 +74,15 @@ acne,痤疮,zh-CN
 acneiform drug eruption,痤疮型药疹,zh-CN
 drug-induced bullosa epidermolysis,大疱性表皮松解型药疹,zh-CN
 bullous pemphigoid,大疱性类天疱疮,zh-CN
-BP,大疱性类天疱疮,zh-CN
 impetigo bullosa,大疱性脓疱疮,zh-CN
 bullous dermatosis,大疱性皮肤病,zh-CN
 herpes zoster,带状疱疹,zh-CN
 postherpetic neuralgia,带状疱疹后神经痛,zh-CN
-PHN,带状疱疹后神经痛,zh-CN
 zoster-associated pain,带状疱疹相关疼痛,zh-CN
-ZAP,带状疱疹相关疼痛,zh-CN
 erysipelas,丹毒,zh-CN
 herpes simplex,单纯疱疹,zh-CN
 herpes simplex virus,单纯疱疹病毒,zh-CN
-HSV,单纯疱疹病毒,zh-CN
 epidermolysis bullosa simplex,单纯型大疱性表皮松解症,zh-CN
-EBS,单纯型大疱性表皮松解症,zh-CN
 proteoglycan,蛋白多糖,zh-CN
 frontoparietal,刀砍状硬斑病,zh-CN
 skin puncture test,点刺试验,zh-CN
@@ -118,50 +97,39 @@ apocrine sweat gland,顶泌汗腺,zh-CN
 pruritus hiemalis,冬季瘙痒症,zh-CN
 pernio,冻疮,zh-CN
 chilblain lupus erythematosus,冻疮样红斑狼疮,zh-CN
-CHLE,冻疮样红斑狼疮,zh-CN
-loricrin 8,兜甲蛋白,zh-CN
+loricrin,兜甲蛋白,zh-CN
 multibacillary,多菌型,zh-CN
-MB,多菌型,zh-CN
 polyene,多烯类药物,zh-CN
 erythema multiforme,多形红斑,zh-CN
-EM,多形红斑,zh-CN
 erythema multiforme drug eruption,多形红斑型药疹,zh-CN
 polymorphous sun light eruption,多形性日光疹,zh-CN
 malignant erythema,恶性红斑,zh-CN
 malignant lentiginous melanoma,恶性雀斑痣样黑素瘤,zh-CN
 herpes zoster oticus,耳带状疱疹,zh-CN
 dimethyl sulfoxide,二甲亚砜,zh-CN
-DMSO,二甲亚砜,zh-CN
 secondary syphilis,二期梅毒,zh-CN
 exanthematous drug eruption,发疹型药疹,zh-CN
 eruptive xanthoma,发疹性黄瘤,zh-CN
 famotidine,法莫替丁,zh-CN
 ref lectance confocal microscopy,反射式共聚焦显微镜,zh-CN
-RCM,反射式共聚焦显微镜,zh-CN
 arotinoid,芳香维 A 酸,zh-CN
 sun protection factor,防晒指数,zh-CN
-SPF,防晒指数,zh-CN
 radiotherapy,放射疗法,zh-CN
 radiodermatitis,放射性皮炎,zh-CN
 nongonococcal urethritis,非淋菌性尿道炎,zh-CN
-NGU,非淋菌性尿道炎,zh-CN
 hypertrophic scar,肥厚性/增生性瘢痕,zh-CN
 miliaria,痱子,zh-CN
 powder,粉剂,zh-CN
 wheal,风团,zh-CN
 cellulitis,蜂窝织炎,zh-CN
 bee sting,蜂蜇伤,zh-CN
-f lucytosine,氟胞嘧啶,zh-CN
-f luconazole,氟康唑,zh-CN
+flucytosine,氟胞嘧啶,zh-CN
+fluconazole,氟康唑,zh-CN
 recurrent type,复发型,zh-CN
 interferon,干扰素,zh-CN
-IFN,干扰素,zh-CN
 dry skin,干性皮肤,zh-CN
-D,干性皮肤,zh-CN
 highly active antiretroviral therapy,高效抗逆转录病毒治疗,zh-CN
-HAART,高效抗逆转录病毒治疗,zh-CN
 glutathione-S-transferase,谷胱甘肽-S-转移酶,zh-CN
-GST,谷胱甘肽-S-转移酶,zh-CN
 grain itch,谷痒症,zh-CN
 tinea cruris,股癣,zh-CN
 osseous syphilis,骨梅毒,zh-CN
@@ -169,16 +137,13 @@ f ixed drug eruption,固定型药疹,zh-CN
 psoriasis arthropathica,关节病型银屑病,zh-CN
 photoallergy,光超敏反应,zh-CN
 photodynamic therapy,光动力疗法,zh-CN
-PDT,光动力疗法,zh-CN
 phototoxicity,光毒性反应,zh-CN
 photosensitive drug eruption,光感性药疹,zh-CN
 actinic keratosis,光线性角化病,zh-CN
 optical coherence tomography,光学相干断层扫描成像,zh-CN
-OCT,光学相干断层扫描成像,zh-CN
 periodic acid Schiff stain,过碘酸希夫染色,zh-CN
 anaphylactoid purpura,过敏性紫癜,zh-CN
 catalase,过氧化氢酶,zh-CN
-CAT,过氧化氢酶,zh-CN
 Hutchinson teeth,哈钦森牙,zh-CN
 spongiosis,海绵形成,zh-CN
 hemoporf in,海姆泊芬,zh-CN
@@ -187,11 +152,10 @@ pompholyx,汗疱疹,zh-CN
 black-dot ringworm,黑点癣,zh-CN
 melanin,黑素,zh-CN
 melanoma,黑素瘤,zh-CN
-melanocyte 8,黑素细胞,zh-CN
-melanosome 9,黑素小体,zh-CN
+melanocyte,黑素细胞,zh-CN
+melanosome,黑素小体,zh-CN
 Henoch-Schönlein purpura,亨-许紫癜,zh-CN
 lupus erythematosus,红斑狼疮,zh-CN
-LE,红斑狼疮,zh-CN
 pemphigus erythematosus,红斑型天疱疮,zh-CN
 psoriatic erythroderma,红皮病型银屑病,zh-CN
 miliaria rubra,红色粟粒疹,zh-CN
@@ -204,51 +168,39 @@ chemexfoliation,化学剥脱术,zh-CN
 chemical peel treatments,化学换肤术,zh-CN
 cosmetics,化妆品,zh-CN
 pyoderma gangrenosum,坏疽性脓皮病,zh-CN
-PG,坏疽性脓皮病,zh-CN
 ciclosporin,环孢素,zh-CN
-CsA,环孢素,zh-CN
 cyclophosphamide,环磷酰胺,zh-CN
-CTX,环磷酰胺,zh-CN
 melasma,黄褐斑,zh-CN
 xanthomatosis,黄瘤病,zh-CN
 tinea favosa,黄癣,zh-CN
 griseofulvin,灰黄霉素,zh-CN
 mixed skin,混合性皮肤,zh-CN
-acquired immunodef iciency syndrome,获得性免疫缺陷综合征,zh-CN
-AIDS,获得性免疫缺陷综合征,zh-CN
+acquired immunodeficiency syndrome,获得性免疫缺陷综合征,zh-CN
 clavus,鸡眼,zh-CN
-stratum basale 8,基底层,zh-CN
+stratum basale,基底层,zh-CN
 basement membrane zone,基底膜带,zh-CN
-BMZ,基底膜带,zh-CN
 basal cell carcinoma,基底细胞癌,zh-CN
-BCC,基底细胞癌,zh-CN
 liquefaction of basal cells,基底细胞液化变性,zh-CN
 matrix,基质,zh-CN
 laser,激光,zh-CN
 acute guttate psoriasis,急性点滴状银屑病,zh-CN
 acute febrile neutrophilic dermatosis,急性发热性嗜中性皮病,zh-CN
 acute generalized exanthematous pustulosis,急性泛发性发疹性脓疱病,zh-CN
-AGEP,急性泛发性发疹性脓疱病,zh-CN
 acute cutaneous lupus erythematosus,急性皮肤型红斑狼疮,zh-CN
-ACLE,急性皮肤型红斑狼疮,zh-CN
-stratum spinosum 8,棘层,zh-CN
+stratum spinosum,棘层,zh-CN
 acanthosis,棘层肥厚,zh-CN
 acantholysis,棘层松解,zh-CN
 colony-stimulating factor,集落刺激因子,zh-CN
-CSF,集落刺激因子,zh-CN
 secondary onychomycosis,继发性甲真菌病,zh-CN
 secondary lesion,继发性皮损,zh-CN
 crust,痂,zh-CN
 familial benign chronic pemphigus,家族性良性慢性天疱疮,zh-CN
 nail,甲,zh-CN
 methotrexate,甲氨蝶呤,zh-CN
-MTX,甲氨蝶呤,zh-CN
 nail plate,甲板,zh-CN
 endonyx onychomycosis,甲板内型甲真菌病,zh-CN
-EO,甲板内型甲真菌病,zh-CN
 nail lunula,甲半月,zh-CN
 toluidine red unheated serum test,甲苯胺红不加热血清试验,zh-CN
-TRUST,甲苯胺红不加热血清试验,zh-CN
 nail bed,甲床,zh-CN
 nail root,甲根,zh-CN
 nail wall,甲廓,zh-CN
@@ -259,23 +211,19 @@ onychomycosis,甲真菌病,zh-CN
 periungual wart,甲周疣,zh-CN
 pseudoepitheliomatous hyperplasia,假上皮瘤样增生,zh-CN
 condyloma acuminatum,尖锐湿疣,zh-CN
-CA,尖锐湿疣,zh-CN
 indirect immunofluorescence,间接免疫荧光,zh-CN
-IIF,间接免疫荧光,zh-CN
 necrobiosis,渐进性坏死,zh-CN
 calcitonin gene-related peptide,降钙素基因相关肽,zh-CN
-CGRP,降钙素基因相关肽,zh-CN
 junctional epidermolysis bullosa,交界型大疱性表皮松解症,zh-CN
-JEB,交界型大疱性表皮松解症,zh-CN
 collagen f ibers,胶原纤维,zh-CN
 collagen f ibril,胶原原纤维,zh-CN
-keratin 8,角蛋白,zh-CN
-keratin f ilament 8,角蛋白纤维,zh-CN
+keratin,角蛋白,zh-CN
+keratin filament,角蛋白纤维,zh-CN
 dyskeratosis,角化不良,zh-CN
 parakeratosis,角化不全,zh-CN
 hyperkeratosis,角化过度,zh-CN
-stratum corneum 8,角质层,zh-CN
-keratinocyte 8,角质形成细胞,zh-CN
+stratum corneum,角质层,zh-CN
+keratinocyte,角质形成细胞,zh-CN
 horn pearl,角珠,zh-CN
 furuncle,疖,zh-CN
 furunculosis,疖病,zh-CN
@@ -285,7 +233,6 @@ incubation herpes,接种性疱疹,zh-CN
 segmental hyalinizing vasculitis,节段透明性血管炎,zh-CN
 connective tissue disease,结缔组织病,zh-CN
 tuberculoid leprosy,结核样型麻风,zh-CN
-TT,结核样型麻风,zh-CN
 nodule,结节,zh-CN
 nodular melanoma,结节性黑素瘤,zh-CN
 erythema nodosum,结节性红斑,zh-CN
@@ -294,34 +241,27 @@ nodular syphilid,结节性梅毒疹,zh-CN
 prurigo nodularis,结节性痒疹,zh-CN
 scabies,疥疮,zh-CN
 proximal subungual onychomycosis,近端甲下型甲真菌病,zh-CN
-PSO,近端甲下型甲真菌病,zh-CN
 maceration,浸渍,zh-CN
 transepidermal water loss,经皮水分丢失,zh-CN
-TEWL,经皮水分丢失,zh-CN
 miliaria crystallina,晶形粟粒疹,zh-CN
 venous malformation,静脉畸形,zh-CN
 human immunoglobulin for intravenous injection,静脉注射用人免疫球蛋白,zh-CN
-IVIG,静脉注射用人免疫球蛋白,zh-CN
 limited systemic scleroderma,局限性系统性硬皮病,zh-CN
-lSSc,局限性系统性硬皮病,zh-CN
 localized scleroderma,局限性硬皮病,zh-CN
 polymerase chain reaction,聚合酶链式反应,zh-CN
-PCR,聚合酶链式反应,zh-CN
 acne conglobata,聚合性痤疮,zh-CN
 Kaposi sarcoma,卡波西肉瘤,zh-CN
 Bacillus Calmette-Guérin vaccine,卡介苗,zh-CN
-BCG,卡介苗,zh-CN
 antihistamines,抗组胺药,zh-CN
-stratum granulosum 8,颗粒层,zh-CN
+stratum granulosum,颗粒层,zh-CN
 hypergranulosis,颗粒层增厚,zh-CN
 clotrimazole,克霉唑,zh-CN
 oral candidiasis,口腔念珠菌病,zh-CN
 rapid plasma reagin test,快速血浆反应素环状卡片试验,zh-CN
-RPR,快速血浆反应素环状卡片试验,zh-CN
 ulcer,溃疡,zh-CN
 pull test,拉发试验,zh-CN
 LE panniculitis,狼疮性脂膜炎,zh-CN
-Langerhans cell 9,朗格汉斯细胞,zh-CN
+Langerhans cell,朗格汉斯细胞,zh-CN
 pruritus senilis,老年瘙痒症,zh-CN
 tripterygium glycosides,雷公藤多苷,zh-CN
 ranitidine,雷尼替丁,zh-CN
@@ -331,31 +271,24 @@ bifonazole,联苯苄唑,zh-CN
 amphotericin B,两性霉素 B,zh-CN
 f issure,裂隙,zh-CN
 lymphatic malformation,淋巴管畸形,zh-CN
-LM,淋巴管畸形,zh-CN
 scale,鳞屑,zh-CN
 squamous cell carcinoma,鳞状细胞癌,zh-CN
-SCC,鳞状细胞癌,zh-CN
 foscarnet,膦甲酸,zh-CN
 azathioprine,硫唑嘌呤,zh-CN
-AZA,硫唑嘌呤,zh-CN
 lepromatous leprosy,瘤型麻风,zh-CN
-LL,瘤型麻风,zh-CN
 infundibulum,漏斗部,zh-CN
 pemphigus foliaceus,落叶型天疱疮,zh-CN
 pemphigus foliaceus antigen,落叶型天疱疮抗原,zh-CN
-PFA,落叶型天疱疮抗原,zh-CN
 chlorphenamine,氯苯那敏,zh-CN
 leprosy,麻风,zh-CN
 lepra reaction,麻风反应,zh-CN
 morbilliform drug eruption or scarlatiniform drug eruption,麻疹型或猩红热型药疹,zh-CN
 Malassezia folliculitis,马拉色菌毛囊炎,zh-CN
 mycophenolate mofetil,吗替麦考酚酯,zh-CN
-MMF,吗替麦考酚酯,zh-CN
 vascular malformation,脉管畸形,zh-CN
 mite dermatitis,螨虫皮炎,zh-CN
 lichen simplex chronicus,慢性单纯性苔藓,zh-CN
 chronic cutaneous lupus erythematosus,慢性皮肤型红斑狼疮,zh-CN
-CCLE,慢性皮肤型红斑狼疮,zh-CN
 caterpillar dermatitis,毛虫皮炎,zh-CN
 hair,毛发,zh-CN
 keratosis pilaris,毛发角化病,zh-CN
@@ -365,38 +298,31 @@ hair shaft,毛干,zh-CN
 hair root,毛根,zh-CN
 hair follicles,毛囊,zh-CN
 follicular unit transplantation,毛囊单位移植术,zh-CN
-FUT,毛囊单位移植术,zh-CN
 follicular unit extraction,毛囊单位钻取术,zh-CN
-FUE,毛囊单位钻取术,zh-CN
 folliculitis,毛囊炎,zh-CN
 hair bulb,毛球,zh-CN
 hair papilla,毛乳头,zh-CN
 capillary malformation,毛细血管畸形,zh-CN
 telangiectasis,毛细血管扩张,zh-CN
 perifollicular keratosis,毛周角化病,zh-CN
-anchoring f ilament,锚丝,zh-CN
+anchoring filament,锚丝,zh-CN
 anchoring f ibril,锚原纤维,zh-CN
 rosacea,玫瑰痤疮,zh-CN
 pityriasis rosea,玫瑰糠疹,zh-CN
 syphilis,梅毒,zh-CN
 treponema pallidum particle agglutination test,梅毒螺旋体颗粒凝集试验,zh-CN
-TPPA,梅毒螺旋体颗粒凝集试验,zh-CN
 treponema pallidum hemagglutination assay,梅毒螺旋体血凝试验,zh-CN
-TPHA,梅毒螺旋体血凝试验,zh-CN
 syphilitic rhinitis,梅毒性鼻炎,zh-CN
 syphilitic gumma,梅毒性树胶肿,zh-CN
 syphilitic alopecia,梅毒性秃发,zh-CN
-Merkel cell 9,梅克尔细胞,zh-CN
-Merkel cell-neurite complex 9,梅克尔细胞-轴突复合体,zh-CN
+Merkel cell,梅克尔细胞,zh-CN
+Merkel cell-neurite complex,梅克尔细胞-轴突复合体,zh-CN
 enzyme linked immunosorbent assay,酶联免疫吸附测定,zh-CN
-ELISA,酶联免疫吸附测定,zh-CN
 mycophenolic acid,霉酚酸,zh-CN
-MPA,霉酚酸,zh-CN
 cosmetic dermatology,美容皮肤科学,zh-CN
 heleidae bite,蠓叮咬,zh-CN
 miconazole,咪康唑,zh-CN
 diffuse systemic scleroderma,弥漫性系统性硬皮病,zh-CN
-dSSc,弥漫性系统性硬皮病,zh-CN
 diffuse palmoplantar keratoderma,弥漫性掌跖角化病,zh-CN
 erosion,糜烂,zh-CN
 immunologically competent cell,免疫潜能细胞,zh-CN
@@ -417,12 +343,11 @@ psoriasis pustulosa,脓疱型银屑病,zh-CN
 miliaria pustulosa,脓疱性粟粒疹,zh-CN
 kerion,脓癣,zh-CN
 discoid lupus erythematosus,盘状红斑狼疮,zh-CN
-DLE,盘状红斑狼疮,zh-CN
 herpetic whitlow,疱疹性瘭疽,zh-CN
 eczema herpeticum,疱疹性湿疹,zh-CN
 herpetic gingivostomatitis,疱疹性龈口炎,zh-CN
 spray,喷雾剂,zh-CN
-skin 7,皮肤,zh-CN
+skin,皮肤,zh-CN
 cutaneous appendages,皮肤附属器,zh-CN
 diseases of skin appendages,皮肤附属器疾病,zh-CN
 calcinosis,皮肤钙沉着,zh-CN
@@ -431,21 +356,18 @@ tuberculosis cutis,皮肤结核病,zh-CN
 dermoscopy,皮肤镜,zh-CN
 skin immune system,皮肤免疫系统,zh-CN
 dermabrasion,皮肤磨削术,zh-CN
-dermatof ibroma,皮肤纤维瘤,zh-CN
+dermatofibroma,皮肤纤维瘤,zh-CN
 cutaneous small vessel vasculitis,皮肤小血管炎,zh-CN
-CSVV,皮肤小血管炎,zh-CN
 cutaneous lupus erythematosus,皮肤型红斑狼疮,zh-CN
-CLE,皮肤型红斑狼疮,zh-CN
 dermatophyte,皮肤癣菌,zh-CN
 dermatophytosis,皮肤癣菌病,zh-CN
 cutaneous vasculitis,皮肤血管炎,zh-CN
 skin transplantation,皮肤移植术,zh-CN
 poikiloderma,皮肤异色病,zh-CN
 dermatopathology,皮肤组织病理学,zh-CN
-skin grooves 7,皮沟,zh-CN
+skin grooves,皮沟,zh-CN
 dermatomyositis,皮肌炎,zh-CN
-DM,皮肌炎,zh-CN
-skin ridges 7,皮嵴,zh-CN
+skin ridges,皮嵴,zh-CN
 cutaneous horn,皮角,zh-CN
 intracutaneous test,皮内试验,zh-CN
 subcutaneous tissue,皮下组织,zh-CN
@@ -453,12 +375,9 @@ sebaceous glands,皮脂腺,zh-CN
 sebaceous nevus,皮脂腺痣,zh-CN
 tick bite,蜱叮咬,zh-CN
 borderline tuberculoid leprosy,偏结核样型界线类麻风,zh-CN
-BT,偏结核样型界线类麻风,zh-CN
 borderline lepromatous leprosy,偏瘤型界线类麻风,zh-CN
-BL,偏瘤型界线类麻风,zh-CN
 callus,胼胝,zh-CN
 staphylococcal scalded skin syndrome,葡萄球菌烫伤样皮肤综合征,zh-CN
-SSSS,葡萄球菌烫伤样皮肤综合征,zh-CN
 ordinary drug eruptions,普通药疹,zh-CN
 alopecia universalis,普秃,zh-CN
 ballooning degeneration,气球样变性,zh-CN
@@ -466,12 +385,10 @@ aerosol,气雾剂,zh-CN
 prezone phenomenon,前带现象,zh-CN
 latent syphilis,潜伏梅毒,zh-CN
 superf icial white onychomycosis,浅表白斑型甲真菌病,zh-CN
-SWO,浅表白斑型甲真菌病,zh-CN
 superf icial spreading melanoma,浅表扩散性黑素瘤,zh-CN
 intensive pulsed light,强脉冲光,zh-CN
-IPL,强脉冲光,zh-CN
 hydroxychloroquine,羟氯喹,zh-CN
-desmosome 9,桥粒,zh-CN
+desmosome,桥粒,zh-CN
 desmosomal plaque,桥粒斑,zh-CN
 desmoplakin,桥粒斑蛋白,zh-CN
 desmocollin,桥粒胶蛋白,zh-CN
@@ -487,15 +404,11 @@ papular urticaria,丘疹性荨麻疹,zh-CN
 chemokine,趋化因子,zh-CN
 all-transretinoic acid,全反式维 A 酸,zh-CN
 genome-wide association study,全基因组关联分析,zh-CN
-GWAS,全基因组关联分析,zh-CN
 total dystrophic onychomycosis,全甲毁损型甲真菌病,zh-CN
-TDO,全甲毁损型甲真菌病,zh-CN
 alopecia,全秃,zh-CN
 freckle,雀斑,zh-CN
-human immunodef iciency virus,人类免疫缺陷病毒,zh-CN
-HIV,人类免疫缺陷病毒,zh-CN
+human immunodeficiency virus,人类免疫缺陷病毒,zh-CN
 human papilloma virus,人乳头瘤病毒,zh-CN
-HPV,人乳头瘤病毒,zh-CN
 pruritus gestationis,妊娠瘙痒症,zh-CN
 sun-reactive skin typing,日光反应性皮肤分型,zh-CN
 solar dermatitis,日光性皮炎,zh-CN
@@ -516,21 +429,16 @@ mulberry molars,桑葚齿,zh-CN
 pruritus,瘙痒症,zh-CN
 incontinence of pigment,色素失禁,zh-CN
 paucibacillary,少菌型,zh-CN
-PB,少菌型,zh-CN
 radio frequency,射频,zh-CN
-RF,射频,zh-CN
 miliaria profunda,深部粟粒疹,zh-CN
 ecthyma,深脓疱疮,zh-CN
 lupus erythematosus profundus,深在性红斑狼疮,zh-CN
-LEP,深在性红斑狼疮,zh-CN
 neurosyphilis,神经梅毒,zh-CN
 neurodermatitis,神经性皮炎,zh-CN
 anagen,生长期,zh-CN
 growth factor,生长因子,zh-CN
-GF,生长因子,zh-CN
 urogenital chlamydia infection,生殖道衣原体感染,zh-CN
 genital herpes,生殖器疱疹,zh-CN
-GH,生殖器疱疹,zh-CN
 genital wart,生殖器疣,zh-CN
 pediculosis,虱病,zh-CN
 eczema,湿疹,zh-CN
@@ -542,7 +450,6 @@ hand-foot-mouth disease,手足口病,zh-CN
 light amplification by stimulated emission of radiation,受激辐射放大光,zh-CN
 varicella,水痘,zh-CN
 varicellazoster virus,水痘-带状疱疹病毒,zh-CN
-VZV,水痘-带状疱疹病毒,zh-CN
 hydrotherapy,水疗法,zh-CN
 vesicle,水疱,zh-CN
 f ilaggrin,丝聚合蛋白,zh-CN
@@ -564,7 +471,6 @@ pediculosis corporis,体虱病,zh-CN
 tinea corporis,体癣,zh-CN
 pemphigus,天疱疮,zh-CN
 pemphigus antigen,天疱疮抗原,zh-CN
-Dsg,天疱疮抗原,zh-CN
 soft tissue augmentation,填充美容,zh-CN
 f lea sting,跳蚤叮咬,zh-CN
 target lesion,同心圆状靶形皮损,zh-CN
@@ -573,8 +479,8 @@ ketotifen,酮替芬,zh-CN
 pediculosis capitis,头虱病,zh-CN
 tinea capitis,头癣,zh-CN
 lamina lucida,透明板,zh-CN
-stratum lucidum 8,透明层,zh-CN
-keratohyalin granule 8,透明角质颗粒,zh-CN
+stratum lucidum,透明层,zh-CN
+keratohyalin granule,透明角质颗粒,zh-CN
 folliculitis decalvans,秃发性毛囊炎,zh-CN
 f ilm,涂膜剂,zh-CN
 catagen,退行期,zh-CN
@@ -597,16 +503,13 @@ vitamin C,维生素 C,zh-CN
 vitamin E,维生素 E,zh-CN
 atrophy,萎缩,zh-CN
 mosquito sting,蚊虫叮咬,zh-CN
-hairless thick skin 7,无毛的厚皮肤,zh-CN
+hairless thick skin,无毛的厚皮肤,zh-CN
 cimetidine,西咪替丁,zh-CN
 lotion,洗剂,zh-CN
 systemic lupus erythematosus,系统性红斑狼疮,zh-CN
-SLE,系统性红斑狼疮,zh-CN
 systemic sclerosis,系统性硬化症,zh-CN
 systemic scleroderma,系统性硬皮病,zh-CN
-SSc,系统性硬皮病,zh-CN
 cytotoxic T lymphocyte,细胞毒性 T 淋巴细胞,zh-CN
-CTL,细胞毒性 T 淋巴细胞,zh-CN
 intercellular edema,细胞间水肿,zh-CN
 intracellular edema,细胞内水肿,zh-CN
 isthmus,峡部,zh-CN
@@ -621,16 +524,12 @@ prurigo infantilis,小儿痒疹,zh-CN
 cardiovascular syphilis,心血管梅毒,zh-CN
 neonatal herpes simplex,新生儿单纯疱疹,zh-CN
 neonatal lupus erythematosus,新生儿红斑狼疮,zh-CN
-NLE,新生儿红斑狼疮,zh-CN
 impetigo neonatorum,新生儿脓疱疮,zh-CN
 venereal disease research laboratory test,性病研究实验室试验,zh-CN
-VDRL,性病研究实验室试验,zh-CN
 sexually transmitted disease,性传播疾病,zh-CN
-STD,性传播疾病,zh-CN
 sex-linked inheritance,性连锁遗传,zh-CN
 thymosin,胸腺素,zh-CN
 androgenetic alopecia,雄激素性秃发,zh-CN
-AGA,雄激素性秃发,zh-CN
 telogen,休止期,zh-CN
 sycosis,须疮,zh-CN
 tinea,癣,zh-CN
@@ -642,16 +541,13 @@ lupus vulgaris,寻常狼疮,zh-CN
 impetigo vulgaris,寻常型脓疱疮,zh-CN
 pemphigus vulgaris,寻常型天疱疮,zh-CN
 pemphigus vulgaris antigen,寻常型天疱疮抗原,zh-CN
-PVA,寻常型天疱疮抗原,zh-CN
 psoriasis vulgaris,寻常型银屑病,zh-CN
 ichthyosis vulgaris,寻常型鱼鳞病,zh-CN
 verruca vulgaris,寻常疣,zh-CN
 urticaria,荨麻疹,zh-CN
 urticarial drug eruption,荨麻疹型药疹,zh-CN
 mycosis fungoides,蕈样肉芽肿,zh-CN
-MF,蕈样肉芽肿,zh-CN
 subacute cutaneous lupus erythematosus,亚急性皮肤型红斑狼疮,zh-CN
-SCLE,亚急性皮肤型红斑狼疮,zh-CN
 nicotinic acid,烟酸,zh-CN
 nicotinamide,烟酰胺,zh-CN
 herpes zoster ophthalmicus,眼带状疱疹,zh-CN
@@ -659,7 +555,6 @@ ocular syphilis,眼梅毒,zh-CN
 nevus fuscoceruleus ophthalmo-maxillaris,眼上腭部褐青色痣,zh-CN
 prurigo,痒疹,zh-CN
 drug hypersensitivity syndrome,药物超敏反应综合征,zh-CN
-DHS,药物超敏反应综合征,zh-CN
 drug-induced acne,药物性痤疮,zh-CN
 dermatitis medicamentosa,药物性皮炎,zh-CN
 drug eruption,药疹,zh-CN
@@ -676,26 +571,20 @@ pediculosis pubis,阴虱病,zh-CN
 psoriasis,银屑病,zh-CN
 paederus dermatitis,隐翅虫皮炎,zh-CN
 infantile hemangioma,婴儿血管瘤,zh-CN
-IH,婴儿血管瘤,zh-CN
 fluorescent treponemal antibody-absorption test,荧光螺旋体抗体吸收试验,zh-CN
-FTA-ABS,荧光螺旋体抗体吸收试验,zh-CN
 dystrophic epidermolysis bullosa,营养不良型大疱性表皮松解症,zh-CN
-DEB,营养不良型大疱性表皮松解症,zh-CN
 morphea,硬斑病,zh-CN
 plaster,硬膏,zh-CN
 scleroderma,硬皮病,zh-CN
 chancre,硬下疳,zh-CN
 carbuncle,痈,zh-CN
-oil,油剂,zh-CN
 oily skin,油性皮肤,zh-CN
-O,油性皮肤,zh-CN
 verruca,疣,zh-CN
 wart,疣,zh-CN
 verrucous lupus erythematosus,疣状红斑狼疮,zh-CN
-VLE,疣状红斑狼疮,zh-CN
 tuberculosis verrucosa cutis,疣状皮肤结核,zh-CN
 verrucous hyperplasia,疣状增生,zh-CN
-hairy thin skin 7,有毛的薄皮肤,zh-CN
+hairy thin skin,有毛的薄皮肤,zh-CN
 stasis dermatitis,淤积性皮炎,zh-CN
 ecchymosis,瘀斑,zh-CN
 petechia,瘀点,zh-CN
@@ -703,12 +592,10 @@ ichthyosis,鱼鳞病,zh-CN
 primary cutaneous amyloidosis,原发性皮肤淀粉样变,zh-CN
 primary lesion,原发性皮损,zh-CN
 distal and lateral subungual onychomycosis,远端侧位甲下型甲真菌病,zh-CN
-DLSO,远端侧位甲下型甲真菌病,zh-CN
 laurocapram,月桂氮䓬酮,zh-CN
 early congenital syphilis,早期先天性梅毒,zh-CN
 pemphigus vegetans,增殖型天疱疮,zh-CN
 narrow-band UVB,窄谱 UVB,zh-CN
-NB-UVB,窄谱 UVB,zh-CN
 fungus,真菌,zh-CN
 mycosis,真菌病,zh-CN
 dermis,真皮,zh-CN
@@ -716,12 +603,9 @@ integrin,整合素,zh-CN
 acral lentiginous melanoma,肢端雀斑痣样黑素瘤,zh-CN
 panniculitis,脂膜炎,zh-CN
 seborrheic keratosis,脂溢性角化病,zh-CN
-SK,脂溢性角化病,zh-CN
 seborrheic dermatitis,脂溢性皮炎,zh-CN
 direct immunofluorescence,直接免疫荧光,zh-CN
-DIF,直接免疫荧光,zh-CN
 occupational skin diseases,职业性皮肤病,zh-CN
-OSD,职业性皮肤病,zh-CN
 verruca plantaris,跖疣,zh-CN
 sclerodactyly,指端硬化,zh-CN
 digitate wart,指状疣,zh-CN
@@ -729,23 +613,15 @@ nystatin,制霉菌素,zh-CN
 lamina densa,致密层,zh-CN
 nevocytic nevus,痣细胞痣,zh-CN
 midborderline leprosy,中间界线类麻风,zh-CN
-BB,中间界线类麻风,zh-CN
 normal skin,中性皮肤,zh-CN
-N,中性皮肤,zh-CN
 tumor necrosis factor,肿瘤坏死因子,zh-CN
-TNF,肿瘤坏死因子,zh-CN
 lupus erythematosus tumid,肿胀性红斑狼疮,zh-CN
-LET,肿胀性红斑狼疮,zh-CN
 toxic epidermal necrolysis,中毒性表皮坏死松解症,zh-CN
-TEN,中毒性表皮坏死松解症,zh-CN
 erythema multiforme major,重症多形红斑型药疹,zh-CN
-EMM,重症多形红斑型药疹,zh-CN
 severe cutaneous adverse drug reactions,重症药疹,zh-CN
-SCARs,重症药疹,zh-CN
 cosmetic injection,注射美容,zh-CN
 excoriation,抓痕,zh-CN
 transforming growth factor,转化生长因子,zh-CN
-TGF,转化生长因子,zh-CN
 transfer factor,转移因子,zh-CN
 chromoblastomycosis,着色芽生菌病,zh-CN
 purpuric drug eruption,紫癜型药疹,zh-CN

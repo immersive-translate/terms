@@ -4,21 +4,14 @@ second degree burn,Ⅱ度烧伤,zh-CN
 partial thickness burn,Ⅱ度烧伤,zh-CN
 corticotropin-independent Cushing syndrome,ACTH 非依赖性 CS,zh-CN
 adrenocorticotropin-independent macronodular adrenal hyperplasia,ACTH 非依赖性结节增生,zh-CN
-AIMAH,ACTH 非依赖性结节增生,zh-CN
 corticotropin-dependent Cushing syndrome,ACTH 依赖性 CS,zh-CN
 CT perfusion,CT 灌注成像,zh-CN
-CTP,CT 灌注成像,zh-CN
 computed tomographic virtual colonoscopy,CT 模拟结肠镜,zh-CN
-CTVC,CT 模拟结肠镜,zh-CN
 CT urography,CT 尿路成像,zh-CN
-CTU,CT 尿路成像,zh-CN
 CT angiography,CT 血管造影,zh-CN
-CTA,CT 血管造影,zh-CN
 Gleason score,Gleason 评分,zh-CN
-GS,Gleason 评分,zh-CN
 MEEK skin grafting,MEEK 微型皮片移植,zh-CN
 T cell-mediated rejection,T 细胞介导的排斥反应,zh-CN
-TCMR,T 细胞介导的排斥反应,zh-CN
 albendazole,阿苯达唑,zh-CN
 amebic liver abscess,阿米巴肝脓肿,zh-CN
 depressed fracture,凹陷骨折,zh-CN
@@ -40,9 +33,7 @@ surface anesthesia,表面麻醉,zh-CN
 epidermoid cyst,表皮样囊肿,zh-CN
 chondromalacia patellae,髌骨软骨软化症,zh-CN
 frozen plasma,冰冻血浆,zh-CN
-FP,冰冻血浆,zh-CN
 erectile dysfunction,勃起功能障碍,zh-CN
-ED,勃起功能障碍,zh-CN
 Brown-Séquard syndrome,布朗-塞卡综合征,zh-CN
 abrasion,擦伤,zh-CN
 intestinal atresia,肠闭锁,zh-CN
@@ -51,12 +42,10 @@ interloop abscess,肠间脓肿,zh-CN
 intestinal tuberculosis,肠结核,zh-CN
 gut brain,肠脑,zh-CN
 enteral nutrition,肠内营养,zh-CN
-EN,肠内营养,zh-CN
 volvulus,肠扭转,zh-CN
 intestinal splinting,肠排列,zh-CN
 intestinal intussusception,肠套叠,zh-CN
 parenteral nutrition,肠外营养,zh-CN
-PN,肠外营养,zh-CN
 intestinal polyps,肠息肉,zh-CN
 intestinal polyposis,肠息肉病,zh-CN
 superior mesenteric arterial embolism,肠系膜上动脉栓塞,zh-CN
@@ -66,53 +55,38 @@ superior mesenteric venousthrombosis,肠系膜上静脉血栓形成,zh-CN
 intestinal stenosis,肠狭窄,zh-CN
 gut derived infection,肠源性感染,zh-CN
 hyperacute rejection,超急性排斥反应,zh-CN
-HAR,超急性排斥反应,zh-CN
 ultrasonic endoscope,超声内镜,zh-CN
 endoscopic ultrasonography,超声内镜检查,zh-CN
-EUS,超声内镜检查,zh-CN
 adult-type diffuse astrocytoma,成人弥漫性星形细胞瘤,zh-CN
 injury of ulnar nerve,尺神经损伤,zh-CN
 voided bladder one,初段尿,zh-CN
-VB,初段尿,zh-CN
 penetrating diaphragmatic injury,穿透性膈肌损伤,zh-CN
 penetrating cardiac injury,穿透性心脏损伤,zh-CN
 migrating myoelectrical complex,传导性肌电复合波,zh-CN
-MMC,传导性肌电复合波,zh-CN
 traditional serrated adenoma,传统锯齿状腺瘤,zh-CN
-TSA,传统锯齿状腺瘤,zh-CN
 wound healing phase,创面修复期,zh-CN
 post-traumatic stress disorder,创伤后应激障碍,zh-CN
-PTSD,创伤后应激障碍,zh-CN
 traumatic bile duct injury,创伤性胆管损伤,zh-CN
 traumatic shock,创伤性休克,zh-CN
 traumatic asphyxia,创伤性窒息,zh-CN
 pituitary adenoma,垂体腺瘤,zh-CN
 magnetic resonance imaging,磁共振成像,zh-CN
-MRI,磁共振成像,zh-CN
-magnetic resonance cholangiopancrea- tography,磁共振胆胰管成像,zh-CN
-MRCP,磁共振胆胰管成像,zh-CN
+magnetic resonance cholangiopancreatography,磁共振胆胰管成像,zh-CN
 magnetic resonance angiography,磁共振血管造影,zh-CN
-MRA,磁共振血管造影,zh-CN
 erythropoietin,促红细胞生成素,zh-CN
-EPO,促红细胞生成素,zh-CN
 contusion,挫伤,zh-CN
 massive transfusion,大量输血,zh-CN
-MT,大量输血,zh-CN
 aneurysm of vein of Galen,大脑大静脉动脉瘤,zh-CN
 metabolic alkalosis,代谢性碱中毒,zh-CN
 metabolic acidosis,代谢性酸中毒,zh-CN
 desmoid fibromatosis,带状纤维瘤,zh-CN
 erysipelas,丹毒,zh-CN
 unilateral adrenal hyperplasia,单侧肾上腺增生,zh-CN
-UNAH,单侧肾上腺增生,zh-CN
 simple goiter,单纯性甲状腺肿,zh-CN
 simple cyst of kidney,单纯性肾囊肿,zh-CN
 pancreas transplantation alone,单纯胰腺移植,zh-CN
-PTA,单纯胰腺移植,zh-CN
 single-photon emission computed tomography,单光子发射计算机断层显像,zh-CN
-SPECT,单光子发射计算机断层显像,zh-CN
 single nucleotide polymorphism,单核苷酸多态性,zh-CN
-SNP,单核苷酸多态性,zh-CN
 biliary atresia,胆道闭锁,zh-CN
 hemobilia,胆道出血,zh-CN
 biliary ascariasis,胆道蛔虫病,zh-CN
@@ -120,7 +94,6 @@ biliary stent,胆道支架,zh-CN
 carcinoma of bile duct,胆管癌,zh-CN
 benign stricture of bile duct,胆管良性狭窄,zh-CN
 peribiliary vascular plexus,胆管周围血管丛,zh-CN
-PBVP,胆管周围血管丛,zh-CN
 carcinoma of gallbladder,胆囊癌,zh-CN
 gallbladder perforation,胆囊穿孔,zh-CN
 gallbladder polyps,胆囊息肉,zh-CN
@@ -129,7 +102,6 @@ acute gallstone pancreatitis,胆源性急性胰腺炎,zh-CN
 urethral catheter,导尿管,zh-CN
 isotonic dehydration,等渗性脱水,zh-CN
 papillary urothelial neoplasm of low malignant potential,低度恶性潜能的乳头状尿路上皮肿瘤,zh-CN
-PUNLMP,低度恶性潜能的乳头状尿路上皮肿瘤,zh-CN
 hypocalcemia,低钙血症,zh-CN
 hypokalemia,低钾血症,zh-CN
 hypophosphatemia,低磷血症,zh-CN
@@ -142,47 +114,35 @@ hypoxemia,低氧血症,zh-CN
 caudal anesthesia,骶管麻醉,zh-CN
 endemic goiter,地方性甲状腺肿,zh-CN
 neuroendoscopic third ventriculostomy,第三脑室底造瘘术,zh-CN
-ETV,第三脑室底造瘘术,zh-CN
 epilepsy,癫痫,zh-CN
 charge-coupled device,电荷耦合元件,zh-CN
-CCD,电荷耦合元件,zh-CN
 electric burn injury,电烧伤,zh-CN
 video-assisted thoracic surgery,电视胸腔镜手术,zh-CN
-VATS,电视胸腔镜手术,zh-CN
 electronic gastroscopy,电子胃镜检查,zh-CN
 arteriovenous malformation,动静脉畸形,zh-CN
-AVM,动静脉畸形,zh-CN
 arterial embolism,动脉栓塞,zh-CN
 sinus tract,窦道,zh-CN
 poison spider bite,毒蜘蛛咬伤,zh-CN
 short bowel syndrome,短肠综合征,zh-CN
-SBS,短肠综合征,zh-CN
 transient neurologic syndrome,短暂神经综合征,zh-CN
-TNS,短暂神经综合征,zh-CN
 blunt diaphragmatic injury,钝性膈肌损伤,zh-CN
 blunt cardiac injury,钝性心脏损伤,zh-CN
 multidrug resistant,多重耐药,zh-CN
-MDR,多重耐药,zh-CN
 Takayasu arteritis,多发性大动脉炎,zh-CN
 polycystic kidney,多囊肾,zh-CN
 multiple organ dysfunction syndrome,多器官功能障碍综合征,zh-CN
-MODS,多器官功能障碍综合征,zh-CN
 polymorphonuclear neutrophil,多形核中性粒细胞,zh-CN
-PMN,多形核中性粒细胞,zh-CN
 multidisciplinary team,多学科诊疗团队,zh-CN
-MDT,多学科诊疗团队,zh-CN
 hypercatecholaminemia,儿茶酚胺增多症,zh-CN
 pediatric-type diffuse glioma,儿童型弥漫性胶质瘤,zh-CN
 mitral regurgitation,二尖瓣关闭不全,zh-CN
 mitral insufficiency,二尖瓣关闭不全,zh-CN
 developmental dislocation of the hip,发育性髋关节脱位,zh-CN
-DDH,发育性髋关节脱位,zh-CN
 rebound tenderness,反跳痛,zh-CN
 radionuclide imaging,放射性核素显像,zh-CN
 radiation burn injury,放射性烧伤,zh-CN
 nonocclusive mesenteric ischemia,非闭塞性肠系膜血管缺血,zh-CN
 non-muscle-invasive bladder cancer,非肌层浸润性膀胱癌,zh-CN
-NMIBC,非肌层浸润性膀胱癌,zh-CN
 non-vascular interventional technique,非经血管介入技术,zh-CN
 injury of common peroneal nerve,腓总神经损伤,zh-CN
 lung cancer,肺癌,zh-CN
@@ -190,16 +150,13 @@ pulmonary bulla,肺大疱,zh-CN
 pulmonary tuberculosis,肺结核,zh-CN
 Pancoast tumor,肺上沟瘤,zh-CN
 pulmonary embolism,肺栓塞,zh-CN
-PE,肺栓塞,zh-CN
 lung transplantation,肺移植,zh-CN
 aldosterone-producing adrenocortical carcinoma,分泌醛固酮的肾上腺皮质癌,zh-CN
-ACC,分泌醛固酮的肾上腺皮质癌,zh-CN
 rheumatic mitral stenosis,风湿性二尖瓣狭窄,zh-CN
 bee sting,蜂蜇伤,zh-CN
 the basic principle of intestinal suture,缝合小肠的基本原则,zh-CN
 erosive burn of esophagus,腐蚀性食管灼伤,zh-CN
 vacuum sealing drainage,负压封闭引流,zh-CN
-VSD,负压封闭引流,zh-CN
 epididymal tuberculosis,附睾结核,zh-CN
 epididymitis,附睾炎,zh-CN
 combined injury,复合伤,zh-CN
@@ -212,25 +169,18 @@ rigidity,腹肌紧张,zh-CN
 signs of peritoneal irritation,腹膜刺激征,zh-CN
 retroperitoneal hematoma,腹膜后血肿,zh-CN
 abdominal compartment syndrome,腹腔间室综合征,zh-CN
-ACS,腹腔间室综合征,zh-CN
 laparoscopic ureterolithotomy,腹腔镜输尿管切开取石,zh-CN
-LUL,腹腔镜输尿管切开取石,zh-CN
 intraperitoneal onlay mesh technique,腹腔内的补片,zh-CN
-IPOM,腹腔内的补片,zh-CN
 abdominothoracic injuries,腹胸联合伤,zh-CN
-ameliorated piggyback liver trans- plantation,改良背驮式肝移植,zh-CN
+ameliorated piggyback liver transplantation,改良背驮式肝移植,zh-CN
 calcineurin inhibitors,钙调磷酸酶抑制剂,zh-CN
-CNIs,钙调磷酸酶抑制剂,zh-CN
 liver cancer,肝癌,zh-CN
 hydatid disease of the liver,肝包虫病,zh-CN
 cavernous hemangioma of liver,肝海绵状血管瘤,zh-CN
 echinococcosis of the liver,肝棘球蚴病,zh-CN
 wedged hepatic venous pressure,肝静脉楔压,zh-CN
-WHVP,肝静脉楔压,zh-CN
 hepatic venous pressure gradient,肝静脉压力梯度,zh-CN
-HVPG,肝静脉压力梯度,zh-CN
 free hepatic venous pressure,肝静脉自由压,zh-CN
-FHVP,肝静脉自由压,zh-CN
 cyst of liver,肝囊肿,zh-CN
 liver abscess,肝脓肿,zh-CN
 liver injury,肝损伤,zh-CN
@@ -242,13 +192,11 @@ septic shock,感染性休克,zh-CN
 anal fissure,肛裂,zh-CN
 perianal abscess,肛周脓肿,zh-CN
 hypercalcemia,高钙血症,zh-CN
-high-grade prostatic intra- epithelial neoplasia,高级别前列腺上皮内瘤,zh-CN
-HGPIN,高级别前列腺上皮内瘤,zh-CN
+high-grade prostatic intraepithelial neoplasia,高级别前列腺上皮内瘤,zh-CN
 hyperkalemia,高钾血症,zh-CN
 hyperphosphatemia,高磷血症,zh-CN
 hypermagnesemia,高镁血症,zh-CN
 high-intensity focused ultrasound,高强度聚焦超声,zh-CN
-HIFU,高强度聚焦超声,zh-CN
 hypertonic dehydration,高渗性脱水,zh-CN
 hypertension,高血压,zh-CN
 testicular and funicular hydrocele,睾丸、精索鞘膜积液,zh-CN
@@ -257,42 +205,33 @@ testicular torsion,睾丸扭转,zh-CN
 testicular hydrocele,睾丸鞘膜积液,zh-CN
 testicular tumor,睾丸肿瘤,zh-CN
 Glasgow coma scale,格拉斯哥昏迷评分,zh-CN
-GCS,格拉斯哥昏迷评分,zh-CN
 subphrenic abscess,膈下脓肿,zh-CN
 radical nephrectomy,根治性肾切除术,zh-CN
-RN,根治性肾切除术,zh-CN
 fracture of the calcaneum,跟骨骨折,zh-CN
 Achilles tendon rupture,跟腱断裂,zh-CN
 obstructive hydrocephalus,梗阻性脑积水,zh-CN
 functional neurosurgery,功能神经外科,zh-CN
 artificial insemination with donor’s semen,供者精液人工授精,zh-CN
-AID,供者精液人工授精,zh-CN
 lateral humeral epicondylitis,肱骨外上髁炎,zh-CN
 fracture of the shaft of the femur,股骨干骨折,zh-CN
 fracture of the femoral neck,股骨颈骨折,zh-CN
 osteonecrosis of the femoral head,股骨头坏死,zh-CN
-ONFH,股骨头坏死,zh-CN
 femoral hernia,股疝,zh-CN
 injury of femoral nerve,股神经损伤,zh-CN
 osteoarthritis,骨关节炎,zh-CN
-OA,骨关节炎,zh-CN
 subperiosteal hematoma,骨膜下血肿,zh-CN
 bone and joint tuberculosis,骨与关节结核,zh-CN
 fracture,骨折,zh-CN
 coronary atherosclerotic heart disease,冠状动脉粥样硬化性心脏病,zh-CN
 International Index of Erectile Function,国际勃起功能评分表,zh-CN
-IIEF-5,国际勃起功能评分表,zh-CN
 cavernous malformation,海绵状血管畸形,zh-CN
-CM,海绵状血管畸形,zh-CN
 cavernous hemangioma,海绵状血管瘤,zh-CN
 Hirschsprung disease,赫什朋病,zh-CN
-HD,赫什朋病,zh-CN
 melanoma,黑色素瘤,zh-CN
 pigmented nevus,黑痣,zh-CN
 laryngeal mask airway,喉罩气道,zh-CN
 voided bladder three,后段尿,zh-CN
 ossification of the posterior longitudinal ligament,后纵韧带骨化症,zh-CN
-OPLL,后纵韧带骨化症,zh-CN
 airway obstruction,呼吸道梗阻,zh-CN
 respiratory alkalosis,呼吸性碱中毒,zh-CN
 respiratory acidosis,呼吸性酸中毒,zh-CN
@@ -307,16 +246,13 @@ chemoprevention,化学预防,zh-CN
 chemotherapy,化学治疗,zh-CN
 fracture of the ankle,踝部骨折,zh-CN
 ileal pouch-anal anastomosis,回肠储袋肛管吻合术,zh-CN
-IPAA,回肠储袋肛管吻合术,zh-CN
 salvaged autotransfusion,回收式自体输血,zh-CN
 mixed thickness burn,混合度烧伤,zh-CN
 living-related liver transplantation,活体亲属供肝移植,zh-CN
 craniocerebral missile injury,火器性颅脑损伤,zh-CN
 Horner syndrome,霍纳综合征,zh-CN
 fat free mass index,机体瘦组织群指数,zh-CN
-FFMI,机体瘦组织群指数,zh-CN
 muscle-invasive bladder cancer,肌层浸润性膀胱癌,zh-CN
-MIBC,肌层浸润性膀胱癌,zh-CN
 muscle relaxants,肌肉松弛药,zh-CN
 teratoma,畸胎瘤,zh-CN
 acute abdomen,急腹症,zh-CN
@@ -325,19 +261,15 @@ acute cellulitis,急性蜂窝织炎,zh-CN
 acute epididymitis,急性附睾炎,zh-CN
 acute infection phase,急性感染期,zh-CN
 acute respiratory distress syndrome,急性呼吸窘迫综合征,zh-CN
-ARDS,急性呼吸窘迫综合征,zh-CN
 acute calculous cholecystitis,急性结石性胆囊炎,zh-CN
 acute appendicitis,急性阑尾炎,zh-CN
 acute lymphatitis,急性淋巴管炎,zh-CN
 acute lymphadenitis,急性淋巴结炎,zh-CN
 acute rejection,急性排斥反应,zh-CN
-AR,急性排斥反应,zh-CN
 acute pyelonephritis,急性肾盂肾炎,zh-CN
 acute pain service,急性疼痛服务,zh-CN
-APS,急性疼痛服务,zh-CN
 acute bacterial cystitis,急性细菌性膀胱炎,zh-CN
 acute bacterial prostatitis,急性细菌性前列腺炎,zh-CN
-ABP,急性细菌性前列腺炎,zh-CN
 acute pancreatitis,急性胰腺炎,zh-CN
 emergency room thoracotomy,急诊室开胸手术,zh-CN
 emergency operation,急诊手术,zh-CN
@@ -347,24 +279,18 @@ sepsis bundle,集束化治疗,zh-CN
 crush injury,挤压伤,zh-CN
 spinal meningioma,脊膜瘤,zh-CN
 spinal cord stimulation,脊髓电刺激术,zh-CN
-SCS,脊髓电刺激术,zh-CN
 tethered cord syndrome,脊髓拴系综合征,zh-CN
-TCS,脊髓拴系综合征,zh-CN
 spinal fractures,脊柱骨折,zh-CN
 spina bifida,脊柱裂,zh-CN
 secondary peritonitis,继发性腹膜炎,zh-CN
 secondary tumor of the liver,继发性肝肿瘤,zh-CN
 secondary hyperparathyroidism,继发性甲状旁腺功能亢进,zh-CN
-SHPT,继发性甲状旁腺功能亢进,zh-CN
 secondary vesical calculi,继发性膀胱结石,zh-CN
 familial intestinal polyposis,家族性肠息肉病,zh-CN
 familial hyperaldosteronism,家族性醛固酮增多症,zh-CN
-FH,家族性醛固酮增多症,zh-CN
 familial adenomatous polyposis,家族性腺瘤性息肉病,zh-CN
-FAP,家族性腺瘤性息肉病,zh-CN
 paronychia,甲沟炎,zh-CN
 parathyroid hormone,甲状旁腺激素,zh-CN
-PTH,甲状旁腺激素,zh-CN
 parathyroid adenoma,甲状旁腺腺瘤,zh-CN
 parathyroid hyperplasia,甲状旁腺增生,zh-CN
 thyroid carcinoma,甲状腺癌,zh-CN
@@ -375,55 +301,38 @@ ganglion cyst,腱鞘囊肿,zh-CN
 communicating hydrocephalus,交通性脑积水,zh-CN
 communicating hydrocele,交通性鞘膜积液,zh-CN
 glioblastoma,胶质母细胞瘤,zh-CN
-GBM,胶质母细胞瘤,zh-CN
 strangulated hernia,绞窄性疝,zh-CN
 furuncle,疖,zh-CN
 colon injury,结肠损伤,zh-CN
 nodular goiter,结节性甲状腺肿,zh-CN
 tuberous sclerosis,结节性硬化症,zh-CN
-TSC,结节性硬化症,zh-CN
 crystalluria,结晶尿,zh-CN
 interventional radiology technique,介入放射学技术,zh-CN
 advanced gastric cancer,进展期胃癌,zh-CN
 transcatheter arterial chemoembolization or embolization,经导管动脉内化疗栓塞术或栓塞术,zh-CN
 TACE or TAE,经导管动脉内化疗栓塞术或栓塞术,zh-CN
 transcatheter vascular infusion,经导管血管灌注术,zh-CN
-TVI,经导管血管灌注术,zh-CN
 transabdominal preperitoneal,经腹腔的腹膜前修补,zh-CN
 laparoscopic inguinal herniorrhaphy,经腹腔镜疝修补术,zh-CN
-LIHR,经腹腔镜疝修补术,zh-CN
 transjugular intrahepatic portosystemic shunt,经颈静脉肝内门体静脉分流术,zh-CN
-TIPS,经颈静脉肝内门体静脉分流术,zh-CN
 transurethral resection of bladdertumor,经尿道膀胱肿瘤切除术,zh-CN
-TURBT,经尿道膀胱肿瘤切除术,zh-CN
 transurethral resection of the prostate,经尿道前列腺切除术,zh-CN
-TURP,经尿道前列腺切除术,zh-CN
 transurethral incision of the prostate,经尿道前列腺切开术,zh-CN
-TUIP,经尿道前列腺切开术,zh-CN
 percutaneous radiofrequency thermocoagulation,经皮穿刺射频热凝毁损术,zh-CN
 percutaneous transhepatic cholangial drainage,经皮肝穿刺胆道置管引流术,zh-CN
-PTCD,经皮肝穿刺胆道置管引流术,zh-CN
 percutaneous transhepatic cholangiography,经皮肝穿刺胆管造影,zh-CN
-PTC,经皮肝穿刺胆管造影,zh-CN
 percutaneous transhepatic gallbladder drainage,经皮经肝胆囊穿刺引流术,zh-CN
-PTGD,经皮经肝胆囊穿刺引流术,zh-CN
 percutaneous transluminal angioplasty,经皮腔内血管成形术,zh-CN
 percutaneous nephrolithotomy,经皮肾镜取石术,zh-CN
-PCNL,经皮肾镜取石术,zh-CN
 vascular interventional technique,经血管介入技术,zh-CN
 tension free vaginal tape-obturator,经阴道（闭孔）无张力尿道中段悬吊术,zh-CN
-TVT-O,经阴道（闭孔）无张力尿道中段悬吊术,zh-CN
 tension free vaginal tape,经阴道无张力尿道悬吊术,zh-CN
-TVT,经阴道无张力尿道悬吊术,zh-CN
 natural orifice transluminal endoscopicsurgery,经自然腔道内镜手术,zh-CN
-NOTES,经自然腔道内镜手术,zh-CN
 varicocele,精索静脉曲张,zh-CN
 funicular hydrocele,精索鞘膜积液,zh-CN
 seminoma,精原细胞瘤,zh-CN
 carotid endarterectomy,颈动脉内膜切除术,zh-CN
-CEA,颈动脉内膜切除术,zh-CN
 carotid artery stenting,颈动脉支架成形术,zh-CN
-CAS,颈动脉支架成形术,zh-CN
 tuberculosis of cervical lymph nodes,颈淋巴结结核,zh-CN
 cervical spondylosis,颈椎病,zh-CN
 cervical disc herniation,颈椎间盘突出症,zh-CN
@@ -431,62 +340,48 @@ osteochondrosis of the tibial tubercle,胫骨结节骨软骨病,zh-CN
 injury of tibial nerve,胫神经损伤,zh-CN
 catheter-related infection,静脉导管相关性感染,zh-CN
 venous malformation,静脉畸形,zh-CN
-VM,静脉畸形,zh-CN
 intravenous anesthetics,静脉麻醉药,zh-CN
 microscopic hematuria,镜下血尿,zh-CN
 local anesthesia,局部麻醉,zh-CN
 localized pleural mesothelioma,局限型胸膜间皮瘤,zh-CN
 carbachol,卡巴胆碱,zh-CN
 bacillus Calmette-Guérin,卡介苗,zh-CN
-BCG,卡介苗,zh-CN
 opening snap,开瓣音,zh-CN
 open injury,开放伤,zh-CN
 open craniocerebral injury,开放性颅脑损伤,zh-CN
 open pneumothorax,开放性气胸,zh-CN
 open prostatectomy,开放性前列腺摘除术,zh-CN
-OP,开放性前列腺摘除术,zh-CN
 rehabilitation phase,康复期,zh-CN
-antisepsis 3,抗菌术,zh-CN
+antisepsis,抗菌术,zh-CN
 anti-thrombin Ⅲ,抗凝血酶Ⅲ,zh-CN
-AT- Ⅲ,抗凝血酶Ⅲ,zh-CN
 antibody-drug conjugate,抗体-药物偶联物,zh-CN
-ADC,抗体-药物偶联物,zh-CN
 antibody-mediated rejection,抗体介导的排斥反应,zh-CN
-AMR,抗体介导的排斥反应,zh-CN
 anti-hemophilia factor,抗血友病因子,zh-CN
-AHF,抗血友病因子,zh-CN
 Crohn disease,克罗恩病,zh-CN
 oral nutritional supplement,口服营养补充,zh-CN
-ONS,口服营养补充,zh-CN
-spikes,快波,zh-CN
 fast waves,快波,zh-CN
 coxotuberculosis,髋关节结核,zh-CN
 dislocation of the hip joint,髋关节脱位,zh-CN
 ulcerative colitis,溃疡性结肠炎,zh-CN
-UC,溃疡性结肠炎,zh-CN
 appendix,阑尾,zh-CN
 appendectomy,阑尾切除术,zh-CN
 periappendiceal abscess,阑尾周围脓肿,zh-CN
 senile pigmental wart,老年性色素疣,zh-CN
 rib fracture,肋骨骨折,zh-CN
 rheumatoid arthritis,类风湿关节炎,zh-CN
-RA,类风湿关节炎,zh-CN
 cryoablation,冷冻消融,zh-CN
 cooling therapy,冷疗,zh-CN
 piriformis syndrome,梨状肌综合征,zh-CN
 stereotactic radiosurgery,立体定向放射外科,zh-CN
 granulocyte colony stimulating factor,粒细胞集落刺激因子,zh-CN
-G-CSF,粒细胞集落刺激因子,zh-CN
 flail chest,连枷胸,zh-CN
 benign prostatic hyperplasia,良性前列腺增生,zh-CN
-BPH,良性前列腺增生,zh-CN
 Lynch syndrome,林奇综合征,zh-CN
 lymph node,淋巴结,zh-CN
 lymphedema,淋巴水肿,zh-CN
 gonorrheal urethritis,淋菌性尿道炎,zh-CN
 squamous cell carcinoma,鳞状细胞癌,zh-CN
 flow cytometry,流式细胞术,zh-CN
-FCM,流式细胞术,zh-CN
 dermatofibrosarcoma protuberans,隆突性皮肤纤维肉瘤,zh-CN
 pectus excavatum,漏斗胸,zh-CN
 skull base fracture,颅底骨折,zh-CN
@@ -501,29 +396,23 @@ intracranial metastasis,颅内转移瘤,zh-CN
 craniopharyngioma,颅咽管瘤,zh-CN
 contracted bladder,挛缩膀胱,zh-CN
 intracytoplasmic sperm injection,卵胞质内精子注射,zh-CN
-ICSI,卵胞质内精子注射,zh-CN
 anesthesia,麻醉,zh-CN
 postanesthesia care unit,麻醉恢复室,zh-CN
-PACU,麻醉恢复室,zh-CN
 Marfan syndrome,马方综合征,zh-CN
 horseshoe kidney,马蹄形肾,zh-CN
 mycophenolate mofetil,吗替麦考酚酯,zh-CN
-MMF,吗替麦考酚酯,zh-CN
 pulse indicator continuouscardiac output,脉搏指示连续心排血量,zh-CN
-PiCCO,脉搏指示连续心排血量,zh-CN
 hemangioma racemosum,蔓状血管瘤,zh-CN
 slow waves,慢波,zh-CN
 chronic epididymitis,慢性附睾炎,zh-CN
 chronic appendicitis,慢性阑尾炎,zh-CN
 chronic lymphocytic thyroiditis,慢性淋巴细胞性甲状腺炎,zh-CN
 chronic rejection,慢性排斥反应,zh-CN
-CR,慢性排斥反应,zh-CN
 chronic prostatitis/ chronic pelvic pain syndrome,慢性前列腺炎/慢性骨盆疼痛综合征,zh-CN
 CP/CPPS,慢性前列腺炎/慢性骨盆疼痛综合征,zh-CN
 chronic constrictive pericarditis,慢性缩窄性心包炎,zh-CN
 chronic bacterial cystitis,慢性细菌性膀胱炎,zh-CN
 chronic bacterial prostatitis,慢性细菌性前列腺炎,zh-CN
-CBP,慢性细菌性前列腺炎,zh-CN
 blind loop syndrome,盲袢综合征,zh-CN
 telangiectasia,毛细血管扩张,zh-CN
 capillary hemangioma,毛细血管瘤,zh-CN
@@ -532,47 +421,34 @@ portal hypertension,门静脉高压症,zh-CN
 diffuse malignant pleural mesothelioma,弥漫型恶性胸膜间皮瘤,zh-CN
 diffuse gliomas,弥漫性胶质瘤,zh-CN
 diffuse axonal injury,弥漫性轴索损伤,zh-CN
-DAI,弥漫性轴索损伤,zh-CN
 disseminated intravascular coagulation,弥散性血管内凝血,zh-CN
-DIC,弥散性血管内凝血,zh-CN
 urolithiasis,泌尿系统结石,zh-CN
 hemifacial spasm,面肌痉挛,zh-CN
-HFS,面肌痉挛,zh-CN
-sterilization 7,灭菌,zh-CN
+sterilization,灭菌,zh-CN
 dermabrasion,磨痂术,zh-CN
 hallux valgus,外翻,zh-CN
 bursitis of big toe,趾滑囊炎,zh-CN
 andrology,男科学,zh-CN
 irreducible hernia,难复性疝,zh-CN
 encephalomyosynangiosis,脑-颞肌贴敷术,zh-CN
-EMS,脑-颞肌贴敷术,zh-CN
 encephaloduroarteriosynangiosis,脑-硬脑膜血管贴敷术,zh-CN
 intracerebral hemorrhage,脑出血,zh-CN
-ICH,脑出血,zh-CN
 cerebral contusion,脑挫裂伤,zh-CN
 cerebral amyloid angiopathy,脑淀粉样血管病,zh-CN
-CAA,脑淀粉样血管病,zh-CN
 brain-computer interface,脑机接口,zh-CN
-BCI,脑机接口,zh-CN
 meningioma,脑膜瘤,zh-CN
 intracerebral hematoma,脑内血肿,zh-CN
 deep brain stimulation,脑深部电刺激术,zh-CN
-DBS,脑深部电刺激术,zh-CN
 von Hippel-Lindau disease,脑视网膜血管瘤病,zh-CN
 ventriculo-peritoneal shunt,脑室-腹腔分流术,zh-CN
 V-P shunt,脑室-腹腔分流术,zh-CN
 cerebral concussion,脑震荡,zh-CN
-endoscopic retrograde cholangio- pancreatography,内镜逆行胰胆管造影,zh-CN
-ERCP,内镜逆行胰胆管造影,zh-CN
+endoscopic retrograde cholangiopancreatography,内镜逆行胆胰管造影,zh-CN
 endoscopic mucosal resection,内镜黏膜切除术,zh-CN
-EMR,内镜黏膜切除术,zh-CN
 endoscopic submucosal dissection,内镜下黏膜剥离术,zh-CN
-ESD,内镜下黏膜剥离术,zh-CN
 endoscopic esophageal varixligation,内镜下食管静脉曲张套扎术,zh-CN
 endoscopic injection sclerotherapy,内镜下硬化治疗,zh-CN
-EIS,内镜下硬化治疗,zh-CN
 retrograde pyelography,逆行肾盂造影,zh-CN
-RP,逆行肾盂造影,zh-CN
 retrograde ureteropyelography,逆行输尿管肾盂造影术,zh-CN
 mucosa-associated lymphoid tissue,黏膜相关淋巴组织,zh-CN
 urethral calculi,尿道结石,zh-CN
@@ -585,23 +461,19 @@ urethritis,尿道炎,zh-CN
 urgency,尿急,zh-CN
 urodynamics,尿流动力学,zh-CN
 plain film of kidney-ureter-bladder,尿路平片,zh-CN
-KUB,尿路平片,zh-CN
 incontinence of urine,尿失禁,zh-CN
 urinary retention,尿潴留,zh-CN
 sprain,扭伤,zh-CN
 leukocyte concentrate,浓缩白细胞,zh-CN
 concentrated red blood cells,浓缩红细胞,zh-CN
-CRBC,浓缩红细胞,zh-CN
 sepsis,脓毒症,zh-CN
 pyuria,脓尿,zh-CN
 felon,脓性指（趾）头炎,zh-CN
 empyema,脓胸,zh-CN
 Parkinson disease,帕金森病,zh-CN
-PD,帕金森病,zh-CN
 excretory urogram,排泄性尿路造影,zh-CN
 bladder cancer,膀胱癌,zh-CN
 overactive bladder,膀胱过度活动症,zh-CN
-OAB,膀胱过度活动症,zh-CN
 vesical calculi,膀胱结石,zh-CN
 cystourethroscopy,膀胱尿道镜检查,zh-CN
 bladder rupture,膀胱破裂,zh-CN
@@ -611,7 +483,6 @@ bladder exstrophy,膀胱外翻,zh-CN
 cystography,膀胱造影,zh-CN
 tumor of bladder,膀胱肿瘤,zh-CN
 bladder tumor antigen,膀胱肿瘤抗原,zh-CN
-BTA,膀胱肿瘤抗原,zh-CN
 pelvic abscess,盆腔脓肿,zh-CN
 split-liver transplantation,劈离式肝移植,zh-CN
 skin carcinoma,皮肤癌,zh-CN
@@ -624,7 +495,7 @@ fatigue fracture,疲劳骨折,zh-CN
 splenomegaly,脾大,zh-CN
 hypersplenism,脾功能亢进,zh-CN
 splenic rupture,脾破裂,zh-CN
-splenectomy with para- esophagogastric devascularization,脾切除加贲门周围血管离断术,zh-CN
+splenectomy with paraesophagogastric devascularization,脾切除加贲门周围血管离断术,zh-CN
 splenic injury,脾损伤,zh-CN
 flat foot,平足症,zh-CN
 tetanus,破伤风,zh-CN
@@ -637,28 +508,20 @@ pneumothorax,气胸,zh-CN
 organ transplantation,器官移植,zh-CN
 prostate cancer,前列腺癌,zh-CN
 prostate pelvic syndrome,前列腺盆腔综合征,zh-CN
-PPS,前列腺盆腔综合征,zh-CN
 prostate-specific antigen,前列腺特异性抗原,zh-CN
-PSA,前列腺特异性抗原,zh-CN
 prostate-specific membrane antigen,前列腺特异性膜抗原,zh-CN
-PSMA,前列腺特异性膜抗原,zh-CN
 prostatodynia,前列腺痛,zh-CN
 needle biopsy of the prostate,前列腺细针穿刺活检,zh-CN
 prostatitis,前列腺炎,zh-CN
 expressed prostatic secretion,前列腺液,zh-CN
-EPS,前列腺液,zh-CN
 superficial partial thickness burn,浅Ⅱ度烧伤,zh-CN
 incarcerated hernia,嵌顿疝,zh-CN
 laparoscopy,腔镜,zh-CN
 endoscopic enucleation of the prostate,腔内前列腺剜除术,zh-CN
-EEP,腔内前列腺剜除术,zh-CN
 ankylosing spondylitis,强直性脊柱炎,zh-CN
-AS,强直性脊柱炎,zh-CN
 hydroxyethyl starch,羟乙基淀粉,zh-CN
-HES,羟乙基淀粉,zh-CN
 hydrocele,鞘膜积液,zh-CN
 intrathecal drug delivery systems,鞘内药物输注系统,zh-CN
-IDDS,鞘内药物输注系统,zh-CN
 escharectomy,切痂术,zh-CN
 incision infection,切口感染,zh-CN
 incisional hernia,切口疝,zh-CN
@@ -667,39 +530,29 @@ debridement,清创,zh-CN
 clean wound,清洁伤口,zh-CN
 balloon dilatation,球囊扩张,zh-CN
 castration-resistant prostate cancer,去势抵抗性前列腺癌,zh-CN
-CRPC,去势抵抗性前列腺癌,zh-CN
 total spinal anesthesia,全脊髓麻醉,zh-CN
 complete mesocolic excision,全结肠系膜切除,zh-CN
-CME,全结肠系膜切除,zh-CN
 total intravenous anesthesia,全静脉麻醉,zh-CN
-TIVA,全静脉麻醉,zh-CN
 maintenance of anesthesia,全身麻醉的维持,zh-CN
 induction of anesthesia,全身麻醉的诱导,zh-CN
 systemic inflammatory response syndrome,全身炎症反应综合征,zh-CN
-SIRS,全身炎症反应综合征,zh-CN
 aldosterone-producing adenomas,醛固酮瘤,zh-CN
-APA,醛固酮瘤,zh-CN
 injury of radial nerve,桡神经损伤,zh-CN
 thermal injury,热力烧伤,zh-CN
 human leucocyte antigen,人类白细胞抗原,zh-CN
-HLA,人类白细胞抗原,zh-CN
 gross hematuria,肉眼血尿,zh-CN
 chyluria,乳糜尿,zh-CN
 balloon compression of trigeminal ganglion,三叉神经节球囊压迫术,zh-CN
 trigeminal neuralgia,三叉神经痛,zh-CN
-TN,三叉神经痛,zh-CN
-three holding sutures 3,三定点缝线,zh-CN
+three holding sutures,三定点缝线,zh-CN
 hernia,疝,zh-CN
 upper tract urothelial carcinoma,上尿路尿路上皮癌,zh-CN
-UTUC,上尿路尿路上皮癌,zh-CN
 burn injury,烧伤,zh-CN
 burn area,烧伤面积,zh-CN
 oligodendroglioma,少突胶质细胞瘤,zh-CN
 radio-frequency ablation,射频消融,zh-CN
-RFA,射频消融,zh-CN
 deep partial thickness burn,深Ⅱ度烧伤,zh-CN
 deep venous thrombosis,深静脉血栓形成,zh-CN
-DVT,深静脉血栓形成,zh-CN
 neurotmesis,神经断裂,zh-CN
 neurorrhaphy,神经缝合术,zh-CN
 neurosuture,神经缝合术,zh-CN
@@ -709,7 +562,6 @@ neurolysis,神经松解术,zh-CN
 neurofibroma,神经纤维瘤,zh-CN
 neurofibromatosis,神经纤维瘤病,zh-CN
 neurovascular compression syndrome,神经血管压迫综合征,zh-CN
-NVCS,神经血管压迫综合征,zh-CN
 nerve transposition,神经移位术,zh-CN
 nerve transfer,神经移植术,zh-CN
 neurogenic bladder,神经源性膀胱,zh-CN
@@ -724,116 +576,82 @@ nephroblastoma,肾母细胞瘤,zh-CN
 cortical abscesses of kidney,肾皮质脓肿,zh-CN
 adrenal gland,肾上腺,zh-CN
 adrenal incidentaloma,肾上腺偶发瘤,zh-CN
-AI,肾上腺偶发瘤,zh-CN
 renal injuries,肾损伤,zh-CN
 renal cell carcinoma,肾细胞癌,zh-CN
-RCC,肾细胞癌,zh-CN
 renovascular hypertension,肾血管性高血压,zh-CN
-RVH,肾血管性高血压,zh-CN
 renal transplantation,肾移植,zh-CN
 pancreas-after-kidney transplantation,肾移植后胰腺移植,zh-CN
-PAK,肾移植后胰腺移植,zh-CN
 ureteropelvic junction obstruction,肾盂输尿管连接处梗阻,zh-CN
-UPJO,肾盂输尿管连接处梗阻,zh-CN
 renal tumor,肾肿瘤,zh-CN
 perinephritis,肾周围炎,zh-CN
 autonephrectomy,肾自截,zh-CN
 somatostatin,生长抑素,zh-CN
 germinoma,生殖细胞瘤,zh-CN
 germ cell tumor,生殖细胞肿瘤,zh-CN
-GCT,生殖细胞肿瘤,zh-CN
 hemorrhagic shock,失血性休克,zh-CN
 duodenal diverticulum,十二指肠憩室,zh-CN
 endoscopic sphincterotomy,十二指肠乳头括约肌切开术,zh-CN
-EST,十二指肠乳头括约肌切开术,zh-CN
 solid tumor,实体瘤,zh-CN
 esophageal carcinoma,食管癌,zh-CN
 benign esophageal tumors,食管良性肿瘤,zh-CN
 diverticulum of the esophagus,食管憩室,zh-CN
 intensity modulated radiotherapy,适形调强放射治疗,zh-CN
-IMRT,适形调强放射治疗,zh-CN
 ependymoma,室管膜瘤,zh-CN
 pheochromocytoma and paraganglioma,嗜铬细胞瘤/副神经节瘤,zh-CN
-PPGL,嗜铬细胞瘤/副神经节瘤,zh-CN
 surgical site infection,手术部位感染,zh-CN
-SSI,手术部位感染,zh-CN
 palmar suppurative tenosynovitis,手掌侧化脓性腱鞘炎,zh-CN
 ureteral calculi,输尿管结石,zh-CN
 ureteroscopy and nephroscopy,输尿管镜和肾镜检查,zh-CN
 ureteroscope lithotripsy,输尿管镜碎石取石术,zh-CN
-URL,输尿管镜碎石取石术,zh-CN
 ureterovesical junction obstruction,输尿管膀胱连接处梗阻,zh-CN
-UVJO,输尿管膀胱连接处梗阻,zh-CN
 ureteral injuries,输尿管损伤,zh-CN
 blood transfusion,输血,zh-CN
 transfusion-related acute lung injury,输血相关性急性肺损伤,zh-CN
-TRALI,输血相关性急性肺损伤,zh-CN
 transfusion associated graft versus host disease,输血相关移植物抗宿主病,zh-CN
-T-GVHD,输血相关移植物抗宿主病,zh-CN
 digital subtraction angiography,数字减影血管造影,zh-CN
-DSA,数字减影血管造影,zh-CN
 edema,水肿,zh-CN
 water intoxication,水中毒,zh-CN
 anterograde pyelography,顺行肾盂造影,zh-CN
 laceration,撕裂伤,zh-CN
 host versus graft reaction,宿主抗移植物反应,zh-CN
-HvGR,宿主抗移植物反应,zh-CN
 medulloblastoma,髓母细胞瘤,zh-CN
 damage control resuscitation,损伤控制复苏,zh-CN
-DCR,损伤控制复苏,zh-CN
 damage control surgery,损伤控制外科,zh-CN
-DCS,损伤控制外科,zh-CN
 damage-associated molecularpatterns,损伤诱发相关分子模式,zh-CN
-DAMPs,损伤诱发相关分子模式,zh-CN
 glucocorticoid-remediable aldosteronism,糖皮质激素可抑制性醛固酮增多症,zh-CN
-GRA,糖皮质激素可抑制性醛固酮增多症,zh-CN
 idiopathic hyperaldosteronism,特发性醛固酮增多症,zh-CN
-IHA,特发性醛固酮增多症,zh-CN
 stereotactic body radiotherapy,体部立体定向放射治疗,zh-CN
-SBRT,体部立体定向放射治疗,zh-CN
 extracorporeal shock wave lithotripsy,体外冲击波碎石,zh-CN
-ESWL,体外冲击波碎石,zh-CN
 in vitro fertilization-embryo transfer,体外受精胚胎移植技术,zh-CN
-IVF-ET,体外受精胚胎移植技术,zh-CN
 extracorporeal circulation,体外循环,zh-CN
 cardiopulmonary bypass,体外循环,zh-CN
-CPB,体外循环,zh-CN
 fluid exudation and reabsorptionphase,体液渗出与回吸收期,zh-CN
 body mass index,体质指数,zh-CN
-BMI,体质指数,zh-CN
 Forbes-Albright syndrome,停经溢乳综合征,zh-CN
 hypoventilation,通气不足,zh-CN
 simultaneous pancreas-kidney transplantation,同期胰肾联合移植,zh-CN
-SPK,同期胰肾联合移植,zh-CN
 scalp laceration,头皮裂伤,zh-CN
 scalp avulsion,头皮撕脱伤,zh-CN
 exophthalmic goiter,突眼性甲状腺肿,zh-CN
 dehydration,脱水,zh-CN
 surgical infection,外科感染,zh-CN
-surgical diseases 2,外科疾病,zh-CN
-surgical science 2,外科学,zh-CN
+surgical diseases,外科疾病,zh-CN
+surgical science,外科学,zh-CN
 peripheral nerve stimulation,外周神经电刺激术,zh-CN
-PNS,外周神经电刺激术,zh-CN
 totally extraperitoneal approach,完全经腹膜外路径的修补,zh-CN
-TEP,完全经腹膜外路径的修补,zh-CN
 carpal tunnel syndrome,腕管综合征,zh-CN
 epiploic foramen,网膜孔,zh-CN
 tennis elbow,网球肘,zh-CN
 mesh grafting,网状皮移植,zh-CN
 minimally invasive,微创,zh-CN
 minimally invasive surgery,微创外科技术,zh-CN
-MIS,微创外科技术,zh-CN
 minimally invasive medicine,微创医学,zh-CN
-MIM,微创医学,zh-CN
 microskin grafting,微粒皮移植,zh-CN
 Mini Nutritional Assessment,微型营养评定,zh-CN
-MNA,微型营养评定,zh-CN
 microvascular decompression,微血管减压术,zh-CN
-MVD,微血管减压术,zh-CN
 perioperative management,围手术期处理,zh-CN
 gastric cancer,胃癌,zh-CN
 gastrointestinal stromal tumors,胃肠道间质瘤,zh-CN
-GIST,胃肠道间质瘤,zh-CN
 gastric injury,胃损伤,zh-CN
 contaminated wound,污染伤口,zh-CN
 sessile serrated adenoma/polyps,无蒂锯齿状腺瘤/息肉,zh-CN
@@ -841,21 +659,17 @@ SSA/P,无蒂锯齿状腺瘤/息肉,zh-CN
 asepsis,无菌术,zh-CN
 tension-free hernioplasty,无张力疝修补术,zh-CN
 asymptomatic inflammatory prostatitis,无症状性前列腺炎,zh-CN
-AIP,无症状性前列腺炎,zh-CN
 centipede bite,蜈蚣咬伤,zh-CN
 inhalation anesthetics,吸入麻醉药,zh-CN
 inhalation injury,吸入性损伤,zh-CN
 hemodiluted autotransfusion,稀释式自体输血,zh-CN
 intracellular fluid,细胞内液,zh-CN
-ICF,细胞内液,zh-CN
 extracellular fluid,细胞外液,zh-CN
-ECF,细胞外液,zh-CN
 cell transplantation,细胞移植,zh-CN
 bacterial liver abscess,细菌性肝脓肿,zh-CN
 craniostenosis,狭颅症,zh-CN
 stenosing tenosynovitis,狭窄性腱鞘炎,zh-CN
 lower urinary tract symptoms,下尿路症状,zh-CN
-LUTS,下尿路症状,zh-CN
 chronic venous insufficiency oflower limb,下肢慢性静脉功能不全,zh-CN
 congenital syndactyly,先天性并指畸形,zh-CN
 congenital malrotation of the intestine,先天性肠旋转不良,zh-CN
@@ -864,24 +678,21 @@ congenital hypertrophic pyloric,先天性肥厚性幽门狭窄,zh-CN
 congenital ano-rectal malformation,先天性肛门直肠畸形,zh-CN
 Klinefelter syndrome,先天性睾丸发育不全综合征,zh-CN
 congenital muscular torticollis,先天性肌性斜颈,zh-CN
-CMT,先天性肌性斜颈,zh-CN
 congenital megacolon,先天性巨结肠,zh-CN
 congenital hydrocephalus,先天性脑积水,zh-CN
 fibroxanthoma,纤维黄色瘤,zh-CN
 microsurgery,显微外科,zh-CN
 confine operation,限期手术,zh-CN
 linear fracture,线形骨折,zh-CN
-disinfection 7,消毒,zh-CN
+disinfection,消毒,zh-CN
 small intestine injury,小肠损伤,zh-CN
 bowel transplantation,小肠移植,zh-CN
 small intestinal tumor,小肠肿瘤,zh-CN
 scorpion sting,蝎蜇伤,zh-CN
 myocardial contusion,心肌挫伤,zh-CN
 myocardial depressant factor,心肌抑制因子,zh-CN
-MDF,心肌抑制因子,zh-CN
 cardiac injury,心脏损伤,zh-CN
 fresh frozen plasma,新鲜冰冻血浆,zh-CN
-FFP,新鲜冰冻血浆,zh-CN
 libido,性欲,zh-CN
 tuberculosis of the chest wall,胸壁结核,zh-CN
 tumor of the chest wall,胸壁肿瘤,zh-CN
@@ -897,7 +708,6 @@ tangential excision,削痂术,zh-CN
 vascular malformation,血管畸形,zh-CN
 endovascular treatment,血管内治疗,zh-CN
 angiomyolipoma,血管平滑肌脂肪瘤,zh-CN
-AML,血管平滑肌脂肪瘤,zh-CN
 angiography,血管造影,zh-CN
 plasma substitute,血浆代用品,zh-CN
 hematospermia,血精,zh-CN
@@ -905,21 +715,15 @@ hematuria,血尿,zh-CN
 hemopneumothorax,血气胸,zh-CN
 seroma,血清肿,zh-CN
 thromboangiitis obliterans,血栓闭塞性脉管炎,zh-CN
-TAO,血栓闭塞性脉管炎,zh-CN
 hematocrit,血细胞比容,zh-CN
-HCT,血细胞比容,zh-CN
 thrombopoietin,血小板生成素,zh-CN
-TPO,血小板生成素,zh-CN
 hemothorax,血胸,zh-CN
 blood substitute,血液代用品,zh-CN
 stress urinary incontinence,压力性尿失禁,zh-CN
-SUI,压力性尿失禁,zh-CN
 subacute thyroiditis,亚急性甲状腺炎,zh-CN
 moyamoya disease,烟雾病,zh-CN
 delayed hemolytic transfusion reaction,延迟性溶血反应,zh-CN
-DHTR,延迟性溶血反应,zh-CN
 combined spinal-epidural anesthesia,腰硬联合麻醉,zh-CN
-CSE,腰硬联合麻醉,zh-CN
 lumbar spinal stenosis,腰椎管狭窄症,zh-CN
 lumbar disc herniation,腰椎间盘突出症,zh-CN
 nocturia,夜尿症,zh-CN
@@ -931,9 +735,7 @@ transplantation,移植,zh-CN
 transplantation tolerance,移植免疫耐受,zh-CN
 transplantation rejection,移植排斥反应,zh-CN
 graft versus host reaction,移植物抗宿主反应,zh-CN
-GvHR,移植物抗宿主反应,zh-CN
 hereditary nonpolyposis colon cancer,遗传性非息肉病性结肠癌,zh-CN
-HNPCC,遗传性非息肉病性结肠癌,zh-CN
 enuresis,遗尿,zh-CN
 sigmoid volvulus,乙状结肠扭转,zh-CN
 ectopic corticotropic syndrome,异位 ACTH 综合征,zh-CN
@@ -946,7 +748,6 @@ penis injuries,阴茎损伤,zh-CN
 balanoposthitis,阴茎头包皮炎,zh-CN
 cryptorchidism,隐睾症,zh-CN
 fluorescence in situ hybridization,荧光原位杂交,zh-CN
-FISH,荧光原位杂交,zh-CN
 malnutrition,营养不良,zh-CN
 undernutrition,营养不足,zh-CN
 nutritional risk,营养风险,zh-CN
@@ -954,7 +755,6 @@ nutritional assessment,营养评价,zh-CN
 stress fracture,应力骨折,zh-CN
 epidural anesthesia,硬膜外间隙麻醉,zh-CN
 dural arteriovenous fistula,硬脑膜动静脉瘘,zh-CN
-DAVF,硬脑膜动静脉瘘,zh-CN
 epidural hematoma,硬脑膜外血肿,zh-CN
 carbuncle,痈,zh-CN
 predeposited autotransfusion,预存式自体输血,zh-CN
@@ -962,33 +762,25 @@ primary peritonitis,原发性腹膜炎,zh-CN
 primary hyperparathyroidism,原发性甲状旁腺功能亢进,zh-CN
 primary vesical calculi,原发性膀胱结石,zh-CN
 primary hyperaldosteronism,原发性醛固酮增多症,zh-CN
-PHA,原发性醛固酮增多症,zh-CN
 primary lower extremity varicose veins,原发性下肢静脉曲张,zh-CN
 primary lower extremity deep vein valve insufficiency,原发性下肢深静脉瓣膜功能不全,zh-CN
 carcinoma in situ,原位癌,zh-CN
-CIS,原位癌,zh-CN
 orthotopic liver transplantation,原位肝移植,zh-CN
 metastasis,远处转移,zh-CN
 chronic damage of locomotion system,运动系统慢性损伤,zh-CN
 early goal directed therapy,早期达标治疗,zh-CN
-EGDT,早期达标治疗,zh-CN
 early gastric cancer,早期胃癌,zh-CN
 premature ejaculation,早泄,zh-CN
 selective operation,择期手术,zh-CN
 narrow band imaging,窄带成像技术,zh-CN
-NBI,窄带成像技术,zh-CN
 adhesive capsulitis,粘连性肩关节囊炎,zh-CN
 war wound,战伤,zh-CN
 tension pneumothorax,张力性气胸,zh-CN
 artificial insemination with husband’s semen,丈夫精液人工授精,zh-CN
-AIH,丈夫精液人工授精,zh-CN
 concussion,震荡伤,zh-CN
 Surviving Sepsis Campaign,拯救脓毒症运动,zh-CN
-SSC,拯救脓毒症运动,zh-CN
 normal perfusion pressure breakthrough,正常灌注压突破,zh-CN
-NPPB,正常灌注压突破,zh-CN
 positron emission tomography,正电子发射计算机断层扫描,zh-CN
-PET,正电子发射计算机断层扫描,zh-CN
 injury of median nerve,正中神经损伤,zh-CN
 Sertoli cell,支持细胞,zh-CN
 bronchiectasis,支气管扩张,zh-CN
@@ -997,34 +789,26 @@ rectum injury,直肠损伤,zh-CN
 fracture of the metatarsal,跖骨骨折,zh-CN
 fracture of the phalanx,趾骨骨折,zh-CN
 mass spectrometry,质谱,zh-CN
-MS,质谱,zh-CN
 epileptogenic zone,致痫灶,zh-CN
-EZ,致痫灶,zh-CN
 voided bladder two,中段尿,zh-CN
 central venous pressure,中心静脉压,zh-CN
-CVP,中心静脉压,zh-CN
 tumor,肿瘤,zh-CN
 tumor marker,肿瘤标志物,zh-CN
 tumor treating fields,肿瘤电场治疗,zh-CN
-TTFs,肿瘤电场治疗,zh-CN
 surgical oncology,肿瘤外科,zh-CN
 intensive care unit,重症监测治疗病房,zh-CN
-ICU,重症监测治疗病房,zh-CN
 peripheral arterial aneurysm,周围动脉瘤,zh-CN
 peripheral vascular trauma,周围血管损伤,zh-CN
 axonotmesis,轴索中断,zh-CN
 elbow tunnel syndrome,肘管综合征,zh-CN
 subarachnoid hemorrhage,蛛网膜下腔出血,zh-CN
-SAH,蛛网膜下腔出血,zh-CN
 spinal anesthesia,蛛网膜下腔麻醉,zh-CN
 active surveillance,主动监测,zh-CN
 aortic insufficiency,主动脉瓣关闭不全,zh-CN
 aortic stenosis,主动脉瓣狭窄,zh-CN
 aortic dissection,主动脉夹层,zh-CN
 Subjective Global Assessment,主观全面评定,zh-CN
-SGA,主观全面评定,zh-CN
 major histocompatibility complex,主要组织相容性复合体,zh-CN
-MHC,主要组织相容性复合体,zh-CN
 metastatic cancer of the liver,转移性肝癌,zh-CN
 metastatic sarcoma of the liver,转移性肝肉瘤,zh-CN
 intraspinal tumor,椎管内肿瘤,zh-CN
@@ -1036,6 +820,5 @@ mediastinal flutter,纵隔扑动,zh-CN
 mediastinal emphysema,纵隔气肿,zh-CN
 tissue transplantation,组织移植,zh-CN
 minimum alveolar concentration,最低肺泡有效浓度,zh-CN
-MAC,最低肺泡有效浓度,zh-CN
 bursitis of ischial tuberosity,坐骨结节滑囊炎,zh-CN
 injury of sciatic nerve,坐骨神经损伤,zh-CN
