@@ -1,0 +1,25 @@
+{
+  "id": "electrical-engineering",
+  "name": "Electrical Engineering",
+  "description": "Glossary for electrical engineering, covering power systems, heavy current engineering, system theory, optimization theory, numerical methods, graph theory, artificial neural networks, and operator theory.",
+  "author": "immersive",
+  "glossary": "electrical-engineering",
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "电气工程",
+      "description": "电气工程术语库，涵盖电力系统及其自动化、强电、系统理论、优化理论、数值计算方法、图论、人工神经网络和算子理论等方向的专业术语翻译。"
+    },
+    "zh-TW": {
+      "name": "電氣工程",
+      "description": "電氣工程術語庫，涵蓋電力系統及其自動化、強電、系統理論、最佳化理論、數值計算方法、圖論、人工神經網路和算子理論等方向的專業術語翻譯。"
+    },
+    "en": {
+      "name": "Electrical Engineering",
+      "description": "Glossary for electrical engineering, covering power systems, heavy current engineering, system theory, optimization theory, numerical methods, graph theory, artificial neural networks, and operator theory."
+    }
+  }
+}

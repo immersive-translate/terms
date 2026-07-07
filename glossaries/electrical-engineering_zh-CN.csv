@@ -1,0 +1,88 @@
+﻿source,target,tgt_lng
+Power Flow,潮流,zh-CN
+Power Angle,功角,zh-CN
+Power Swing,功率振荡,zh-CN
+Power Transmission,输电,zh-CN
+Bus,母线,zh-CN
+Feeder,馈线,zh-CN
+Branch,支路,zh-CN
+PQ Bus,PQ节点,zh-CN
+Load,负荷,zh-CN
+Load Shedding,切负荷,zh-CN
+Generator,发电机,zh-CN
+Governor,调速器,zh-CN
+Exciter,励磁机,zh-CN
+Rotor Angle Stability,功角稳定,zh-CN
+Cascading Failure,连锁故障,zh-CN
+Contingency Analysis,预想事故分析,zh-CN
+Energy Management System,能量管理系统,zh-CN
+Phasor Measurement Unit,相量测量单元,zh-CN
+Protective Relay,继电保护装置,zh-CN
+Voltage Sag,电压暂降,zh-CN
+Voltage Swell,电压暂升,zh-CN
+Clearance,电气间隙,zh-CN
+Winding,绕组,zh-CN
+Armature,电枢,zh-CN
+Brush,电刷,zh-CN
+Locked Rotor,堵转,zh-CN
+Pull-Out Torque,最大转矩,zh-CN
+Fuse,熔断器,zh-CN
+Relay,继电器,zh-CN
+Conductor,导体,zh-CN
+Insulator,绝缘子,zh-CN
+Transmission Line,输电线路,zh-CN
+Current,电流,zh-CN
+Resistance,电阻,zh-CN
+Phase,相位,zh-CN
+Line Voltage,线电压,zh-CN
+Form Factor,波形因数,zh-CN
+Kirchhoff's Current Law,基尔霍夫电流定律,zh-CN
+Flux Density,磁通密度,zh-CN
+Reluctance,磁阻,zh-CN
+Permeability,磁导率,zh-CN
+Hysteresis,磁滞,zh-CN
+Converter,变流器,zh-CN
+Chopper,斩波器,zh-CN
+Cycloconverter,周波变流器,zh-CN
+Gate Turn-Off Thyristor,门极可关断晶闸管,zh-CN
+Zener Diode,齐纳二极管,zh-CN
+Filter,滤波器,zh-CN
+Gain Margin,增益裕度,zh-CN
+Settling Time,调节时间,zh-CN
+Overshoot,超调量,zh-CN
+Luenberger Observer,龙伯格观测器,zh-CN
+Disturbance,扰动,zh-CN
+Noise,噪声,zh-CN
+White Noise,白噪声,zh-CN
+Impulse Response,冲激响应,zh-CN
+Primal Problem,原问题,zh-CN
+Branch and Bound,分支定界,zh-CN
+Barrier Method,障碍函数法,zh-CN
+Spline Interpolation,样条插值,zh-CN
+Truncation Error,截断误差,zh-CN
+Ill-Conditioned,病态,zh-CN
+Well-Conditioned,良态,zh-CN
+Graph,图,zh-CN
+Edge,边,zh-CN
+Degree,度,zh-CN
+Out-Degree,出度,zh-CN
+Cycle,回路,zh-CN
+Clique,团,zh-CN
+Cut Set,割集,zh-CN
+Flow Network,流网络,zh-CN
+Softmax,Softmax函数,zh-CN
+Stride,步长,zh-CN
+Exploding Gradient,梯度爆炸,zh-CN
+Dropout,Dropout,zh-CN
+Adam,Adam优化器,zh-CN
+Epoch,轮次,zh-CN
+Batch Size,批次大小,zh-CN
+Overfitting,过拟合,zh-CN
+Attention Mechanism,注意力机制,zh-CN
+Self-Attention,自注意力,zh-CN
+Trace Class Operator,迹类算子,zh-CN
+Resolvent,预解式,zh-CN
+Spectrum,谱,zh-CN
+Continuous Spectrum,连续谱,zh-CN
+Norm,范数,zh-CN
+Functional Calculus,函数演算,zh-CN

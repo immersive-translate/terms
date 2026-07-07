@@ -1,0 +1,88 @@
+﻿source,target,tgt_lng
+Power Flow,潮流,zh-TW
+Power Angle,功角,zh-TW
+Power Swing,功率振盪,zh-TW
+Power Transmission,輸電,zh-TW
+Bus,母線,zh-TW
+Feeder,饋線,zh-TW
+Branch,支路,zh-TW
+PQ Bus,PQ節點,zh-TW
+Load,負荷,zh-TW
+Load Shedding,切負荷,zh-TW
+Generator,發電機,zh-TW
+Governor,調速器,zh-TW
+Exciter,勵磁機,zh-TW
+Rotor Angle Stability,功角穩定,zh-TW
+Cascading Failure,連鎖故障,zh-TW
+Contingency Analysis,預想事故分析,zh-TW
+Energy Management System,能量管理系統,zh-TW
+Phasor Measurement Unit,相量測量單元,zh-TW
+Protective Relay,繼電保護裝置,zh-TW
+Voltage Sag,電壓暫降,zh-TW
+Voltage Swell,電壓暫升,zh-TW
+Clearance,電氣間隙,zh-TW
+Winding,繞組,zh-TW
+Armature,電樞,zh-TW
+Brush,電刷,zh-TW
+Locked Rotor,堵轉,zh-TW
+Pull-Out Torque,最大轉矩,zh-TW
+Fuse,鎔斷器,zh-TW
+Relay,繼電器,zh-TW
+Conductor,導體,zh-TW
+Insulator,絕緣子,zh-TW
+Transmission Line,輸電線路,zh-TW
+Current,電流,zh-TW
+Resistance,電阻,zh-TW
+Phase,相位,zh-TW
+Line Voltage,線電壓,zh-TW
+Form Factor,波形因數,zh-TW
+Kirchhoff's Current Law,基爾霍夫電流定律,zh-TW
+Flux Density,磁通密度,zh-TW
+Reluctance,磁阻,zh-TW
+Permeability,磁導率,zh-TW
+Hysteresis,磁滯,zh-TW
+Converter,變流器,zh-TW
+Chopper,斬波器,zh-TW
+Cycloconverter,週波變流器,zh-TW
+Gate Turn-Off Thyristor,門極可關斷晶閘管,zh-TW
+Zener Diode,齊納二極管,zh-TW
+Filter,濾波器,zh-TW
+Gain Margin,增益裕度,zh-TW
+Settling Time,調節時間,zh-TW
+Overshoot,超調量,zh-TW
+Luenberger Observer,龍伯格觀測器,zh-TW
+Disturbance,擾動,zh-TW
+Noise,噪聲,zh-TW
+White Noise,白噪聲,zh-TW
+Impulse Response,衝激響應,zh-TW
+Primal Problem,原問題,zh-TW
+Branch and Bound,分支定界,zh-TW
+Barrier Method,障礙函數法,zh-TW
+Spline Interpolation,樣條插值,zh-TW
+Truncation Error,截斷誤差,zh-TW
+Ill-Conditioned,病態,zh-TW
+Well-Conditioned,良態,zh-TW
+Graph,圖,zh-TW
+Edge,邊,zh-TW
+Degree,度,zh-TW
+Out-Degree,出度,zh-TW
+Cycle,回路,zh-TW
+Clique,團,zh-TW
+Cut Set,割集,zh-TW
+Flow Network,流網絡,zh-TW
+Softmax,Softmax函數,zh-TW
+Stride,步長,zh-TW
+Exploding Gradient,梯度爆炸,zh-TW
+Dropout,Dropout,zh-TW
+Adam,Adam優化器,zh-TW
+Epoch,輪次,zh-TW
+Batch Size,批次大小,zh-TW
+Overfitting,過擬合,zh-TW
+Attention Mechanism,注意力機制,zh-TW
+Self-Attention,自注意力,zh-TW
+Trace Class Operator,跡類算子,zh-TW
+Resolvent,預解式,zh-TW
+Spectrum,譜,zh-TW
+Continuous Spectrum,連續譜,zh-TW
+Norm,範數,zh-TW
+Functional Calculus,函數演算,zh-TW
