@@ -1,0 +1,224 @@
+source,target,tgt_lng
+Accepted,通过,zh-CN
+Activity on edge,边活动网络,zh-CN
+Activity on vertex,点活动网络,zh-CN
+Adjacency list,邻接表,zh-CN
+Adjacency matrix,邻接矩阵,zh-CN
+Adjacency multilist,邻接多重表,zh-CN
+Adjacent vertex,相邻顶点,zh-CN
+Advocates,支持者,zh-CN
+Algorithm,算法,zh-CN
+Alphabetical order,字典序,zh-CN
+Alternative standings,歪榜,zh-CN
+Approximate string matching,近似字符串匹配,zh-CN
+Arbitrary-precision arithmetic,高精度计算,zh-CN
+Arithmetic mean,算术平均数,zh-CN
+Arithmetic progression,等差数列,zh-CN
+Array,数组,zh-CN
+Articulation point,割点,zh-CN
+Ascending order,升序,zh-CN
+Augmenting path,增广路,zh-CN
+Backtracking,回溯,zh-CN
+Bellman-Ford algorithm,Bellman-Ford 算法,zh-CN
+Biconnected graph,双连通图,zh-CN
+Binary lifting,倍增,zh-CN
+Binary search,二分查找,zh-CN
+Binary search tree,二叉搜索树,zh-CN
+Binary sort tree,二叉排序树,zh-CN
+Bipartite graph,二分图,zh-CN
+Bipartite matching,二分图匹配,zh-CN
+Bit manipulation,位运算,zh-CN
+Blank string,空串,zh-CN
+Block search,分块查找,zh-CN
+Breadth-first search,广度优先搜索,zh-CN
+Brute force,暴力枚举,zh-CN
+CCPC,中国大学生程序设计竞赛,zh-CN
+Chinese remainder theorem,中国剩余定理,zh-CN
+Circular linked list,循环链表,zh-CN
+Clique,团,zh-CN
+Clockwise order,顺时针顺序,zh-CN
+Collinear,共线,zh-CN
+Column-major order,列主序,zh-CN
+Combinatorics,组合数学,zh-CN
+Common superstring,公共超串,zh-CN
+Competitive programming,竞赛编程,zh-CN
+Compile error,编译错误,zh-CN
+Complete binary tree,完全二叉树,zh-CN
+Complete graph,完全图,zh-CN
+Composite number,合数,zh-CN
+Computational geometry,计算几何,zh-CN
+Concave polygon,凹多边形,zh-CN
+Connected component,连通分量,zh-CN
+Contest duration,比赛时长,zh-CN
+Convex hull,凸包,zh-CN
+Coordinate compression,离散化,zh-CN
+Critical path,关键路径,zh-CN
+Data type,数据类型,zh-CN
+Decision tree,判定树,zh-CN
+Dense graph,稠密图,zh-CN
+Depth-first search,深度优先搜索,zh-CN
+Deque,双端队列,zh-CN
+Descending order,降序,zh-CN
+Determinant,行列式,zh-CN
+Difference array,差分数组,zh-CN
+Dijkstra's algorithm,Dijkstra 算法,zh-CN
+Dinic's algorithm,Dinic 算法,zh-CN
+Directed acyclic graph,有向无环图,zh-CN
+Dirt,已解题目的平均提交次数,zh-CN
+Discrete Fourier transform,离散傅里叶变换,zh-CN
+Disjoint,不相交,zh-CN
+Disjoint set union,并查集,zh-CN
+Divide and conquer,分治,zh-CN
+Doubly linked list,双向链表,zh-CN
+Dynamic programming,动态规划,zh-CN
+Eulerian cycle,欧拉回路,zh-CN
+Exhaustive search,搜索枚举,zh-CN
+Extended Euclidean algorithm,扩展欧几里得算法,zh-CN
+External sort,外部排序,zh-CN
+Factoring and primality testing,因数分解与素性测试,zh-CN
+Fast exponentiation,快速幂,zh-CN
+Fenwick tree,树状数组,zh-CN
+Finite state machine minimization,有限状态机最小化,zh-CN
+First to solve,首个解出,zh-CN
+Floyd-Warshall algorithm,Floyd 算法,zh-CN
+Follow the standings,跟榜,zh-CN
+Frozen scoreboard,封榜,zh-CN
+Full binary tree,满二叉树,zh-CN
+Generalized list,广义表,zh-CN
+Geometric progression,等比数列,zh-CN
+Graph isomorphism,图同构,zh-CN
+Graph partition,图划分,zh-CN
+Greatest common divisor,最大公约数,zh-CN
+Greedy algorithm,贪心算法,zh-CN
+Hamiltonian cycle,哈密顿回路,zh-CN
+Hash table,哈希表,zh-CN
+Heap sort,堆排序,zh-CN
+Huffman tree,哈夫曼树,zh-CN
+ICPC,国际大学生程序设计竞赛,zh-CN
+Identifier,标识符,zh-CN
+Indegree,入度,zh-CN
+Independent set,独立集,zh-CN
+Inequality,不等式,zh-CN
+Initialization,初始化,zh-CN
+Inorder traversal,中序遍历,zh-CN
+Integer,整数,zh-CN
+Intersection,交点,zh-CN
+Interval,区间,zh-CN
+Knapsack problem,背包问题,zh-CN
+Knuth-Morris-Pratt algorithm,KMP 算法,zh-CN
+Kruskal's algorithm,Kruskal 算法,zh-CN
+Least common multiple,最小公倍数,zh-CN
+Line sweep,扫描线,zh-CN
+Linear algebra,线性代数,zh-CN
+Linear equation,线性方程,zh-CN
+Linear programming,线性规划,zh-CN
+Linked list,链表,zh-CN
+Live standings,实时榜,zh-CN
+Longest common substring,最长公共子串,zh-CN
+Lowest common ancestor,最近公共祖先,zh-CN
+Manacher's algorithm,Manacher 算法,zh-CN
+Matching,匹配,zh-CN
+Matrix multiplication,矩阵乘法,zh-CN
+Maximum matching,最大匹配,zh-CN
+Memory limit exceeded,超出内存限制,zh-CN
+Merge sort,归并排序,zh-CN
+Minimum spanning tree,最小生成树,zh-CN
+Modular arithmetic,模运算,zh-CN
+Modulus,模数,zh-CN
+Monotonic queue,单调队列,zh-CN
+Monotonic stack,单调栈,zh-CN
+Multidimensional array,多维数组,zh-CN
+Nearest neighbor search,最近邻搜索,zh-CN
+Network flow,网络流,zh-CN
+NOI,全国青少年信息学奥林匹克竞赛,zh-CN
+Official,正式队伍,zh-CN
+OI,信息学奥林匹克竞赛,zh-CN
+OJ,在线评测系统,zh-CN
+Online judge,在线评测系统,zh-CN
+Ordered pair,有序对,zh-CN
+Outdegree,出度,zh-CN
+Output limit exceeded,输出超限,zh-CN
+Overflow,溢出,zh-CN
+Palindrome,回文,zh-CN
+Parity,奇偶性,zh-CN
+Penalty,罚时,zh-CN
+Penalty time,罚时,zh-CN
+Point location,点定位,zh-CN
+Polygon partitioning,多边形划分,zh-CN
+Postorder traversal,后序遍历,zh-CN
+Prefix sum,前缀和,zh-CN
+Preorder traversal,先序遍历,zh-CN
+Presentation error,格式错误,zh-CN
+Prim's algorithm,Prim 算法,zh-CN
+Prime number,质数,zh-CN
+Priority queue,优先队列,zh-CN
+Problem setter,出题人,zh-CN
+Problem solved,题目已解出,zh-CN
+Radix sort,基数排序,zh-CN
+Range search,范围查询,zh-CN
+Rating,等级分,zh-CN
+Recursion,递归,zh-CN
+Regional Contest,区域赛,zh-CN
+Rolling hash,字符串哈希,zh-CN
+Runtime error,运行时错误,zh-CN
+Sample input,样例输入,zh-CN
+Sample output,样例输出,zh-CN
+Satisfiability,可满足性,zh-CN
+Scoreboard,积分榜,zh-CN
+SE,平均难度,zh-CN
+Segment tree,线段树,zh-CN
+Selection sort,选择排序,zh-CN
+Sequential search,顺序查找,zh-CN
+Set cover,集合覆盖,zh-CN
+Shortest common superstring,最短公共超串,zh-CN
+Shortest path,最短路,zh-CN
+Sieve of Eratosthenes,埃氏筛,zh-CN
+Simple cycle,简单环,zh-CN
+Simple path,简单路径,zh-CN
+Sink,汇点,zh-CN
+Sliding window,滑动窗口,zh-CN
+Solve,解出,zh-CN
+Solved problems,通过题数,zh-CN
+Source,源点,zh-CN
+Spanning forest,生成森林,zh-CN
+Spanning tree,生成树,zh-CN
+Sparse graph,稀疏图,zh-CN
+Sparse matrix,稀疏矩阵,zh-CN
+Sparse table,ST 表,zh-CN
+Square root,平方根,zh-CN
+Stack overflow,栈溢出,zh-CN
+String matching,字符串匹配,zh-CN
+Strongly connected components,强连通分量,zh-CN
+Strongly connected graph,强连通图,zh-CN
+Subgraph,子图,zh-CN
+Substring,子串,zh-CN
+Subtree,子树,zh-CN
+Suffix array,后缀数组,zh-CN
+Suffix automaton,后缀自动机,zh-CN
+Symmetric matrix,对称矩阵,zh-CN
+System error,系统错误,zh-CN
+Tarjan's algorithm,Tarjan 算法,zh-CN
+Test case,测试用例,zh-CN
+Time limit exceeded,超出时间限制,zh-CN
+Topological sorting,拓扑排序,zh-CN
+Transitive closure,传递闭包,zh-CN
+Transitive reduction,传递约简,zh-CN
+Transpose matrix,转置矩阵,zh-CN
+Tree traversal,树的遍历,zh-CN
+Triangle inequality,三角不等式,zh-CN
+Triangulation,三角剖分,zh-CN
+Trie,字典树,zh-CN
+Two pointers,双指针,zh-CN
+Undirected graph,无向图,zh-CN
+Union,并集,zh-CN
+Unofficial,打星队伍,zh-CN
+Unofficial standings,外榜,zh-CN
+Vertex,顶点,zh-CN
+Vertex coloring,顶点染色,zh-CN
+Vertex cover,点覆盖,zh-CN
+Voronoi diagram,Voronoi 图,zh-CN
+Weakly connected graph,弱连通图,zh-CN
+Weighted graph,带权图,zh-CN
+World Finals,全球总决赛,zh-CN
+Wrong answer,答案错误,zh-CN
+Z algorithm,Z 函数,zh-CN

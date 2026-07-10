@@ -1,0 +1,50 @@
+{
+  "id": "programming-contest",
+  "name": "Programming Contest",
+  "description": "Specialized in translating programming contest terminology, including XCPC, OI contests, data structures, and common algorithms.",
+  "author": "Tabris-ZX",
+  "glossary": "programming-contest",
+  "matches": [
+    "*://codeforces.com/*",
+    "*://*.codeforces.com/*",
+    "*://atcoder.jp/*",
+    "*://*.atcoder.jp/*",
+    "*://leetcode.com/*",
+    "*://leetcode.cn/*",
+    "*://luogu.com.cn/*",
+    "*://*.luogu.com.cn/*",
+    "*://vjudge.net/*",
+    "*://ac.nowcoder.com/*",
+    "*://www.acwing.com/*",
+    "*://acm.hdu.edu.cn/*",
+    "*://hydro.ac/*",
+    "*://qoj.ac/*",
+    "*://www.codechef.com/*",
+    "*://onlinejudge.org/*",
+    "*://poj.org/*",
+    "*://www.poj.org/*",
+    "*://oi-wiki.org/*",
+    "*://*.oi-wiki.org/*",
+    "*://cp-algorithms.com/*",
+    "*://board.xcpcio.com/*",
+    "*://icpc.global/*"
+  ],
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "程序设计竞赛",
+      "description": "算法竞赛术语库，包含 XCPC、OI 赛事、数据结构和常用算法的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "程式設計競賽",
+      "description": "演算法競賽術語庫，包含 XCPC、OI 賽事、資料結構和常用演算法的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Programming Contest",
+      "description": "Specialized in translating programming contest terminology, including XCPC, OI contests, data structures, and common algorithms."
+    }
+  }
+}

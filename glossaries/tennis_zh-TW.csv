@@ -1,0 +1,35 @@
+source,target,tgt_lng
+Tennis,網球,zh-TW
+Court,球場,zh-TW
+Baseline,底線,zh-TW
+Service box,發球區,zh-TW
+Net,球網,zh-TW
+Singles,單打,zh-TW
+Doubles,雙打,zh-TW
+Serve,發球,zh-TW
+First serve,一發,zh-TW
+Second serve,二發,zh-TW
+Ace,發球直接得分,zh-TW
+Double fault,雙發失誤,zh-TW
+Let,擦網重發,zh-TW
+Deuce,平分,zh-TW
+Advantage,佔先,zh-TW
+Break point,破發點,zh-TW
+Break of serve,破發,zh-TW
+Hold serve,保發,zh-TW
+Tiebreak,搶七局,zh-TW
+Set,盤,zh-TW
+Match point,賽點,zh-TW
+Forehand,正手,zh-TW
+Backhand,反手,zh-TW
+Volley,截擊,zh-TW
+Smash,高壓球,zh-TW
+Slice,切削球,zh-TW
+Topspin,上旋球,zh-TW
+Drop shot,放短球,zh-TW
+Lob,挑高球,zh-TW
+Rally,多拍回合,zh-TW
+Unforced error,非受迫性失誤,zh-TW
+Winner,致勝分,zh-TW
+Love,零分,zh-TW
+Grand Slam,大滿貫,zh-TW
