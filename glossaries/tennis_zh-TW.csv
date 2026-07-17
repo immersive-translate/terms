@@ -1,5 +1,4 @@
 source,target,tgt_lng
-Tennis,網球,zh-TW
 Court,球場,zh-TW
 Baseline,底線,zh-TW
 Service box,發球區,zh-TW
@@ -9,27 +8,49 @@ Doubles,雙打,zh-TW
 Serve,發球,zh-TW
 First serve,一發,zh-TW
 Second serve,二發,zh-TW
-Ace,發球直接得分,zh-TW
-Double fault,雙發失誤,zh-TW
-Let,擦網重發,zh-TW
+1st serve,一發,zh-TW
+2nd serve,二發,zh-TW
+Ace,Ace球,zh-TW
+Aces,Ace球數,zh-TW
+Service Winner,發球致勝分,zh-TW
+Double fault,雙誤,zh-TW
+Let,擦網,zh-TW
 Deuce,平分,zh-TW
 Advantage,佔先,zh-TW
 Break point,破發點,zh-TW
 Break of serve,破發,zh-TW
 Hold serve,保發,zh-TW
-Tiebreak,搶七局,zh-TW
+Tiebreak,搶七,zh-TW
 Set,盤,zh-TW
+Game point,局點,zh-TW
+Set point,盤點,zh-TW
 Match point,賽點,zh-TW
+Game Set and Match,勝負已分,zh-TW
 Forehand,正手,zh-TW
 Backhand,反手,zh-TW
 Volley,截擊,zh-TW
+Overhead,高遠球,zh-TW
 Smash,高壓球,zh-TW
 Slice,切削球,zh-TW
 Topspin,上旋球,zh-TW
+Underspin,下旋,zh-TW
 Drop shot,放短球,zh-TW
 Lob,挑高球,zh-TW
 Rally,多拍回合,zh-TW
+Footwork,腳步技術,zh-TW
+Grip,握拍方式,zh-TW
+Overhead smash,高遠球擊球,zh-TW
+Passing shot,過人球,zh-TW
+Let cord,平球網線,zh-TW
+Foot fault,腳錯,zh-TW
 Unforced error,非受迫性失誤,zh-TW
 Winner,致勝分,zh-TW
 Love,零分,zh-TW
 Grand Slam,大滿貫,zh-TW
+H2H,交手紀錄,zh-TW
+Head to head,交手紀錄,zh-TW
+Player,選手,zh-TW
+Ranking,排名,zh-TW
+Pressure,關鍵球,zh-TW
+Return,接發球,zh-TW
+Challenger,挑戰賽,zh-TW

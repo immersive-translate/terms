@@ -1,224 +1,105 @@
 source,target,tgt_lng
 Accepted,通過,zh-TW
-Activity on edge,邊活動網路,zh-TW
-Activity on vertex,點活動網路,zh-TW
-Adjacency list,鄰接表,zh-TW
-Adjacency matrix,鄰接矩陣,zh-TW
-Adjacency multilist,鄰接多重表,zh-TW
-Adjacent vertex,相鄰頂點,zh-TW
-Advocates,支持者,zh-TW
-Algorithm,演算法,zh-TW
-Alphabetical order,字典序,zh-TW
 Alternative standings,歪榜,zh-TW
-Approximate string matching,近似字串匹配,zh-TW
-Arbitrary-precision arithmetic,高精度計算,zh-TW
-Arithmetic mean,算術平均數,zh-TW
-Arithmetic progression,等差數列,zh-TW
-Array,陣列,zh-TW
-Articulation point,割點,zh-TW
-Ascending order,遞增序,zh-TW
-Augmenting path,增廣路,zh-TW
-Backtracking,回溯,zh-TW
-Bellman-Ford algorithm,Bellman-Ford 演算法,zh-TW
-Biconnected graph,雙連通圖,zh-TW
-Binary lifting,倍增,zh-TW
-Binary search,二分搜尋,zh-TW
-Binary search tree,二元搜尋樹,zh-TW
-Binary sort tree,二元排序樹,zh-TW
-Bipartite graph,二分圖,zh-TW
-Bipartite matching,二分圖匹配,zh-TW
-Bit manipulation,位元運算,zh-TW
-Blank string,空字串,zh-TW
-Block search,分塊搜尋,zh-TW
-Breadth-first search,廣度優先搜尋,zh-TW
-Brute force,暴力枚舉,zh-TW
-CCPC,中國大學生程式設計競賽,zh-TW
-Chinese remainder theorem,中國剩餘定理,zh-TW
-Circular linked list,循環鏈結串列,zh-TW
-Clique,團,zh-TW
-Clockwise order,順時針順序,zh-TW
-Collinear,共線,zh-TW
-Column-major order,行列主序,zh-TW
-Combinatorics,組合數學,zh-TW
-Common superstring,公共超字串,zh-TW
-Competitive programming,競賽程式設計,zh-TW
-Compile error,編譯錯誤,zh-TW
-Complete binary tree,完全二元樹,zh-TW
-Complete graph,完全圖,zh-TW
-Composite number,合數,zh-TW
-Computational geometry,計算幾何,zh-TW
-Concave polygon,凹多邊形,zh-TW
-Connected component,連通分量,zh-TW
-Contest duration,比賽時長,zh-TW
-Convex hull,凸包,zh-TW
-Coordinate compression,離散化,zh-TW
-Critical path,關鍵路徑,zh-TW
-Data type,資料型別,zh-TW
-Decision tree,決策樹,zh-TW
-Dense graph,稠密圖,zh-TW
-Depth-first search,深度優先搜尋,zh-TW
-Deque,雙端佇列,zh-TW
-Descending order,遞減序,zh-TW
-Determinant,行列式,zh-TW
-Difference array,差分陣列,zh-TW
-Dijkstra's algorithm,Dijkstra 演算法,zh-TW
-Dinic's algorithm,Dinic 演算法,zh-TW
-Directed acyclic graph,有向無環圖,zh-TW
-Dirt,已解題目的平均提交次數,zh-TW
-Discrete Fourier transform,離散傅立葉轉換,zh-TW
-Disjoint,不相交,zh-TW
-Disjoint set union,並查集,zh-TW
-Divide and conquer,分治,zh-TW
-Doubly linked list,雙向鏈結串列,zh-TW
-Dynamic programming,動態規劃,zh-TW
-Eulerian cycle,尤拉迴路,zh-TW
-Exhaustive search,搜尋枚舉,zh-TW
-Extended Euclidean algorithm,擴展歐幾里得演算法,zh-TW
-External sort,外部排序,zh-TW
-Factoring and primality testing,因數分解與質數測試,zh-TW
-Fast exponentiation,快速冪,zh-TW
-Fenwick tree,樹狀陣列,zh-TW
-Finite state machine minimization,有限狀態機最小化,zh-TW
-First to solve,首個解出,zh-TW
-Floyd-Warshall algorithm,Floyd 演算法,zh-TW
+Dirt,已解題目的平均提交數,zh-TW
+First to solve,一血,zh-TW
 Follow the standings,跟榜,zh-TW
 Frozen scoreboard,封榜,zh-TW
-Full binary tree,滿二元樹,zh-TW
-Generalized list,廣義表,zh-TW
-Geometric progression,等比數列,zh-TW
-Graph isomorphism,圖同構,zh-TW
-Graph partition,圖分割,zh-TW
-Greatest common divisor,最大公因數,zh-TW
-Greedy algorithm,貪心演算法,zh-TW
-Hamiltonian cycle,哈密頓迴路,zh-TW
-Hash table,雜湊表,zh-TW
-Heap sort,堆積排序,zh-TW
-Huffman tree,霍夫曼樹,zh-TW
-ICPC,國際大學生程式設計競賽,zh-TW
-Identifier,識別碼,zh-TW
-Indegree,入度,zh-TW
-Independent set,獨立集,zh-TW
-Inequality,不等式,zh-TW
-Initialization,初始化,zh-TW
-Inorder traversal,中序走訪,zh-TW
-Integer,整數,zh-TW
-Intersection,交點,zh-TW
-Interval,區間,zh-TW
-Knapsack problem,背包問題,zh-TW
-Knuth-Morris-Pratt algorithm,KMP 演算法,zh-TW
-Kruskal's algorithm,Kruskal 演算法,zh-TW
-Least common multiple,最小公倍數,zh-TW
-Line sweep,掃描線,zh-TW
-Linear algebra,線性代數,zh-TW
-Linear equation,線性方程,zh-TW
-Linear programming,線性規劃,zh-TW
-Linked list,鏈結串列,zh-TW
-Live standings,即時榜,zh-TW
-Longest common substring,最長公共子字串,zh-TW
-Lowest common ancestor,最近共同祖先,zh-TW
-Manacher's algorithm,Manacher 演算法,zh-TW
-Matching,匹配,zh-TW
-Matrix multiplication,矩陣乘法,zh-TW
-Maximum matching,最大匹配,zh-TW
-Memory limit exceeded,超出記憶體限制,zh-TW
-Merge sort,合併排序,zh-TW
-Minimum spanning tree,最小生成樹,zh-TW
-Modular arithmetic,模運算,zh-TW
-Modulus,模數,zh-TW
-Monotonic queue,單調佇列,zh-TW
-Monotonic stack,單調堆疊,zh-TW
-Multidimensional array,多維陣列,zh-TW
-Nearest neighbor search,最近鄰搜尋,zh-TW
-Network flow,網路流,zh-TW
-NOI,全國青少年資訊學奧林匹克競賽,zh-TW
-Official,正式隊伍,zh-TW
-OI,資訊學奧林匹克競賽,zh-TW
-OJ,線上評測系統,zh-TW
-Online judge,線上評測系統,zh-TW
-Ordered pair,有序對,zh-TW
-Outdegree,出度,zh-TW
-Output limit exceeded,輸出超限,zh-TW
-Overflow,溢位,zh-TW
-Palindrome,迴文,zh-TW
-Parity,奇偶性,zh-TW
-Penalty,罰時,zh-TW
-Penalty time,罰時,zh-TW
-Point location,點定位,zh-TW
-Polygon partitioning,多邊形分割,zh-TW
-Postorder traversal,後序走訪,zh-TW
-Prefix sum,前綴和,zh-TW
-Preorder traversal,前序走訪,zh-TW
-Presentation error,格式錯誤,zh-TW
-Prim's algorithm,Prim 演算法,zh-TW
-Prime number,質數,zh-TW
-Priority queue,優先佇列,zh-TW
-Problem setter,出題人,zh-TW
-Problem solved,題目已解出,zh-TW
-Radix sort,基數排序,zh-TW
-Range search,範圍查詢,zh-TW
 Rating,等級分,zh-TW
-Recursion,遞迴,zh-TW
-Regional Contest,區域賽,zh-TW
-Rolling hash,字串雜湊,zh-TW
-Runtime error,執行階段錯誤,zh-TW
-Sample input,範例輸入,zh-TW
-Sample output,範例輸出,zh-TW
-Satisfiability,可滿足性,zh-TW
 Scoreboard,積分榜,zh-TW
-SE,平均難度,zh-TW
-Segment tree,線段樹,zh-TW
-Selection sort,選擇排序,zh-TW
-Sequential search,循序搜尋,zh-TW
-Set cover,集合覆蓋,zh-TW
-Shortest common superstring,最短公共超字串,zh-TW
-Shortest path,最短路徑,zh-TW
-Sieve of Eratosthenes,埃氏篩,zh-TW
-Simple cycle,簡單迴路,zh-TW
-Simple path,簡單路徑,zh-TW
-Sink,匯點,zh-TW
-Sliding window,滑動視窗,zh-TW
-Solve,解出,zh-TW
 Solved problems,通過題數,zh-TW
-Source,源點,zh-TW
-Spanning forest,生成森林,zh-TW
-Spanning tree,生成樹,zh-TW
-Sparse graph,稀疏圖,zh-TW
-Sparse matrix,稀疏矩陣,zh-TW
-Sparse table,ST 表,zh-TW
-Square root,平方根,zh-TW
-Stack overflow,堆疊溢位,zh-TW
-String matching,字串匹配,zh-TW
-Strongly connected components,強連通分量,zh-TW
-Strongly connected graph,強連通圖,zh-TW
-Subgraph,子圖,zh-TW
-Substring,子字串,zh-TW
-Subtree,子樹,zh-TW
-Suffix array,後綴陣列,zh-TW
-Suffix automaton,後綴自動機,zh-TW
-Symmetric matrix,對稱矩陣,zh-TW
-System error,系統錯誤,zh-TW
-Tarjan's algorithm,Tarjan 演算法,zh-TW
-Test case,測試用例,zh-TW
-Time limit exceeded,超出時間限制,zh-TW
-Topological sorting,拓撲排序,zh-TW
-Transitive closure,傳遞閉包,zh-TW
-Transitive reduction,傳遞約簡,zh-TW
-Transpose matrix,轉置矩陣,zh-TW
-Tree traversal,樹的走訪,zh-TW
-Triangle inequality,三角不等式,zh-TW
-Triangulation,三角剖分,zh-TW
-Trie,字典樹,zh-TW
-Two pointers,雙指標,zh-TW
-Undirected graph,無向圖,zh-TW
-Union,聯集,zh-TW
-Unofficial,打星隊伍,zh-TW
+Standard Edition,平均難度,zh-TW
 Unofficial standings,外榜,zh-TW
-Vertex,頂點,zh-TW
-Vertex coloring,頂點著色,zh-TW
-Vertex cover,頂點覆蓋,zh-TW
-Voronoi diagram,Voronoi 圖,zh-TW
-Weakly connected graph,弱連通圖,zh-TW
-Weighted graph,帶權圖,zh-TW
-World Finals,全球總決賽,zh-TW
-Wrong answer,答案錯誤,zh-TW
-Z algorithm,Z 函數,zh-TW
+the property holds,該性質成立,zh-TW
+answer a query,回答一次詢問,zh-TW
+process the queries,處理這些詢問,zh-TW
+make a move,走一步,zh-TW
+in one move,一步內,zh-TW
+problem statement,題面,zh-TW
+the jury,出題方,zh-TW
+jury's answer,標準答案,zh-TW
+jury's solution,標準程式,zh-TW
+judge's response,互動器回傳的資訊,zh-TW
+run the program,執行程式,zh-TW
+a run of equal characters,一段連續相同字元,zh-TW
+free cell,空閒格,zh-TW
+good array,合法陣列,zh-TW
+good string,合法字串,zh-TW
+good segment,合法區間,zh-TW
+correct bracket sequence,合法括號序列,zh-TW
+regular bracket sequence,合法括號序列,zh-TW
+a segment of the array,陣列的連續子段,zh-TW
+on the segment,在該區間內,zh-TW
+cover a segment,覆蓋區間,zh-TW
+split into segments,劃分成若干連續段,zh-TW
+proper prefix,真前綴,zh-TW
+proper subset,真子集,zh-TW
+proper divisor,真因數,zh-TW
+without loss of generality,不失一般性,zh-TW
+tight bound,緊界,zh-TW
+up to permutation,在不計排列順序的意義下,zh-TW
+up to symmetry,在對稱等價意義下,zh-TW
+floor,向下取整,zh-TW
+ceil,向上取整,zh-TW
+relax an edge,對一條邊進行鬆弛,zh-TW
+reroot the tree,換根,zh-TW
+compress the values,對值進行離散化,zh-TW
+sweep from left to right,從左到右掃描,zh-TW
+scan the array,走訪陣列,zh-TW
+recover the answer,還原答案,zh-TW
+trace back the transitions,沿狀態轉移回溯,zh-TW
+process offline,離線處理,zh-TW
+online algorithm,線上演算法,zh-TW
+query on a prefix,查詢一個前綴,zh-TW
+point update,單點修改,zh-TW
+range update,區間修改,zh-TW
+lazy propagation,懶標記下傳,zh-TW
+binary lifting,倍增,zh-TW
+meet in the middle,折半搜尋,zh-TW
+small-to-large merging,啟發式合併,zh-TW
+heavy-light decomposition,樹鏈剖分,zh-TW
+difference constraints,差分約束,zh-TW
+exchange argument,交換論證,zh-TW
+failed test,未通過的測試點,zh-TW
+system testing,系統測試,zh-TW
+challenge a solution,Hack 某個程式,zh-TW
+successful challenge,Hack 成功,zh-TW
+scoreboard freeze,封榜,zh-TW
+penalty time,罰時,zh-TW
+contestant's run,選手程式的一次執行,zh-TW
+reference solution,標準程式,zh-TW
+model solution,標準題解,zh-TW
+intended solution,預期解法,zh-TW
+official solution,官方題解,zh-TW
+out of competition,打星參賽,zh-TW
+virtual participation,虛擬參賽,zh-TW
+Constraints,資料範圍,zh-TW
+sample,範例,zh-TW
+distinct,互不相同的,zh-TW
+submission,提交記錄,zh-TW
+verdict,判定結果,zh-TW
+pretests,預測試,zh-TW
+hack,Hack,zh-TW
+stress testing,對拍,zh-TW
+generator,資料產生器,zh-TW
+brute force,暴力程式,zh-TW
+checker,特殊評測器,zh-TW
+interactor,互動器,zh-TW
+rated contest,計分賽,zh-TW
+unrated contest,不計分賽,zh-TW
+standings,排行榜,zh-TW
+practice,練習模式,zh-TW
+upsolve,賽後補題,zh-TW
+clarification,題意澄清,zh-TW
+first solve,首次通過,zh-TW
+implementation problem,模擬題,zh-TW
+greedy,貪心,zh-TW
+coordinate compression,離散化,zh-TW
+meet-in-the-middle,折半搜尋,zh-TW
+amortized complexity,均攤複雜度,zh-TW
+invariant,不變量,zh-TW
+contribution technique,貢獻法,zh-TW
+residual graph,殘餘網路,zh-TW
+a walk in a graph,圖上的遊走,zh-TW
+a trail in a graph,圖上的跡,zh-TW
+a bridge in a graph,圖中的割邊,zh-TW
