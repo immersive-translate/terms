@@ -1,105 +1,87 @@
 source,target,tgt_lng
-Accepted,通过,zh-CN
-Alternative standings,歪榜,zh-CN
-Dirt,已解题目的平均提交数,zh-CN
-First to solve,一血,zh-CN
-Follow the standings,跟榜,zh-CN
-Frozen scoreboard,封榜,zh-CN
-Rating,等级分,zh-CN
-Scoreboard,积分榜,zh-CN
-Solved problems,通过题数,zh-CN
-Standard Edition,平均难度,zh-CN
-Unofficial standings,外榜,zh-CN
-the property holds,该性质成立,zh-CN
-answer a query,回答一次询问,zh-CN
-process the queries,处理这些询问,zh-CN
-make a move,走一步,zh-CN
-in one move,一步内,zh-CN
-problem statement,题面,zh-CN
+programming competition,程序设计竞赛,zh-CN
+Regional Contest,区域赛,zh-CN
+National Invitational Programming Contest,全国邀请赛,zh-CN
+Provincial Programming Contest,省赛,zh-CN
+World Finals,全球总决赛,zh-CN
+rated contest,计分赛,zh-CN
+unrated contest,不计分赛,zh-CN
+practice,练习模式,zh-CN
+virtual participation,虚拟参赛,zh-CN
+Official,正式队伍,zh-CN
+Unofficial,打星选手,zh-CN
+Unofficially,打星参与,zh-CN
+workstation,比赛用机,zh-CN
+Advocates,支持者,zh-CN
+Problem setter,出题人,zh-CN
 the jury,出题方,zh-CN
 jury's answer,标准答案,zh-CN
 jury's solution,标准程序,zh-CN
-judge's response,交互器返回的信息,zh-CN
-run the program,运行程序,zh-CN
-a run of equal characters,一段连续相同字符,zh-CN
-free cell,空闲格,zh-CN
-good array,合法数组,zh-CN
-good string,合法字符串,zh-CN
-good segment,合法区间,zh-CN
-correct bracket sequence,合法括号序列,zh-CN
-regular bracket sequence,合法括号序列,zh-CN
-a segment of the array,数组的连续子段,zh-CN
-on the segment,在该区间内,zh-CN
-cover a segment,覆盖区间,zh-CN
-split into segments,划分成若干连续段,zh-CN
+Task,题目,zh-CN
+problem statement,题面,zh-CN
+Constraints,数据范围,zh-CN
+sample,样例,zh-CN
+test case,测试用例,zh-CN
+query,询问,zh-CN
+distinct,互不相同的,zh-CN
+inclusive,包含端点,zh-CN
+modulo,取模,zh-CN
 proper prefix,真前缀,zh-CN
 proper subset,真子集,zh-CN
 proper divisor,真约数,zh-CN
-without loss of generality,不失一般性,zh-CN
-tight bound,紧界,zh-CN
-up to permutation,在不计排列顺序的意义下,zh-CN
-up to symmetry,在对称等价意义下,zh-CN
 floor,向下取整,zh-CN
 ceil,向上取整,zh-CN
-relax an edge,对一条边进行松弛,zh-CN
-reroot the tree,换根,zh-CN
-compress the values,对值进行离散化,zh-CN
-sweep from left to right,从左到右扫描,zh-CN
-scan the array,遍历数组,zh-CN
-recover the answer,还原答案,zh-CN
-trace back the transitions,沿状态转移回溯,zh-CN
-process offline,离线处理,zh-CN
-online algorithm,在线算法,zh-CN
-query on a prefix,查询一个前缀,zh-CN
-point update,单点修改,zh-CN
-range update,区间修改,zh-CN
-lazy propagation,懒标记下传,zh-CN
-binary lifting,倍增,zh-CN
-meet in the middle,折半搜索,zh-CN
-small-to-large merging,启发式合并,zh-CN
-heavy-light decomposition,树链剖分,zh-CN
-difference constraints,差分约束,zh-CN
-exchange argument,交换论证,zh-CN
-failed test,未通过的测试点,zh-CN
-system testing,系统测试,zh-CN
-challenge a solution,Hack 某个程序,zh-CN
-successful challenge,Hack 成功,zh-CN
-scoreboard freeze,封榜,zh-CN
-penalty time,罚时,zh-CN
-contestant's run,选手程序的一次运行,zh-CN
-reference solution,标准程序,zh-CN
-model solution,标准题解,zh-CN
-intended solution,预期解法,zh-CN
-official solution,官方题解,zh-CN
-out of competition,打星参赛,zh-CN
-virtual participation,虚拟参赛,zh-CN
-Constraints,数据范围,zh-CN
-sample,样例,zh-CN
-distinct,互不相同的,zh-CN
+Solve,解出,zh-CN
+upsolve,补题,zh-CN
+Editorial,题解,zh-CN
+implementation,实现,zh-CN
+greedy,贪心,zh-CN
+brute force,暴力,zh-CN
+Online judge,在线评测系统,zh-CN
 submission,提交记录,zh-CN
+Accepted,通过,zh-CN
+Accepte,通过,zh-CN
+rejected,未通过,zh-CN
+reject,未通过,zh-CN
+accepted run,通过的提交,zh-CN
+rejected run,未通过的提交,zh-CN
 verdict,判定结果,zh-CN
+Judging Status,评测状态,zh-CN
 pretests,预测试,zh-CN
+system testing,系统测试,zh-CN
+rejudge,重测,zh-CN
+checker,特殊评测器,zh-CN
+interactor,交互器,zh-CN
+interactive,交互题,zh-CN
+judge's response,交互器的反馈,zh-CN
 hack,Hack,zh-CN
 stress testing,对拍,zh-CN
 generator,数据生成器,zh-CN
-brute force,暴力程序,zh-CN
-checker,特殊评测器,zh-CN
-interactor,交互器,zh-CN
-rated contest,计分赛,zh-CN
-unrated contest,不计分赛,zh-CN
-standings,排行榜,zh-CN
-practice,练习模式,zh-CN
-upsolve,赛后补题,zh-CN
 clarification,题意澄清,zh-CN
-first solve,首次通过,zh-CN
-implementation problem,模拟题,zh-CN
-greedy,贪心,zh-CN
-coordinate compression,离散化,zh-CN
-meet-in-the-middle,折半搜索,zh-CN
-amortized complexity,均摊复杂度,zh-CN
-invariant,不变量,zh-CN
-contribution technique,贡献法,zh-CN
-residual graph,残量网络,zh-CN
-a walk in a graph,图上的游走,zh-CN
-a trail in a graph,图上的迹,zh-CN
-a bridge in a graph,图中的割边,zh-CN
+Compilation Error,编译错误,zh-CN
+Wrong Answer,答案错误,zh-CN
+Time Limit Exceeded,超出时间限制,zh-CN
+Memory Limit Exceeded,超出内存限制,zh-CN
+Runtime Error,运行时错误,zh-CN
+Output Limit Exceeded,超出输出限制,zh-CN
+Presentation Error,输出格式错误,zh-CN
+scoreboard,榜单,zh-CN
+standings,榜单,zh-CN
+Live standings,实时榜,zh-CN
+Frozen standings,封榜,zh-CN
+standings freeze,封榜,zh-CN
+Virtual Standings,虚拟榜单,zh-CN
+Alternative standings,歪榜,zh-CN
+Unofficial standings,打星榜单,zh-CN
+Follow the standings,跟榜,zh-CN
+Resolver,滚榜,zh-CN
+Rating,等级分,zh-CN
+Rated Range,计分范围,zh-CN
+Penalty,罚时,zh-CN
+penalty time,罚时,zh-CN
+Dirt,已解题目的平均提交数,zh-CN
+problems solved,解题数,zh-CN
+First to solve,一血,zh-CN
+Standard Edition,平均难度,zh-CN
+Last Solution,最后通过题的罚时,zh-CN
+Citation,奖项,zh-CN

@@ -1,105 +1,87 @@
 source,target,tgt_lng
-Accepted,通過,zh-TW
-Alternative standings,歪榜,zh-TW
-Dirt,已解題目的平均提交數,zh-TW
-First to solve,一血,zh-TW
-Follow the standings,跟榜,zh-TW
-Frozen scoreboard,封榜,zh-TW
-Rating,等級分,zh-TW
-Scoreboard,積分榜,zh-TW
-Solved problems,通過題數,zh-TW
-Standard Edition,平均難度,zh-TW
-Unofficial standings,外榜,zh-TW
-the property holds,該性質成立,zh-TW
-answer a query,回答一次詢問,zh-TW
-process the queries,處理這些詢問,zh-TW
-make a move,走一步,zh-TW
-in one move,一步內,zh-TW
-problem statement,題面,zh-TW
+programming competition,程式設計競賽,zh-TW
+Regional Contest,區域賽,zh-TW
+National Invitational Programming Contest,全國邀請賽,zh-TW
+Provincial Programming Contest,省賽,zh-TW
+World Finals,全球總決賽,zh-TW
+rated contest,計分賽,zh-TW
+unrated contest,不計分賽,zh-TW
+practice,練習模式,zh-TW
+virtual participation,虛擬參賽,zh-TW
+Official,正式隊伍,zh-TW
+Unofficial,打星選手,zh-TW
+Unofficially,打星參與,zh-TW
+workstation,比賽用電腦,zh-TW
+Advocates,支持者,zh-TW
+Problem setter,出題人,zh-TW
 the jury,出題方,zh-TW
 jury's answer,標準答案,zh-TW
 jury's solution,標準程式,zh-TW
-judge's response,互動器回傳的資訊,zh-TW
-run the program,執行程式,zh-TW
-a run of equal characters,一段連續相同字元,zh-TW
-free cell,空閒格,zh-TW
-good array,合法陣列,zh-TW
-good string,合法字串,zh-TW
-good segment,合法區間,zh-TW
-correct bracket sequence,合法括號序列,zh-TW
-regular bracket sequence,合法括號序列,zh-TW
-a segment of the array,陣列的連續子段,zh-TW
-on the segment,在該區間內,zh-TW
-cover a segment,覆蓋區間,zh-TW
-split into segments,劃分成若干連續段,zh-TW
+Task,題目,zh-TW
+problem statement,題面,zh-TW
+Constraints,資料範圍,zh-TW
+sample,範例,zh-TW
+test case,測試案例,zh-TW
+query,詢問,zh-TW
+distinct,互不相同的,zh-TW
+inclusive,包含端點,zh-TW
+modulo,取模,zh-TW
 proper prefix,真前綴,zh-TW
 proper subset,真子集,zh-TW
 proper divisor,真因數,zh-TW
-without loss of generality,不失一般性,zh-TW
-tight bound,緊界,zh-TW
-up to permutation,在不計排列順序的意義下,zh-TW
-up to symmetry,在對稱等價意義下,zh-TW
 floor,向下取整,zh-TW
 ceil,向上取整,zh-TW
-relax an edge,對一條邊進行鬆弛,zh-TW
-reroot the tree,換根,zh-TW
-compress the values,對值進行離散化,zh-TW
-sweep from left to right,從左到右掃描,zh-TW
-scan the array,走訪陣列,zh-TW
-recover the answer,還原答案,zh-TW
-trace back the transitions,沿狀態轉移回溯,zh-TW
-process offline,離線處理,zh-TW
-online algorithm,線上演算法,zh-TW
-query on a prefix,查詢一個前綴,zh-TW
-point update,單點修改,zh-TW
-range update,區間修改,zh-TW
-lazy propagation,懶標記下傳,zh-TW
-binary lifting,倍增,zh-TW
-meet in the middle,折半搜尋,zh-TW
-small-to-large merging,啟發式合併,zh-TW
-heavy-light decomposition,樹鏈剖分,zh-TW
-difference constraints,差分約束,zh-TW
-exchange argument,交換論證,zh-TW
-failed test,未通過的測試點,zh-TW
-system testing,系統測試,zh-TW
-challenge a solution,Hack 某個程式,zh-TW
-successful challenge,Hack 成功,zh-TW
-scoreboard freeze,封榜,zh-TW
-penalty time,罰時,zh-TW
-contestant's run,選手程式的一次執行,zh-TW
-reference solution,標準程式,zh-TW
-model solution,標準題解,zh-TW
-intended solution,預期解法,zh-TW
-official solution,官方題解,zh-TW
-out of competition,打星參賽,zh-TW
-virtual participation,虛擬參賽,zh-TW
-Constraints,資料範圍,zh-TW
-sample,範例,zh-TW
-distinct,互不相同的,zh-TW
+Solve,解出,zh-TW
+upsolve,賽後補題,zh-TW
+Editorial,題解,zh-TW
+implementation,實作,zh-TW
+greedy,貪心,zh-TW
+brute force,暴力,zh-TW
+Online judge,線上評測系統,zh-TW
 submission,提交記錄,zh-TW
+Accepted,通過,zh-TW
+Accepte,通過,zh-TW
+rejected,未通過,zh-TW
+reject,未通過,zh-TW
+accepted run,通過的提交,zh-TW
+rejected run,未通過的提交,zh-TW
 verdict,判定結果,zh-TW
+Judging Status,評測狀態,zh-TW
 pretests,預測試,zh-TW
+system testing,系統測試,zh-TW
+rejudge,重新評測,zh-TW
+checker,特殊評測器,zh-TW
+interactor,互動器,zh-TW
+interactive,互動題,zh-TW
+judge's response,互動器的回應,zh-TW
 hack,Hack,zh-TW
 stress testing,對拍,zh-TW
 generator,資料產生器,zh-TW
-brute force,暴力程式,zh-TW
-checker,特殊評測器,zh-TW
-interactor,互動器,zh-TW
-rated contest,計分賽,zh-TW
-unrated contest,不計分賽,zh-TW
-standings,排行榜,zh-TW
-practice,練習模式,zh-TW
-upsolve,賽後補題,zh-TW
 clarification,題意澄清,zh-TW
-first solve,首次通過,zh-TW
-implementation problem,模擬題,zh-TW
-greedy,貪心,zh-TW
-coordinate compression,離散化,zh-TW
-meet-in-the-middle,折半搜尋,zh-TW
-amortized complexity,均攤複雜度,zh-TW
-invariant,不變量,zh-TW
-contribution technique,貢獻法,zh-TW
-residual graph,殘餘網路,zh-TW
-a walk in a graph,圖上的遊走,zh-TW
-a trail in a graph,圖上的跡,zh-TW
-a bridge in a graph,圖中的割邊,zh-TW
+Compilation Error,編譯錯誤,zh-TW
+Wrong Answer,答案錯誤,zh-TW
+Time Limit Exceeded,超出時間限制,zh-TW
+Memory Limit Exceeded,超出記憶體限制,zh-TW
+Runtime Error,執行階段錯誤,zh-TW
+Output Limit Exceeded,超出輸出限制,zh-TW
+Presentation Error,輸出格式錯誤,zh-TW
+scoreboard,榜單,zh-TW
+standings,榜單,zh-TW
+Live standings,即時榜,zh-TW
+Frozen standings,封榜,zh-TW
+standings freeze,封榜,zh-TW
+Virtual Standings,虛擬榜單,zh-TW
+Alternative standings,歪榜,zh-TW
+Unofficial standings,打星榜單,zh-TW
+Follow the standings,跟榜,zh-TW
+Resolver,滾榜,zh-TW
+Rating,等級分,zh-TW
+Rated Range,計分範圍,zh-TW
+Penalty,罰時,zh-TW
+penalty time,罰時,zh-TW
+Dirt,已解題目的平均提交數,zh-TW
+problems solved,解題數,zh-TW
+First to solve,一血,zh-TW
+Standard Edition,平均難度,zh-TW
+Last Solution,最後通過題目的罰時,zh-TW
+Citation,獎項,zh-TW
