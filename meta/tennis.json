@@ -1,0 +1,39 @@
+{
+  "id": "tennis",
+  "name": "Tennis Expert",
+  "description": "Specialized in translating tennis-related content, including rules, strokes, scoring, and tournament terminology.",
+  "author": "Tabris-ZX",
+  "glossary": "tennis",
+  "matches": [
+    "*://www.atptour.com/*",
+    "*://www.wtatennis.com/*",
+    "*://www.itftennis.com/*",
+    "*://www.usopen.org/*",
+    "*://www.wimbledon.com/*",
+    "*://www.rolandgarros.com/*",
+    "*://ausopen.com/*",
+    "*://www.daviscup.com/*",
+    "*://www.espn.com/tennis/*",
+    "*://www.eurosport.com/tennis/*",
+    "*://www.bbc.com/sport/tennis/*",
+    "*://sports.sina.com.cn/tennis/*"
+  ],
+  "langs": [
+    "zh-CN",
+    "zh-TW"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "网球",
+      "description": "网球术语库，包含规则、击球、计分和赛事相关术语的中文翻译。"
+    },
+    "zh-TW": {
+      "name": "網球",
+      "description": "網球術語庫，包含規則、擊球、計分和賽事相關術語的繁體中文翻譯。"
+    },
+    "en": {
+      "name": "Tennis Expert",
+      "description": "Specialized in translating tennis-related content, including rules, strokes, scoring, and tournament terminology."
+    }
+  }
+}

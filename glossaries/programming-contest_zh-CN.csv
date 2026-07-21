@@ -1,0 +1,87 @@
+source,target,tgt_lng
+programming competition,程序设计竞赛,zh-CN
+Regional Contest,区域赛,zh-CN
+National Invitational Programming Contest,全国邀请赛,zh-CN
+Provincial Programming Contest,省赛,zh-CN
+World Finals,全球总决赛,zh-CN
+rated contest,计分赛,zh-CN
+unrated contest,不计分赛,zh-CN
+practice,练习模式,zh-CN
+virtual participation,虚拟参赛,zh-CN
+Official,正式队伍,zh-CN
+Unofficial,打星选手,zh-CN
+Unofficially,打星参与,zh-CN
+workstation,比赛用机,zh-CN
+Advocates,支持者,zh-CN
+Problem setter,出题人,zh-CN
+the jury,出题方,zh-CN
+jury's answer,标准答案,zh-CN
+jury's solution,标准程序,zh-CN
+Task,题目,zh-CN
+problem statement,题面,zh-CN
+Constraints,数据范围,zh-CN
+sample,样例,zh-CN
+test case,测试用例,zh-CN
+query,询问,zh-CN
+distinct,互不相同的,zh-CN
+inclusive,包含端点,zh-CN
+modulo,取模,zh-CN
+proper prefix,真前缀,zh-CN
+proper subset,真子集,zh-CN
+proper divisor,真约数,zh-CN
+floor,向下取整,zh-CN
+ceil,向上取整,zh-CN
+Solve,解出,zh-CN
+upsolve,补题,zh-CN
+Editorial,题解,zh-CN
+implementation,实现,zh-CN
+greedy,贪心,zh-CN
+brute force,暴力,zh-CN
+Online judge,在线评测系统,zh-CN
+submission,提交记录,zh-CN
+Accepted,通过,zh-CN
+Accepte,通过,zh-CN
+rejected,未通过,zh-CN
+reject,未通过,zh-CN
+accepted run,通过的提交,zh-CN
+rejected run,未通过的提交,zh-CN
+verdict,判定结果,zh-CN
+Judging Status,评测状态,zh-CN
+pretests,预测试,zh-CN
+system testing,系统测试,zh-CN
+rejudge,重测,zh-CN
+checker,特殊评测器,zh-CN
+interactor,交互器,zh-CN
+interactive,交互题,zh-CN
+judge's response,交互器的反馈,zh-CN
+hack,Hack,zh-CN
+stress testing,对拍,zh-CN
+generator,数据生成器,zh-CN
+clarification,题意澄清,zh-CN
+Compilation Error,编译错误,zh-CN
+Wrong Answer,答案错误,zh-CN
+Time Limit Exceeded,超出时间限制,zh-CN
+Memory Limit Exceeded,超出内存限制,zh-CN
+Runtime Error,运行时错误,zh-CN
+Output Limit Exceeded,超出输出限制,zh-CN
+Presentation Error,输出格式错误,zh-CN
+scoreboard,榜单,zh-CN
+standings,榜单,zh-CN
+Live standings,实时榜,zh-CN
+Frozen standings,封榜,zh-CN
+standings freeze,封榜,zh-CN
+Virtual Standings,虚拟榜单,zh-CN
+Alternative standings,歪榜,zh-CN
+Unofficial standings,打星榜单,zh-CN
+Follow the standings,跟榜,zh-CN
+Resolver,滚榜,zh-CN
+Rating,等级分,zh-CN
+Rated Range,计分范围,zh-CN
+Penalty,罚时,zh-CN
+penalty time,罚时,zh-CN
+Dirt,已解题目的平均提交数,zh-CN
+problems solved,解题数,zh-CN
+First to solve,一血,zh-CN
+Standard Edition,平均难度,zh-CN
+Last Solution,最后通过题的罚时,zh-CN
+Citation,奖项,zh-CN

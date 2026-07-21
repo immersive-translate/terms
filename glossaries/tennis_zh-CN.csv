@@ -1,0 +1,56 @@
+source,target,tgt_lng
+Court,球场,zh-CN
+Baseline,底线,zh-CN
+Service box,发球区,zh-CN
+Net,球网,zh-CN
+Singles,单打,zh-CN
+Doubles,双打,zh-CN
+Serve,发球,zh-CN
+First serve,一发,zh-CN
+Second serve,二发,zh-CN
+1st serve,一发,zh-CN
+2nd serve,二发,zh-CN
+Ace,Ace球,zh-CN
+Aces,Ace球数,zh-CN
+Service Winner,发球制胜分,zh-CN
+Double fault,双误,zh-CN
+Let,擦网,zh-CN
+Deuce,平分,zh-CN
+Advantage,占先,zh-CN
+Break point,破发点,zh-CN
+Break of serve,破发,zh-CN
+Hold serve,保发,zh-CN
+Tiebreak,抢七,zh-CN
+Set,盘,zh-CN
+Game point,局点,zh-CN
+Set point,盘点,zh-CN
+Match point,赛点,zh-CN
+Game Set and Match,胜负已分,zh-CN
+Forehand,正手,zh-CN
+Backhand,反手,zh-CN
+Volley,截击,zh-CN
+Overhead,高远球,zh-CN
+Smash,高压球,zh-CN
+Slice,切削球,zh-CN
+Topspin,上旋球,zh-CN
+Underspin,下旋,zh-CN
+Drop shot,放短球,zh-CN
+Lob,挑高球,zh-CN
+Rally,多拍回合,zh-CN
+Footwork,脚步技术,zh-CN
+Grip,握拍方式,zh-CN
+Overhead smash,高远球击球,zh-CN
+Passing shot,过人球,zh-CN
+Let cord,平球网线,zh-CN
+Foot fault,脚错,zh-CN
+Unforced error,非受迫性失误,zh-CN
+Winner,制胜分,zh-CN
+Love,零分,zh-CN
+Grand Slam,大满贯,zh-CN
+H2H,交手记录,zh-CN
+Head to head,交手记录,zh-CN
+Player,选手,zh-CN
+Ranking,排名,zh-CN
+Pressure,关键球,zh-CN
+Return,接发球,zh-CN
+Challenger,挑战赛,zh-CN
