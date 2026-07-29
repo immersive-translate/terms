@@ -1,0 +1,19 @@
+{
+    "id": "genshin",
+    "name": "Genshin Impact",
+    "description": "Specialized in translating Genshin Impact terms from English to Chinese.",
+    "author": "himount george",
+    "glossary": "genshin",
+    "matches": [
+        "https://genshin-impact.fandom.com/wiki/*"
+    ],
+    "langs": [
+        "zh-CN"
+    ],
+    "i18ns": {
+        "zh-CN": {
+            "name": "Genshin Impact",
+            "description": "Genshin Impact 中从英文翻译成简体中文的术语。"
+        }
+    }
+}
