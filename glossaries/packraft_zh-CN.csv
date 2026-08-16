@@ -1,0 +1,335 @@
+source,target,tgt_lng
+Packraft,背包船,zh-CN
+Backpack boat,背包船,zh-CN
+Hull,船体,zh-CN
+Tube,浮筒,zh-CN
+Floor,船底,zh-CN
+Bow,船头,zh-CN
+Stern,船尾,zh-CN
+Cockpit,座舱,zh-CN
+Deck,甲板,zh-CN
+Spray deck,防浪甲板,zh-CN
+Spray skirt,防浪裙,zh-CN
+Coaming,舱口围边,zh-CN
+Thwart,横向座囊,zh-CN
+Self-bailing floor,自排水船底,zh-CN
+Packraft designs,背包船设计,zh-CN
+Utility boat,通用型背包船,zh-CN
+Whitewater packraft,白水背包船,zh-CN
+Two-person packraft,双人背包船,zh-CN
+Hull shape,船体外形,zh-CN
+Packraft fit,背包船尺寸适配,zh-CN
+Primary stability,初稳性,zh-CN
+Secondary stability,次稳性,zh-CN
+Hull speed,船体临界航速,zh-CN
+Packrafting equipment,背包船装备,zh-CN
+Personal protective equipment,个人防护装备,zh-CN
+PFD,救生衣,zh-CN
+Life vest,救生衣,zh-CN
+Helmet,头盔,zh-CN
+Drysuit,干衣,zh-CN
+Seat,座椅,zh-CN
+Backband,靠背带,zh-CN
+Foot brace,脚撑,zh-CN
+Foot block,脚挡块,zh-CN
+Thigh straps,大腿绑带,zh-CN
+Perimeter line,船体周边绳,zh-CN
+Tail line,尾绳,zh-CN
+Grab loop,抓环,zh-CN
+Cargo zipper,货舱拉链,zh-CN
+Inflation bag,充气袋,zh-CN
+Deck bag,甲板包,zh-CN
+Paddle,桨,zh-CN
+Blade,桨叶,zh-CN
+Shaft,桨杆,zh-CN
+Ferrule,桨杆接头,zh-CN
+Feather angle,桨叶错位角,zh-CN
+Paddle leash,桨系绳,zh-CN
+Cargo,装载物,zh-CN
+Tie-down,系固点,zh-CN
+Attachment point,连接点,zh-CN
+Attachment plate,连接片,zh-CN
+Accessory strap,附件绑带,zh-CN
+Ski strap,滑雪绑带,zh-CN
+Voile strap,Voile 绑带,zh-CN
+Bikerafting,骑行与背包船结合旅行,zh-CN
+Quick-release rigging,快拆式系固,zh-CN
+Tether,系固绳,zh-CN
+Outfitting,背包船适配,zh-CN
+Rigging,装载与系固,zh-CN
+Clean rigging,无缠挂隐患的系固,zh-CN
+Proper paddling position,正确划行姿势,zh-CN
+Boat control,背包船操控,zh-CN
+Ferry,横渡,zh-CN
+Ferry angle,横渡角,zh-CN
+Front ferry,正向横渡,zh-CN
+Back ferry,反向横渡,zh-CN
+Eddy out,进回水,zh-CN
+Peel out,出回水,zh-CN
+Eddy hopping,逐个回水区推进,zh-CN
+Line,通过路线,zh-CN
+Scouting,侦察,zh-CN
+Boat scouting,船上侦察,zh-CN
+Shore scouting,岸上侦察,zh-CN
+Read-and-run,即视即划,zh-CN
+River-running,河流划行,zh-CN
+Boof,Boof,zh-CN
+Boof stroke,Boof 划水动作,zh-CN
+Edging,侧倾控制,zh-CN
+J-lean,J 形侧倾,zh-CN
+Brace,支撑划,zh-CN
+Low brace,低位支撑,zh-CN
+High brace,高位支撑,zh-CN
+Sculling draw,八字形拉划,zh-CN
+Draw stroke,拉划,zh-CN
+Forward stroke,前划,zh-CN
+Back stroke,倒划,zh-CN
+Sweep stroke,扫划,zh-CN
+Side draw,侧向拉划,zh-CN
+Bow draw,船头拉划,zh-CN
+Stern draw,船尾拉划,zh-CN
+Power stroke,发力划,zh-CN
+Power face,桨叶工作面,zh-CN
+Active blade,工作桨叶,zh-CN
+Paddle strokes,划桨动作,zh-CN
+Paddle dexterity,控桨熟练度,zh-CN
+Power on,主动发力,zh-CN
+Power off,停止发力,zh-CN
+Hip snap,髋部弹转,zh-CN
+Lead with your head,头部带动转向,zh-CN
+Capsize,翻船,zh-CN
+Packraft roll,背包船滚翻复位,zh-CN
+Combat roll,急流中滚翻复位,zh-CN
+Wet exit,水中离船,zh-CN
+Dry exit,干式离船,zh-CN
+Re-entry,重新登船,zh-CN
+Wet re-entry,水中重新登船,zh-CN
+Horizontal re-entry,水平姿势重新登船,zh-CN
+Vertical re-entry,垂直姿势重新登船,zh-CN
+Seal launch,海豹式下滑入水,zh-CN
+Put-in,下水点,zh-CN
+Take-out,上岸点,zh-CN
+Portage,搬船绕行,zh-CN
+Portaging,搬船绕行,zh-CN
+Open-water crossing,开阔水域横渡,zh-CN
+River right,河流右岸,zh-CN
+River left,河流左岸,zh-CN
+Looker's right,观察者右侧,zh-CN
+Looker's left,观察者左侧,zh-CN
+Surfing,冲浪,zh-CN
+Front surfing,正向冲浪,zh-CN
+Side surfing,侧向冲浪,zh-CN
+Back surfing,背向冲浪,zh-CN
+T-boning,T-boning（T 形切入）,zh-CN
+Kick,Kick（侧向推流）,zh-CN
+Starfishing,海星式压船,zh-CN
+Crutches,双拐式推进,zh-CN
+Walking the dog,遛船,zh-CN
+Bow bumping,船头碰推,zh-CN
+Outrigger,外伸支撑,zh-CN
+Lily-dipping,蜻蜓点水式划桨,zh-CN
+Current,水流,zh-CN
+Flow,水流,zh-CN
+Whitewater,白水,zh-CN
+Flatwater,静水,zh-CN
+Hydrology,水文学,zh-CN
+River character,河流总体特征,zh-CN
+River feature,河道特征,zh-CN
+Substrate,河床底质,zh-CN
+Morphology,河道形态,zh-CN
+Bedrock,基岩,zh-CN
+Sediment,沉积物,zh-CN
+Alluvium,冲积物,zh-CN
+Gradient,河段比降,zh-CN
+Discharge,流量,zh-CN
+Stage,水位,zh-CN
+Gauge,水位计,zh-CN
+River gauge,水文测站,zh-CN
+Rating curve,水位—流量关系曲线,zh-CN
+Rapid,急流,zh-CN
+Pool-drop,跌水—深潭交替型河段,zh-CN
+Braided,辫状河道,zh-CN
+Meanders,曲流河段,zh-CN
+Cutbank,凹岸,zh-CN
+Point bar,凸岸边滩,zh-CN
+Constriction,河道收窄,zh-CN
+Undercut,掏蚀岸壁,zh-CN
+Log jam,木材堵塞,zh-CN
+Strainer,滤水障碍物,zh-CN
+Sweeper,扫水树枝,zh-CN
+Rock garden,乱石河段,zh-CN
+Boulder garden,巨石密布河段,zh-CN
+Wave train,站立浪列,zh-CN
+Trailing wakes,尾迹波,zh-CN
+Hole,水洞,zh-CN
+Keeper,滞留型水洞,zh-CN
+Backwash,回卷流,zh-CN
+Boil,上涌流,zh-CN
+Boil line,翻涌分界线,zh-CN
+Tongue,舌状水流,zh-CN
+Sieve,岩隙通水结构,zh-CN
+Pillow,枕浪,zh-CN
+Eddy,回水区,zh-CN
+Eddy line,回水线,zh-CN
+Eddy fence,回水栅状流,zh-CN
+Seam,水流接缝,zh-CN
+Shear zone,剪切区,zh-CN
+Big water,大流量白水,zh-CN
+Creeking,陡溪划行,zh-CN
+Horizon line,水面断线,zh-CN
+Aeration,水流掺气,zh-CN
+Green water,低掺气水,zh-CN
+Laminar flow,层流,zh-CN
+Turbulent flow,紊流,zh-CN
+Drop,跌水,zh-CN
+Merging channels,汊道汇合处,zh-CN
+Helical current,螺旋流,zh-CN
+Cork-screw current,螺旋流,zh-CN
+Flash flood,骤发洪水,zh-CN
+Pushiness,水流推压感,zh-CN
+Recovery zone,恢复区,zh-CN
+Conveyor belt,传送带式水流,zh-CN
+Risk,风险,zh-CN
+Hazard,危险源,zh-CN
+Entrapment hazard,卡陷危险,zh-CN
+Entanglement hazard,缠绕危险,zh-CN
+Entrapment,卡陷,zh-CN
+Foot entrapment,脚部卡陷,zh-CN
+Defensive swimming,防御式游泳,zh-CN
+Offensive swimming,主动脱险游泳,zh-CN
+Swim,落水,zh-CN
+Swimmer,落水者,zh-CN
+River knife,急流救援刀,zh-CN
+Throw bag,抛绳包,zh-CN
+Throw rope,抛绳,zh-CN
+Thrower,抛绳救援者,zh-CN
+Safety boat,救援船,zh-CN
+Set safety,布置救援保护,zh-CN
+Setting safety,布置救援保护,zh-CN
+Staged safety,分段布置救援保护,zh-CN
+Safety role,救援保护职责,zh-CN
+Talk,口头引导,zh-CN
+Reach,伸递救援,zh-CN
+Wade,涉水接近,zh-CN
+Throw,抛绳救援,zh-CN
+Point positive,指向安全方向,zh-CN
+Swiftwater,急流环境,zh-CN
+Swiftwater rescue,急流救援,zh-CN
+Swiftwater entry,急流入水,zh-CN
+Rescue swimmer,入水救援员,zh-CN
+Belayed swimming,绳索保护游进,zh-CN
+Shallow water crossing,浅水横渡,zh-CN
+Wading,涉水,zh-CN
+Belay,绳索保护,zh-CN
+Standing hip belay,站姿髋部保护,zh-CN
+Sitting belay,坐姿绳索保护,zh-CN
+Dynamic belay,动态保护,zh-CN
+Friction belay,摩擦保护,zh-CN
+Belayer,绳索保护者,zh-CN
+Cinch line,环抱收紧绳,zh-CN
+Stabilization line,稳定绳,zh-CN
+Belayed lower,绳索保护下降,zh-CN
+Tension diagonal,张紧斜渡线,zh-CN
+Extension rescue,延伸器材救援,zh-CN
+Pinned boat,卡船,zh-CN
+Rope system,绳索系统,zh-CN
+Vector pull,矢量牵引,zh-CN
+Mechanical advantage,机械倍力,zh-CN
+Progress capture,进度捕捉,zh-CN
+Prusik,普鲁士结,zh-CN
+Munter hitch,意大利半扣,zh-CN
+Load-sharing anchor,分载锚系统,zh-CN
+Self-equalizing anchor,自动均力锚系统,zh-CN
+Magic X,Magic X 自动均力锚系统,zh-CN
+Z-pull,Z 形倍力拖拽系统,zh-CN
+TPU,TPU,zh-CN
+Denier,旦尼尔,zh-CN
+Self-bailing,自排水式,zh-CN
+Wet bond,湿式粘接,zh-CN
+Contact bond,接触式粘接,zh-CN
+Heat reactivation,加热再活化,zh-CN
+MEK,丁酮（MEK）,zh-CN
+Roller tool,压合滚轮,zh-CN
+D-ring patch,D 环补片,zh-CN
+Repair kit,修理包,zh-CN
+Field repair,现场修理,zh-CN
+Home repair,固定场所修理,zh-CN
+Vinyl underwater tape,乙烯基水下胶带,zh-CN
+Sheathing tape,建筑包覆胶带,zh-CN
+Tenacious Tape,Tenacious Tape 修补胶带,zh-CN
+Duct tape,布基胶带,zh-CN
+Patch material,补片材料,zh-CN
+Baseball stitch,棒球缝法,zh-CN
+Heat-seal fabric,热封面料,zh-CN
+Re-weld,重新热焊,zh-CN
+Gasket,密封件,zh-CN
+Nozzle,充气嘴,zh-CN
+Slider,拉链拉头,zh-CN
+Dock,拉链对接座,zh-CN
+Chain,拉链链带,zh-CN
+Adhesive accelerator,胶粘剂固化促进剂,zh-CN
+Active navigation,主动导航,zh-CN
+Fetch,风程,zh-CN
+Breaking waves,破碎浪,zh-CN
+Shoals,浅滩,zh-CN
+Rips,离岸流,zh-CN
+Tidal currents,潮流,zh-CN
+Slack water,憩流,zh-CN
+Flood,涨潮流,zh-CN
+Ebb,落潮流,zh-CN
+Longshore current,沿岸流,zh-CN
+Dead reckoning,航位推算,zh-CN
+Range markers,导标,zh-CN
+Shore break,岸边破碎浪,zh-CN
+Hypothermia,低体温症,zh-CN
+Hemorrhage,出血,zh-CN
+Tourniquet,止血带,zh-CN
+Rescue breathing,人工呼吸,zh-CN
+Positive pressure ventilation,正压通气,zh-CN
+Pulmonary edema,肺水肿,zh-CN
+Cold water immersion syndrome,冷水浸没综合征,zh-CN
+Recovery position,恢复体位,zh-CN
+Urgent evacuation,紧急撤离,zh-CN
+Non-urgent evacuation,非紧急撤离,zh-CN
+Rescue asset,救援资源,zh-CN
+Personal Locator Beacon,个人定位信标（PLB）,zh-CN
+Garmin Response,Garmin Response 应急响应中心,zh-CN
+International Emergency Response Coordination Center,国际应急响应协调中心（IERCC）,zh-CN
+Rescue Coordination Centre,救援协调中心（RCC）,zh-CN
+Regional Rescue Coordination Center,区域救援协调中心（RCC）,zh-CN
+Wilderness First Responder,野外第一响应员（WFR）,zh-CN
+CPR,心肺复苏（CPR）,zh-CN
+Mammalian dive reflex,哺乳动物潜水反射,zh-CN
+Swimming failure,游泳功能衰竭,zh-CN
+Flush drowning,急流冲刷型溺水,zh-CN
+Dislocated shoulder,肩关节脱位,zh-CN
+Shoulder reduction,肩关节复位,zh-CN
+Cunningham technique,Cunningham 复位法,zh-CN
+Traumatic Brain Injury,创伤性脑损伤（TBI）,zh-CN
+Intracranial pressure,颅内压（ICP）,zh-CN
+Junctional wound,交界部位伤口,zh-CN
+Homeostasis,内稳态,zh-CN
+Risk assessment,风险评估,zh-CN
+Exposure,暴露度,zh-CN
+Vulnerability,脆弱性,zh-CN
+Heuristics,启发式判断,zh-CN
+Heuristic traps,启发式陷阱,zh-CN
+Risk tolerance,风险容忍度,zh-CN
+Near-miss,未遂险情,zh-CN
+Safety drift,安全标准漂移,zh-CN
+Safety net,安全保障,zh-CN
+Trip plan,行程计划,zh-CN
+In-town contact,留守联系人,zh-CN
+Difficulty rating,难度评级,zh-CN
+River rating,河流难度评级,zh-CN
+Class I,I 级,zh-CN
+Class II,II 级,zh-CN
+Class III,III 级,zh-CN
+Class IV,IV 级,zh-CN
+Class V,V 级,zh-CN
+Class VI,VI 级,zh-CN
+Pathlines,行进路径线,zh-CN
+Marker,参照标志,zh-CN
+Lead paddler,领划,zh-CN
+Sweep paddler,收尾划手,zh-CN
+Line-of-sight,视线联系,zh-CN
