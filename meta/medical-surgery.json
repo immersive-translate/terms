@@ -1,0 +1,20 @@
+{
+  "id": "medical-surgery",
+  "name": "Medical - Surgery",
+  "description": "Medical glossary derived from the Chinese-English term index of Surgery (10th Edition). Source/version: Surgery, 10th Edition.",
+  "author": "ChungkeLee",
+  "glossary": "medical-surgery",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "医学-外科学",
+      "description": "医学-外科学术语库，基于《外科学（第10版）》中英文名词对照索引整理。（去除缩写避免错误翻译）"
+    },
+    "en": {
+      "name": "Medical - Surgery",
+      "description": "Medical glossary derived from the Chinese-English term index of Surgery (10th Edition). Source/version: Surgery, 10th Edition.(Remove abbreviations to avoid mistranslation)"
+    }
+  }
+}
