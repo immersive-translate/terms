@@ -1,0 +1,28 @@
+{
+  "id": "packraft",
+  "name": "Packraft Terminology",
+  "description": "Standardized English-to-Simplified-Chinese terminology for packrafting, covering boat design and equipment, paddling techniques, whitewater, river hydrology, safety, rescue, repair, medicine, navigation, and risk management.",
+  "author": "LiSepp",
+  "glossary": "packraft",
+  "matches": [
+    "*://packraft.org/*",
+    "*://*.packraft.org/*",
+    "*://thingstolucat.com/*",
+    "*://*.thingstolucat.com/*",
+    "*://alpackaraft.com/*",
+    "*://*.alpackaraft.com/*"
+  ],
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "Packraft 背包船中文术语",
+      "description": "面向 Packraft 背包船运动的英中术语库，涵盖船体结构、装备、划行技术、白水环境、河流水文、安全救援、维修、医学、导航与风险管理。"
+    },
+    "en": {
+      "name": "Packraft Terminology",
+      "description": "Standardized English-to-Simplified-Chinese terminology for packrafting, covering boat design and equipment, paddling techniques, whitewater, river hydrology, safety, rescue, repair, medicine, navigation, and risk management."
+    }
+  }
+}
