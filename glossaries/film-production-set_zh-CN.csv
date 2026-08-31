@@ -1,0 +1,537 @@
+source,target,tgt_lng
+above-the-line,线以上成本,zh-CN
+below-the-line,线以下成本,zh-CN
+film production company,电影制作公司,zh-CN
+production services company,制作服务公司,zh-CN
+film financier,电影出资方,zh-CN
+film distributor,电影发行方,zh-CN
+international sales agent,国际销售代理,zh-CN
+completion bond,完片担保,zh-CN
+completion guarantor,完片担保方,zh-CN
+chain of title,权利链文件,zh-CN
+film option agreement,影视改编权期权协议,zh-CN
+rights clearance,权利清理,zh-CN
+location release,场地授权书,zh-CN
+appearance release,肖像及出镜授权书,zh-CN
+errors and omissions insurance,差错与疏漏保险,zh-CN
+greenlight a project,批准项目开拍,zh-CN
+development hell,开发困境,zh-CN
+project development,项目开发,zh-CN
+pre-production,前期筹备,zh-CN
+production calendar,制作日历,zh-CN
+shooting schedule,拍摄计划,zh-CN
+one-line schedule,单行拍摄计划,zh-CN
+stripboard schedule,条带式拍摄计划,zh-CN
+day-out-of-days report,演员出勤日表,zh-CN
+script breakdown,剧本拆解,zh-CN
+breakdown sheet,剧本分解表,zh-CN
+production budget,制作预算,zh-CN
+budget top sheet,预算总表,zh-CN
+cost report,成本报告,zh-CN
+purchase order,采购订单,zh-CN
+petty cash,备用金,zh-CN
+deal memo,聘用条件备忘录,zh-CN
+crew list,工作人员名单,zh-CN
+cast list,演员名单,zh-CN
+vendor list,供应商名单,zh-CN
+equipment package,器材套装,zh-CN
+kit rental fee,自带器材租用费,zh-CN
+per diem,每日差旅津贴,zh-CN
+travel day,行程日,zh-CN
+film producer,电影制片人,zh-CN
+co-producer,联合制片人,zh-CN
+associate producer,助理制片人,zh-CN
+supervising producer,监制制片人,zh-CN
+line producer,执行制片人,zh-CN
+unit production manager,制片主任,zh-CN
+production secretary,制片秘书,zh-CN
+set production assistant,现场制片助理,zh-CN
+office production assistant,办公室制片助理,zh-CN
+film unit manager,现场制片主任,zh-CN
+transportation coordinator,交通运输协调,zh-CN
+picture car coordinator,戏用车辆协调员,zh-CN
+casting associate,选角协理,zh-CN
+extras casting director,群演选角导演,zh-CN
+background actor,群众演员,zh-CN
+featured extra,特约演员,zh-CN
+actor stand-in,灯光替身,zh-CN
+actor photo double,演员镜头替身,zh-CN
+actor body double,演员身体替身,zh-CN
+stunt coordinator,动作特技指导,zh-CN
+fight choreographer,动作编排指导,zh-CN
+intimacy coordinator,亲密戏协调员,zh-CN
+dialect coach,方言指导,zh-CN
+acting coach,表演指导,zh-CN
+film director,电影导演,zh-CN
+first assistant director,第一副导演,zh-CN
+second assistant director,第二副导演,zh-CN
+second second assistant director,第二第二副导演,zh-CN
+third assistant director,第三副导演,zh-CN
+key second assistant director,第二副导演组长,zh-CN
+additional second assistant director,增补第二副导演,zh-CN
+crowd assistant director,群演副导演,zh-CN
+second unit director,第二组导演,zh-CN
+action unit director,动作组导演,zh-CN
+film unit director,分组导演,zh-CN
+script editor,剧本编辑,zh-CN
+story editor,故事编辑,zh-CN
+story consultant,故事顾问,zh-CN
+screenplay,电影剧本,zh-CN
+shooting script,拍摄台本,zh-CN
+spec script,待售剧本,zh-CN
+script treatment,剧本阐述稿,zh-CN
+story synopsis,故事梗概,zh-CN
+logline,一句话梗概,zh-CN
+beat sheet,情节点表,zh-CN
+scene heading,场景标题,zh-CN
+slugline,场景标头,zh-CN
+screenplay action line,剧本动作描述,zh-CN
+dialogue block,对白段落,zh-CN
+script parenthetical,对白提示括注,zh-CN
+page-one rewrite,全本重写,zh-CN
+script sides,当日拍摄页,zh-CN
+blocking rehearsal,走位排练,zh-CN
+marking rehearsal,定点排练,zh-CN
+technical rehearsal,技术排练,zh-CN
+camera rehearsal,摄影机排练,zh-CN
+dress rehearsal,带妆彩排,zh-CN
+closed rehearsal,封闭排练,zh-CN
+actor blocking,演员走位,zh-CN
+actor mark,演员站位标记,zh-CN
+eyeline mark,视线标记,zh-CN
+cheat an eyeline,调整视线方向,zh-CN
+camera department,摄影组,zh-CN
+director of photography,摄影指导,zh-CN
+first assistant camera,第一摄影助理,zh-CN
+second assistant camera,第二摄影助理,zh-CN
+camera trainee,摄影实习员,zh-CN
+camera loader,装片员,zh-CN
+digital camera utility,数字摄影助理,zh-CN
+digital imaging technician,数字影像工程师,zh-CN
+on-set data wrangler,片场数据管理员,zh-CN
+video assist operator,视频辅助员,zh-CN
+Steadicam operator,Steadicam 操作员,zh-CN
+aerial cinematographer,航拍摄影师,zh-CN
+underwater cinematographer,水下摄影师,zh-CN
+remote head operator,遥控云台操作员,zh-CN
+macro lens,微距镜头,zh-CN
+probe lens,探针镜头,zh-CN
+anamorphic lens,变形宽银幕镜头,zh-CN
+spherical lens,球面镜头,zh-CN
+anamorphic squeeze ratio,变形压缩比,zh-CN
+anamorphic desqueeze,变形宽银幕去压缩显示,zh-CN
+aspect ratio,画面宽高比,zh-CN
+image circle,成像圈,zh-CN
+sensor size,传感器尺寸,zh-CN
+Super 35,Super 35 画幅,zh-CN
+large-format cinematography,大画幅电影摄影,zh-CN
+full-frame sensor,全画幅传感器,zh-CN
+crop factor,裁切系数,zh-CN
+lens aperture,镜头光圈,zh-CN
+T-stop,T值光圈,zh-CN
+shallow depth of field,浅景深,zh-CN
+deep focus,深焦摄影,zh-CN
+hyperfocal distance,超焦距,zh-CN
+minimum focus distance,最近对焦距离,zh-CN
+close focus,近距对焦,zh-CN
+focus breathing,呼吸效应,zh-CN
+rack focus,移焦,zh-CN
+pull focus,跟焦,zh-CN
+critical focus,精确合焦,zh-CN
+split focus,分区合焦,zh-CN
+neutral-density filter,中性密度滤镜,zh-CN
+variable ND filter,可变中性密度滤镜,zh-CN
+infrared ND filter,红外中性密度滤镜,zh-CN
+circular polarizer,圆偏振镜,zh-CN
+linear polarizer,线偏振镜,zh-CN
+diffusion filter,柔光滤镜,zh-CN
+clear optical filter,透明保护滤镜,zh-CN
+close-up diopter,近摄镜,zh-CN
+split-field diopter,半片近摄镜,zh-CN
+streak filter,拉丝滤镜,zh-CN
+lens collimation,镜头准直校准,zh-CN
+camera tripod,摄影三脚架,zh-CN
+camera fluid head,摄影液压云台,zh-CN
+high-hat camera support,低位摄影脚架,zh-CN
+low-hat camera support,超低位摄影脚架,zh-CN
+Dutch head,倾斜云台,zh-CN
+camera slider,摄影滑轨,zh-CN
+camera jib,小型摇臂,zh-CN
+camera crane,摄影摇臂,zh-CN
+exposure triangle,曝光三要素,zh-CN
+exposure index,曝光指数,zh-CN
+native ISO,原生ISO,zh-CN
+dual native ISO,双原生ISO,zh-CN
+shutter angle,快门角度,zh-CN
+shutter speed,快门速度,zh-CN
+sensor gain,传感器增益,zh-CN
+project frame rate,项目基准帧率,zh-CN
+off-speed photography,变速摄影,zh-CN
+high-speed photography,高速摄影,zh-CN
+slow-motion photography,升格摄影,zh-CN
+undercranking,降格拍摄,zh-CN
+overcranking,升格拍摄,zh-CN
+time-lapse photography,延时摄影,zh-CN
+intervalometer,间隔拍摄器,zh-CN
+film stock,电影胶片,zh-CN
+negative film,负片,zh-CN
+reversal film,反转片,zh-CN
+camera negative,原底片,zh-CN
+film emulsion,胶片乳剂层,zh-CN
+motion-picture film base,电影胶片片基,zh-CN
+film perforation,胶片齿孔,zh-CN
+film gate,片门,zh-CN
+film pressure plate,胶片压片板,zh-CN
+film magazine,胶片暗盒,zh-CN
+lighting department,灯光组,zh-CN
+best boy electric,灯光大助,zh-CN
+set lighting technician,现场灯光技师,zh-CN
+lamp operator,灯具操作员,zh-CN
+generator operator,发电机操作员,zh-CN
+rigging electric,预装灯光技师,zh-CN
+lighting console programmer,灯光控制台编程师,zh-CN
+dimmer board operator,调光台操作员,zh-CN
+key light,主光,zh-CN
+fill light,补光,zh-CN
+rim light,轮廓光,zh-CN
+hair light,发丝光,zh-CN
+eye light,眼神光,zh-CN
+practical light,实景灯,zh-CN
+motivated lighting,有动机光,zh-CN
+ambient light,环境光,zh-CN
+available light,现有光,zh-CN
+low-key lighting,低调布光,zh-CN
+lighting ratio,光比,zh-CN
+light falloff,光线衰减,zh-CN
+inverse-square law,平方反比定律,zh-CN
+beam angle,光束角,zh-CN
+field angle,光场角,zh-CN
+photometric data,配光数据,zh-CN
+illuminance,照度,zh-CN
+foot-candle,英尺烛光,zh-CN
+luminance,亮度,zh-CN
+display luminance in nits,以尼特为单位的显示亮度,zh-CN
+Television Lighting Consistency Index,电视照明一致性指数,zh-CN
+Spectral Similarity Index,光谱相似性指数,zh-CN
+correlated color temperature,相关色温,zh-CN
+mired shift,微倒度偏移,zh-CN
+full CTB,全蓝色温转换片,zh-CN
+half CTB,半蓝色温转换片,zh-CN
+full CTO,全橙色温转换片,zh-CN
+grip department,机械组,zh-CN
+best boy grip,机械大助,zh-CN
+company grip,现场机械员,zh-CN
+dolly grip,移动摄影车机械员,zh-CN
+crane grip,摄影升降机机械员,zh-CN
+rigging grip,预装机械员,zh-CN
+junior pin,28毫米灯头插销,zh-CN
+junior receiver,28毫米灯头插孔,zh-CN
+scaffolding,脚手架,zh-CN
+lighting truss,灯光桁架,zh-CN
+pipe clamp,管夹,zh-CN
+Mafer clamp,Mafer多功能夹,zh-CN
+Cardellini clamp,Cardellini夹,zh-CN
+safety cable,安全钢索,zh-CN
+ratchet strap,棘轮绑带,zh-CN
+round sling,环形吊带,zh-CN
+bow shackle,弓形卸扣,zh-CN
+locking carabiner,带锁主锁,zh-CN
+sandbag,沙袋,zh-CN
+shot bag,颗粒配重袋,zh-CN
+full apple box,整苹果箱,zh-CN
+half apple box,半苹果箱,zh-CN
+production design department,美术组,zh-CN
+art department coordinator,美术协调,zh-CN
+concept artist,概念设计师,zh-CN
+storyboard artist,分镜师,zh-CN
+production illustrator,美术概念插画师,zh-CN
+graphic designer,平面设计师,zh-CN
+set drafter,布景绘图员,zh-CN
+scenic artist,布景绘景师,zh-CN
+set carpenter,置景木工,zh-CN
+set plasterer,置景泥塑工,zh-CN
+set painter,置景油漆工,zh-CN
+sculptor,雕塑师,zh-CN
+prop fabricator,道具制作师,zh-CN
+practical special effects supervisor,实拍特效指导,zh-CN
+practical special effects technician,实拍特效技师,zh-CN
+film-set armorer,片场枪械师,zh-CN
+weapons master,武器道具师,zh-CN
+food stylist,食物造型师,zh-CN
+animal wrangler,片场动物协调员,zh-CN
+forced perspective,强制透视,zh-CN
+shooting miniature,拍摄用微缩模型,zh-CN
+scale model,比例模型,zh-CN
+matte painting,绘景,zh-CN
+cyclorama,无缝背景墙,zh-CN
+chroma-key green screen,色键绿幕,zh-CN
+chroma-key blue screen,色键蓝幕,zh-CN
+costume department,服装组,zh-CN
+costume supervisor,服装主管,zh-CN
+costume coordinator,服装协调,zh-CN
+standby costumer,现场服装师,zh-CN
+set costumer,现场服装员,zh-CN
+costume dresser,服装员,zh-CN
+costume tailor,服装裁缝,zh-CN
+costume breakdown artist,服装做旧师,zh-CN
+costume buyer,服装采购,zh-CN
+costume fitting,服装试装,zh-CN
+costume continuity,服装连续性,zh-CN
+principal wardrobe,主要演员服装,zh-CN
+background wardrobe,群演服装,zh-CN
+makeup department head,化妆组长,zh-CN
+key makeup artist,主要化妆师,zh-CN
+prosthetic makeup designer,特效化妆设计师,zh-CN
+special makeup effects artist,特效化妆师,zh-CN
+hair department head,发型组长,zh-CN
+lined script,画线剧本,zh-CN
+continuity notes,连续性记录,zh-CN
+script supervisor notes,场记报告,zh-CN
+continuity log,连续性日志,zh-CN
+circle take,圈选条次,zh-CN
+preferred take,优选条次,zh-CN
+print take,保留条次,zh-CN
+camera department report,摄影组报告,zh-CN
+film editor's log,电影剪辑日志,zh-CN
+clapperboard,场记板,zh-CN
+clapsticks,拍板条,zh-CN
+set for picture,准备实拍,zh-CN
+back to one,回到起始位,zh-CN
+first positions on set,回到初始位置,zh-CN
+going again for another take,再来一条,zh-CN
+reset for another take,复位再拍,zh-CN
+editorial department,剪辑组,zh-CN
+picture editor,画面剪辑师,zh-CN
+first assistant editor,第一剪辑助理,zh-CN
+second assistant editor,第二剪辑助理,zh-CN
+post-production online editor,后期在线剪辑师,zh-CN
+post-production offline editor,后期离线剪辑师,zh-CN
+conform editor,套底剪辑师,zh-CN
+visual effects editor,视效剪辑师,zh-CN
+film music editor,电影音乐剪辑师,zh-CN
+DI producer,数字中间片制片人,zh-CN
+film colorist,电影调色师,zh-CN
+dailies colorist,样片调色师,zh-CN
+negative cutter,底片剪接师,zh-CN
+media ingest,素材导入,zh-CN
+syncing dailies,每日样片声画同步,zh-CN
+footage logging,素材编目,zh-CN
+editing bin,剪辑素材箱,zh-CN
+stringout,素材串联,zh-CN
+assembly cut,顺剪版,zh-CN
+rough cut,粗剪版,zh-CN
+fine cut,精剪版,zh-CN
+picture lock,锁画,zh-CN
+editor's cut,剪辑师版,zh-CN
+director's cut,导演剪辑版,zh-CN
+producer's cut,制片人版,zh-CN
+final cut,最终剪辑版,zh-CN
+selects reel,精选素材卷,zh-CN
+subclip,子剪辑,zh-CN
+editing sequence,剪辑序列,zh-CN
+editing timeline,剪辑时间线,zh-CN
+editing source monitor,剪辑源监视器,zh-CN
+editing record monitor,剪辑节目监视器,zh-CN
+three-point editing,三点剪辑,zh-CN
+insert edit,插入编辑,zh-CN
+overwrite edit,覆盖编辑,zh-CN
+ripple edit,波纹编辑,zh-CN
+rolling edit,滚动编辑,zh-CN
+slip edit,滑移剪辑,zh-CN
+slide edit,滑动剪辑,zh-CN
+trim edit,修剪编辑,zh-CN
+clip handles,剪辑余量,zh-CN
+head trim,修剪片段头部,zh-CN
+tail trim,修剪片段尾部,zh-CN
+J-cut,J形剪辑,zh-CN
+L-cut,L形剪辑,zh-CN
+film review copy,电影审片版,zh-CN
+watermarked screener,带水印审片版,zh-CN
+mezzanine codec,中间格式编解码器,zh-CN
+distribution deliverable,发行交付物,zh-CN
+picture master,画面母版,zh-CN
+Interoperable Master Format,互操作母版格式,zh-CN
+Digital Cinema Package,数字电影数据包,zh-CN
+Digital Source Master,数字源母版,zh-CN
+Digital Cinema Distribution Master,数字电影发行母版,zh-CN
+Key Delivery Message,密钥传送消息,zh-CN
+Composition Playlist,合成播放列表,zh-CN
+DCP original version,DCP原始版本,zh-CN
+DCP version file,DCP版本文件,zh-CN
+encrypted DCP,加密DCP,zh-CN
+subtitle package,字幕交付包,zh-CN
+closed captions,隐藏式字幕,zh-CN
+open captions,开放式字幕,zh-CN
+festival screener,电影节审片版,zh-CN
+electronic press kit,电子宣传资料包,zh-CN
+theatrical trailer,院线预告片,zh-CN
+protagonist,主人公,zh-CN
+antagonist,对立角色,zh-CN
+deuteragonist,第二主角,zh-CN
+character foil,陪衬角色,zh-CN
+ensemble cast,群像演员阵容,zh-CN
+supporting role,配角,zh-CN
+cameo appearance,客串出演,zh-CN
+walk-on role,龙套角色,zh-CN
+film day player,按日聘用演员,zh-CN
+principal actor,主要演员,zh-CN
+voice double,声音替身,zh-CN
+understudy,候补演员,zh-CN
+acting cold read,表演冷读,zh-CN
+casting audition,试镜,zh-CN
+setup and payoff,铺垫与回收,zh-CN
+foreshadowing,伏笔,zh-CN
+dramatic irony,戏剧性反讽,zh-CN
+unreliable narrator,不可靠叙述者,zh-CN
+fourth wall,第四堵墙,zh-CN
+breaking the fourth wall,打破第四堵墙,zh-CN
+mise-en-scène,场面调度,zh-CN
+visual motif,视觉母题,zh-CN
+MacGuffin,麦高芬,zh-CN
+red herring,误导线索,zh-CN
+Chekhov's gun,契诃夫之枪,zh-CN
+narrative ellipsis,叙事省略,zh-CN
+match on action,动作匹配剪辑,zh-CN
+temporal continuity,时间连续性,zh-CN
+spatial continuity,空间连续性,zh-CN
+continuity editing,连续性剪辑,zh-CN
+discontinuity editing,非连续性剪辑,zh-CN
+Kuleshov effect,库里肖夫效应,zh-CN
+Soviet montage theory,苏联蒙太奇理论,zh-CN
+auteur theory,作者论,zh-CN
+apparatus theory,电影机器理论,zh-CN
+male gaze,男性凝视,zh-CN
+spectatorship theory,观众理论,zh-CN
+classical Hollywood cinema,古典好莱坞电影,zh-CN
+Italian Neorealism,意大利新现实主义,zh-CN
+French New Wave,法国新浪潮,zh-CN
+Alfred Hitchcock,阿尔弗雷德·希区柯克,zh-CN
+Stanley Kubrick,斯坦利·库布里克,zh-CN
+Orson Welles,奥逊·威尔斯,zh-CN
+Akira Kurosawa,黑泽明,zh-CN
+Yasujirō Ozu,小津安二郎,zh-CN
+Kenji Mizoguchi,沟口健二,zh-CN
+Ingmar Bergman,英格玛·伯格曼,zh-CN
+Federico Fellini,费德里科·费里尼,zh-CN
+Andrei Tarkovsky,安德烈·塔可夫斯基,zh-CN
+Jean-Luc Godard,让-吕克·戈达尔,zh-CN
+François Truffaut,弗朗索瓦·特吕弗,zh-CN
+Agnès Varda,阿涅斯·瓦尔达,zh-CN
+Chantal Akerman,香特尔·阿克曼,zh-CN
+Satyajit Ray,萨蒂亚吉特·雷伊,zh-CN
+Pedro Almodóvar,佩德罗·阿莫多瓦,zh-CN
+Francis Ford Coppola,弗朗西斯·福特·科波拉,zh-CN
+Martin Scorsese,马丁·斯科塞斯,zh-CN
+Steven Spielberg,史蒂文·斯皮尔伯格,zh-CN
+David Lynch,大卫·林奇,zh-CN
+David Fincher,大卫·芬奇,zh-CN
+Christopher Nolan,克里斯托弗·诺兰,zh-CN
+Denis Villeneuve,丹尼斯·维伦纽瓦,zh-CN
+Quentin Tarantino,昆汀·塔伦蒂诺,zh-CN
+Spike Lee,斯派克·李,zh-CN
+Kathryn Bigelow,凯瑟琳·毕格罗,zh-CN
+Jane Campion,简·坎皮恩,zh-CN
+Greta Gerwig,格蕾塔·葛韦格,zh-CN
+Wong Kar-wai,王家卫,zh-CN
+Zhang Yimou,张艺谋,zh-CN
+Jia Zhangke,贾樟柯,zh-CN
+Ang Lee,李安,zh-CN
+Bong Joon Ho,奉俊昊,zh-CN
+Park Chan-wook,朴赞郁,zh-CN
+Roger Deakins,罗杰·狄金斯,zh-CN
+Emmanuel Lubezki,艾曼努尔·卢贝兹基,zh-CN
+Vittorio Storaro,维托里奥·斯托拉罗,zh-CN
+Gordon Willis,戈登·威利斯,zh-CN
+Gregg Toland,格雷格·托兰德,zh-CN
+Sven Nykvist,斯文·尼科维斯特,zh-CN
+Christopher Doyle,杜可风,zh-CN
+Bradford Young,布拉德福德·杨,zh-CN
+Rachel Morrison,瑞秋·莫里森,zh-CN
+Hoyte van Hoytema,霍伊特·范·霍特玛,zh-CN
+Greig Fraser,格雷格·弗莱瑟,zh-CN
+Linus Sandgren,莱纳斯·桑德格伦,zh-CN
+Wally Pfister,沃利·菲斯特,zh-CN
+Rodrigo Prieto,罗德里戈·普列托,zh-CN
+Darius Khondji,达吕斯·康第,zh-CN
+John Alton,约翰·奥尔顿,zh-CN
+Thelma Schoonmaker,塞尔玛·斯昆梅克,zh-CN
+Walter Murch,沃尔特·默奇,zh-CN
+Dede Allen,迪迪·艾伦,zh-CN
+Anne V. Coates,安妮·V·科茨,zh-CN
+Sally Menke,萨利·门克,zh-CN
+Margaret Sixel,玛格丽特·西瑟尔,zh-CN
+Kirk Baxter,柯克·巴克斯特,zh-CN
+Hank Corwin,汉克·科温,zh-CN
+Ben Burtt,本·伯特,zh-CN
+Randy Thom,兰迪·汤姆,zh-CN
+Gary Rydstrom,加里·里德斯特罗姆,zh-CN
+André Bazin,安德烈·巴赞,zh-CN
+Sergei Eisenstein,谢尔盖·爱森斯坦,zh-CN
+Lev Kuleshov,列夫·库里肖夫,zh-CN
+Dziga Vertov,吉加·维尔托夫,zh-CN
+Vsevolod Pudovkin,弗谢沃洛德·普多夫金,zh-CN
+Rudolf Arnheim,鲁道夫·阿恩海姆,zh-CN
+Siegfried Kracauer,齐格弗里德·克拉考尔,zh-CN
+Christian Metz,克里斯蒂安·麦茨,zh-CN
+Laura Mulvey,劳拉·穆尔维,zh-CN
+David Bordwell,大卫·波德维尔,zh-CN
+Kristin Thompson,克里斯汀·汤普森,zh-CN
+Gilles Deleuze,吉尔·德勒兹,zh-CN
+Noël Burch,诺埃尔·伯奇,zh-CN
+Béla Balázs,贝拉·巴拉兹,zh-CN
+Michel Chion,米歇尔·希翁,zh-CN
+Rick Altman,里克·奥尔特曼,zh-CN
+IMAX 15/65 film format,IMAX 15/65 胶片格式,zh-CN
+MovieBird telescopic crane,MovieBird 伸缩摄影摇臂,zh-CN
+TechnoDolly,TechnoDolly自动摄影摇臂,zh-CN
+Academy Color Encoding System,学院色彩编码系统,zh-CN
+ACES Input Device Transform,ACES输入设备变换,zh-CN
+ACES Output Device Transform,ACES输出设备变换,zh-CN
+ACES Reference Rendering Transform,ACES参考呈现变换,zh-CN
+ACES Metadata File,ACES元数据文件,zh-CN
+American Society of Cinematographers,美国电影摄影师协会,zh-CN
+British Society of Cinematographers,英国电影摄影师协会,zh-CN
+Society of Motion Picture and Television Engineers,电影电视工程师协会,zh-CN
+Digital Cinema Initiatives,数字电影倡导组织,zh-CN
+Academy of Motion Picture Arts and Sciences,美国电影艺术与科学学院,zh-CN
+Directors Guild of America,美国导演工会,zh-CN
+Producers Guild of America,美国制片人工会,zh-CN
+Screen Actors Guild-American Federation of Television and Radio Artists,美国演员工会及广播电视艺人联合会,zh-CN
+International Alliance of Theatrical Stage Employees,国际戏剧舞台雇员联盟,zh-CN
+British Film Institute,英国电影协会,zh-CN
+International Federation of Film Archives,国际电影资料馆联合会,zh-CN
+China Film Archive,中国电影资料馆,zh-CN
+China Society of Motion Picture and Television Engineers,中国电影电视技术学会,zh-CN
+National Film Administration,国家电影局,zh-CN
+DCI-P3,DCI-P3 数字电影色域,zh-CN
+SMPTE ST 2084,SMPTE ST 2084 感知量化传递函数,zh-CN
+SMPTE ST 12-1,SMPTE ST 12-1 时间码标准,zh-CN
+SMPTE ST 2065-1,SMPTE ST 2065-1 ACES标准,zh-CN
+SMPTE ST 2110,SMPTE ST 2110 基于受管 IP 网络的专业媒体传输标准族,zh-CN
+SMPTE ST 428-1,SMPTE ST 428-1 数字电影发行母版:图像特性,zh-CN
+SMPTE ST 429,SMPTE ST 429数字影院封装标准族,zh-CN
+ISO 12232,ISO 12232数码相机感光度标准,zh-CN
+ISO 80000-7,ISO 80000-7光与辐射量和单位标准,zh-CN
+GB/T 15769-1995,GB/T 15769-1995《电影技术术语》,zh-CN
+GY/T 302-2016,GY/T 302-2016《电影电视用白光LED灯具技术要求和测量方法》,zh-CN
+Digital Cinema Naming Convention,数字电影命名规范,zh-CN
+shot coverage,镜头覆盖,zh-CN
+camera coverage,摄影机位覆盖,zh-CN
+lighting stand-in,灯光替身,zh-CN
+film/TV production manager,影视制片经理,zh-CN
+film/TV production coordinator,影视制片协调员,zh-CN
+film/TV assistant production coordinator,影视制片协调助理,zh-CN
+film/TV production assistant,影视制片助理,zh-CN
+film-set construction coordinator,布景施工协调员,zh-CN
+film-set construction foreman,布景施工领班,zh-CN
+film art director,美术执行,zh-CN
+film assistant art director,美术执行助理,zh-CN
+film supervising art director,美术执行总监,zh-CN
+film executive producer,监制,zh-CN
+cinematography backlight,摄影逆光,zh-CN
+camera-rig cheese plate,摄影机多孔安装板,zh-CN
+Speed-Rail grip tubing system,Speed-Rail 铝管搭建系统,zh-CN
+Mark it!,打板!,zh-CN
+Check the gate!,检查片门!,zh-CN
+ITU-R BT.709,ITU-R BT.709 高清电视色彩标准,zh-CN
+ITU-R BT.2020,ITU-R BT.2020 超高清电视色彩标准,zh-CN

@@ -1,0 +1,940 @@
+source,target,tgt_lng
+music production,音乐制作,zh-CN
+record producer,唱片制作人,zh-CN
+music producer,音乐制作人,zh-CN
+recording engineer,录音师,zh-CN
+mix engineer,混音师,zh-CN
+mastering engineer,母带工程师,zh-CN
+studio musician,录音棚乐手,zh-CN
+songwriter,词曲作者,zh-CN
+music composer,作曲家,zh-CN
+music arranger,编曲者,zh-CN
+music orchestrator,配器师,zh-CN
+music editor,音乐编辑师,zh-CN
+music supervisor,音乐监督,zh-CN
+music contractor,乐手统筹,zh-CN
+vocal producer,人声制作人,zh-CN
+beatmaker,节拍制作人,zh-CN
+topliner,旋律与歌词作者,zh-CN
+remixer,重混音制作人,zh-CN
+DJ producer,DJ 制作人,zh-CN
+music pre-production,音乐前期制作,zh-CN
+demo recording,小样录音,zh-CN
+tracking session,分轨录音场次,zh-CN
+overdub session,叠录场次,zh-CN
+recording session,录音场次,zh-CN
+mixing session,混音场次,zh-CN
+mastering session,母带制作场次,zh-CN
+album sequencing,专辑曲序编排,zh-CN
+song arrangement,歌曲编曲,zh-CN
+orchestral arrangement,管弦乐编配,zh-CN
+string arrangement,弦乐编配,zh-CN
+horn arrangement,管乐编配,zh-CN
+rhythm section,节奏声部,zh-CN
+lead vocal,主唱,zh-CN
+backing vocal,和声人声,zh-CN
+background vocals,背景和声,zh-CN
+double-tracked vocal,双轨人声,zh-CN
+vocal comping,人声选段合成,zh-CN
+vocal tuning,人声音高校正,zh-CN
+vocal alignment,人声节奏对齐,zh-CN
+vocal stack,人声叠层,zh-CN
+vocal ad-lib,即兴人声,zh-CN
+guide vocal,导唱,zh-CN
+scratch vocal,临时参考人声,zh-CN
+instrumental version,纯音乐版,zh-CN
+vocal stem,人声 Stem,zh-CN
+drum stem,鼓组 Stem,zh-CN
+bass stem,贝司 Stem,zh-CN
+instrument stem,乐器 Stem,zh-CN
+master recording,录音母版,zh-CN
+multitrack recording,多轨录音,zh-CN
+two-track recording,双轨录音,zh-CN
+live recording,现场录音,zh-CN
+direct-to-stereo recording,直录立体声,zh-CN
+analog recording,模拟录音,zh-CN
+digital recording,数字录音,zh-CN
+hybrid mixing,混合式混音,zh-CN
+in-the-box mixing,纯软件混音,zh-CN
+out-of-the-box mixing,外置硬件混音,zh-CN
+recall sheet,混音召回记录表,zh-CN
+mix recall,混音状态召回,zh-CN
+alternate mix,备选混音版,zh-CN
+radio edit,电台剪辑版,zh-CN
+extended mix,加长混音版,zh-CN
+club mix,俱乐部混音版,zh-CN
+clean edit,洁版,zh-CN
+explicit version,含露骨内容版,zh-CN
+performance royalties,公开表演权版税,zh-CN
+mechanical royalties,机械复制权版税,zh-CN
+publishing rights,音乐出版权,zh-CN
+master rights,母带权,zh-CN
+synchronization license,同步使用许可,zh-CN
+music cue sheet,音乐使用清单,zh-CN
+ISRC,ISRC 国际标准录音制品编码,zh-CN
+ISWC,ISWC 国际标准音乐作品编码,zh-CN
+musical pitch,音高,zh-CN
+reference pitch,参考音高,zh-CN
+equal temperament,平均律,zh-CN
+just intonation,纯律,zh-CN
+Pythagorean tuning,五度相生律,zh-CN
+meantone temperament,中全音律,zh-CN
+microtonal music,微分音音乐,zh-CN
+quarter tone,四分之一音,zh-CN
+musical cent,音分,zh-CN
+enharmonic equivalent,等音,zh-CN
+pitch class,音高类,zh-CN
+musical interval,音程,zh-CN
+musical unison,同度,zh-CN
+minor second,小二度,zh-CN
+major second,大二度,zh-CN
+minor third,小三度,zh-CN
+major third,大三度,zh-CN
+perfect fourth,纯四度,zh-CN
+augmented fourth,增四度,zh-CN
+musical tritone,三全音,zh-CN
+diminished fifth,减五度,zh-CN
+perfect fifth,纯五度,zh-CN
+minor sixth,小六度,zh-CN
+major sixth,大六度,zh-CN
+minor seventh,小七度,zh-CN
+major seventh,大七度,zh-CN
+perfect octave,纯八度,zh-CN
+compound interval,复音程,zh-CN
+interval inversion,音程转位,zh-CN
+consonant interval,协和音程,zh-CN
+dissonant interval,不协和音程,zh-CN
+chromatic scale,半音音阶,zh-CN
+whole-tone scale,全音音阶,zh-CN
+diatonic scale,自然音阶,zh-CN
+major scale,大调音阶,zh-CN
+natural minor scale,自然小调音阶,zh-CN
+harmonic minor scale,和声小调音阶,zh-CN
+melodic minor scale,旋律小调音阶,zh-CN
+pentatonic scale,五声音阶,zh-CN
+major pentatonic scale,大调五声音阶,zh-CN
+minor pentatonic scale,小调五声音阶,zh-CN
+blues scale,布鲁斯音阶,zh-CN
+octatonic scale,八音音阶,zh-CN
+diminished scale,减音阶,zh-CN
+altered scale,变化音阶,zh-CN
+modal scale,调式音阶,zh-CN
+Ionian mode,伊奥尼亚调式,zh-CN
+Dorian mode,多利亚调式,zh-CN
+Phrygian mode,弗里几亚调式,zh-CN
+Lydian mode,利底亚调式,zh-CN
+Mixolydian mode,混合利底亚调式,zh-CN
+Aeolian mode,爱奥利亚调式,zh-CN
+Locrian mode,洛克里亚调式,zh-CN
+tonic scale degree,主音,zh-CN
+supertonic scale degree,上主音,zh-CN
+mediant scale degree,中音,zh-CN
+subdominant scale degree,下属音,zh-CN
+dominant scale degree,属音,zh-CN
+submediant scale degree,下中音,zh-CN
+leading tone,导音,zh-CN
+scale degree,音级,zh-CN
+key signature,调号,zh-CN
+major key,大调,zh-CN
+minor key,小调,zh-CN
+parallel key,同主音调,zh-CN
+relative key,关系大小调,zh-CN
+closely related key,近关系调,zh-CN
+distant key,远关系调,zh-CN
+key modulation,转调,zh-CN
+tonicization,临时主音化,zh-CN
+modal interchange,调式互换,zh-CN
+borrowed chord,借用和弦,zh-CN
+secondary dominant,副属和弦,zh-CN
+secondary leading-tone chord,副导和弦,zh-CN
+circle of fifths,五度圈,zh-CN
+chromatic mediant,变音中音关系和弦,zh-CN
+voice leading,声部进行,zh-CN
+contrary motion,反向进行,zh-CN
+parallel motion,平行进行,zh-CN
+oblique motion,斜向进行,zh-CN
+similar motion,同向进行,zh-CN
+part writing,声部写作,zh-CN
+harmonic doubling,和声中的音级重复,zh-CN
+common tone,共同音,zh-CN
+non-chord tone,和弦外音,zh-CN
+passing tone,经过音,zh-CN
+neighbor tone,辅助音,zh-CN
+appoggiatura,倚音,zh-CN
+harmonic suspension,延留音,zh-CN
+harmonic retardation,迟延音,zh-CN
+harmonic anticipation,先现音,zh-CN
+pedal point,持续音,zh-CN
+ostinato,固定音型,zh-CN
+drone note,持续音,zh-CN
+musical triad,三和弦,zh-CN
+major triad,大三和弦,zh-CN
+minor triad,小三和弦,zh-CN
+diminished triad,减三和弦,zh-CN
+augmented triad,增三和弦,zh-CN
+seventh chord,七和弦,zh-CN
+major seventh chord,大七和弦,zh-CN
+dominant seventh chord,属七和弦,zh-CN
+minor seventh chord,小七和弦,zh-CN
+half-diminished seventh chord,半减七和弦,zh-CN
+fully diminished seventh chord,减七和弦,zh-CN
+extended chord,扩展和弦,zh-CN
+ninth chord,九和弦,zh-CN
+eleventh chord,十一和弦,zh-CN
+thirteenth chord,十三和弦,zh-CN
+added-tone chord,附加音和弦,zh-CN
+suspended chord,挂留和弦,zh-CN
+slash chord,斜线和弦,zh-CN
+polychord,复合和弦,zh-CN
+quartal harmony,四度叠置和声,zh-CN
+quintal harmony,五度叠置和声,zh-CN
+chord voicing,和弦配置,zh-CN
+open voicing,开放排列,zh-CN
+close voicing,密集排列,zh-CN
+drop-2 voicing,Drop 2 和弦排列,zh-CN
+drop-3 voicing,Drop 3 和弦排列,zh-CN
+root position,原位,zh-CN
+first inversion,第一转位,zh-CN
+second inversion,第二转位,zh-CN
+third inversion,第三转位,zh-CN
+harmonic function,和声功能,zh-CN
+tonic function,主功能,zh-CN
+predominant function,属前功能,zh-CN
+dominant function,属功能,zh-CN
+functional harmony,功能和声,zh-CN
+non-functional harmony,非功能和声,zh-CN
+harmonic cadence,和声终止式,zh-CN
+authentic cadence,正格终止,zh-CN
+perfect authentic cadence,完全正格终止,zh-CN
+imperfect authentic cadence,不完全正格终止,zh-CN
+plagal cadence,变格终止,zh-CN
+half cadence,半终止,zh-CN
+deceptive cadence,阻碍终止,zh-CN
+harmonic rhythm,和声节奏,zh-CN
+chord progression,和弦进行,zh-CN
+twelve-bar blues,十二小节布鲁斯,zh-CN
+ii–V–I progression,ii–V–I 和弦进行,zh-CN
+turnaround progression,回转和弦进行,zh-CN
+musical rhythm,音乐节奏,zh-CN
+musical tempo,音乐速度,zh-CN
+beats per minute,每分钟拍数,zh-CN
+simple meter,单拍子,zh-CN
+compound meter,复拍子,zh-CN
+duple meter,二拍子,zh-CN
+triple meter,三拍子,zh-CN
+quadruple meter,四拍子,zh-CN
+odd meter,不规则拍子,zh-CN
+polymeter,复合拍号并置,zh-CN
+mixed meter,混合拍子,zh-CN
+metric modulation,节拍速度转换,zh-CN
+musical downbeat,强拍,zh-CN
+musical upbeat,弱起拍,zh-CN
+musical backbeat,反拍重音,zh-CN
+musical offbeat,弱位拍,zh-CN
+syncopation,切分,zh-CN
+cross-rhythm,交叉节奏,zh-CN
+polyrhythm,复节奏,zh-CN
+hemiola,赫米奥拉节奏,zh-CN
+tuplet,连音组,zh-CN
+musical triplet,三连音,zh-CN
+musical quintuplet,五连音,zh-CN
+musical septuplet,七连音,zh-CN
+swing feel,摇摆律动,zh-CN
+shuffle feel,Shuffle 律动,zh-CN
+straight feel,直拍律动,zh-CN
+musical groove,音乐律动,zh-CN
+microtiming,微时值,zh-CN
+MIDI humanization,MIDI 人性化处理,zh-CN
+MIDI quantization,MIDI 量化,zh-CN
+quantize grid,量化网格,zh-CN
+swing percentage,摇摆比例,zh-CN
+tempo map,速度图,zh-CN
+tempo automation,速度自动化,zh-CN
+rubato,自由速度,zh-CN
+ritardando,渐慢,zh-CN
+accelerando,渐快,zh-CN
+fermata,延长记号,zh-CN
+pickup measure,弱起小节,zh-CN
+anacrusis,弱起,zh-CN
+bar line,小节线,zh-CN
+musical measure,小节,zh-CN
+musical phrase,乐句,zh-CN
+musical period,乐段,zh-CN
+musical motif,音乐动机,zh-CN
+musical theme,音乐主题,zh-CN
+countermelody,对旋律,zh-CN
+counterpoint,对位,zh-CN
+musical imitation,模仿复调,zh-CN
+musical canon,卡农,zh-CN
+musical fugue,赋格,zh-CN
+sonata exposition,奏鸣曲呈示部,zh-CN
+rondo form,回旋曲式,zh-CN
+sonata form,奏鸣曲式,zh-CN
+theme and variations,主题与变奏,zh-CN
+through-composed form,贯穿式曲式,zh-CN
+song verse,主歌,zh-CN
+song chorus,副歌,zh-CN
+pre-chorus,预副歌,zh-CN
+song refrain,歌曲叠句,zh-CN
+instrumental break,器乐间奏,zh-CN
+vamp section,反复伴奏段,zh-CN
+song hook,歌曲记忆点,zh-CN
+lead sheet,旋律和弦谱,zh-CN
+full score,总谱,zh-CN
+conductor score,指挥总谱,zh-CN
+part score,分谱,zh-CN
+grand staff,大谱表,zh-CN
+alto clef,中音谱号,zh-CN
+tenor clef,次中音谱号,zh-CN
+transposing instrument,移调乐器,zh-CN
+concert score,实音总谱,zh-CN
+written pitch,记谱音高,zh-CN
+concert pitch notation,实音记谱,zh-CN
+musical articulation,演奏法记号,zh-CN
+legato,连奏,zh-CN
+staccato,断奏,zh-CN
+tenuto,保持音,zh-CN
+marcato,强奏记号,zh-CN
+accent mark,重音记号,zh-CN
+pizzicato,拨奏,zh-CN
+arco bowing,弓奏,zh-CN
+tremolo,震音,zh-CN
+musical trill,颤音,zh-CN
+glissando,滑奏,zh-CN
+portamento,滑音,zh-CN
+harmonic fingering,泛音指法,zh-CN
+natural harmonic,自然泛音,zh-CN
+artificial harmonic,人工泛音,zh-CN
+col legno,以弓杆击弦,zh-CN
+sul ponticello,近琴桥演奏,zh-CN
+sul tasto,指板上方演奏,zh-CN
+con sordino,加弱音器,zh-CN
+senza sordino,去弱音器,zh-CN
+flutter tonguing,花舌,zh-CN
+multiphonics,多音奏法,zh-CN
+breath tone,气声音色,zh-CN
+growl technique,吼音奏法,zh-CN
+ghost note,幽灵音,zh-CN
+dead note,闷音,zh-CN
+palm muting,手掌制音,zh-CN
+hammer-on,击弦,zh-CN
+pull-off,勾弦,zh-CN
+guitar string bend,吉他推弦,zh-CN
+vibrato,颤音,zh-CN
+alternate picking,交替拨弦,zh-CN
+fingerstyle,指弹,zh-CN
+slap bass,拍弦贝司,zh-CN
+double stop,双音奏法,zh-CN
+divisi,分奏,zh-CN
+tutti,全奏,zh-CN
+solo passage,独奏段,zh-CN
+unison passage,齐奏段,zh-CN
+orchestral doubling,管弦配器中的乐器加倍,zh-CN
+instrument range,乐器音域,zh-CN
+tessitura,常用音区,zh-CN
+musical register,音乐音区,zh-CN
+orchestral texture,管弦织体,zh-CN
+monophonic texture,单声织体,zh-CN
+homophonic texture,主调织体,zh-CN
+polyphonic texture,复调织体,zh-CN
+heterophonic texture,支声织体,zh-CN
+orchestral balance,管弦平衡,zh-CN
+close miking,近距离拾音,zh-CN
+distant miking,远距离拾音,zh-CN
+spot microphone,点话筒,zh-CN
+main microphone array,主话筒阵列,zh-CN
+Decca Tree,Decca Tree 三点主话筒制式,zh-CN
+ORTF stereo technique,ORTF 立体声拾音制式,zh-CN
+NOS stereo technique,NOS 立体声拾音制式,zh-CN
+XY stereo technique,XY 同点立体声拾音,zh-CN
+AB stereo technique,AB 间距立体声拾音,zh-CN
+MS stereo technique,MS 中侧立体声拾音,zh-CN
+Blumlein pair,布鲁姆莱因交叉偶极制式,zh-CN
+baffled stereo technique,挡板式立体声拾音,zh-CN
+Jecklin Disk,Jecklin 圆盘立体声制式,zh-CN
+binaural recording,双耳录音,zh-CN
+spaced pair,间距话筒对,zh-CN
+coincident pair,同点话筒对,zh-CN
+near-coincident pair,近同点话筒对,zh-CN
+stereo microphone,立体声话筒,zh-CN
+microphone polar pattern,话筒指向特性,zh-CN
+omnidirectional pattern,全指向特性,zh-CN
+cardioid pattern,心形指向特性,zh-CN
+supercardioid pattern,超心形指向特性,zh-CN
+hypercardioid pattern,强心形指向特性,zh-CN
+figure-eight pattern,8 字形指向特性,zh-CN
+lobar pattern,枪式叶瓣指向特性,zh-CN
+off-axis response,离轴响应,zh-CN
+on-axis response,轴向响应,zh-CN
+polar response,指向响应,zh-CN
+microphone self-noise,话筒自噪声,zh-CN
+equivalent noise level,等效噪声级,zh-CN
+maximum SPL,最大声压级,zh-CN
+sensitivity rating,灵敏度指标,zh-CN
+proximity boost,近讲低频提升,zh-CN
+phantom power,幻象供电,zh-CN
+48-volt phantom power,48 伏幻象供电,zh-CN
+ribbon microphone,铝带式话筒,zh-CN
+large-diaphragm condenser microphone,大振膜电容话筒,zh-CN
+small-diaphragm condenser microphone,小振膜电容话筒,zh-CN
+dynamic microphone,动圈话筒,zh-CN
+pressure-zone microphone,压力区话筒,zh-CN
+boundary microphone,界面话筒,zh-CN
+contact microphone,接触式话筒,zh-CN
+piezoelectric pickup,压电拾音器,zh-CN
+DI box,DI盒,zh-CN
+active DI box,有源 DI 盒,zh-CN
+passive DI box,无源 DI 盒,zh-CN
+reamp box,再放大盒,zh-CN
+microphone preamplifier,话筒前置放大器,zh-CN
+instrument preamplifier,乐器前置放大器,zh-CN
+channel strip,通道条,zh-CN
+console preamp,调音台前置放大器,zh-CN
+transformer-balanced input,变压器平衡输入,zh-CN
+electron-tube preamp,电子管前置放大器,zh-CN
+solid-state preamp,晶体管前置放大器,zh-CN
+transparent preamp,透明型前置放大器,zh-CN
+colored preamp,染色型前置放大器,zh-CN
+input impedance,输入阻抗,zh-CN
+output impedance,输出阻抗,zh-CN
+impedance matching,阻抗匹配,zh-CN
+balanced connection,平衡连接,zh-CN
+unbalanced connection,非平衡连接,zh-CN
+common-mode rejection,共模抑制,zh-CN
+common-mode rejection ratio,共模抑制比,zh-CN
+line level,线路电平,zh-CN
+microphone level,话筒电平,zh-CN
+instrument level,乐器电平,zh-CN
+nominal operating level,标称工作电平,zh-CN
+unity gain,单位增益,zh-CN
+gain before feedback,啸叫前增益,zh-CN
+pad switch,衰减垫开关,zh-CN
+phase reverse switch,极性反转开关,zh-CN
+high-pass filter switch,高通滤波开关,zh-CN
+audio interface,音频接口,zh-CN
+analog-to-digital converter,模数转换器,zh-CN
+digital-to-analog converter,数模转换器,zh-CN
+converter clock,转换器时钟,zh-CN
+word clock,字时钟,zh-CN
+master clock,主时钟,zh-CN
+clock jitter,时钟抖动,zh-CN
+clock synchronization,时钟同步,zh-CN
+sample-rate conversion,采样率转换,zh-CN
+asynchronous sample-rate conversion,异步采样率转换,zh-CN
+bit depth,位深,zh-CN
+sampling rate,采样率,zh-CN
+Nyquist frequency,奈奎斯特频率,zh-CN
+aliasing distortion,混叠失真,zh-CN
+anti-aliasing filter,抗混叠滤波器,zh-CN
+quantization noise,量化噪声,zh-CN
+dither noise,抖动噪声,zh-CN
+noise shaping,噪声整形,zh-CN
+floating-point audio,浮点音频,zh-CN
+fixed-point audio,定点音频,zh-CN
+32-bit float recording,32位浮点录音,zh-CN
+digital audio workstation,数字音频工作站,zh-CN
+DAW session,DAW 工程,zh-CN
+audio track,音频轨,zh-CN
+instrument track,乐器轨,zh-CN
+MIDI track,MIDI 轨,zh-CN
+auxiliary track,辅助轨,zh-CN
+folder track,文件夹轨,zh-CN
+group track,编组轨,zh-CN
+track freeze,音轨冻结,zh-CN
+track bounce,音轨并轨,zh-CN
+bounce in place,原位并轨,zh-CN
+render in place,原位渲染,zh-CN
+offline bounce,离线混缩,zh-CN
+real-time bounce,实时混缩,zh-CN
+consolidate clips,合并片段,zh-CN
+flatten comp,固化选段合成,zh-CN
+take lane,录音条次泳道,zh-CN
+playlist comping,播放列表选段合成,zh-CN
+loop recording mode,循环录音模式,zh-CN
+punch recording,插入录音,zh-CN
+recording count-in,录音预备拍,zh-CN
+metronome click,节拍器点击声,zh-CN
+latency monitoring,延迟监听,zh-CN
+direct monitoring,直通监听,zh-CN
+software monitoring,软件监听,zh-CN
+round-trip latency,往返延迟,zh-CN
+buffer size,缓冲区大小,zh-CN
+low-latency mode,低延迟模式,zh-CN
+delay compensation engine,延迟补偿引擎,zh-CN
+audio warp,音频弹性变速,zh-CN
+transient marker,瞬态标记,zh-CN
+warp marker,弹性变速标记,zh-CN
+beat detection,节拍检测,zh-CN
+tempo detection,速度检测,zh-CN
+audio quantization,音频量化,zh-CN
+sample editor,采样编辑器,zh-CN
+piano roll editor,钢琴卷帘编辑器,zh-CN
+score editor,乐谱编辑器,zh-CN
+drum editor,鼓编辑器,zh-CN
+step sequencer,步进音序器,zh-CN
+pattern sequencer,样式音序器,zh-CN
+automation lane,自动化泳道,zh-CN
+modulation lane,调制泳道,zh-CN
+controller lane,控制器泳道,zh-CN
+MIDI,MIDI 乐器数字接口,zh-CN
+MIDI 1.0,MIDI 1.0 协议,zh-CN
+MIDI 2.0,MIDI 2.0 协议,zh-CN
+MIDI note number,MIDI 音符编号,zh-CN
+note-on message,音符开启消息,zh-CN
+note-off message,音符关闭消息,zh-CN
+note velocity,音符力度,zh-CN
+release velocity,释放力度,zh-CN
+MIDI aftertouch,MIDI 触后,zh-CN
+channel pressure,通道压力,zh-CN
+polyphonic aftertouch,复音触后,zh-CN
+pitch bend,弯音,zh-CN
+pitch-bend range,弯音范围,zh-CN
+modulation wheel,调制轮,zh-CN
+control change message,控制变更消息,zh-CN
+program change message,音色切换消息,zh-CN
+bank select message,音色库选择消息,zh-CN
+system exclusive message,系统专有消息,zh-CN
+MIDI clock,MIDI 时钟,zh-CN
+MIDI timecode,MIDI 时间码,zh-CN
+MIDI machine control,MIDI 机器控制,zh-CN
+MIDI Polyphonic Expression,MIDI 复音表现控制,zh-CN
+per-note controller,逐音符控制器,zh-CN
+Universal MIDI Packet,通用 MIDI 数据包,zh-CN
+MIDI-CI,MIDI 能力查询,zh-CN
+General MIDI,通用 MIDI,zh-CN
+virtual instrument,虚拟乐器,zh-CN
+software instrument,软件乐器,zh-CN
+sampler instrument,采样器乐器,zh-CN
+sample library,采样音色库,zh-CN
+sampler multisampling,采样器多重采样,zh-CN
+velocity layer,力度分层,zh-CN
+round robin samples,轮换采样,zh-CN
+articulation map,演奏法映射,zh-CN
+key mapping,键位映射,zh-CN
+one-shot sample,单次触发采样,zh-CN
+looped sample,循环采样,zh-CN
+sustain loop,延音循环,zh-CN
+release sample,释音采样,zh-CN
+release trigger,释音触发,zh-CN
+granular sampling,颗粒采样,zh-CN
+time-stretched sample,时间伸缩采样,zh-CN
+slice mode,切片模式,zh-CN
+beat slicing,节拍切片,zh-CN
+sample chopping,采样切块,zh-CN
+sample-rate reduction,采样率降低,zh-CN
+bit crushing,位深破碎处理,zh-CN
+audio synthesis,声音合成,zh-CN
+subtractive synthesis,减法合成,zh-CN
+additive synthesis,加法合成,zh-CN
+frequency-modulation synthesis,调频合成,zh-CN
+phase-distortion synthesis,相位失真合成,zh-CN
+wavetable synthesis,波表合成,zh-CN
+granular synthesis,颗粒合成,zh-CN
+physical-modeling synthesis,物理建模合成,zh-CN
+vector synthesis,矢量合成,zh-CN
+spectral synthesis,频谱合成,zh-CN
+formant synthesis,共振峰合成,zh-CN
+sample-based synthesis,基于采样的合成,zh-CN
+west-coast synthesis,西海岸合成,zh-CN
+east-coast synthesis,东海岸合成,zh-CN
+modular synthesis,模块化合成,zh-CN
+semi-modular synthesizer,半模块化合成器,zh-CN
+analog synthesizer,模拟合成器,zh-CN
+digital synthesizer,数字合成器,zh-CN
+hybrid synthesizer,混合式合成器,zh-CN
+monophonic synthesizer,单音合成器,zh-CN
+polyphonic synthesizer,复音合成器,zh-CN
+paraphonic synthesizer,准复音合成器,zh-CN
+voice allocation,复音声部分配,zh-CN
+voice stealing,声部抢占,zh-CN
+oscillator synchronization,振荡器同步,zh-CN
+hard sync,硬同步,zh-CN
+soft sync,软同步,zh-CN
+low-frequency oscillator,低频振荡器,zh-CN
+voltage-controlled oscillator,压控振荡器,zh-CN
+digitally controlled oscillator,数控振荡器,zh-CN
+wavetable oscillator,波表振荡器,zh-CN
+noise oscillator,噪声振荡器,zh-CN
+sine wave,正弦波,zh-CN
+triangle wave,三角波,zh-CN
+sawtooth wave,锯齿波,zh-CN
+square wave,方波,zh-CN
+pulse wave,脉冲波,zh-CN
+pulse width,脉冲宽度,zh-CN
+pulse-width modulation,脉宽调制,zh-CN
+oscillator detune,振荡器失谐,zh-CN
+unison detune,齐奏失谐,zh-CN
+oscillator drift,振荡器漂移,zh-CN
+sub oscillator,次振荡器,zh-CN
+ring modulation,环形调制,zh-CN
+amplitude modulation,振幅调制,zh-CN
+cross modulation,交叉调制,zh-CN
+oscillator phase,振荡器相位,zh-CN
+phase reset,相位重置,zh-CN
+filter cutoff frequency,滤波器截止频率,zh-CN
+filter resonance,滤波器共振,zh-CN
+filter slope,滤波器斜率,zh-CN
+two-pole filter,二阶滤波器,zh-CN
+four-pole filter,四阶滤波器,zh-CN
+ladder filter,梯形滤波器,zh-CN
+state-variable filter,状态变量滤波器,zh-CN
+multimode filter,多模式滤波器,zh-CN
+comb filter,梳状滤波器,zh-CN
+formant filter,共振峰滤波器,zh-CN
+key tracking,键位跟踪,zh-CN
+filter envelope,滤波器包络,zh-CN
+amplitude envelope,振幅包络,zh-CN
+ADSR envelope,ADSR 包络,zh-CN
+envelope attack time,包络起音时间,zh-CN
+envelope decay time,包络衰减时间,zh-CN
+envelope sustain level,包络保持电平,zh-CN
+envelope release time,包络释音时间,zh-CN
+envelope curve,包络曲线,zh-CN
+envelope retrigger,包络重新触发,zh-CN
+one-shot envelope,单次包络,zh-CN
+looping envelope,循环包络,zh-CN
+envelope follower,包络跟随器,zh-CN
+modulation matrix,调制矩阵,zh-CN
+modulation source,调制源,zh-CN
+modulation destination,调制目标,zh-CN
+modulation depth,调制深度,zh-CN
+sample and hold,采样保持模块,zh-CN
+slew limiter,斜率限制器,zh-CN
+portamento time,滑音时间,zh-CN
+glide mode,滑音模式,zh-CN
+legato mode,连奏模式,zh-CN
+arpeggiator,琶音器,zh-CN
+arpeggiator pattern,琶音样式,zh-CN
+sequencer lane,音序器泳道,zh-CN
+CV/gate,控制电压/门信号,zh-CN
+control voltage,控制电压,zh-CN
+one volt per octave,每八度一伏,zh-CN
+trigger signal,触发信号,zh-CN
+gate signal,门信号,zh-CN
+Eurorack,Eurorack 模块化合成器规格,zh-CN
+normalled connection,内部常态连接,zh-CN
+attenuverter,衰减反相器,zh-CN
+wavefolder,波形折叠器,zh-CN
+function generator,函数发生器,zh-CN
+clock divider,时钟分频器,zh-CN
+random voltage generator,随机电压发生器,zh-CN
+audio mixing,音频混音,zh-CN
+mix balance,混音平衡,zh-CN
+frequency balance,频率平衡,zh-CN
+spectral balance,频谱平衡,zh-CN
+tonal balance,音色平衡,zh-CN
+stereo image,立体声像,zh-CN
+stereo width,立体声宽度,zh-CN
+mono summing,单声道合并,zh-CN
+mid-side processing,中侧处理,zh-CN
+left-right processing,左右声道处理,zh-CN
+pan law,声像衰减律,zh-CN
+constant-power panning,恒功率声像,zh-CN
+phantom center,幻象中置,zh-CN
+correlation meter,相关度表,zh-CN
+audio goniometer,音频相位轨迹仪,zh-CN
+audio vectorscope,音频矢量示波器,zh-CN
+phase coherence,相位一致性,zh-CN
+phase cancellation,相位抵消,zh-CN
+polarity correlation,极性相关性,zh-CN
+mono fold-down,单声道折叠,zh-CN
+frequency masking,频率掩蔽,zh-CN
+temporal masking,时间掩蔽,zh-CN
+spectral masking,频谱掩蔽,zh-CN
+audio equalizer,音频均衡器,zh-CN
+graphic equalizer,图示均衡器,zh-CN
+semi-parametric equalizer,半参数均衡器,zh-CN
+minimum-phase EQ,最小相位均衡器,zh-CN
+linear-phase EQ,线性相位均衡器,zh-CN
+mixed-phase EQ,混合相位均衡器,zh-CN
+bell filter,钟形滤波器,zh-CN
+peaking filter,峰值滤波器,zh-CN
+filter Q factor,滤波器品质因数,zh-CN
+filter bandwidth,滤波器带宽,zh-CN
+resonant frequency,共振频率,zh-CN
+frequency sweep,扫频,zh-CN
+subtractive EQ,减法均衡,zh-CN
+additive EQ,加法均衡,zh-CN
+broadband EQ,宽带均衡,zh-CN
+resonance suppression,共振抑制,zh-CN
+dynamic resonance suppression,动态共振抑制,zh-CN
+audio compressor,音频压缩器,zh-CN
+audio limiter,音频限制器,zh-CN
+audio expander,音频扩展器,zh-CN
+noise gate,噪声门,zh-CN
+upward compressor,向上压缩器,zh-CN
+downward compressor,向下压缩器,zh-CN
+multiband compressor,多段压缩器,zh-CN
+parallel compression,并行压缩,zh-CN
+New York compression,纽约式并行压缩,zh-CN
+serial compression,串联压缩,zh-CN
+bus compression,总线压缩,zh-CN
+sidechain compression,侧链压缩,zh-CN
+compressor threshold,压缩器阈值,zh-CN
+compression ratio,压缩比,zh-CN
+compressor attack time,压缩器启动时间,zh-CN
+compressor release time,压缩器释放时间,zh-CN
+compressor knee,压缩器拐点,zh-CN
+soft knee,软拐点,zh-CN
+hard knee,硬拐点,zh-CN
+makeup gain,补偿增益,zh-CN
+gain reduction,增益衰减,zh-CN
+gain-reduction meter,增益衰减表,zh-CN
+look-ahead limiting,前瞻式限幅,zh-CN
+program-dependent release,节目依赖释放,zh-CN
+auto release,自动释放,zh-CN
+auto gain,自动增益,zh-CN
+detector circuit,检波电路,zh-CN
+peak detection,峰值检测,zh-CN
+RMS detection,均方根检测,zh-CN
+feed-forward compressor,前馈式压缩器,zh-CN
+feedback compressor,反馈式压缩器,zh-CN
+VCA compressor,VCA 压缩器,zh-CN
+FET compressor,FET 压缩器,zh-CN
+optical compressor,光电压缩器,zh-CN
+variable-mu compressor,可变 μ 电子管压缩器,zh-CN
+diode-bridge compressor,二极管桥式压缩器,zh-CN
+transient shaper,瞬态塑形器,zh-CN
+transient designer,瞬态设计器,zh-CN
+sustain control,延音控制,zh-CN
+harmonic exciter,谐波激励器,zh-CN
+audio saturation,音频饱和处理,zh-CN
+tape saturation,磁带饱和,zh-CN
+tube saturation,电子管饱和,zh-CN
+transformer saturation,变压器饱和,zh-CN
+soft clipping,软削波,zh-CN
+hard clipping,硬削波,zh-CN
+harmonic distortion,谐波失真,zh-CN
+total harmonic distortion,总谐波失真,zh-CN
+intermodulation distortion,互调失真,zh-CN
+even-order harmonics,偶次谐波,zh-CN
+odd-order harmonics,奇次谐波,zh-CN
+analog warmth,模拟温暖感,zh-CN
+tape emulation,磁带模拟,zh-CN
+console emulation,调音台模拟,zh-CN
+channel-strip emulation,通道条模拟,zh-CN
+audio reverberation,音频混响,zh-CN
+algorithmic reverb,算法混响,zh-CN
+plate reverb,板式混响,zh-CN
+spring reverb,弹簧混响,zh-CN
+chamber reverb,混响室混响,zh-CN
+hall reverb,音乐厅混响,zh-CN
+room reverb,房间混响,zh-CN
+shimmer reverb,闪烁混响,zh-CN
+gated reverb,门控混响,zh-CN
+reverse reverb,反向混响,zh-CN
+reverb pre-delay,混响预延迟,zh-CN
+reverb decay time,混响衰减时间,zh-CN
+reverb diffusion,混响扩散度,zh-CN
+reverb density,混响密度,zh-CN
+reverb damping,混响阻尼,zh-CN
+wet/dry mix,干湿比,zh-CN
+early-reflection level,早期反射电平,zh-CN
+late-reverb level,后期混响电平,zh-CN
+tempo-synced delay,速度同步延迟,zh-CN
+slapback delay,短回声延迟,zh-CN
+tape delay,磁带延迟,zh-CN
+analog delay,模拟延迟,zh-CN
+digital delay,数字延迟,zh-CN
+ping-pong delay,乒乓延迟,zh-CN
+multitap delay,多抽头延迟,zh-CN
+feedback delay,反馈延迟,zh-CN
+delay feedback,延迟反馈量,zh-CN
+delay time,延迟时间,zh-CN
+modulated delay,调制延迟,zh-CN
+chorus effect,合唱效果,zh-CN
+flanger effect,镶边效果,zh-CN
+phaser effect,移相效果,zh-CN
+vibrato effect,颤音效果,zh-CN
+tremolo effect,震音效果,zh-CN
+rotary-speaker effect,旋转扬声器效果,zh-CN
+Doppler modulation,多普勒调制,zh-CN
+pitch correction,音高校正,zh-CN
+automatic pitch correction,自动音高校正,zh-CN
+manual pitch correction,手动音高校正,zh-CN
+formant correction,共振峰校正,zh-CN
+formant shifting,共振峰移位,zh-CN
+vocal doubling,人声加倍,zh-CN
+audio harmonizer,音频和声生成器,zh-CN
+audio octaver,音频八度效果器,zh-CN
+frequency shifter,频率移位器,zh-CN
+stereo widener,立体声展宽器,zh-CN
+Haas effect,哈斯效应,zh-CN
+microshift effect,微移调展宽效果,zh-CN
+spectral processor,频谱处理器,zh-CN
+spectral shaper,频谱塑形器,zh-CN
+resonance suppressor,共振抑制器,zh-CN
+de-esser,齿音抑制器,zh-CN
+multiband de-esser,多段齿音抑制器,zh-CN
+subharmonic synthesizer,次谐波合成器,zh-CN
+bass enhancer,低频增强器,zh-CN
+low-end mono maker,低频单声道化处理器,zh-CN
+audio mastering,音频母带制作,zh-CN
+stereo mastering,立体声母带制作,zh-CN
+stem mastering,分轨母带制作,zh-CN
+analog mastering,模拟母带制作,zh-CN
+digital mastering,数字母带制作,zh-CN
+mastering chain,母带处理链,zh-CN
+mastering grade converter,母带级转换器,zh-CN
+mastering limiter,母带限制器,zh-CN
+mastering equalizer,母带均衡器,zh-CN
+mastering compressor,母带压缩器,zh-CN
+album consistency,专辑一致性,zh-CN
+track sequencing,曲目排序,zh-CN
+song spacing,曲间间隔,zh-CN
+crossfade between tracks,曲目间交叉淡化,zh-CN
+Red Book standard,红皮书 CD-DA 标准,zh-CN
+DDP image,光盘描述协议镜像,zh-CN
+PQ code,PQ 子码,zh-CN
+CD-Text,CD 文本信息,zh-CN
+UPC/EAN code,UPC/EAN 商品编码,zh-CN
+mastered for streaming,面向流媒体的母带,zh-CN
+Apple Digital Masters,Apple Digital Masters 母带认证计划,zh-CN
+Mastered for iTunes,Mastered for iTunes 母带认证计划,zh-CN
+Spotify loudness normalization,Spotify 响度归一化,zh-CN
+YouTube loudness normalization,YouTube 响度归一化,zh-CN
+ReplayGain,ReplayGain 回放增益标准,zh-CN
+lossless master,无损母版,zh-CN
+high-resolution audio,高解析度音频,zh-CN
+high-resolution master,高解析度母版,zh-CN
+44.1 kHz/16-bit master,44.1 kHz/16 位母版,zh-CN
+96 kHz/24-bit master,96 kHz/24 位母版,zh-CN
+192 kHz/24-bit master,192 kHz/24 位母版,zh-CN
+WAV master,WAV 母版,zh-CN
+AIFF master,AIFF 母版,zh-CN
+FLAC master,FLAC 无损母版,zh-CN
+ALAC master,ALAC 无损母版,zh-CN
+MP3 encoding,MP3 编码,zh-CN
+AAC encoding,AAC 编码,zh-CN
+Opus encoding,Opus 编码,zh-CN
+constant bitrate,恒定码率,zh-CN
+variable bitrate,可变码率,zh-CN
+joint stereo,联合立体声,zh-CN
+codec pre-echo,编解码预回声,zh-CN
+codec audition,编码后音质审听,zh-CN
+VST3,VST3 音频插件格式,zh-CN
+AAX Native,AAX Native 音频插件格式,zh-CN
+AAX DSP,AAX DSP 音频插件格式,zh-CN
+CLAP plugin format,CLAP 音频插件格式,zh-CN
+ARA2,ARA2 音频随机访问扩展,zh-CN
+ReWire,ReWire 音频路由协议,zh-CN
+Open Sound Control,开放声音控制协议,zh-CN
+Ableton Link,Ableton Link 音乐同步技术,zh-CN
+ASIO,ASIO 音频驱动协议,zh-CN
+Core Audio,Apple Core Audio 音频架构,zh-CN
+WASAPI,Windows 音频会话 API,zh-CN
+JACK Audio Connection Kit,JACK 音频连接工具包,zh-CN
+Bob Moog,鲍勃·穆格,zh-CN
+Don Buchla,唐·布赫拉,zh-CN
+Tom Oberheim,汤姆·奥伯海姆,zh-CN
+Ikutaro Kakehashi,梯郁太郎,zh-CN
+John Chowning,约翰·乔宁,zh-CN
+Wendy Carlos,温迪·卡洛斯,zh-CN
+Suzanne Ciani,苏珊娜·恰尼,zh-CN
+Brian Eno,布赖恩·伊诺,zh-CN
+Quincy Jones,昆西·琼斯,zh-CN
+Phil Spector,菲尔·斯佩克特,zh-CN
+Rick Rubin,里克·鲁宾,zh-CN
+Nigel Godrich,奈杰尔·戈德里奇,zh-CN
+Trevor Horn,特雷弗·霍恩,zh-CN
+Daniel Lanois,丹尼尔·拉努瓦,zh-CN
+Timbaland,提姆巴兰,zh-CN
+Dr. Dre,德瑞博士,zh-CN
+Nile Rodgers,尼尔·罗杰斯,zh-CN
+Steve Albini,史蒂夫·阿尔比尼,zh-CN
+Sylvia Massy,西尔维娅·马西,zh-CN
+Susan Rogers,苏珊·罗杰斯,zh-CN
+Al Schmitt,艾尔·施密特,zh-CN
+Geoff Emerick,杰夫·埃默里克,zh-CN
+Glyn Johns,格林·约翰斯,zh-CN
+Eddie Kramer,埃迪·克莱默,zh-CN
+Bruce Swedien,布鲁斯·斯维迪恩,zh-CN
+Hugh Padgham,休·帕德汉姆,zh-CN
+Joe Meek,乔·米克,zh-CN
+Tom Dowd,汤姆·道德,zh-CN
+Rudy Van Gelder,鲁迪·范·盖尔德,zh-CN
+Bill Putnam Sr.,比尔·普特南,zh-CN
+Rupert Neve,鲁珀特·尼夫,zh-CN
+George Massenburg,乔治·马森伯格,zh-CN
+Roger Linn,罗杰·林恩,zh-CN
+Peter Zinovieff,彼得·齐诺维耶夫,zh-CN
+Alan Parsons,艾伦·帕森斯,zh-CN
+Andrew Scheps,安德鲁·谢普斯,zh-CN
+Chris Lord-Alge,克里斯·洛德-阿尔吉,zh-CN
+Tom Lord-Alge,汤姆·洛德-阿尔吉,zh-CN
+Michael Brauer,迈克尔·布劳尔,zh-CN
+Manny Marroquin,曼尼·马罗昆,zh-CN
+Serban Ghenea,塞尔班·盖内亚,zh-CN
+Jacquire King,雅基尔·金,zh-CN
+Tchad Blake,查德·布莱克,zh-CN
+Tony Maserati,托尼·玛莎拉蒂,zh-CN
+Leslie Brathwaite,莱斯利·布拉思韦特,zh-CN
+Bob Clearmountain,鲍勃·克利尔芒顿,zh-CN
+Dave Pensado,戴夫·彭萨多,zh-CN
+Jaycen Joshua,杰森·乔舒亚,zh-CN
+Shawn Everett,肖恩·埃弗里特,zh-CN
+Mark “Spike” Stent,马克·“斯派克”·斯滕特,zh-CN
+Bob Ludwig,鲍勃·路德维希,zh-CN
+Bernie Grundman,伯尼·格伦德曼,zh-CN
+Emily Lazar,艾米莉·拉扎尔,zh-CN
+Mandy Parnell,曼迪·帕内尔,zh-CN
+Greg Calbi,格雷格·卡尔比,zh-CN
+Ted Jensen,泰德·詹森,zh-CN
+Vlado Meller,弗拉多·梅勒,zh-CN
+Maureen Droney,莫琳·德罗尼,zh-CN
+Audio Engineering Society,音频工程学会,zh-CN
+MIDI Association,MIDI 协会,zh-CN
+Recording Industry Association of America,美国唱片业协会,zh-CN
+International Federation of the Phonographic Industry,国际唱片业协会,zh-CN
+International Electrotechnical Commission,国际电工委员会,zh-CN
+IEC 60268-17,IEC 60268-17 标准电平指示器规范,zh-CN
+IEC 61606-3,IEC 61606-3 专业数字音频设备测量规范,zh-CN
+AES17,AES17 数字音频设备测量标准,zh-CN
+AES42,AES42 数字话筒接口标准,zh-CN
+AES48,AES48 音频设备接地与电磁兼容规范,zh-CN
+AES59,AES59 平衡电路 25 针 D 型连接器专业音频应用标准,zh-CN
+AES Convention,AES 国际会议,zh-CN
+Grammy Awards,格莱美奖,zh-CN
+Recording Academy,美国录音学院,zh-CN
+musical doubling,声部加倍,zh-CN
+vocal register,声区,zh-CN
+guitar bend,吉他推弦,zh-CN
+modular-synth clock multiplier,模块合成器时钟倍频器,zh-CN
+record executive producer,唱片执行制作人,zh-CN
+assistant recording engineer,助理录音师,zh-CN
+music copyist,乐谱抄谱员,zh-CN
+score copyist,总谱抄谱员,zh-CN
+Artists and Repertoire,艺人与曲目开发,zh-CN
+a cappella version,纯人声版,zh-CN
+concert pitch for transposing instruments,实音,zh-CN
+concert-pitch tuning reference,标准音高基准,zh-CN
+A440 tuning standard,A440 标准音高基准,zh-CN
+twelve-tone equal temperament,十二平均律,zh-CN
+sonata-form development section,奏鸣曲式展开部,zh-CN
+sonata recapitulation,奏鸣曲式再现部,zh-CN
+binary musical form,二部曲式,zh-CN
+ternary musical form,三部曲式,zh-CN
+song bridge,歌曲桥段,zh-CN
+song intro,歌曲前奏段,zh-CN
+song outro,歌曲尾奏段,zh-CN
+song breakdown,歌曲分解段,zh-CN
+EDM drop,EDM Drop 爆发段,zh-CN
+music build-up,音乐渐进蓄势段,zh-CN
+instrumental key-click technique,乐器按键敲击奏法,zh-CN
+sampler articulation keyswitch,采样器演奏法切换键,zh-CN
+sampler root key,采样器根音,zh-CN
+sampler zone mapping,采样器区域映射,zh-CN
+music sample clearance,音乐采样授权清理,zh-CN
+sampler interpolation quality,采样器插值质量,zh-CN
+envelope hold stage,包络保持阶段,zh-CN
+envelope delay stage,包络延迟阶段,zh-CN
+modular-synth patch cable,模块合成器跳线,zh-CN
+multiple (mult) module,信号分配模块,zh-CN
+Apple Sound Check,Apple Sound Check 音量均衡功能,zh-CN
+Apple Audio Unit plug-in format,Apple Audio Unit 插件格式,zh-CN
+synthesizer designer Dave Smith,合成器设计师戴夫·史密斯,zh-CN
+record producer George Martin,唱片制作人乔治·马丁,zh-CN
+musician Brian Wilson,音乐人布赖恩·威尔逊,zh-CN
+record producer Max Martin,唱片制作人马克斯·马丁,zh-CN
+musician-inventor Les Paul,音乐人兼发明家莱斯·保罗,zh-CN
+music producer Trevor Jackson,音乐制作人特雷弗·杰克逊,zh-CN

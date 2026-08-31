@@ -1,0 +1,20 @@
+{
+  "id": "audio-post-mixing",
+  "name": "Audio Post-Production and Mixing",
+  "description": "A curated English-to-Simplified-Chinese glossary for audio post-production and mixing, covering dialogue editing, ADR, Foley, sound effects, sound design, restoration, re-recording, loudness, immersive formats, deliverables, software, and studio workflows.",
+  "author": "youheng-alan-liu",
+  "glossary": "audio-post-mixing",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "声音后期与混音",
+      "description": "声音后期与混音术语库，涵盖对白编辑、ADR、拟音、音效、声音设计、修复、终混、响度、沉浸式格式、交付、软件和录音棚工作流程。"
+    },
+    "en": {
+      "name": "Audio Post-Production and Mixing",
+      "description": "A glossary for audio post-production and mixing, including dialogue editing, ADR, Foley, sound effects, sound design, restoration, re-recording, loudness, immersive formats, deliverables, software, and studio workflows."
+    }
+  }
+}

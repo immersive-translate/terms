@@ -1,0 +1,20 @@
+{
+  "id": "production-sound",
+  "name": "Production Sound",
+  "description": "A curated English-to-Simplified-Chinese glossary for film and television production sound, covering field recording, microphones, wireless and RF systems, timecode, metadata, workflows, equipment, and set communication.",
+  "author": "youheng-alan-liu",
+  "glossary": "production-sound",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "同期录音",
+      "description": "影视同期录音术语库，涵盖现场录音、话筒、无线与射频系统、时间码、元数据、工作流程、设备和片场沟通。"
+    },
+    "en": {
+      "name": "Production Sound",
+      "description": "A glossary for film and television production sound, including field recording, microphones, wireless and RF systems, timecode, metadata, workflows, equipment, and set communication."
+    }
+  }
+}

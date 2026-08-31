@@ -1,0 +1,1217 @@
+source,target,tgt_lng
+production sound,同期声,zh-CN
+production sound mixer,现场录音师,zh-CN
+location sound mixer,现场录音师,zh-CN
+sound recordist,录音师,zh-CN
+production sound recordist,同期录音师,zh-CN
+location sound recordist,同期录音师,zh-CN
+first assistant sound,第一录音助理,zh-CN
+second assistant sound,第二录音助理,zh-CN
+sound utility,录音助理,zh-CN
+sound utility technician,录音器材助理,zh-CN
+sound trainee,录音实习生,zh-CN
+sound department,录音部门,zh-CN
+sound crew,录音组,zh-CN
+video assist,视频辅助,zh-CN
+first assistant camera,第一摄影助理,zh-CN
+second assistant camera,第二摄影助理,zh-CN
+clapper loader,场记板员,zh-CN
+director of photography,摄影指导,zh-CN
+unit production manager,制片主任,zh-CN
+assistant director,副导演,zh-CN
+first assistant director,第一副导演,zh-CN
+second assistant director,第二副导演,zh-CN
+best boy electric,灯光大助,zh-CN
+best boy grip,机械大助,zh-CN
+digital imaging technician (DIT),数字影像工程师,zh-CN
+sound cart,录音车,zh-CN
+sound bag,便携录音包,zh-CN
+bag rig,录音包系统,zh-CN
+sound bag drop,放下录音包休息,zh-CN
+cart rig,录音车系统,zh-CN
+follow cart,器材跟车,zh-CN
+sound van,录音器材车,zh-CN
+equipment case,器材箱,zh-CN
+Pelican case,Pelican 防护箱,zh-CN
+shooting schedule,拍摄计划,zh-CN
+tech scout,技术勘景,zh-CN
+location scout,外景勘景,zh-CN
+sound scout,声音勘景,zh-CN
+blocking rehearsal,走位排练,zh-CN
+camera rehearsal,摄影机排练,zh-CN
+technical rehearsal,技术排练,zh-CN
+line rehearsal,台词排练,zh-CN
+final rehearsal,最后排练,zh-CN
+roll sound,录音开机,zh-CN
+sound speed,录音已开,zh-CN
+camera speed,摄影已开,zh-CN
+mark it,打板,zh-CN
+second sticks,补打板,zh-CN
+tail slate,尾板,zh-CN
+head slate,头板,zh-CN
+soft sticks,轻打板,zh-CN
+room tone,房间底噪,zh-CN
+wild track,单录声,zh-CN
+wild lines,单录台词,zh-CN
+wild sound,单录声音,zh-CN
+presence track,环境底声轨,zh-CN
+atmosphere track,环境声轨,zh-CN
+background ambience,背景环境声,zh-CN
+location ambience,现场环境声,zh-CN
+wall-to-wall sound,全程连续录音,zh-CN
+sync sound,同期声,zh-CN
+guide track,参考音轨,zh-CN
+scratch track,临时参考音轨,zh-CN
+camera scratch,摄影机参考声,zh-CN
+camera hop,无线发送至摄影机的参考声,zh-CN
+confidence return,返听信号,zh-CN
+video playback,视频回放,zh-CN
+audio playback,声音回放,zh-CN
+music playback,音乐回放,zh-CN
+playback operator,回放操作员,zh-CN
+interruptible foldback (IFB),可中断返听系统,zh-CN
+IFB receiver,IFB返听接收机,zh-CN
+private line,私密通话线路,zh-CN
+on-set comms,片场内部通话,zh-CN
+walkie-talkie,对讲机,zh-CN
+walkie bleed,对讲机串入录音,zh-CN
+cue feed,提示返送信号,zh-CN
+director feed,导演监听信号,zh-CN
+producer feed,制片监听信号,zh-CN
+video village,导演监看区,zh-CN
+sound report,录音报告,zh-CN
+daily sound report,每日录音报告,zh-CN
+sound log,录音日志,zh-CN
+circle take,圈选条次,zh-CN
+print take,保留条次,zh-CN
+false take,误录条次,zh-CN
+pickup take,补拍条次,zh-CN
+pick-up line,补录台词,zh-CN
+room tone request,录制房间底噪的要求,zh-CN
+quiet on set,现场保持安静,zh-CN
+hold the roll,暂停开机,zh-CN
+going again,再来一条,zh-CN
+checking the gate,检查片门,zh-CN
+last looks,开拍前最后整理,zh-CN
+picture's up,准备正式拍摄,zh-CN
+lock it up,封锁现场并保持安静,zh-CN
+background action,群众演员开始表演,zh-CN
+sound blanket,隔音毯,zh-CN
+furniture blanket,搬家毯,zh-CN
+sound mat,吸音垫,zh-CN
+sound baffle,声学挡板,zh-CN
+sound screen,隔音屏风,zh-CN
+temporary soundproofing,临时隔音处理,zh-CN
+location noise,现场噪声,zh-CN
+noise complaint,噪声问题报告,zh-CN
+noise hold,因噪声暂停拍摄,zh-CN
+aircraft hold,等飞机噪声过去,zh-CN
+traffic hold,等交通噪声过去,zh-CN
+generator noise,发电机噪声,zh-CN
+HVAC noise,暖通空调噪声,zh-CN
+practical noise,实景装置噪声,zh-CN
+wardrobe noise,服装摩擦声,zh-CN
+prop noise,道具噪声,zh-CN
+camera noise,摄影机噪声,zh-CN
+lens noise,镜头机构噪声,zh-CN
+focus motor noise,跟焦马达噪声,zh-CN
+fan noise,风扇噪声,zh-CN
+ballast noise,灯具镇流器噪声,zh-CN
+dimmer buzz,调光器嗡声,zh-CN
+ground hum,接地嗡声,zh-CN
+mains hum,市电工频嗡声,zh-CN
+handling noise,操作噪声,zh-CN
+cable noise,线缆摩擦噪声,zh-CN
+mechanical noise,机械噪声,zh-CN
+RF noise,射频噪声,zh-CN
+digital hash,数字电路杂散噪声,zh-CN
+camera fan,摄影机风扇,zh-CN
+silence the prop,让道具静音处理,zh-CN
+quiet shoes,静音鞋底处理,zh-CN
+process trailer,拖车拍摄平台,zh-CN
+picture car,戏用车辆,zh-CN
+insert car,摄影车,zh-CN
+follow vehicle,跟拍车辆,zh-CN
+plant microphone,隐藏式固定麦克风,zh-CN
+plant mic,隐藏式固定话筒,zh-CN
+car plant,车内隐藏话筒,zh-CN
+set mic,布置在场景中的固定话筒,zh-CN
+boundary microphone,界面话筒,zh-CN
+PZM microphone,压力区话筒,zh-CN
+contact microphone,接触式话筒,zh-CN
+hydrophone,水下话筒,zh-CN
+parabolic microphone,抛物面话筒,zh-CN
+boom microphone,吊杆话筒,zh-CN
+shotgun microphone,枪式话筒,zh-CN
+short shotgun,短枪式话筒,zh-CN
+long shotgun,长枪式话筒,zh-CN
+interference-tube microphone,干涉管话筒,zh-CN
+lavalier microphone,领夹麦克风,zh-CN
+lav mic,领夹式话筒,zh-CN
+lapel microphone,领夹式话筒,zh-CN
+clip-on microphone,夹式话筒,zh-CN
+miniature microphone,微型话筒,zh-CN
+subminiature microphone,超微型话筒,zh-CN
+headset microphone,头戴式话筒,zh-CN
+earset microphone,耳挂式话筒,zh-CN
+handheld microphone,手持话筒,zh-CN
+gooseneck microphone,鹅颈式话筒,zh-CN
+stereo microphone,立体声话筒,zh-CN
+mid-side microphone,M/S制式话筒,zh-CN
+XY microphone,XY制式话筒,zh-CN
+ORTF microphone,ORTF制式话筒,zh-CN
+ambisonic microphone,Ambisonics全景声话筒,zh-CN
+microphone capsule,话筒音头,zh-CN
+interchangeable capsule,可更换音头,zh-CN
+condenser microphone,电容话筒,zh-CN
+electret condenser microphone,驻极体电容话筒,zh-CN
+pre-polarized condenser,预极化电容话筒,zh-CN
+externally polarized condenser,外极化电容话筒,zh-CN
+dynamic microphone,动圈话筒,zh-CN
+ribbon microphone,铝带式话筒,zh-CN
+pressure microphone,压强式话筒,zh-CN
+pressure-gradient microphone,压差式话筒,zh-CN
+RF condenser microphone,射频电容话筒,zh-CN
+polar pattern,指向特性,zh-CN
+pickup pattern,拾音指向特性,zh-CN
+omnidirectional,全指向,zh-CN
+cardioid,心形指向,zh-CN
+supercardioid,超心形指向,zh-CN
+hypercardioid,强心形指向,zh-CN
+figure-eight pattern,8 字形指向特性,zh-CN
+lobar pattern,枪式叶瓣指向特性,zh-CN
+off-axis coloration,离轴染色,zh-CN
+rear lobe,后瓣,zh-CN
+side rejection,侧向抑制,zh-CN
+rear rejection,后向抑制,zh-CN
+acceptance angle,有效拾音角,zh-CN
+directivity,指向性,zh-CN
+directivity index,指向性指数,zh-CN
+proximity effect,近讲效应,zh-CN
+frequency response,频率响应,zh-CN
+flat response,平直响应,zh-CN
+presence boost,临场感频段提升,zh-CN
+low-frequency roll-off,低频滚降,zh-CN
+bass roll-off,低频衰减,zh-CN
+high-pass filter,高通滤波器,zh-CN
+low-cut filter,低切滤波器,zh-CN
+notch filter,陷波滤波器,zh-CN
+microphone sensitivity,话筒灵敏度,zh-CN
+self-noise,话筒自身噪声,zh-CN
+equivalent noise level,等效噪声级,zh-CN
+maximum SPL,最大声压级,zh-CN
+sound pressure level,声压级,zh-CN
+transducer,换能器,zh-CN
+impedance,阻抗,zh-CN
+output impedance,输出阻抗,zh-CN
+balanced output,平衡输出,zh-CN
+unbalanced output,非平衡输出,zh-CN
+phantom power,幻象供电,zh-CN
+48 V phantom power,48伏幻象供电,zh-CN
+P48 phantom power,P48幻象供电,zh-CN
+plug-in power,插入式供电,zh-CN
+bias voltage,偏置电压,zh-CN
+microphone preamplifier,话筒前置放大器,zh-CN
+mic preamp,话放,zh-CN
+fishpole,话筒吊杆,zh-CN
+internally cabled boom pole,内走线吊杆,zh-CN
+externally cabled boom pole,外走线吊杆,zh-CN
+coiled cable,螺旋线,zh-CN
+boom swing,转动吊杆跟随对白,zh-CN
+boom cue,吊杆换位提示,zh-CN
+boom shadow,吊杆影子,zh-CN
+boom in frame,吊杆穿帮入画,zh-CN
+boom reach,吊杆可达范围,zh-CN
+overhead booming,上方挑杆,zh-CN
+underhand booming,下方挑杆,zh-CN
+side booming,侧向挑杆,zh-CN
+boom hand-off,吊杆话筒交接,zh-CN
+cueing the boom,按台词走向调整吊杆指向,zh-CN
+microphone placement,话筒摆位,zh-CN
+close miking,近距离拾音,zh-CN
+distant miking,远距离拾音,zh-CN
+working distance,工作距离,zh-CN
+critical distance,临界距离,zh-CN
+mouth-to-mic distance,嘴到话筒的距离,zh-CN
+headroom above frame,画框上方余量,zh-CN
+frame line,画面边界,zh-CN
+wide shot,全景镜头,zh-CN
+tight shot,紧景别镜头,zh-CN
+camera axis,摄影机轴线,zh-CN
+shock mount,防震架,zh-CN
+suspension mount,悬挂式防震架,zh-CN
+lyre suspension,弓形悬挂防震架,zh-CN
+microphone clip,话筒夹,zh-CN
+boom cradle,吊杆托架,zh-CN
+boom holder,吊杆支架,zh-CN
+boom stand,吊杆支架,zh-CN
+grip head,万向夹头,zh-CN
+magic arm,魔术臂,zh-CN
+lav concealer,领夹话筒隐藏座,zh-CN
+lav mount,领夹话筒固定座,zh-CN
+vampire clip,吸血鬼夹,zh-CN
+tie clip,领带夹,zh-CN
+alligator clip,鳄鱼夹,zh-CN
+magnetic mount,磁吸固定座,zh-CN
+sticky mount,粘贴式固定座,zh-CN
+topstick,双面服装胶条,zh-CN
+moleskin,鼹鼠皮胶布,zh-CN
+Rycote Undercovers,Rycote Undercovers 领夹麦克风隐藏贴,zh-CN
+Rycote Overcovers,Rycote Overcovers 领夹麦克风防风毛贴,zh-CN
+medical tape,医用胶带,zh-CN
+transpore tape,透气胶带,zh-CN
+fashion tape,服装双面胶,zh-CN
+strain relief,应力释放固定,zh-CN
+cable loop,线缆缓冲环,zh-CN
+broadcast loop,领夹线广播环,zh-CN
+mic cable dressing,话筒线整理隐藏,zh-CN
+lav rustle,领夹话筒摩擦声,zh-CN
+clothing rustle,衣物摩擦声,zh-CN
+chest resonance,胸腔共鸣染色,zh-CN
+hair mic,藏在头发中的话筒,zh-CN
+wig mic,假发内隐藏话筒,zh-CN
+hat mic,帽内隐藏话筒,zh-CN
+button mic,纽扣式隐藏话筒,zh-CN
+wind protection,防风系统,zh-CN
+foam windscreen,海绵防风罩,zh-CN
+slip-on windscreen,套筒式防风罩,zh-CN
+basket windshield,笼式防风罩,zh-CN
+zeppelin windshield,飞艇式防风罩,zh-CN
+microphone blimp,笼式防风罩,zh-CN
+microphone windjammer,毛绒防风罩,zh-CN
+fur cover,毛绒防风罩,zh-CN
+rain cover,防雨罩,zh-CN
+rain noise,雨滴打击噪声,zh-CN
+wind rumble,风致低频轰声,zh-CN
+wind noise,风噪声,zh-CN
+microdot connector,MicroDot微型连接器,zh-CN
+TA5F connector,TA5F五针迷你XLR母头,zh-CN
+TA3F connector,TA3F三针迷你XLR母头,zh-CN
+LEMO connector,LEMO连接器,zh-CN
+locking 3.5 mm connector,锁紧式3.5毫米连接器,zh-CN
+XLR connector,XLR连接器,zh-CN
+mini XLR,迷你XLR连接器,zh-CN
+right-angle connector,直角连接器,zh-CN
+bodypack transmitter,腰包式发射机,zh-CN
+beltpack transmitter,腰包式发射机,zh-CN
+plug-on transmitter,插头式发射机,zh-CN
+wireless transmitter,无线发射机,zh-CN
+wireless receiver,无线接收机,zh-CN
+camera-mount receiver,机顶无线接收机,zh-CN
+dual-channel receiver,双通道接收机,zh-CN
+slot receiver,槽式接收机,zh-CN
+superslot receiver,SuperSlot槽式接收机,zh-CN
+wireless microphone system,无线话筒系统,zh-CN
+digital wireless,数字无线系统,zh-CN
+analog wireless,模拟无线系统,zh-CN
+digital hybrid wireless,数字混合无线系统,zh-CN
+wireless link,无线链路,zh-CN
+RF link,射频链路,zh-CN
+radio frequency (RF),射频,zh-CN
+radio frequency,射频,zh-CN
+ultra high frequency (UHF),超高频,zh-CN
+very high frequency (VHF),甚高频,zh-CN
+frequency band,频段,zh-CN
+tuning range,调谐范围,zh-CN
+carrier frequency,载波频率,zh-CN
+center frequency,中心频率,zh-CN
+channel spacing,信道间隔,zh-CN
+frequency block,频率块,zh-CN
+frequency bank,预协调频率组,zh-CN
+frequency group,频率组,zh-CN
+frequency preset,预设频率,zh-CN
+frequency coordination,频率协调,zh-CN
+frequency coordinator,频率协调员,zh-CN
+RF coordination,射频协调,zh-CN
+coordinated frequency,协调后的兼容频率,zh-CN
+compatible frequency,兼容频率,zh-CN
+clean frequency,干净频率,zh-CN
+occupied frequency,已占用频率,zh-CN
+backup frequency,备用频率,zh-CN
+frequency scan,频率扫描,zh-CN
+RF scan,射频扫描,zh-CN
+spectrum scan,频谱扫描,zh-CN
+spectrum analyzer,频谱分析仪,zh-CN
+RF Explorer,RF Explorer便携频谱分析仪,zh-CN
+RF spectrum,射频频谱,zh-CN
+spectrum allocation,频谱分配,zh-CN
+licensed spectrum,许可频谱,zh-CN
+unlicensed spectrum,免许可频谱,zh-CN
+wireless microphone TV channel,无线话筒电视频段,zh-CN
+guard band,保护频带,zh-CN
+duplex gap,双工间隔频段,zh-CN
+RF interference,射频干扰,zh-CN
+radio-frequency interference,射频干扰,zh-CN
+electromagnetic interference,电磁干扰,zh-CN
+intermodulation,互调,zh-CN
+intermodulation distortion,互调失真,zh-CN
+intermodulation product,互调产物,zh-CN
+third-order intermodulation,三阶互调,zh-CN
+harmonic interference,谐波干扰,zh-CN
+adjacent-channel interference,邻道干扰,zh-CN
+co-channel interference,同频干扰,zh-CN
+broadband interference,宽带干扰,zh-CN
+narrowband interference,窄带干扰,zh-CN
+RF congestion,射频拥堵,zh-CN
+RF hit,射频瞬间干扰,zh-CN
+RF dropout,射频中断,zh-CN
+audio dropout,音频中断,zh-CN
+signal dropout,信号中断,zh-CN
+multipath interference,多径干扰,zh-CN
+desense,接收机去敏,zh-CN
+receiver desensitization,接收机灵敏度下降,zh-CN
+front-end overload,接收机前端过载,zh-CN
+blocking interference,阻塞干扰,zh-CN
+noise floor,噪声底,zh-CN
+RF noise floor,射频噪声底,zh-CN
+signal strength,信号强度,zh-CN
+RF level,射频电平,zh-CN
+received signal strength indicator (RSSI),接收信号强度指示,zh-CN
+signal-to-noise ratio,信噪比,zh-CN
+whip antenna,鞭状天线,zh-CN
+dipole antenna,偶极天线,zh-CN
+shark fin antenna,鲨鱼鳍式定向天线,zh-CN
+log-periodic antenna,对数周期天线,zh-CN
+helical antenna,螺旋天线,zh-CN
+omnidirectional antenna,全向天线,zh-CN
+directional antenna,定向天线,zh-CN
+remote antenna,远置天线,zh-CN
+antenna polarization,天线极化,zh-CN
+antenna orientation,天线朝向,zh-CN
+antenna gain,天线增益,zh-CN
+antenna placement,天线布置,zh-CN
+antenna distribution,天线分配,zh-CN
+antenna distribution system,天线分配系统,zh-CN
+antenna splitter,天线分配器,zh-CN
+antenna combiner,天线合并器,zh-CN
+active antenna,有源天线,zh-CN
+passive antenna,无源天线,zh-CN
+antenna amplifier,天线放大器,zh-CN
+in-line RF amplifier,串联式射频放大器,zh-CN
+RF attenuator,射频衰减器,zh-CN
+RF filter,射频滤波器,zh-CN
+band-pass filter,带通滤波器,zh-CN
+coaxial cable,同轴电缆,zh-CN
+coax loss,同轴电缆损耗,zh-CN
+50-ohm cable,50欧姆同轴电缆,zh-CN
+BNC connector,BNC连接器,zh-CN
+SMA connector,SMA连接器,zh-CN
+diversity reception,分集接收,zh-CN
+antenna diversity,天线分集,zh-CN
+true diversity,真分集接收,zh-CN
+switching diversity,切换分集接收,zh-CN
+space diversity,空间分集,zh-CN
+frequency diversity,频率分集,zh-CN
+ratio diversity,比例分集,zh-CN
+receiver front end,接收机射频前端,zh-CN
+noise squelch,噪声静噪,zh-CN
+tone squelch,导频静噪,zh-CN
+pilot tone,导频音,zh-CN
+pilot tone squelch,导频音静噪,zh-CN
+compander,压扩器,zh-CN
+companding,压扩处理,zh-CN
+transmitter gain,发射机输入增益,zh-CN
+transmitter sensitivity,发射机输入灵敏度,zh-CN
+receiver output level,接收机输出电平,zh-CN
+RF power,射频发射功率,zh-CN
+low power mode,低功率模式,zh-CN
+high power mode,高功率模式,zh-CN
+frequency hopping,跳频,zh-CN
+adaptive frequency hopping,自适应跳频,zh-CN
+spread spectrum,扩频,zh-CN
+2.4 GHz wireless,2.4 GHz无线系统,zh-CN
+DECT band,DECT频段,zh-CN
+infrared sync,红外同步,zh-CN
+recording transmitter,内录式发射机,zh-CN
+timecode-enabled transmitter,支持时间码的发射机,zh-CN
+remote control,远程控制,zh-CN
+battery telemetry,电池遥测,zh-CN
+RF telemetry,射频状态遥测,zh-CN
+audio telemetry,音频状态遥测,zh-CN
+frequency diversity mode,频率分集模式,zh-CN
+talkback transmitter,对讲发射机,zh-CN
+return channel,返传通道,zh-CN
+bag receiver,录音包用接收机,zh-CN
+receiver rack,接收机机架,zh-CN
+RF distro,射频天线分配器,zh-CN
+gain structure,增益结构,zh-CN
+gain staging,增益结构管理,zh-CN
+input gain,输入增益,zh-CN
+channel fader,通道推子,zh-CN
+master fader,主推子,zh-CN
+fader unity,推子0 dB位置,zh-CN
+unity gain,单位增益,zh-CN
+pre-fader,推子前,zh-CN
+post-fader,推子后,zh-CN
+pre-fade listen,推子前监听,zh-CN
+channel mute,通道静音,zh-CN
+input channel,输入通道,zh-CN
+channel strip,通道条,zh-CN
+channel routing,通道路由,zh-CN
+input routing,输入路由,zh-CN
+output routing,输出路由,zh-CN
+mix bus,混音总线,zh-CN
+master bus,主总线,zh-CN
+aux bus,辅助总线,zh-CN
+submix,子混音,zh-CN
+mix track,现场混合音轨,zh-CN
+iso track,独立隔离音轨,zh-CN
+isolated track,独立分轨,zh-CN
+boom track,吊杆话筒音轨,zh-CN
+lav track,领夹话筒轨,zh-CN
+lavalier track,领夹麦克风音轨,zh-CN
+camera mix,发送给摄影机的混音,zh-CN
+mono mix,单声道混音,zh-CN
+stereo mix,立体声混音,zh-CN
+split mix,分离式双声道混音,zh-CN
+left-right mix,左右声道混音,zh-CN
+mix-minus,混减,zh-CN
+direct out,通道直接输出,zh-CN
+line output,线路电平输出,zh-CN
+mic output,话筒电平输出,zh-CN
+headphone output,耳机输出,zh-CN
+monitor output,监听输出,zh-CN
+balanced line,平衡线路,zh-CN
+unbalanced line,非平衡线路,zh-CN
+mic level,话筒电平,zh-CN
+line level,线路电平,zh-CN
+consumer line level,消费级线路电平,zh-CN
+professional line level,专业线路电平,zh-CN
+nominal level,标称电平,zh-CN
+reference level,参考电平,zh-CN
+operating level,工作电平,zh-CN
+dynamic range,动态范围,zh-CN
+audio clipping,音频削波失真,zh-CN
+clip indicator,削波指示灯,zh-CN
+input overload,输入过载,zh-CN
+limiter,限幅器,zh-CN
+input limiter,输入限幅器,zh-CN
+output limiter,输出限幅器,zh-CN
+analog limiter,模拟限幅器,zh-CN
+compression ratio,压缩比,zh-CN
+compressor,压缩器,zh-CN
+automatic gain control,自动增益控制,zh-CN
+noise gate,噪声门,zh-CN
+equalizer,均衡器,zh-CN
+parametric EQ,参数均衡器,zh-CN
+low shelf,低频搁架滤波,zh-CN
+high shelf,高频搁架滤波,zh-CN
+polarity invert,极性反转,zh-CN
+phase cancellation,相位抵消,zh-CN
+phase coherence,相位一致性,zh-CN
+comb filtering,梳状滤波,zh-CN
+monitor latency,监听延迟,zh-CN
+digital delay,数字延迟,zh-CN
+sample delay,采样延时,zh-CN
+delay compensation,延迟补偿,zh-CN
+analog-to-digital converter,模数转换器,zh-CN
+digital-to-analog converter,数模转换器,zh-CN
+sample rate,采样率,zh-CN
+sampling frequency,采样频率,zh-CN
+bit depth,位深,zh-CN
+word length,字长,zh-CN
+24-bit recording,24位录音,zh-CN
+32-bit float,32位浮点,zh-CN
+32-bit float recording,32位浮点录音,zh-CN
+quantization noise,量化噪声,zh-CN
+dither,抖动处理,zh-CN
+pulse-code modulation (PCM),脉冲编码调制,zh-CN
+digital audio,数字音频,zh-CN
+analog audio,模拟音频,zh-CN
+AES3,AES3 数字音频接口标准,zh-CN
+AES/EBU,AES/EBU 专业数字音频接口,zh-CN
+AES42,AES42 数字话筒接口标准,zh-CN
+S/PDIF,S/PDIF数字音频接口,zh-CN
+Dante audio network,Dante音频网络,zh-CN
+multichannel audio digital interface (MADI),MADI多通道数字音频接口,zh-CN
+audio over IP,IP 音频,zh-CN
+word clock,字时钟,zh-CN
+clock source,时钟源,zh-CN
+clock master,主时钟设备,zh-CN
+clock slave,从时钟设备,zh-CN
+clock drift,时钟漂移,zh-CN
+sample clock,采样时钟,zh-CN
+clock lock,时钟锁定,zh-CN
+clock mismatch,时钟不匹配,zh-CN
+digital clicks,数字爆音,zh-CN
+digital pops,数字啪声,zh-CN
+field recorder,现场录音机,zh-CN
+location recorder,外景录音机,zh-CN
+mixer-recorder,调音台式录音机,zh-CN
+multitrack recorder,多轨录音机,zh-CN
+portable recorder,便携录音机,zh-CN
+audio recorder,音频录音机,zh-CN
+record arm,录音待命,zh-CN
+track arm,轨道录音待命,zh-CN
+armed track,已待命录音轨,zh-CN
+disarm track,取消轨道录音待命,zh-CN
+record trigger,录音触发,zh-CN
+pre-roll,预卷,zh-CN
+post-roll,后卷,zh-CN
+record buffer,录音缓冲区,zh-CN
+recording media,录音存储介质,zh-CN
+primary media,主存储介质,zh-CN
+mirror media,镜像存储介质,zh-CN
+simultaneous recording,同步多介质录制,zh-CN
+media mirroring,存储介质镜像备份,zh-CN
+backup recording,备份录音,zh-CN
+redundant recording,冗余录音,zh-CN
+CFexpress card,CFexpress存储卡,zh-CN
+media formatting,存储介质格式化,zh-CN
+file system,文件系统,zh-CN
+FAT32,FAT32文件系统,zh-CN
+exFAT,exFAT文件系统,zh-CN
+write speed,写入速度,zh-CN
+media error,存储介质错误,zh-CN
+write error,写入错误,zh-CN
+media full,存储介质已满,zh-CN
+file recovery,文件恢复,zh-CN
+power loss protection,断电保护,zh-CN
+hot-swappable battery,可热插拔电池,zh-CN
+external power,外部供电,zh-CN
+internal battery,内置电池,zh-CN
+battery sled,电池仓,zh-CN
+battery eliminator,假电池供电适配器,zh-CN
+power distribution,电源分配,zh-CN
+power distribution box,电源分配盒,zh-CN
+smart battery,智能电池,zh-CN
+battery cup,电池转接座,zh-CN
+Hirose connector,Hirose电源连接器,zh-CN
+TA4F power connector,TA4F四针电源连接器,zh-CN
+DC input,直流电源输入,zh-CN
+low-voltage cutoff,低电压关机阈值,zh-CN
+battery runtime,电池续航时间,zh-CN
+power draw,功耗,zh-CN
+timecode,时间码,zh-CN
+SMPTE timecode,SMPTE时间码,zh-CN
+linear timecode (LTC),线性时间码,zh-CN
+longitudinal timecode,纵向时间码,zh-CN
+vertical interval timecode (VITC),场消隐期时间码,zh-CN
+aux timecode,录在音轨上的辅助时间码,zh-CN
+audio timecode,音频时间码,zh-CN
+embedded timecode,嵌入式时间码,zh-CN
+timecode generator,时间码发生器,zh-CN
+timecode box,时间码盒,zh-CN
+sync box,同步盒,zh-CN
+lockit box,Lockit时间码同步盒,zh-CN
+master clock,主时钟,zh-CN
+master timecode,主时间码,zh-CN
+timecode master,时间码主机,zh-CN
+timecode slave,时间码从机,zh-CN
+jam sync,时间码校准同步,zh-CN
+jam timecode,校准时间码,zh-CN
+re-jam,重新校准时间码,zh-CN
+wireless timecode sync,无线时间码同步,zh-CN
+hardwire sync,有线同步,zh-CN
+continuous jam,连续校准同步,zh-CN
+auto jam,自动校准同步,zh-CN
+timecode lock,时间码锁定,zh-CN
+timecode drift,时间码漂移,zh-CN
+drift rate,漂移率,zh-CN
+clock accuracy,时钟精度,zh-CN
+parts per million,百万分率,zh-CN
+timecode offset,时间码偏移,zh-CN
+user offset,用户偏移量,zh-CN
+timecode delay,时间码延迟,zh-CN
+timecode slate,时间码场记板,zh-CN
+smart slate,电子时间码场记板,zh-CN
+clapperboard,场记板,zh-CN
+clapstick,场记板拍板,zh-CN
+sync mark,同步标记点,zh-CN
+sync point,同步点,zh-CN
+sync reference,同步参考,zh-CN
+sync pulse,同步脉冲,zh-CN
+genlock,视频同步锁相,zh-CN
+black burst,黑场同步信号,zh-CN
+tri-level sync,三电平同步信号,zh-CN
+video reference,视频参考同步信号,zh-CN
+reference sync,参考同步,zh-CN
+frame rate,帧率,zh-CN
+frames per second,每秒帧数,zh-CN
+23.976 fps,23.976帧/秒,zh-CN
+24 fps,24帧/秒,zh-CN
+25 fps,25帧/秒,zh-CN
+29.97 fps,29.97帧/秒,zh-CN
+30 fps,30帧/秒,zh-CN
+drop-frame timecode,丢帧时间码,zh-CN
+non-drop-frame timecode,非丢帧时间码,zh-CN
+drop frame,丢帧时间码,zh-CN
+non-drop frame,非丢帧,zh-CN
+drop-frame timecode (DF),丢帧时间码,zh-CN
+non-drop-frame timecode (NDF),非丢帧时间码,zh-CN
+time-of-day timecode,时刻时间码,zh-CN
+24-hour run,24小时运行时间码,zh-CN
+external timecode,外部时间码,zh-CN
+internal timecode,内部时间码,zh-CN
+RTC run,实时时钟运行模式,zh-CN
+timecode input,时间码输入,zh-CN
+timecode output,时间码输出,zh-CN
+timecode level,时间码信号电平,zh-CN
+mic-level timecode,话筒电平时间码,zh-CN
+line-level timecode,线路电平时间码,zh-CN
+timecode stamp,时间码时间戳,zh-CN
+start timecode,起始时间码,zh-CN
+timecode break,时间码中断,zh-CN
+timecode discontinuity,时间码不连续,zh-CN
+timecode mismatch,时间码不匹配,zh-CN
+frame-rate mismatch,帧率不匹配,zh-CN
+sync drift,声画同步漂移,zh-CN
+double-system sound,双系统录音,zh-CN
+single-system sound,单系统录音,zh-CN
+dual-system sound,双系统录音,zh-CN
+sync rushes,同步样片,zh-CN
+dailies,每日样片,zh-CN
+syncing dailies,每日样片声画同步,zh-CN
+waveform sync,波形同步,zh-CN
+pluraleyes sync,PluralEyes波形同步,zh-CN
+sync by timecode,按时间码同步,zh-CN
+sync by waveform,按波形同步,zh-CN
+0.1% pull-up,0.1%上拉,zh-CN
+0.1% pull-down,0.1%下拉,zh-CN
+sample-rate pull-up,采样率上拉,zh-CN
+sample-rate pull-down,采样率下拉,zh-CN
+Broadcast Wave Format,广播波形格式,zh-CN
+Broadcast Wave Format (BWF),广播波形格式,zh-CN
+Broadcast WAV,广播波形文件,zh-CN
+WAV file,WAV音频文件,zh-CN
+polyphonic WAV,多通道交织 WAV 文件,zh-CN
+poly WAV,多轨交织WAV文件,zh-CN
+monophonic WAV,单声道 WAV 文件,zh-CN
+mono WAV,单声道分轨WAV文件,zh-CN
+interleaved audio,交织音频,zh-CN
+deinterleave,拆分交织音频,zh-CN
+split mono,拆分为单声道,zh-CN
+file split,文件分段,zh-CN
+RF64,RF64大容量WAV格式,zh-CN
+WAV RF64,RF64大容量WAV文件,zh-CN
+Free Lossless Audio Codec (FLAC),FLAC无损压缩音频,zh-CN
+file format,文件格式,zh-CN
+file naming,文件命名,zh-CN
+file name,文件名,zh-CN
+file suffix,文件名后缀,zh-CN
+take folder,条次文件夹,zh-CN
+daily folder,每日录音文件夹,zh-CN
+roll folder,卷号文件夹,zh-CN
+sound roll,录音卷号,zh-CN
+roll number,卷号,zh-CN
+reel number,卷号,zh-CN
+file index,文件序号,zh-CN
+metadata,元数据,zh-CN
+BWF metadata,BWF 元数据,zh-CN
+iXML metadata,iXML 元数据,zh-CN
+bEXT chunk,BWF广播扩展数据块,zh-CN
+iXML chunk,iXML元数据块,zh-CN
+file header,文件头,zh-CN
+unique file identifier,唯一文件标识符,zh-CN
+scene number,场次号,zh-CN
+take number,条次号,zh-CN
+shot number,镜次号,zh-CN
+slate number,板号,zh-CN
+track name,音轨名称,zh-CN
+track number,轨道编号,zh-CN
+channel name,通道名称,zh-CN
+character name,角色名称,zh-CN
+project name,项目名称,zh-CN
+production name,项目名称,zh-CN
+date stamp,日期戳,zh-CN
+time stamp,时间戳,zh-CN
+notes field,备注字段,zh-CN
+take metadata,条次元数据,zh-CN
+next take metadata,下一条元数据,zh-CN
+metadata entry,元数据录入,zh-CN
+metadata editing,元数据编辑,zh-CN
+metadata mismatch,元数据不一致,zh-CN
+sound report CSV,CSV格式录音报告,zh-CN
+track list,轨道列表,zh-CN
+take list,条次列表,zh-CN
+cue marker,提示标记,zh-CN
+circle metadata,圈选条次元数据,zh-CN
+wild track metadata,野录声元数据,zh-CN
+sound roll metadata,录音卷号元数据,zh-CN
+original recording date,原始录制日期,zh-CN
+origination time,原始录制时间,zh-CN
+samples since midnight,自午夜起的采样数,zh-CN
+tone oscillator,测试音振荡器,zh-CN
+test tone,测试音,zh-CN
+reference tone,参考电平测试音,zh-CN
+line-up tone,校准测试音,zh-CN
+1 kHz tone,1千赫测试音,zh-CN
+tone level,测试音电平,zh-CN
+slate microphone,报板话筒,zh-CN
+talkback microphone,对讲话筒,zh-CN
+headphone monitor,耳机监听,zh-CN
+headphone mix,耳机监听混音,zh-CN
+monitor mix,监听混音,zh-CN
+monitor source,监听源,zh-CN
+return monitor,返送监听,zh-CN
+confidence monitoring,录制返听确认,zh-CN
+input monitoring,输入监听,zh-CN
+post-record monitoring,录后监听,zh-CN
+pre-fade listen (PFL),推子前监听,zh-CN
+audio metering,音频电平表监看,zh-CN
+level meter,电平表,zh-CN
+peak meter,峰值表,zh-CN
+VU meter,VU表,zh-CN
+peak hold,峰值保持,zh-CN
+meter scale,电平表刻度,zh-CN
+dBFS,相对于数字满刻度的分贝,zh-CN
+dBu,dBu电压电平单位,zh-CN
+dBV,dBV电压电平单位,zh-CN
+LUFS,相对于满刻度的响度单位,zh-CN
+peak level,峰值电平,zh-CN
+RMS level,均方根电平,zh-CN
+nominal operating level,标称工作电平,zh-CN
+calibration level,校准电平,zh-CN
+camera return,摄影机返听,zh-CN
+return cable,返听线缆,zh-CN
+breakaway cable,多芯快拆蛇线,zh-CN
+snake cable,多芯音频蛇线,zh-CN
+multicore cable,多芯线缆,zh-CN
+timecode cable,时间码线,zh-CN
+audio cable,音频线,zh-CN
+balanced cable,平衡音频线,zh-CN
+unbalanced cable,非平衡音频线,zh-CN
+star quad cable,星绞四芯话筒线,zh-CN
+cable shield,线缆屏蔽层,zh-CN
+ground loop,接地回路,zh-CN
+ground lift,断地开关,zh-CN
+pin 1 problem,XLR一脚接地问题,zh-CN
+cable tester,线缆测试仪,zh-CN
+continuity test,导通测试,zh-CN
+short circuit,短路,zh-CN
+open circuit,开路,zh-CN
+intermittent connection,间歇性接触不良,zh-CN
+loose connector,连接器松动,zh-CN
+dirty connector,连接器触点污损,zh-CN
+connector strain,连接器受力,zh-CN
+bad cable,故障线缆,zh-CN
+swap the cable,更换线缆排查,zh-CN
+signal flow,信号流,zh-CN
+signal path,信号路径,zh-CN
+fault isolation,故障隔离定位,zh-CN
+monitor the source,监听源信号,zh-CN
+check the return,检查返听,zh-CN
+check the RF,检查射频状态,zh-CN
+rain bag,防雨录音包罩,zh-CN
+hearing protection,听力防护,zh-CN
+safe listening level,安全监听电平,zh-CN
+hearing fatigue,听觉疲劳,zh-CN
+secure the boom,固定吊杆,zh-CN
+RF exposure,射频暴露,zh-CN
+acoustic noise,声学噪声,zh-CN
+background noise,背景噪声,zh-CN
+steady-state noise,稳态噪声,zh-CN
+transient noise,瞬态噪声,zh-CN
+impulse noise,脉冲噪声,zh-CN
+broadband noise,宽带噪声,zh-CN
+narrowband noise,窄带噪声,zh-CN
+pink noise,粉红噪声,zh-CN
+white noise,白噪声,zh-CN
+brown noise,棕色噪声,zh-CN
+plosive,爆破音,zh-CN
+sibilance,齿音,zh-CN
+mouth noise,口腔杂音,zh-CN
+breath noise,呼吸声,zh-CN
+footfall noise,脚步冲击声,zh-CN
+structure-borne noise,固体传声噪声,zh-CN
+airborne noise,空气传声噪声,zh-CN
+impact noise,撞击噪声,zh-CN
+standing wave,驻波,zh-CN
+room mode,房间模态,zh-CN
+flutter echo,颤动回声,zh-CN
+slap echo,拍击回声,zh-CN
+early reflections,早期反射声,zh-CN
+late reflections,晚期反射声,zh-CN
+reverberation time,混响时间,zh-CN
+RT60,混响时间RT60,zh-CN
+direct sound,直达声,zh-CN
+reflected sound,反射声,zh-CN
+diffuse field,扩散声场,zh-CN
+free field,自由声场,zh-CN
+near field,近场,zh-CN
+far field,远场,zh-CN
+room acoustics,室内声学,zh-CN
+sound isolation,隔声,zh-CN
+sound absorption,吸声,zh-CN
+sound reflection,声反射,zh-CN
+sound diffusion,声扩散,zh-CN
+absorption coefficient,吸声系数,zh-CN
+acoustic panel,吸声板,zh-CN
+bass trap,低频陷阱,zh-CN
+acoustic gobo,活动隔音屏,zh-CN
+noise reduction,降噪,zh-CN
+noise suppression,噪声抑制,zh-CN
+noise cancellation,噪声抵消,zh-CN
+signal bleed,串音,zh-CN
+microphone bleed,话筒串音,zh-CN
+crosstalk,串扰,zh-CN
+microphone spill,话筒漏音,zh-CN
+speech intelligibility,言语可懂度,zh-CN
+tone quality,音质,zh-CN
+thin sound,声音单薄,zh-CN
+muffled sound,声音闷,zh-CN
+harmonic distortion,谐波失真,zh-CN
+crest factor,峰值因数,zh-CN
+inverse-square law,平方反比定律,zh-CN
+3-to-1 rule,三比一话筒摆位定律,zh-CN
+acoustic feedback,声反馈,zh-CN
+gain before feedback,啸叫前增益,zh-CN
+feedback loop,反馈回路,zh-CN
+phasey sound,相位感明显的声音,zh-CN
+hollow sound,空洞感声音,zh-CN
+sync pop,同步爆点,zh-CN
+two-pop,两秒同步爆点,zh-CN
+tail pop,尾部同步爆点,zh-CN
+production audio,同期录音素材,zh-CN
+original production audio,原始同期录音素材,zh-CN
+dialogue track,对白音轨,zh-CN
+production dialogue,同期对白,zh-CN
+usable dialogue,可用对白,zh-CN
+clean dialogue,干净对白,zh-CN
+off-mic dialogue,离话筒对白,zh-CN
+on-mic dialogue,正对话筒的对白,zh-CN
+overlapping dialogue,重叠对白,zh-CN
+ad-lib,即兴台词,zh-CN
+voice cue,语音提示,zh-CN
+sync reference track,声画同步参考轨,zh-CN
+Sound Devices 8-Series,Sound Devices 8-Series,zh-CN
+Sound Devices Scorpio,Sound Devices Scorpio,zh-CN
+Sound Devices 888,Sound Devices 888,zh-CN
+Sound Devices 833,Sound Devices 833,zh-CN
+Sound Devices 688,Sound Devices 688,zh-CN
+Sound Devices 664,Sound Devices 664,zh-CN
+Sound Devices 633,Sound Devices 633,zh-CN
+Sound Devices 788T,Sound Devices 788T,zh-CN
+Sound Devices 744T,Sound Devices 744T,zh-CN
+Sound Devices MixPre-10 II,Sound Devices MixPre-10 II,zh-CN
+Sound Devices MixPre-6 II,Sound Devices MixPre-6 II,zh-CN
+Sound Devices MixPre-3 II,Sound Devices MixPre-3 II,zh-CN
+Sound Devices CL-16,Sound Devices CL-16,zh-CN
+Sound Devices CL-12,Sound Devices CL-12,zh-CN
+Sound Devices SL-2,Sound Devices SL-2,zh-CN
+Sound Devices XL-AES,Sound Devices XL-AES,zh-CN
+Sound Devices Astral Wireless,Sound Devices Astral Wireless,zh-CN
+Sound Devices Astral ARX32,Sound Devices Astral ARX32,zh-CN
+Sound Devices Astral ARX16,Sound Devices Astral ARX16,zh-CN
+Sound Devices Astral ARX8,Sound Devices Astral ARX8,zh-CN
+Sound Devices Astral Mini,Sound Devices Astral Mini,zh-CN
+Sound Devices Astral TX,Sound Devices Astral TX,zh-CN
+Sound Devices A20-Nexus,Sound Devices A20-Nexus,zh-CN
+Sound Devices A20-Nexus Go,Sound Devices A20-Nexus Go,zh-CN
+Sound Devices A20-SuperNexus,Sound Devices A20-SuperNexus,zh-CN
+Sound Devices A20-Mini,Sound Devices A20-Mini,zh-CN
+Sound Devices A20-TX,Sound Devices A20-TX,zh-CN
+Sound Devices A20-QuickDock,Sound Devices A20-QuickDock,zh-CN
+Sound Devices A10-TX,Sound Devices A10-TX,zh-CN
+Sound Devices A10-RX,Sound Devices A10-RX,zh-CN
+Sound Devices MixAssist,Sound Devices MixAssist,zh-CN
+Sound Devices NoiseAssist,Sound Devices NoiseAssist,zh-CN
+CEDAR sdnx,CEDAR sdnx,zh-CN
+Dugan Automixing,Dugan Automixing,zh-CN
+Sound Devices PowerSafe,Sound Devices PowerSafe,zh-CN
+Sound Devices QuickBoot,Sound Devices QuickBoot,zh-CN
+Sound Devices SD-Remote,Sound Devices SD-Remote,zh-CN
+Sound Devices Wingman,Sound Devices Wingman,zh-CN
+Sound Devices Wave Agent,Sound Devices Wave Agent,zh-CN
+Lectrosonics,Lectrosonics,zh-CN
+Lectrosonics Digital Hybrid Wireless,Lectrosonics Digital Hybrid Wireless,zh-CN
+Lectrosonics D Squared,Lectrosonics D Squared,zh-CN
+Lectrosonics DSR4,Lectrosonics DSR4,zh-CN
+Lectrosonics DSR,Lectrosonics DSR,zh-CN
+Lectrosonics DCR822,Lectrosonics DCR822,zh-CN
+Lectrosonics DSQD,Lectrosonics DSQD,zh-CN
+Lectrosonics SRc,Lectrosonics SRc,zh-CN
+Lectrosonics Venue 2,Lectrosonics Venue 2,zh-CN
+Lectrosonics SMWB,Lectrosonics SMWB,zh-CN
+Lectrosonics SMDWB,Lectrosonics SMDWB,zh-CN
+Lectrosonics DBSM,Lectrosonics DBSM,zh-CN
+Lectrosonics DBSMD,Lectrosonics DBSMD,zh-CN
+Lectrosonics DPR-A,Lectrosonics DPR-A,zh-CN
+Lectrosonics DCHT,Lectrosonics DCHT,zh-CN
+Lectrosonics HMa,Lectrosonics HMa,zh-CN
+Lectrosonics LT,Lectrosonics LT,zh-CN
+Lectrosonics M2 Duet,Lectrosonics M2 Duet,zh-CN
+Lectrosonics M2R,Lectrosonics M2R,zh-CN
+Lectrosonics M2T,Lectrosonics M2T,zh-CN
+Lectrosonics Wireless Designer,Lectrosonics Wireless Designer,zh-CN
+Lectrosonics SmartTune,Lectrosonics SmartTune,zh-CN
+Lectrosonics SmartNR,Lectrosonics SmartNR,zh-CN
+LectroRM,LectroRM,zh-CN
+dweedle tone,Lectrosonics声学遥控音,zh-CN
+Zaxcom,Zaxcom,zh-CN
+Zaxcom Nova 2,Zaxcom Nova 2,zh-CN
+Zaxcom Nova,Zaxcom Nova,zh-CN
+Zaxcom Deva 24,Zaxcom Deva 24,zh-CN
+Zaxcom Nomad 12,Zaxcom Nomad 12,zh-CN
+Zaxcom ZMT4,Zaxcom ZMT4,zh-CN
+Zaxcom ZMT4-X,Zaxcom ZMT4-X,zh-CN
+Zaxcom ZMT4-Flex,Zaxcom ZMT4-Flex,zh-CN
+Zaxcom ZMT4-HM,Zaxcom ZMT4-HM,zh-CN
+Zaxcom TRXLA5,Zaxcom TRXLA5,zh-CN
+Zaxcom TRX745,Zaxcom TRX745,zh-CN
+Zaxcom TRXCL5 Camera Link,Zaxcom TRXCL5 Camera Link,zh-CN
+Zaxcom MRX414,Zaxcom MRX414,zh-CN
+Zaxcom MRX214,Zaxcom MRX214,zh-CN
+Zaxcom QRX200,Zaxcom QRX200,zh-CN
+Zaxcom RX-12,Zaxcom RX-12,zh-CN
+Zaxcom RX-8,Zaxcom RX-8,zh-CN
+Zaxcom ERX3TCD,Zaxcom ERX3TCD,zh-CN
+Zaxcom ZaxNet,Zaxcom ZaxNet,zh-CN
+Zaxcom NeverClip,Zaxcom NeverClip,zh-CN
+Zaxcom MARF II,Zaxcom MARF II,zh-CN
+Zaxcom recording wireless,Zaxcom recording wireless,zh-CN
+Zaxcom ZaxConvert,Zaxcom ZaxConvert,zh-CN
+Wisycom,Wisycom,zh-CN
+Wisycom MCR54,Wisycom MCR54,zh-CN
+Wisycom MCR54-D,Wisycom MCR54-D,zh-CN
+Wisycom MPR52-ENG,Wisycom MPR52-ENG,zh-CN
+Wisycom MPR60,Wisycom MPR60,zh-CN
+Wisycom MTP61,Wisycom MTP61,zh-CN
+Wisycom MTP60,Wisycom MTP60,zh-CN
+Wisycom MTP40S,Wisycom MTP40S,zh-CN
+Wisycom MTB40S,Wisycom MTB40S,zh-CN
+Wisycom Manager,Wisycom Manager,zh-CN
+Audio Limited A10,Audio Limited A10,zh-CN
+Audio Limited A10-TX,Audio Limited A10-TX,zh-CN
+Audio Limited A10-RX,Audio Limited A10-RX,zh-CN
+Sennheiser,森海塞尔,zh-CN
+Sennheiser MKH 416-P48U3,Sennheiser MKH 416-P48U3,zh-CN
+Sennheiser MKH 8060,Sennheiser MKH 8060,zh-CN
+Sennheiser MKH 8070,Sennheiser MKH 8070,zh-CN
+Sennheiser MKH 8050,Sennheiser MKH 8050,zh-CN
+Sennheiser MKH 8040,Sennheiser MKH 8040,zh-CN
+Sennheiser MKH 8030,Sennheiser MKH 8030,zh-CN
+Sennheiser MKH 8018,Sennheiser MKH 8018,zh-CN
+Sennheiser EK 6042,Sennheiser EK 6042,zh-CN
+Sennheiser SK 6212,Sennheiser SK 6212,zh-CN
+Sennheiser SK 5212-II,Sennheiser SK 5212-II,zh-CN
+Sennheiser EW-DP,Sennheiser EW-DP,zh-CN
+Sennheiser Wireless Systems Manager,Sennheiser Wireless Systems Manager,zh-CN
+SCHOEPS,SCHOEPS,zh-CN
+SCHOEPS CMIT 5,SCHOEPS CMIT 5,zh-CN
+SCHOEPS MiniCMIT,SCHOEPS MiniCMIT,zh-CN
+SCHOEPS SuperCMIT,SCHOEPS SuperCMIT,zh-CN
+SCHOEPS CMC 6 + MK 41,SCHOEPS CMC 6 + MK 41,zh-CN
+SCHOEPS CMC 1 + MK 41,SCHOEPS CMC 1 + MK 41,zh-CN
+SCHOEPS CCM 41,SCHOEPS CCM 41,zh-CN
+SCHOEPS CMC 1 + MK 8,SCHOEPS CMC 1 + MK 8,zh-CN
+SCHOEPS CCM 8,SCHOEPS CCM 8,zh-CN
+SCHOEPS RFI Shield,SCHOEPS RFI Shield,zh-CN
+Sanken,三研,zh-CN
+Sanken COS-11D,Sanken COS-11D,zh-CN
+Sanken CS-3e,Sanken CS-3e,zh-CN
+Sanken CS-2,Sanken CS-2,zh-CN
+Sanken CS-1e,Sanken CS-1e,zh-CN
+Sanken CUB-01,Sanken CUB-01,zh-CN
+Sanken CSS-5,Sanken CSS-5,zh-CN
+Sanken CMS-50,Sanken CMS-50,zh-CN
+DPA Microphones,DPA Microphones,zh-CN
+DPA 4060 CORE,DPA 4060 CORE,zh-CN
+DPA 4061 CORE,DPA 4061 CORE,zh-CN
+DPA 6060 CORE Subminiature,DPA 6060 CORE Subminiature,zh-CN
+DPA 6061 CORE Subminiature,DPA 6061 CORE Subminiature,zh-CN
+DPA 4017C,DPA 4017C,zh-CN
+DPA 4017B,DPA 4017B,zh-CN
+DPA 4018C,DPA 4018C,zh-CN
+Neumann,纽曼,zh-CN
+Neumann KMR 81 i,Neumann KMR 81 i,zh-CN
+Neumann KMR 82 i,Neumann KMR 82 i,zh-CN
+Shure,舒尔,zh-CN
+Shure Axient Digital,Shure Axient Digital,zh-CN
+Shure ADX5D,Shure ADX5D,zh-CN
+Shure ADX1M,Shure ADX1M,zh-CN
+Shure Wireless Workbench,Shure Wireless Workbench,zh-CN
+Countryman B6,Countryman B6,zh-CN
+Countryman B3,Countryman B3,zh-CN
+Tram TR50,Tram TR50,zh-CN
+Voice Technologies VT-506,Voice Technologies VT-506,zh-CN
+Deity Microphones,Deity Microphones,zh-CN
+Deity W.Lav Pro,Deity W.Lav Pro,zh-CN
+Deity S-Mic 2,Deity S-Mic 2,zh-CN
+Deity Theos Digital Wireless,Deity Theos Digital Wireless,zh-CN
+Deity TC-1,Deity TC-1,zh-CN
+Deity TC-SL1,Deity TC-SL1,zh-CN
+Deity Sidus Audio,Deity Sidus Audio,zh-CN
+Rycote,Rycote,zh-CN
+Rycote Modular Windshield,Rycote Modular Windshield,zh-CN
+Rycote Cyclone Windshield,Rycote Cyclone Windshield,zh-CN
+Rycote Nano Shield,Rycote Nano Shield,zh-CN
+Rycote Classic Softie,Rycote Classic Softie,zh-CN
+Rycote Super-Softie,Rycote Super-Softie,zh-CN
+Rycote InVision,Rycote InVision,zh-CN
+Cinela,Cinela,zh-CN
+Cinela PIANO,Cinela PIANO,zh-CN
+Cinela PIANISSIMO,Cinela PIANISSIMO,zh-CN
+Cinela COSI,Cinela COSI,zh-CN
+Cinela OSIX,Cinela OSIX,zh-CN
+Bubblebee Industries,Bubblebee Industries,zh-CN
+Bubblebee The Spacer Bubble,Bubblebee The Spacer Bubble,zh-CN
+Bubblebee The Windkiller,Bubblebee The Windkiller,zh-CN
+Bubblebee The Lav Concealer,Bubblebee The Lav Concealer,zh-CN
+URSA Straps,URSA Straps,zh-CN
+URSA MiniMount,URSA MiniMount,zh-CN
+Viviana Straps,Viviana Straps,zh-CN
+Viviana Cloud,Viviana Cloud,zh-CN
+K-Tek,K-Tek,zh-CN
+K-Tek KlassicPro,K-Tek KlassicPro,zh-CN
+Ambient QuickPole,Ambient QuickPole,zh-CN
+Ambient C-Jam,Ambient C-Jam,zh-CN
+Ambient LockitToolbox,Ambient LockitToolbox,zh-CN
+Tentacle Sync,Tentacle Sync,zh-CN
+Tentacle TRACK E,Tentacle TRACK E,zh-CN
+Tentacle TIMEBAR,Tentacle TIMEBAR,zh-CN
+Tentacle Setup App,Tentacle Setup App,zh-CN
+Denecke,Denecke,zh-CN
+Denecke TS-C,Denecke TS-C,zh-CN
+Denecke TS-3,Denecke TS-3,zh-CN
+Denecke SB-4,Denecke SB-4,zh-CN
+BETSO,BETSO,zh-CN
+BETSO WTCS-1,BETSO WTCS-1,zh-CN
+BETSO TCX-2N,BETSO TCX-2N,zh-CN
+BETSO SBOX-2RF,BETSO SBOX-2RF,zh-CN
+BETSO RF OCTOPUS,BETSO RF OCTOPUS,zh-CN
+BETSO BOWTIE,BETSO BOWTIE,zh-CN
+Aaton Digital,Aaton Digital,zh-CN
+Aaton Cantar X3,Aaton Cantar X3,zh-CN
+Aaton CantarMini,Aaton CantarMini,zh-CN
+Sonosax,Sonosax,zh-CN
+Sonosax SX-R4+,Sonosax SX-R4+,zh-CN
+Sonosax SX-AD8+,Sonosax SX-AD8+,zh-CN
+Nagra,Nagra,zh-CN
+Nagra IV-S,Nagra IV-S,zh-CN
+Nagra 4.2,Nagra 4.2,zh-CN
+Nagra VI,Nagra VI,zh-CN
+Stellavox SP8,Stellavox SP8,zh-CN
+Zoom F8n Pro,Zoom F8n Pro,zh-CN
+Zoom F6,Zoom F6,zh-CN
+Fostex PD-6,Fostex PD-6,zh-CN
+HHB Portadat,HHB Portadat,zh-CN
+Sony PCM-7040,Sony PCM-7040,zh-CN
+PSC,PSC,zh-CN
+AudioRoot,AudioRoot,zh-CN
+Hawk-Woods,Hawk-Woods,zh-CN
+Orca Bags,Orca Bags,zh-CN
+PortaBrace,PortaBrace,zh-CN
+Kortwich,Kortwich,zh-CN
+RF Venue,RF Venue,zh-CN
+SoundBase,SoundBase,zh-CN
+FreqFinder,FreqFinder,zh-CN
+TXAdvance,TXAdvance,zh-CN
+IAS Intermodulation Analysis System,IAS Intermodulation Analysis System,zh-CN
+MovieSlate,MovieSlate,zh-CN
+Arm All Tracks,所有轨道进入录音待命,zh-CN
+Disarm All Tracks,取消所有轨道录音待命,zh-CN
+Set Timecode Generator,设置时间码发生器,zh-CN
+Timecode Mode,时间码模式,zh-CN
+External Timecode Auto-Record,外部时间码自动触发录音,zh-CN
+Create Sound Report,生成录音报告,zh-CN
+Edit Next Take,编辑下一条元数据,zh-CN
+Increment Take Number,条次号加一,zh-CN
+Rename Last Take,重命名上一条录音,zh-CN
+Circle Last Take,圈选上一条录音,zh-CN
+Delete Last Take,删除上一条录音,zh-CN
+Mark False Take,将上一条标记为废条,zh-CN
+Format Recording Media,格式化录音存储介质,zh-CN
+Mirror Recording Media,镜像录制到备用介质,zh-CN
+Copy Files to Mirror Media,复制文件至镜像介质,zh-CN
+Repair Interrupted Recording,修复意外中断的录音文件,zh-CN
+Set Track Names,设置轨道名称,zh-CN
+Set Scene and Take,设置场次与条次,zh-CN
+Route Inputs to ISO Tracks,将输入路由至独立分轨,zh-CN
+Send Tone to Outputs,向输出发送测试音,zh-CN
+Enable Slate Mic,启用通话话筒,zh-CN
+Firmware Update,固件更新,zh-CN
+Factory Reset,恢复出厂设置,zh-CN
+Scan New Frequency List,扫描新的可用频率列表,zh-CN
+Synchronize Transmitter via Infrared,通过红外同步发射机,zh-CN
+Set Transmitter RF Power,设置发射机射频功率,zh-CN
+Set Receiver Squelch,设置接收机静噪门限,zh-CN
+Export Frequency Coordination,导出频率协调方案,zh-CN
+SuperSlot,SuperSlot无线接收机槽位标准,zh-CN
+UniSlot,UniSlot槽式无线接收机接口,zh-CN
+25-pin D-sub connector,25针D-sub连接器,zh-CN
+DB25 connector,DB25连接器,zh-CN
+XLR-3 connector,三针XLR连接器,zh-CN
+XLR-5 connector,五针XLR连接器,zh-CN
+TA3M connector,TA3M三针迷你XLR公头,zh-CN
+TA4F connector,TA4F四针迷你XLR母头,zh-CN
+TA5M connector,TA5M五针迷你XLR公头,zh-CN
+5-pin LEMO timecode connector,五针LEMO时间码连接器,zh-CN
+4-pin Hirose power connector,四针Hirose电源连接器,zh-CN
+3.5 mm TRS connector,3.5毫米TRS连接器,zh-CN
+3.5 mm TRRS connector,3.5毫米TRRS连接器,zh-CN
+6.35 mm TRS connector,6.35毫米TRS连接器,zh-CN
+RJ45 connector,RJ45网络连接器,zh-CN
+USB-C connector,USB-C连接器,zh-CN
+SMPTE,美国电影电视工程师协会,zh-CN
+SMPTE ST 12-1,SMPTE ST 12-1 时间码标准,zh-CN
+Audio Engineering Society,音频工程学会,zh-CN
+AES31,AES31 音频工程数据交换标准,zh-CN
+European Broadcasting Union,欧洲广播联盟,zh-CN
+EBU Tech 3285,EBU Tech 3285 广播波形格式规范,zh-CN
+Institute of Broadcast Sound,英国广播声音学会,zh-CN
+iXML specification,iXML制作录音元数据规范,zh-CN
+IEC 61938,IEC 61938音频接口与幻象供电标准,zh-CN
+IEC 60268-4,IEC 60268-4话筒测量标准,zh-CN
+Federal Communications Commission,美国联邦通信委员会,zh-CN
+International Telecommunication Union,国际电信联盟,zh-CN
+Ministry of Industry and Information Technology,中华人民共和国工业和信息化部,zh-CN
+Walter Murch,沃尔特·默奇,zh-CN
+Ben Burtt,本·伯特,zh-CN
+Randy Thom,兰迪·汤姆,zh-CN
+Gary Rydstrom,加里·里德斯特罗姆,zh-CN
+Alan Splet,艾伦·斯普莱特,zh-CN
+Skip Lievsay,斯基普·利夫赛,zh-CN
+Willie D. Burton,威利·D·伯顿,zh-CN
+Russell Williams II,拉塞尔·威廉斯二世,zh-CN
+Mark Ulano,马克·乌拉诺,zh-CN
+Tod A. Maitland,托德·A·梅特兰,zh-CN
+Peter J. Devlin,彼得·J·德夫林,zh-CN
+John Midgley,约翰·米奇利,zh-CN
+Simon Hayes,西蒙·海斯,zh-CN
+Ivan Sharrock,伊万·沙洛克,zh-CN
+Simon Kaye,西蒙·凯,zh-CN
+William B. Kaplan,威廉·B·卡普兰,zh-CN
+Murray Spivack,默里·斯皮瓦克,zh-CN
+Ray Dolby,雷·杜比,zh-CN
+Stefan Kudelski,斯特凡·库德尔斯基,zh-CN
+Georg Neumann,格奥尔格·诺伊曼,zh-CN
+Fritz Sennheiser,弗里茨·森海塞尔,zh-CN
+bidirectional polar pattern,8字形指向性,zh-CN
+microphone on-axis response,话筒轴向响应,zh-CN
+microphone off-axis response,话筒离轴响应,zh-CN
+audio level metering,音频电平计量,zh-CN
+earwig earpiece,隐形耳返,zh-CN
+sound-report take notes,录音报告条次备注,zh-CN
+NO_GOOD,不采用标记,zh-CN
+dead cat windscreen,毛绒防风罩,zh-CN
+TV white space,电视空白频段,zh-CN
+RF white space,射频空白频段,zh-CN
+RF site survey,现场射频勘测,zh-CN
+RF line-of-sight path,射频视距传播路径,zh-CN
+wireless effective range,无线系统有效传输距离,zh-CN
+microphone diaphragm,话筒振膜,zh-CN
+microphone sweet spot,话筒最佳拾音位置,zh-CN
+polar-pattern null,极性图零拾音点,zh-CN
+car sound rig,车戏录音装置,zh-CN
+receiver squelch,接收机静噪功能,zh-CN
+compressor soft knee,压缩器软拐点,zh-CN
+compressor hard knee,压缩器硬拐点,zh-CN
+compressor attack time,压缩器启动时间,zh-CN
+compressor release time,压缩器释放时间,zh-CN
+free-run timecode,自由运行时间码,zh-CN
+record-run timecode,录制运行时间码,zh-CN
+automatic picture-sound sync,自动声画同步,zh-CN
+audio pull-up,音频提速变调匹配,zh-CN
+audio pull-down,音频降速变调匹配,zh-CN
+BWF OriginatorReference,BWF 来源设备唯一标识,zh-CN
+BWF TimeReference,BWF 时间参考采样数,zh-CN
+comms mic,通话话筒,zh-CN
+camera audio umbilical cable,摄影机音频脐带线,zh-CN
+audio signals in phase,音频信号同相,zh-CN
+audio signals out of phase,音频信号相位不一致,zh-CN
+Sennheiser MKH 50-P48,Sennheiser MKH 50-P48,zh-CN
+Wisycom MTP61 XL,Wisycom MTP61 XL,zh-CN
+Tentacle SYNC E mkII,Tentacle SYNC E mkII,zh-CN
+MOS shot,无同期声镜头,zh-CN
+shoot MOS,无同期声拍摄,zh-CN

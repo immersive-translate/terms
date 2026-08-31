@@ -1,0 +1,20 @@
+{
+  "id": "music-audio-technology",
+  "name": "Music Production and Audio Technology",
+  "description": "A curated English-to-Simplified-Chinese glossary for music production and audio technology, covering composition, theory, performance, recording, synthesis, editing, mixing, mastering, formats, standards, and industry workflows.",
+  "author": "youheng-alan-liu",
+  "glossary": "music-audio-technology",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "音乐制作与音频技术",
+      "description": "音乐制作与音频技术术语库，涵盖作曲、乐理、演奏、录音、合成、编辑、混音、母带、格式、标准和行业工作流程。"
+    },
+    "en": {
+      "name": "Music Production and Audio Technology",
+      "description": "A glossary for music production and audio technology, including composition, theory, performance, recording, synthesis, editing, mixing, mastering, formats, standards, and industry workflows."
+    }
+  }
+}
