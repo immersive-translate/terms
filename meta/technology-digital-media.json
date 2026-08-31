@@ -1,0 +1,20 @@
+{
+  "id": "technology-digital-media",
+  "name": "Technology and Digital Media",
+  "description": "A curated English-to-Simplified-Chinese glossary for technology and digital media, covering platforms, content systems, interfaces, streaming, networking, cloud services, security, analytics, and modern media workflows.",
+  "author": "youheng-alan-liu",
+  "glossary": "technology-digital-media",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "科技与数字媒体",
+      "description": "科技与数字媒体术语库，涵盖平台、内容系统、界面、流媒体、网络、云服务、安全、分析和现代媒体工作流程。"
+    },
+    "en": {
+      "name": "Technology and Digital Media",
+      "description": "A glossary for technology and digital media, including platforms, content systems, interfaces, streaming, networking, cloud services, security, analytics, and media workflows."
+    }
+  }
+}

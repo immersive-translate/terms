@@ -1,0 +1,20 @@
+{
+  "id": "photography-camera-gear",
+  "name": "Photography, Cameras, and Gear",
+  "description": "A curated English-to-Simplified-Chinese glossary for photography, cameras, lenses, lighting, exposure, color, image processing, file formats, accessories, maintenance, and professional shooting workflows.",
+  "author": "youheng-alan-liu",
+  "glossary": "photography-camera-gear",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "摄影、相机与器材",
+      "description": "摄影、相机与器材术语库，涵盖镜头、灯光、曝光、色彩、图像处理、文件格式、配件、维护和专业拍摄流程。"
+    },
+    "en": {
+      "name": "Photography, Cameras, and Gear",
+      "description": "A glossary for photography, cameras, lenses, lighting, exposure, color, image processing, file formats, accessories, maintenance, and professional workflows."
+    }
+  }
+}

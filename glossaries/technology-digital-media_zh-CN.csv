@@ -1,0 +1,966 @@
+source,target,tgt_lng
+information technology,信息技术,zh-CN
+computer science,计算机科学,zh-CN
+computer engineering,计算机工程,zh-CN
+software engineering,软件工程,zh-CN
+systems engineering,系统工程,zh-CN
+digital media technology,数字媒体技术,zh-CN
+computer hardware,计算机硬件,zh-CN
+computer software,计算机软件,zh-CN
+system software,系统软件,zh-CN
+application software,应用软件,zh-CN
+device driver,设备驱动程序,zh-CN
+kernel space,内核空间,zh-CN
+user space,用户空间,zh-CN
+system call,系统调用,zh-CN
+process scheduler,进程调度器,zh-CN
+process isolation,进程隔离,zh-CN
+memory management,内存管理,zh-CN
+virtual memory,虚拟内存,zh-CN
+memory paging,内存分页,zh-CN
+swap space,交换空间,zh-CN
+memory-mapped file,内存映射文件,zh-CN
+shared memory,共享内存,zh-CN
+memory leak,内存泄漏,zh-CN
+buffer overflow,缓冲区溢出,zh-CN
+stack overflow,栈溢出,zh-CN
+heap allocation,堆内存分配,zh-CN
+garbage collection,垃圾回收,zh-CN
+reference counting,引用计数,zh-CN
+automatic memory management,自动内存管理,zh-CN
+race condition,竞态条件,zh-CN
+software deadlock,死锁,zh-CN
+mutual exclusion,互斥,zh-CN
+programming semaphore,信号量,zh-CN
+thread synchronization,线程同步,zh-CN
+asynchronous programming,异步编程,zh-CN
+concurrent programming,并发编程,zh-CN
+parallel computing,并行计算,zh-CN
+distributed computing,分布式计算,zh-CN
+high-performance computing,高性能计算,zh-CN
+real-time computing,实时计算,zh-CN
+edge computing,边缘计算,zh-CN
+fog computing,雾计算,zh-CN
+client-server architecture,客户端—服务器架构,zh-CN
+peer-to-peer architecture,点对点架构,zh-CN
+microservices architecture,微服务架构,zh-CN
+service-oriented architecture,面向服务的架构,zh-CN
+event-driven architecture,事件驱动架构,zh-CN
+serverless computing,无服务器计算,zh-CN
+monolithic architecture,单体架构,zh-CN
+three-tier architecture,三层架构,zh-CN
+hardware abstraction layer,硬件抽象层,zh-CN
+instruction set architecture,指令集架构,zh-CN
+x86-64 architecture,x86-64 架构,zh-CN
+Arm architecture,Arm 架构,zh-CN
+RISC-V architecture,RISC-V 架构,zh-CN
+reduced instruction set computer,精简指令集计算机,zh-CN
+complex instruction set computer,复杂指令集计算机,zh-CN
+central processing unit,中央处理器,zh-CN
+graphics processing unit,图形处理器,zh-CN
+neural processing unit,神经网络处理器,zh-CN
+tensor processing unit,张量处理单元,zh-CN
+digital signal processor,数字信号处理器,zh-CN
+field-programmable gate array,现场可编程门阵列,zh-CN
+application-specific integrated circuit,专用集成电路,zh-CN
+system on a chip,片上系统,zh-CN
+chiplet architecture,小芯片架构,zh-CN
+die-to-die interconnect,裸片间互连,zh-CN
+semiconductor fabrication,半导体制造,zh-CN
+process node,制程节点,zh-CN
+transistor density,晶体管密度,zh-CN
+gate-all-around transistor,全环绕栅极晶体管,zh-CN
+FinFET transistor,鳍式场效应晶体管,zh-CN
+extreme ultraviolet lithography,极紫外光刻,zh-CN
+clock frequency,时钟频率,zh-CN
+base clock,基础时钟,zh-CN
+boost clock,加速时钟,zh-CN
+thermal throttling,过热降频,zh-CN
+thermal design power,热设计功耗,zh-CN
+processor core,处理器核心,zh-CN
+hardware thread,硬件线程,zh-CN
+simultaneous multithreading,同时多线程,zh-CN
+out-of-order execution,乱序执行,zh-CN
+speculative execution,推测执行,zh-CN
+branch prediction,分支预测,zh-CN
+instruction pipeline,指令流水线,zh-CN
+vector instruction,向量指令,zh-CN
+single instruction multiple data,单指令多数据,zh-CN
+floating-point unit,浮点运算单元,zh-CN
+integer arithmetic unit,整数运算单元,zh-CN
+cache hierarchy,高速缓存层级,zh-CN
+L1 cache,一级高速缓存,zh-CN
+L2 cache,二级高速缓存,zh-CN
+L3 cache,三级高速缓存,zh-CN
+cache coherence,缓存一致性,zh-CN
+cache miss,缓存未命中,zh-CN
+memory bandwidth,内存带宽,zh-CN
+memory latency,内存延迟,zh-CN
+random-access memory,随机存取存储器,zh-CN
+dynamic random-access memory,动态随机存取存储器,zh-CN
+static random-access memory,静态随机存取存储器,zh-CN
+video memory,显存,zh-CN
+unified memory,统一内存,zh-CN
+unified memory architecture,统一内存架构,zh-CN
+high-bandwidth memory,高带宽内存,zh-CN
+double data rate memory,双倍数据速率内存,zh-CN
+error-correcting code memory,ECC内存,zh-CN
+memory channel,内存通道,zh-CN
+dual-channel memory,双通道内存,zh-CN
+non-uniform memory access,非统一内存访问,zh-CN
+direct memory access,直接内存访问,zh-CN
+remote direct memory access,远程直接内存访问,zh-CN
+memory controller,内存控制器,zh-CN
+motherboard chipset,主板芯片组,zh-CN
+basic input/output system,基本输入输出系统,zh-CN
+Unified Extensible Firmware Interface,统一可扩展固件接口,zh-CN
+secure boot,安全启动,zh-CN
+trusted platform module,可信平台模块,zh-CN
+hardware root of trust,硬件信任根,zh-CN
+peripheral component interconnect express,高速串行计算机扩展总线,zh-CN
+PCIe lane,PCIe 通道,zh-CN
+PCIe bifurcation,PCIe 通道拆分,zh-CN
+Compute Express Link,计算快速互连,zh-CN
+Universal Serial Bus,通用串行总线,zh-CN
+USB4 Version 2.0,USB4 2.0 规范,zh-CN
+USB Power Delivery,USB 供电协议,zh-CN
+USB Type-C,USB Type-C 接口,zh-CN
+Thunderbolt 4,雷雳 4,zh-CN
+Thunderbolt 5,雷雳 5,zh-CN
+High-Definition Multimedia Interface,高清多媒体接口,zh-CN
+HDMI 2.1,HDMI 2.1 规范,zh-CN
+DisplayPort 2.1,DisplayPort 2.1 规范,zh-CN
+embedded DisplayPort,嵌入式 DisplayPort,zh-CN
+Video Electronics Standards Association,视频电子标准协会,zh-CN
+Display Stream Compression,显示流压缩,zh-CN
+variable refresh rate,可变刷新率,zh-CN
+adaptive synchronization,自适应同步,zh-CN
+refresh rate,刷新率,zh-CN
+pixel response time,像素响应时间,zh-CN
+input latency,输入延迟,zh-CN
+liquid-crystal display,液晶显示器,zh-CN
+organic light-emitting diode,有机发光二极管,zh-CN
+quantum-dot OLED,量子点 OLED,zh-CN
+mini-LED backlight,Mini LED 背光,zh-CN
+microLED display,MicroLED 显示屏,zh-CN
+in-plane switching,平面转换面板,zh-CN
+vertical alignment panel,垂直排列面板,zh-CN
+local dimming,局部调光,zh-CN
+full-array local dimming,全阵列局部调光,zh-CN
+peak screen brightness,屏幕峰值亮度,zh-CN
+sustained screen brightness,屏幕持续亮度,zh-CN
+color volume,色彩体积,zh-CN
+pixel density,像素密度,zh-CN
+native resolution,原生分辨率,zh-CN
+retina display,视网膜显示屏,zh-CN
+storage device,存储设备,zh-CN
+hard disk drive,机械硬盘,zh-CN
+non-volatile memory express,NVMe存储协议,zh-CN
+NAND flash memory,NAND 闪存,zh-CN
+single-level cell,单层单元闪存,zh-CN
+multi-level cell,多层单元闪存,zh-CN
+triple-level cell,三层单元闪存,zh-CN
+quad-level cell,四层单元闪存,zh-CN
+3D NAND,3D NAND 闪存,zh-CN
+wear leveling,损耗均衡,zh-CN
+write amplification,写入放大,zh-CN
+trim command,TRIM 擦除提示命令,zh-CN
+storage endurance,存储设备耐久度,zh-CN
+terabytes written,总写入量,zh-CN
+drive writes per day,每日全盘写入次数,zh-CN
+sequential read speed,顺序读取速度,zh-CN
+sequential write speed,顺序写入速度,zh-CN
+random read performance,随机读取性能,zh-CN
+random write performance,随机写入性能,zh-CN
+input/output operations per second,每秒输入输出操作次数,zh-CN
+storage queue depth,存储队列深度,zh-CN
+storage controller,存储控制器,zh-CN
+redundant array of independent disks,独立磁盘冗余阵列,zh-CN
+RAID 0,RAID 0 条带阵列,zh-CN
+RAID 1,RAID 1 镜像阵列,zh-CN
+RAID 5,RAID 5 单校验分布式阵列,zh-CN
+RAID 6,RAID 6 双校验分布式阵列,zh-CN
+RAID 10,RAID 10 镜像条带阵列,zh-CN
+disk striping,磁盘条带化,zh-CN
+disk mirroring,磁盘镜像,zh-CN
+parity data,校验数据,zh-CN
+hot spare drive,热备盘,zh-CN
+storage pool,存储池,zh-CN
+storage tiering,存储分层,zh-CN
+block storage,块存储,zh-CN
+file storage,文件存储,zh-CN
+object storage,对象存储,zh-CN
+network-attached storage,网络附加存储,zh-CN
+storage area network,存储区域网络,zh-CN
+direct-attached storage,直连存储,zh-CN
+cold storage,冷存储,zh-CN
+archive storage,归档存储,zh-CN
+content-addressable storage,内容寻址存储,zh-CN
+data deduplication,数据去重,zh-CN
+lossless data compression,无损数据压缩,zh-CN
+data integrity check,数据完整性校验,zh-CN
+cryptographic hash,密码学哈希,zh-CN
+cyclic redundancy check,循环冗余校验,zh-CN
+bit rot,位衰减,zh-CN
+silent data corruption,静默数据损坏,zh-CN
+backup strategy,备份策略,zh-CN
+incremental backup,增量备份,zh-CN
+differential backup,差异备份,zh-CN
+full backup,完整备份,zh-CN
+snapshot backup,快照备份,zh-CN
+off-site backup,异地备份,zh-CN
+immutable backup,不可变备份,zh-CN
+air-gapped backup,物理隔离备份,zh-CN
+3-2-1 backup rule,3-2-1 备份原则,zh-CN
+recovery point objective,恢复点目标,zh-CN
+recovery time objective,恢复时间目标,zh-CN
+disaster recovery,灾难恢复,zh-CN
+business continuity,业务连续性,zh-CN
+file system,文件系统,zh-CN
+New Technology File System,新技术文件系统,zh-CN
+extended file system 4,第四代扩展文件系统,zh-CN
+Zettabyte File System,ZFS 文件系统,zh-CN
+B-tree file system,Btrfs 文件系统,zh-CN
+exFAT file system,exFAT 文件系统,zh-CN
+file metadata,文件元数据,zh-CN
+extended attributes,扩展属性,zh-CN
+access control list,访问控制列表,zh-CN
+file permissions,文件权限,zh-CN
+symbolic link,符号链接,zh-CN
+hard link,硬链接,zh-CN
+directory structure,目录结构,zh-CN
+file path,文件路径,zh-CN
+absolute path,绝对路径,zh-CN
+relative path,相对路径,zh-CN
+mount point,挂载点,zh-CN
+disk image,磁盘映像,zh-CN
+container format,容器格式,zh-CN
+archive format,归档格式,zh-CN
+ZIP archive,ZIP 压缩包,zh-CN
+TAR archive,TAR 归档包,zh-CN
+7z archive,7z 压缩包,zh-CN
+Rosetta 2,Rosetta 2 指令转换环境,zh-CN
+Windows Subsystem for Linux,适用于 Linux 的 Windows 子系统,zh-CN
+type-1 hypervisor,裸机型虚拟机监控程序,zh-CN
+type-2 hypervisor,宿主型虚拟机监控程序,zh-CN
+hardware virtualization,硬件虚拟化,zh-CN
+container virtualization,容器虚拟化,zh-CN
+container image,容器镜像,zh-CN
+container runtime,容器运行时,zh-CN
+container registry,容器镜像仓库,zh-CN
+orchestration platform,编排平台,zh-CN
+Kubernetes cluster,Kubernetes 集群,zh-CN
+Kubernetes control plane,Kubernetes 控制平面,zh-CN
+Helm chart,Helm 应用包,zh-CN
+virtual private cloud,虚拟私有云,zh-CN
+cloud availability zone,云可用区,zh-CN
+cloud region,云区域,zh-CN
+autoscaling group,自动伸缩组,zh-CN
+load balancer,负载均衡器,zh-CN
+reverse proxy,反向代理,zh-CN
+forward proxy,正向代理,zh-CN
+content delivery network,内容分发网络,zh-CN
+origin server,源站服务器,zh-CN
+cache hit ratio,缓存命中率,zh-CN
+cache invalidation,缓存失效,zh-CN
+time to live,生存时间,zh-CN
+network protocol,网络协议,zh-CN
+protocol stack,协议栈,zh-CN
+Open Systems Interconnection model,开放系统互连模型,zh-CN
+Transmission Control Protocol,传输控制协议,zh-CN
+User Datagram Protocol,用户数据报协议,zh-CN
+Internet Protocol,网际协议,zh-CN
+Internet Protocol version 4,互联网协议第四版,zh-CN
+Internet Protocol version 6,互联网协议第六版,zh-CN
+Internet Control Message Protocol,互联网控制消息协议,zh-CN
+Address Resolution Protocol,地址解析协议,zh-CN
+Dynamic Host Configuration Protocol,动态主机配置协议,zh-CN
+Domain Name System,域名系统,zh-CN
+DNS over HTTPS,基于 HTTPS 的 DNS,zh-CN
+DNS over TLS,基于 TLS 的 DNS,zh-CN
+Hypertext Transfer Protocol,超文本传输协议,zh-CN
+HTTP/2,HTTP/2 协议,zh-CN
+HTTP/3,HTTP/3 协议,zh-CN
+QUIC transport protocol,QUIC 传输协议,zh-CN
+Transport Layer Security,传输层安全协议,zh-CN
+TLS 1.3,TLS 1.3 协议,zh-CN
+Secure Shell,安全外壳协议,zh-CN
+File Transfer Protocol,文件传输协议,zh-CN
+Server Message Block,服务器消息块协议,zh-CN
+Network File System,网络文件系统协议,zh-CN
+Simple Network Management Protocol,简单网络管理协议,zh-CN
+Network Time Protocol,网络时间协议,zh-CN
+Precision Time Protocol,精确时间协议,zh-CN
+WebSocket protocol,WebSocket 双向通信协议,zh-CN
+Web Real-Time Communication,Web 实时通信技术,zh-CN
+real-time transport protocol,实时传输协议,zh-CN
+secure real-time transport protocol,安全实时传输协议,zh-CN
+Session Initiation Protocol,会话初始协议,zh-CN
+MQTT messaging protocol,MQTT 消息协议,zh-CN
+Advanced Message Queuing Protocol,高级消息队列协议,zh-CN
+network packet,网络数据包,zh-CN
+packet loss,丢包,zh-CN
+round-trip time,往返时延,zh-CN
+network jitter,网络抖动,zh-CN
+network throughput,网络吞吐量,zh-CN
+network bandwidth,网络带宽,zh-CN
+network latency,网络延迟,zh-CN
+bandwidth throttling,带宽限速,zh-CN
+quality of service,服务质量,zh-CN
+traffic shaping,流量整形,zh-CN
+congestion control,拥塞控制,zh-CN
+forward error correction,前向纠错,zh-CN
+maximum transmission unit,最大传输单元,zh-CN
+jumbo frame,巨型帧,zh-CN
+network address translation,网络地址转换,zh-CN
+carrier-grade NAT,运营商级 NAT,zh-CN
+port forwarding,端口转发,zh-CN
+virtual private network,虚拟专用网络,zh-CN
+software-defined networking,软件定义网络,zh-CN
+software-defined wide area network,软件定义广域网,zh-CN
+local area network,局域网,zh-CN
+wide area network,广域网,zh-CN
+wireless local area network,无线局域网,zh-CN
+Gigabit Ethernet,千兆以太网,zh-CN
+10 Gigabit Ethernet,万兆以太网,zh-CN
+100 Gigabit Ethernet,百吉比特以太网,zh-CN
+Wi-Fi 6E,Wi-Fi 6E 无线网络,zh-CN
+Wi-Fi 7,Wi-Fi 7 无线网络,zh-CN
+IEEE 802.11,IEEE 802.11 无线局域网标准,zh-CN
+IEEE 802.3,IEEE 802.3 以太网标准,zh-CN
+Bluetooth Low Energy,蓝牙低功耗,zh-CN
+Bluetooth LE Audio,蓝牙低功耗音频,zh-CN
+Near Field Communication,近场通信,zh-CN
+ultra-wideband radio,超宽带无线技术,zh-CN
+cellular network,蜂窝移动网络,zh-CN
+5G New Radio,5G 新空口,zh-CN
+network slicing,网络切片,zh-CN
+massive MIMO,大规模多输入多输出,zh-CN
+wireless beamforming,无线波束赋形,zh-CN
+satellite internet,卫星互联网,zh-CN
+low Earth orbit satellite,低地球轨道卫星,zh-CN
+application programming interface,应用程序编程接口,zh-CN
+Representational State Transfer,表述性状态转移,zh-CN
+RESTful API,RESTful 应用程序接口,zh-CN
+remote procedure call,远程过程调用,zh-CN
+software development kit,软件开发工具包,zh-CN
+command-line interface,命令行界面,zh-CN
+graphical user interface,图形用户界面,zh-CN
+terminal emulator,终端模拟器,zh-CN
+integrated development environment,集成开发环境,zh-CN
+source code,源代码,zh-CN
+machine code,机器码,zh-CN
+programming language interpreter,解释器,zh-CN
+assembly-language assembler,汇编器,zh-CN
+software profiler,性能分析器,zh-CN
+build system,构建系统,zh-CN
+package manager,软件包管理器,zh-CN
+dependency management,依赖管理,zh-CN
+semantic versioning,语义化版本规范,zh-CN
+application binary interface,应用程序二进制接口,zh-CN
+binary compatibility,二进制兼容性,zh-CN
+backward compatibility,向后兼容性,zh-CN
+forward compatibility,向前兼容性,zh-CN
+software patch,软件补丁,zh-CN
+security update,安全更新,zh-CN
+release candidate,候选发布版,zh-CN
+long-term support release,长期支持版本,zh-CN
+open-source software,开源软件,zh-CN
+proprietary software,专有软件,zh-CN
+free and open-source software,自由与开源软件,zh-CN
+software license,软件许可证,zh-CN
+GNU General Public License,GNU 通用公共许可证,zh-CN
+MIT License,MIT 许可证,zh-CN
+software repository,软件仓库,zh-CN
+version control system,版本控制系统,zh-CN
+distributed version control,分布式版本控制,zh-CN
+Git repository,Git 代码仓库,zh-CN
+Git commit,Git 提交,zh-CN
+Git branch,Git 分支,zh-CN
+Git merge,Git 合并,zh-CN
+Git rebase,Git 变基,zh-CN
+Git pull request,Git 拉取请求,zh-CN
+Git conflict,Git 冲突,zh-CN
+Git working tree,Git 工作树,zh-CN
+continuous integration,持续集成,zh-CN
+continuous delivery,持续交付,zh-CN
+continuous deployment,持续部署,zh-CN
+CI/CD pipeline,持续集成与持续交付流水线,zh-CN
+unit test,单元测试,zh-CN
+integration test,集成测试,zh-CN
+end-to-end test,端到端测试,zh-CN
+regression test,回归测试,zh-CN
+acceptance test,验收测试,zh-CN
+test coverage,测试覆盖率,zh-CN
+static code analysis,静态代码分析,zh-CN
+dynamic code analysis,动态代码分析,zh-CN
+code review,代码审查,zh-CN
+technical debt,技术债务,zh-CN
+software refactoring,软件重构,zh-CN
+design pattern,设计模式,zh-CN
+object-oriented programming,面向对象编程,zh-CN
+functional programming,函数式编程,zh-CN
+declarative programming,声明式编程,zh-CN
+imperative programming,命令式编程,zh-CN
+event loop,事件循环,zh-CN
+callback function,回调函数,zh-CN
+async/await,async/await 异步语法,zh-CN
+thread pool,线程池,zh-CN
+process pool,进程池,zh-CN
+database management system,数据库管理系统,zh-CN
+relational database,关系数据库,zh-CN
+NoSQL database,非关系型数据库,zh-CN
+document database,文档数据库,zh-CN
+key-value database,键值数据库,zh-CN
+graph database,图数据库,zh-CN
+time-series database,时序数据库,zh-CN
+vector database,向量数据库,zh-CN
+database schema,数据库模式,zh-CN
+database index,数据库索引,zh-CN
+database transaction,数据库事务,zh-CN
+ACID properties,ACID 事务特性,zh-CN
+eventual consistency,最终一致性,zh-CN
+database replication,数据库复制,zh-CN
+database sharding,数据库分片,zh-CN
+database migration,数据库迁移,zh-CN
+structured query language,结构化查询语言,zh-CN
+online transaction processing,联机事务处理,zh-CN
+online analytical processing,联机分析处理,zh-CN
+data warehouse,数据仓库,zh-CN
+data lake,数据湖,zh-CN
+data lakehouse,湖仓一体架构,zh-CN
+extract transform load,抽取、转换、加载,zh-CN
+data pipeline,数据流水线,zh-CN
+stream processing,流处理,zh-CN
+batch processing,批处理,zh-CN
+message queue,消息队列,zh-CN
+publish-subscribe pattern,发布—订阅模式,zh-CN
+event sourcing,事件溯源,zh-CN
+application logging,应用日志记录,zh-CN
+distributed tracing,分布式追踪,zh-CN
+performance metric,性能指标,zh-CN
+service-level agreement,服务级别协议,zh-CN
+service-level objective,服务级别目标,zh-CN
+service-level indicator,服务级别指标,zh-CN
+mean time between failures,平均故障间隔时间,zh-CN
+mean time to recovery,平均恢复时间,zh-CN
+fault tolerance,容错能力,zh-CN
+high availability,高可用性,zh-CN
+horizontal scaling,水平扩展,zh-CN
+vertical scaling,垂直扩展,zh-CN
+artificial intelligence,人工智能,zh-CN
+artificial neural network,人工神经网络,zh-CN
+convolutional neural network,卷积神经网络,zh-CN
+recurrent neural network,循环神经网络,zh-CN
+long short-term memory network,长短期记忆网络,zh-CN
+generative adversarial network,生成对抗网络,zh-CN
+transformer architecture,Transformer 架构,zh-CN
+self-attention mechanism,自注意力机制,zh-CN
+cross-attention mechanism,交叉注意力机制,zh-CN
+multi-head attention,多头注意力,zh-CN
+attention head,注意力头,zh-CN
+positional encoding,位置编码,zh-CN
+rotary positional embedding,旋转位置编码,zh-CN
+feed-forward network,前馈神经网络,zh-CN
+residual connection,残差连接,zh-CN
+layer normalization,层归一化,zh-CN
+batch normalization,批归一化,zh-CN
+activation function,激活函数,zh-CN
+rectified linear unit,修正线性单元,zh-CN
+Gaussian error linear unit,高斯误差线性单元,zh-CN
+softmax function,Softmax 函数,zh-CN
+loss function,损失函数,zh-CN
+gradient descent,梯度下降,zh-CN
+stochastic gradient descent,随机梯度下降,zh-CN
+automatic differentiation,自动微分,zh-CN
+learning rate,学习率,zh-CN
+learning-rate scheduler,学习率调度器,zh-CN
+optimizer algorithm,优化器算法,zh-CN
+Adam optimizer,Adam 优化器,zh-CN
+weight decay,权重衰减,zh-CN
+gradient clipping,梯度裁剪,zh-CN
+training dataset,训练数据集,zh-CN
+validation dataset,验证数据集,zh-CN
+test dataset,测试数据集,zh-CN
+training epoch,训练轮次,zh-CN
+training batch,训练批次,zh-CN
+mini-batch training,小批量训练,zh-CN
+batch size,批量大小,zh-CN
+model parameter,模型参数,zh-CN
+model weight,模型权重,zh-CN
+machine-learning regularization,机器学习正则化,zh-CN
+dropout layer,Dropout 层,zh-CN
+data augmentation,数据增强,zh-CN
+transfer learning,迁移学习,zh-CN
+supervised learning,监督学习,zh-CN
+unsupervised learning,无监督学习,zh-CN
+self-supervised learning,自监督学习,zh-CN
+reinforcement learning,强化学习,zh-CN
+semi-supervised learning,半监督学习,zh-CN
+contrastive learning,对比学习,zh-CN
+representation learning,表征学习,zh-CN
+feature extraction,特征提取,zh-CN
+feature engineering,特征工程,zh-CN
+classification model,分类模型,zh-CN
+regression model,回归模型,zh-CN
+clustering algorithm,聚类算法,zh-CN
+principal component analysis,主成分分析,zh-CN
+large language model,大语言模型,zh-CN
+foundation model,基础模型,zh-CN
+multimodal model,多模态模型,zh-CN
+vision-language model,视觉语言模型,zh-CN
+speech-language model,语音语言模型,zh-CN
+generative AI,生成式人工智能,zh-CN
+natural language processing,自然语言处理,zh-CN
+computer vision,计算机视觉,zh-CN
+automatic speech recognition,自动语音识别,zh-CN
+text-to-speech synthesis,文本转语音合成,zh-CN
+speech-to-speech translation,语音到语音翻译,zh-CN
+machine translation,机器翻译,zh-CN
+optical character recognition,光学字符识别,zh-CN
+text embedding,文本嵌入向量,zh-CN
+embedding model,嵌入模型,zh-CN
+embedding vector,嵌入向量,zh-CN
+vector similarity,向量相似度,zh-CN
+cosine similarity,余弦相似度,zh-CN
+semantic search,语义搜索,zh-CN
+retrieval-augmented generation,检索增强生成,zh-CN
+knowledge graph,知识图谱,zh-CN
+context window,上下文窗口,zh-CN
+context length,上下文长度,zh-CN
+input token,输入词元,zh-CN
+output token,输出词元,zh-CN
+NLP tokenization,自然语言处理词元化,zh-CN
+NLP tokenizer,自然语言处理分词器,zh-CN
+subword token,子词词元,zh-CN
+byte-pair encoding,字节对编码,zh-CN
+sentencepiece tokenizer,SentencePiece 分词器,zh-CN
+AI model inference,AI 模型推理,zh-CN
+model serving,模型服务化,zh-CN
+inference server,推理服务器,zh-CN
+inference latency,推理延迟,zh-CN
+time to first token,首词元延迟,zh-CN
+tokens per second,每秒生成词元数,zh-CN
+throughput optimization,吞吐量优化,zh-CN
+batch inference,批量推理,zh-CN
+continuous batching,连续批处理,zh-CN
+speculative decoding,推测解码,zh-CN
+beam search,束搜索,zh-CN
+greedy decoding,贪心解码,zh-CN
+sampling temperature,采样温度,zh-CN
+top-k sampling,Top-K 采样,zh-CN
+top-p sampling,Top-P 核采样,zh-CN
+minimum-p sampling,Min-P 采样,zh-CN
+repetition penalty,重复惩罚,zh-CN
+frequency penalty,频率惩罚,zh-CN
+presence penalty,存在惩罚,zh-CN
+stop sequence,停止序列,zh-CN
+structured output,结构化输出,zh-CN
+function calling,函数调用,zh-CN
+tool calling,工具调用,zh-CN
+AI agent,AI 智能体,zh-CN
+agentic workflow,智能体工作流,zh-CN
+multi-agent system,多智能体系统,zh-CN
+system prompt,系统提示词,zh-CN
+user prompt,用户提示词,zh-CN
+prompt template,提示词模板,zh-CN
+prompt engineering,提示工程,zh-CN
+few-shot prompting,少样本提示,zh-CN
+zero-shot prompting,零样本提示,zh-CN
+in-context learning,上下文学习,zh-CN
+chain-of-thought reasoning,思维链推理,zh-CN
+reasoning model,推理模型,zh-CN
+model hallucination,模型幻觉,zh-CN
+prompt injection,提示注入攻击,zh-CN
+jailbreak prompt,越狱提示词,zh-CN
+AI safety,人工智能安全,zh-CN
+AI alignment,人工智能对齐,zh-CN
+responsible AI,负责任的人工智能,zh-CN
+model evaluation,模型评测,zh-CN
+benchmark dataset,基准测试集,zh-CN
+human evaluation,人工评测,zh-CN
+reinforcement learning from human feedback,基于人类反馈的强化学习,zh-CN
+direct preference optimization,直接偏好优化,zh-CN
+supervised fine-tuning,监督微调,zh-CN
+instruction tuning,指令微调,zh-CN
+parameter-efficient fine-tuning,参数高效微调,zh-CN
+low-rank adaptation,低秩适配,zh-CN
+quantized low-rank adaptation,量化低秩适配,zh-CN
+model distillation,模型蒸馏,zh-CN
+knowledge distillation,知识蒸馏,zh-CN
+model pruning,模型剪枝,zh-CN
+model quantization,模型量化,zh-CN
+post-training quantization,训练后量化,zh-CN
+quantization-aware training,量化感知训练,zh-CN
+8-bit quantization,8 位量化,zh-CN
+4-bit quantization,4 位量化,zh-CN
+mixture-of-experts model,混合专家模型,zh-CN
+expert routing,专家路由,zh-CN
+sparse activation,稀疏激活,zh-CN
+diffusion model,扩散模型,zh-CN
+latent diffusion model,潜空间扩散模型,zh-CN
+denoising diffusion,去噪扩散,zh-CN
+noise scheduler,噪声调度器,zh-CN
+variational autoencoder,变分自编码器,zh-CN
+generative pre-trained transformer,生成式预训练 Transformer,zh-CN
+bidirectional encoder representations from transformers,来自 Transformer 的双向编码器表征,zh-CN
+graphics rendering,图形渲染,zh-CN
+real-time rendering,实时渲染,zh-CN
+offline rendering,离线渲染,zh-CN
+rendering pipeline,渲染流水线,zh-CN
+graphics rasterization,图形光栅化,zh-CN
+ray tracing,光线追踪,zh-CN
+path tracing,路径追踪,zh-CN
+global illumination,全局光照,zh-CN
+ambient occlusion,环境光遮蔽,zh-CN
+physically based rendering,基于物理的渲染,zh-CN
+shader program,着色器程序,zh-CN
+vertex shader,顶点着色器,zh-CN
+fragment shader,片段着色器,zh-CN
+compute shader,计算着色器,zh-CN
+texture mapping,纹理映射,zh-CN
+normal mapping,法线贴图,zh-CN
+displacement mapping,置换贴图,zh-CN
+texture filtering,纹理过滤,zh-CN
+anisotropic filtering,各向异性过滤,zh-CN
+graphics anti-aliasing,图形抗锯齿,zh-CN
+temporal anti-aliasing,时间抗锯齿,zh-CN
+multisample anti-aliasing,多重采样抗锯齿,zh-CN
+deep learning super sampling,深度学习超级采样,zh-CN
+FidelityFX Super Resolution,FidelityFX 超级分辨率,zh-CN
+frame generation,帧生成,zh-CN
+motion vector,运动矢量,zh-CN
+optical flow,光流,zh-CN
+virtual production,虚拟制作,zh-CN
+LED volume,LED 虚拟摄影空间,zh-CN
+in-camera visual effects,机内视效,zh-CN
+game engine,游戏引擎,zh-CN
+real-time engine,实时引擎,zh-CN
+Unity Engine,Unity 引擎,zh-CN
+Unity High Definition Render Pipeline,Unity 高清渲染管线,zh-CN
+Chaos V-Ray,Chaos V-Ray 渲染器,zh-CN
+Pixar RenderMan,Pixar RenderMan 渲染器,zh-CN
+video frame rate,视频帧率,zh-CN
+frame rate conversion,帧率转换,zh-CN
+constant frame rate,恒定帧率,zh-CN
+variable frame rate,可变帧率,zh-CN
+video timebase,视频时间基准,zh-CN
+drop-frame timecode,丢帧时间码,zh-CN
+non-drop-frame timecode,非丢帧时间码,zh-CN
+interlaced scanning,隔行扫描,zh-CN
+progressive scanning,逐行扫描,zh-CN
+progressive segmented frame,分段逐行帧,zh-CN
+upper-field first,上场优先,zh-CN
+lower-field first,下场优先,zh-CN
+three-two pulldown,3:2 下拉转换,zh-CN
+inverse telecine,逆 Telecine,zh-CN
+pixel aspect ratio,像素宽高比,zh-CN
+display aspect ratio,显示宽高比,zh-CN
+anamorphic video,变形宽银幕视频,zh-CN
+active image area,有效画面区域,zh-CN
+display overscan,显示过扫描,zh-CN
+display underscan,显示欠扫描,zh-CN
+title-safe area,标题安全区,zh-CN
+action-safe area,动作安全框,zh-CN
+video resolution,视频分辨率,zh-CN
+high definition video,高清视频,zh-CN
+Ultra High Definition,超高清,zh-CN
+4K Digital Cinema,4K 数字电影,zh-CN
+8K Ultra High Definition,8K 超高清,zh-CN
+video codec,视频编解码器,zh-CN
+intra-frame codec,帧内编解码器,zh-CN
+inter-frame codec,帧间编解码器,zh-CN
+mezzanine codec,中间格式编解码器,zh-CN
+acquisition codec,采集编解码器,zh-CN
+delivery codec,交付编解码器,zh-CN
+proxy codec,代理媒体编解码器,zh-CN
+lossless video codec,无损视频编解码器,zh-CN
+visually lossless codec,视觉无损编解码器,zh-CN
+lossy video compression,有损视频压缩,zh-CN
+intra-frame compression,帧内压缩,zh-CN
+inter-frame compression,帧间压缩,zh-CN
+long-GOP compression,长 GOP 压缩,zh-CN
+group of pictures,图像组,zh-CN
+keyframe interval,关键帧间隔,zh-CN
+motion estimation,运动估计,zh-CN
+motion compensation,运动补偿,zh-CN
+entropy coding,熵编码,zh-CN
+rate control,码率控制,zh-CN
+constant bitrate encoding,恒定码率编码,zh-CN
+variable bitrate encoding,可变码率编码,zh-CN
+average bitrate encoding,平均码率编码,zh-CN
+constant rate factor,恒定质量因子,zh-CN
+quantization parameter,量化参数,zh-CN
+video bitrate,视频码率,zh-CN
+chroma subsampling,色度抽样,zh-CN
+4:4:4 chroma subsampling,4:4:4 色度抽样,zh-CN
+4:2:2 chroma subsampling,4:2:2 色度抽样,zh-CN
+4:2:0 chroma subsampling,4:2:0 色度抽样,zh-CN
+color bit depth,色彩位深,zh-CN
+8-bit video,8 位视频,zh-CN
+10-bit video,10 位视频,zh-CN
+12-bit video,12 位视频,zh-CN
+High Efficiency Video Coding,高效率视频编码,zh-CN
+Advanced Video Coding,高级视频编码,zh-CN
+Versatile Video Coding,多功能视频编码,zh-CN
+AV1 video codec,AV1 视频编解码器,zh-CN
+VP9 video codec,VP9 视频编解码器,zh-CN
+MPEG-2 Video,MPEG-2 视频编码,zh-CN
+MPEG-4 Part 2,MPEG-4 Part 2 视频编码,zh-CN
+JPEG 2000,JPEG 2000 图像编码,zh-CN
+JPEG XS,JPEG XS 低延迟轻量压缩,zh-CN
+Blackmagic RAW,Blackmagic RAW 摄影机原始格式,zh-CN
+REDCODE RAW,REDCODE RAW 摄影机原始格式,zh-CN
+DPX image sequence,DPX 图像序列,zh-CN
+TIFF image sequence,TIFF 图像序列,zh-CN
+PNG image sequence,PNG 图像序列,zh-CN
+HEIF image format,高效率图像文件格式,zh-CN
+AVIF image format,AV1 图像文件格式,zh-CN
+MXF container,素材交换格式容器,zh-CN
+QuickTime File Format,QuickTime 文件格式,zh-CN
+MPEG-4 Part 14,MPEG-4 Part 14 容器,zh-CN
+Matroska container,Matroska 多媒体容器,zh-CN
+WebM container,WebM 多媒体容器,zh-CN
+Material Exchange Format,素材交换格式,zh-CN
+MXF OP1a,MXF OP1a 单项目容器,zh-CN
+MXF OP-Atom,MXF OP-Atom 分轨容器,zh-CN
+IMF Application 2E,IMF Application 2 Extended 母版规范,zh-CN
+video transcoding,视频转码,zh-CN
+video encoding,视频编码,zh-CN
+video decoding,视频解码,zh-CN
+hardware-accelerated encoding,硬件加速编码,zh-CN
+hardware-accelerated decoding,硬件加速解码,zh-CN
+video proxy workflow,视频代理工作流程,zh-CN
+optimized media,优化媒体,zh-CN
+offline editing,离线剪辑,zh-CN
+online editing,在线精编,zh-CN
+picture conforming,画面套底,zh-CN
+media relinking,媒体重新链接,zh-CN
+media consolidation,媒体整理,zh-CN
+dailies workflow,样片工作流程,zh-CN
+digital intermediate,数字中间片,zh-CN
+online finishing,在线精修,zh-CN
+picture finishing,画面精修,zh-CN
+automated quality control,自动化质量控制,zh-CN
+pixel error,像素错误,zh-CN
+dropped frame,丢帧,zh-CN
+duplicate frame,重复帧,zh-CN
+freeze frame error,意外静帧错误,zh-CN
+cadence error,帧节奏错误,zh-CN
+flash frame,闪帧,zh-CN
+video macroblocking,视频宏块效应,zh-CN
+banding artifact,色阶断层伪影,zh-CN
+ringing artifact,振铃伪影,zh-CN
+mosquito noise,蚊式噪声,zh-CN
+compression artifact,压缩伪影,zh-CN
+peak signal-to-noise ratio,峰值信噪比,zh-CN
+structural similarity index,结构相似性指数,zh-CN
+Video Multi-Method Assessment Fusion,视频多方法评估融合指标,zh-CN
+color science,色彩科学,zh-CN
+color management,色彩管理,zh-CN
+color space,色彩空间,zh-CN
+color gamut,色域,zh-CN
+color primaries,色彩基色,zh-CN
+white point,白点,zh-CN
+transfer function,传递函数,zh-CN
+opto-electronic transfer function,光电转换函数,zh-CN
+electro-optical transfer function,电光转换函数,zh-CN
+opto-optical transfer function,光光转换函数,zh-CN
+gamma curve,伽马曲线,zh-CN
+scene-referred color,场景参照色彩,zh-CN
+display-referred color,显示参照色彩,zh-CN
+linear-light encoding,线性光编码,zh-CN
+logarithmic encoding,对数编码,zh-CN
+wide color gamut,宽色域,zh-CN
+high dynamic range,高动态范围,zh-CN
+standard dynamic range,标准动态范围,zh-CN
+Dolby Vision,杜比视界,zh-CN
+Hybrid Log-Gamma,混合对数伽马,zh-CN
+Perceptual Quantizer,感知量化曲线,zh-CN
+dynamic HDR metadata,动态 HDR 元数据,zh-CN
+static HDR metadata,静态 HDR 元数据,zh-CN
+Mastering Display Color Volume,母版显示器色彩体积元数据,zh-CN
+Maximum Content Light Level,最大内容光亮度级别,zh-CN
+Maximum Frame-Average Light Level,最大帧平均光亮度级别,zh-CN
+tone mapping,色调映射,zh-CN
+gamut mapping,色域映射,zh-CN
+highlight roll-off,高光滚降,zh-CN
+black level,黑电平,zh-CN
+diffuse white,漫反射白,zh-CN
+reference white,参考白,zh-CN
+display calibration,显示器校准,zh-CN
+display-calibration colorimeter,显示器校准色度计,zh-CN
+color grading,调色,zh-CN
+primary correction,一级调色,zh-CN
+secondary correction,二级调色,zh-CN
+color correction,色彩校正,zh-CN
+shot matching,镜头色彩匹配,zh-CN
+color decision list,色彩决定表,zh-CN
+lift gamma gain,Lift/Gamma/Gain 调色控制,zh-CN
+qualifier key,色彩限定键,zh-CN
+tracking mask,跟踪遮罩,zh-CN
+look-up table,查找表,zh-CN
+one-dimensional LUT,一维查找表,zh-CN
+three-dimensional LUT,三维查找表,zh-CN
+display LUT,显示查找表,zh-CN
+creative LUT,创意查找表,zh-CN
+technical LUT,技术查找表,zh-CN
+input device transform,输入设备变换,zh-CN
+output device transform,输出设备变换,zh-CN
+reference rendering transform,参考渲染变换,zh-CN
+ACES Input Transform,ACES 输入变换,zh-CN
+ACES Output Transform,ACES 输出变换,zh-CN
+ARRI LogC3,ARRI LogC3 对数曲线,zh-CN
+ARRI LogC4,ARRI LogC4 对数曲线,zh-CN
+RED Log3G10,RED Log3G10 对数曲线,zh-CN
+Blackmagic Film Gen 5,Blackmagic Film Generation 5 对数曲线,zh-CN
+Rec. 709,ITU-R BT.709 高清电视色彩标准,zh-CN
+Rec. 2020,ITU-R BT.2020 超高清电视色彩标准,zh-CN
+Display P3,Display P3 显示色彩空间,zh-CN
+SMPTE ST 2084,SMPTE ST 2084 感知量化传递函数,zh-CN
+SMPTE ST 2086,SMPTE ST 2086 母版显示器色彩体积元数据标准,zh-CN
+SMPTE ST 2094,SMPTE ST 2094 动态色彩体积变换元数据标准族,zh-CN
+ITU-R BT.2100,ITU-R BT.2100 HDR 电视标准,zh-CN
+ITU-R BT.1886,ITU-R BT.1886 参考显示器 EOTF 标准,zh-CN
+streaming media,流媒体,zh-CN
+live streaming,直播流媒体,zh-CN
+video on demand,视频点播,zh-CN
+subscription video on demand,订阅型视频点播,zh-CN
+transactional video on demand,交易型视频点播,zh-CN
+advertising video on demand,广告型视频点播,zh-CN
+free ad-supported streaming television,免费广告支持流媒体电视,zh-CN
+over-the-top media service,互联网流媒体服务,zh-CN
+adaptive bitrate streaming,自适应码率流媒体,zh-CN
+encoding ladder,编码梯度,zh-CN
+bitrate ladder,码率梯度,zh-CN
+streaming manifest,流媒体清单文件,zh-CN
+media playlist,媒体播放列表,zh-CN
+master playlist,主播放列表,zh-CN
+media segment,媒体分段,zh-CN
+chunked transfer,分块传输,zh-CN
+low-latency streaming,低延迟流媒体,zh-CN
+ultra-low-latency streaming,超低延迟流媒体,zh-CN
+HTTP Live Streaming,HTTP 实况流媒体,zh-CN
+Dynamic Adaptive Streaming over HTTP,基于 HTTP 的动态自适应流媒体,zh-CN
+Common Media Application Format,通用媒体应用格式,zh-CN
+Secure Reliable Transport,安全可靠传输协议,zh-CN
+Reliable Internet Stream Transport,可靠互联网流传输协议,zh-CN
+Real-Time Messaging Protocol,实时消息传输协议,zh-CN
+digital rights management,数字版权管理,zh-CN
+common encryption,通用加密,zh-CN
+encrypted media extensions,加密媒体扩展,zh-CN
+content protection,内容保护,zh-CN
+forensic watermarking,取证水印,zh-CN
+digital watermarking,数字水印,zh-CN
+streaming geoblocking,流媒体地域封锁,zh-CN
+concurrent stream limit,并发播放数量限制,zh-CN
+quality of experience,体验质量,zh-CN
+rebuffering ratio,重新缓冲率,zh-CN
+video startup failure,视频启动失败,zh-CN
+Linux kernel,Linux 内核,zh-CN
+Ubuntu Linux,Ubuntu Linux 发行版,zh-CN
+SMPTE Digital Cinema Package,SMPTE 数字电影包,zh-CN
+Interop Digital Cinema Package,Interop 数字电影包,zh-CN
+Digital Cinema Initiatives,数字电影倡导组织,zh-CN
+DCI Digital Cinema System Specification,DCI 数字电影系统规范,zh-CN
+International Organization for Standardization,国际标准化组织,zh-CN
+International Electrotechnical Commission,国际电工委员会,zh-CN
+International Telecommunication Union,国际电信联盟,zh-CN
+World Wide Web Consortium,万维网联盟,zh-CN
+Internet Engineering Task Force,互联网工程任务组,zh-CN
+Institute of Electrical and Electronics Engineers,电气电子工程师学会,zh-CN
+Moving Picture Experts Group,动态图像专家组,zh-CN
+Alliance for Open Media,开放媒体联盟,zh-CN
+Joint Photographic Experts Group,联合图像专家组,zh-CN
+Khronos Group,Khronos Group 开放标准联盟,zh-CN
+OpenAPI Specification,OpenAPI 接口描述规范,zh-CN
+JSON Web Token,JSON Web 令牌,zh-CN
+OAuth 2.0,OAuth 2.0 授权框架,zh-CN
+OpenID Connect,OpenID Connect 身份认证协议,zh-CN
+Security Assertion Markup Language,安全断言标记语言,zh-CN
+public key infrastructure,公钥基础设施,zh-CN
+public-key cryptography,公钥密码学,zh-CN
+symmetric-key cryptography,对称密钥密码学,zh-CN
+Advanced Encryption Standard,高级加密标准,zh-CN
+RSA cryptosystem,RSA 公钥密码体制,zh-CN
+elliptic-curve cryptography,椭圆曲线密码学,zh-CN
+digital signature,数字签名,zh-CN
+certificate authority,证书颁发机构,zh-CN
+multi-factor authentication,多因素身份验证,zh-CN
+single sign-on,单点登录,zh-CN
+zero-trust security,零信任安全,zh-CN
+principle of least privilege,最小权限原则,zh-CN
+role-based access control,基于角色的访问控制,zh-CN
+attribute-based access control,基于属性的访问控制,zh-CN
+encryption at rest,静态数据加密,zh-CN
+encryption in transit,传输中数据加密,zh-CN
+end-to-end encryption,端到端加密,zh-CN
+security vulnerability,安全漏洞,zh-CN
+zero-day vulnerability,零日漏洞,zh-CN
+common vulnerabilities and exposures,通用漏洞与暴露,zh-CN
+distributed denial-of-service attack,分布式拒绝服务攻击,zh-CN
+cross-site scripting,跨站脚本攻击,zh-CN
+SQL injection,SQL 注入攻击,zh-CN
+cross-site request forgery,跨站请求伪造,zh-CN
+remote code execution,远程代码执行,zh-CN
+supply-chain attack,供应链攻击,zh-CN
+phishing attack,网络钓鱼攻击,zh-CN
+social engineering attack,社会工程攻击,zh-CN
+penetration testing,渗透测试,zh-CN
+threat modeling,威胁建模,zh-CN
+security information and event management,安全信息与事件管理,zh-CN
+Apple Inc.,苹果公司,zh-CN
+Amazon Web Services,亚马逊云科技,zh-CN
+Open Neural Network Exchange,开放神经网络交换格式,zh-CN
+Model Context Protocol,模型上下文协议,zh-CN
+Tim Berners-Lee,蒂姆·伯纳斯-李,zh-CN
+Vint Cerf,文顿·瑟夫,zh-CN
+Linus Torvalds,林纳斯·托瓦兹,zh-CN
+Richard Stallman,理查德·斯托曼,zh-CN
+Dennis Ritchie,丹尼斯·里奇,zh-CN
+Brian Kernighan,布莱恩·柯林汉,zh-CN
+Donald Knuth,唐纳德·克努特,zh-CN
+Edsger Dijkstra,艾兹赫尔·戴克斯特拉,zh-CN
+Alan Turing,艾伦·图灵,zh-CN
+John von Neumann,约翰·冯·诺伊曼,zh-CN
+Grace Hopper,格蕾丝·霍珀,zh-CN
+Ada Lovelace,艾达·洛芙莱斯,zh-CN
+Claude Shannon,克劳德·香农,zh-CN
+Marvin Minsky,马文·明斯基,zh-CN
+Geoffrey Hinton,杰弗里·辛顿,zh-CN
+Yann LeCun,扬·勒昆,zh-CN
+Yoshua Bengio,约书亚·本吉奥,zh-CN
+Fei-Fei Li,李飞飞,zh-CN
+Demis Hassabis,德米斯·哈萨比斯,zh-CN
+Ilya Sutskever,伊利亚·苏茨克维,zh-CN
+Jensen Huang,黄仁勋,zh-CN
+Lisa Su,苏姿丰,zh-CN
+Gordon Moore,戈登·摩尔,zh-CN
+Robert Noyce,罗伯特·诺伊斯,zh-CN
+Steve Wozniak,史蒂夫·沃兹尼亚克,zh-CN
+Steve Jobs,史蒂夫·乔布斯,zh-CN
+Satya Nadella,萨提亚·纳德拉,zh-CN
+Sundar Pichai,桑达尔·皮查伊,zh-CN
+AI inference,AI 模型推理,zh-CN
+model inference,模型推理,zh-CN
+media conforming,媒体套底,zh-CN
+CPU clock multiplier,CPU 时钟倍频系数,zh-CN
+SSH File Transfer Protocol,SSH 文件传输协议,zh-CN
+JavaScript Promise object,JavaScript Promise 对象,zh-CN
+glass-to-glass latency,采集端到显示端延迟,zh-CN
+video safe area,视频安全区,zh-CN
+video field order,视频场序,zh-CN
+video codec reference frame,视频编码参考帧,zh-CN
+film printer-light values,胶片印片灯光值,zh-CN
+color-grading monitor,调色监视器,zh-CN
+video reference monitor,视频参考监视器,zh-CN
+VFX look development,视觉特效外观开发,zh-CN
+CG look development,计算机图形外观开发,zh-CN
+video playback startup time,视频播放启动时间,zh-CN
+network point of presence (PoP),网络接入点,zh-CN
+CDN edge location,CDN 边缘节点,zh-CN
+cloud edge location,云边缘节点,zh-CN
+NASA software engineer Margaret Hamilton,NASA 软件工程师玛格丽特·汉密尔顿,zh-CN
+computer scientist John McCarthy,计算机科学家约翰·麦卡锡,zh-CN
+internet pioneer Robert Kahn,互联网先驱罗伯特·卡恩,zh-CN
+Unix co-creator Ken Thompson,Unix 共同创造者肯·汤普森,zh-CN

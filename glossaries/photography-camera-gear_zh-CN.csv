@@ -1,0 +1,769 @@
+source,target,tgt_lng
+photographic image making,摄影创作,zh-CN
+still photography,静态摄影,zh-CN
+digital photography,数字摄影,zh-CN
+analog photography,胶片摄影,zh-CN
+fine-art photography,艺术摄影,zh-CN
+documentary photography,纪实摄影,zh-CN
+commercial photography,商业摄影,zh-CN
+beauty photography,美妆摄影,zh-CN
+portrait photography,人像摄影,zh-CN
+street photography,街头摄影,zh-CN
+travel photography,旅行摄影,zh-CN
+landscape photography,风光摄影,zh-CN
+architectural photography,建筑摄影,zh-CN
+product photography,产品摄影,zh-CN
+still-life photography,静物摄影,zh-CN
+event photography,活动摄影,zh-CN
+sports photography,体育摄影,zh-CN
+wildlife photography,野生动物摄影,zh-CN
+macro photography,微距摄影,zh-CN
+close-up photography,近摄摄影,zh-CN
+drone photography,无人机摄影,zh-CN
+underwater photography,水下摄影,zh-CN
+reproduction photography,翻拍摄影,zh-CN
+360-degree photography,360度摄影,zh-CN
+ultraviolet photography,紫外摄影,zh-CN
+computational photography,计算摄影,zh-CN
+large-format photography,大画幅摄影,zh-CN
+medium-format photography,中画幅摄影,zh-CN
+35mm photography,35毫米摄影,zh-CN
+contact sheet,联系表,zh-CN
+photo essay,摄影专题,zh-CN
+visual narrative,视觉叙事,zh-CN
+decisive moment,决定性瞬间,zh-CN
+camera-to-subject angle,相机对拍摄对象的角度,zh-CN
+high-angle photograph,俯拍照片,zh-CN
+Dutch-angle photograph,倾斜构图照片,zh-CN
+photographic composition,摄影构图,zh-CN
+central composition,中心构图,zh-CN
+frame within a frame,框中框构图,zh-CN
+negative space in composition,构图负空间,zh-CN
+background compression,背景压缩,zh-CN
+headroom in portraiture,人像头顶留白,zh-CN
+portrait orientation,纵向画幅,zh-CN
+aspect-ratio crop,宽高比裁切,zh-CN
+triptych photograph,三联照片,zh-CN
+scale cue,尺度线索,zh-CN
+two-point perspective photograph,两点透视照片,zh-CN
+camera viewpoint,相机视点,zh-CN
+missed-focus frame,失焦废片,zh-CN
+location reference photo,场景参考照片,zh-CN
+photography call sheet,摄影工作单,zh-CN
+image culling,照片筛选,zh-CN
+photo credit line,摄影署名行,zh-CN
+model release form,肖像权使用授权书,zh-CN
+property release,场地财产使用授权书,zh-CN
+rights-managed photography,权利管理型摄影授权,zh-CN
+copyright metadata,版权元数据,zh-CN
+photographic print edition,摄影限量版次,zh-CN
+gelatin silver print,明胶银盐印相,zh-CN
+albumen print,蛋白印相,zh-CN
+dry plate negative,干版底片,zh-CN
+camera obscura,暗箱,zh-CN
+lensless photography,无镜头摄影,zh-CN
+flat-lay photography,平铺摄影,zh-CN
+pixel-shift photography,像素位移摄影,zh-CN
+rear-curtain motion trail,后帘同步运动拖影,zh-CN
+low-light photography,弱光摄影,zh-CN
+low-key photograph,低调照片,zh-CN
+loop lighting,环形布光,zh-CN
+short lighting,窄面光,zh-CN
+grazing light photography,擦射光摄影,zh-CN
+photographic exposure,摄影曝光,zh-CN
+exposure value,曝光值,zh-CN
+camera aperture,相机光圈,zh-CN
+lens aperture value,镜头光圈值,zh-CN
+working aperture,工作光圈,zh-CN
+entrance pupil,入瞳,zh-CN
+half-stop exposure increment,半档曝光增量,zh-CN
+T-stop for still photography,静态摄影用T值,zh-CN
+aperture priority mode,光圈优先模式,zh-CN
+shutter priority mode,快门优先模式,zh-CN
+manual exposure mode,手动曝光模式,zh-CN
+bulb exposure mode,B门曝光模式,zh-CN
+time exposure mode,T门曝光模式,zh-CN
+auto ISO control,自动ISO控制,zh-CN
+base ISO sensitivity,基础ISO感光度,zh-CN
+expanded ISO sensitivity,扩展ISO感光度,zh-CN
+ISO invariance,ISO不变性,zh-CN
+exposure compensation,曝光补偿,zh-CN
+flash exposure compensation,闪光曝光补偿,zh-CN
+exposure lock button,曝光锁定按钮,zh-CN
+auto exposure bracketing,自动包围曝光,zh-CN
+flash bracketing,闪光包围,zh-CN
+metered exposure,测光曝光值,zh-CN
+handheld light meter,手持测光表,zh-CN
+incident-light meter,入射光测光表,zh-CN
+reflected-light meter,反射光测光表,zh-CN
+spot light meter,点测光表,zh-CN
+flash light meter,闪光测光表,zh-CN
+through-the-lens metering,通过镜头测光,zh-CN
+evaluative metering,评价测光,zh-CN
+matrix metering,矩阵测光,zh-CN
+center-weighted metering,中央重点测光,zh-CN
+partial metering,局部测光,zh-CN
+spot metering,点测光,zh-CN
+face-priority metering,人脸优先测光,zh-CN
+metering range,测光范围,zh-CN
+K-factor in reflected-light metering,反射式测光K系数,zh-CN
+18-percent gray card,18%灰卡,zh-CN
+middle gray,中灰,zh-CN
+zone system,区域曝光法,zh-CN
+Zone X,X区,zh-CN
+spot-meter averaging,点测光平均法,zh-CN
+expose to the right,向右曝光,zh-CN
+expose to the left,向左曝光,zh-CN
+highlight clipping,高光剪切,zh-CN
+shadow clipping,阴影剪切,zh-CN
+clipped color channel,颜色通道剪切,zh-CN
+zebra exposure warning,斑马纹曝光警告,zh-CN
+image histogram,图像直方图,zh-CN
+RGB histogram,RGB直方图,zh-CN
+histogram peak,直方图峰值,zh-CN
+histogram gap,直方图空档,zh-CN
+false-color exposure display,伪色曝光显示,zh-CN
+photographic dynamic range,摄影动态范围,zh-CN
+sensor dynamic range,传感器动态范围,zh-CN
+highlight headroom,高光余量,zh-CN
+shadow latitude,阴影宽容度,zh-CN
+photon shot noise,光子散粒噪声,zh-CN
+read noise,读出噪声,zh-CN
+dark-current noise,暗电流噪声,zh-CN
+color noise in photographs,照片彩色噪声,zh-CN
+hot pixel in an image,图像热像素,zh-CN
+dead pixel in an image,图像死点,zh-CN
+long-exposure noise reduction,长时间曝光降噪,zh-CN
+flat-field correction,平场校正,zh-CN
+lens shading correction,镜头阴影校正,zh-CN
+local tone mapping,局部色调映射,zh-CN
+exposure fusion,曝光融合算法,zh-CN
+multi-minute exposure,分钟级长曝光,zh-CN
+Schwarzschild effect,施瓦茨希尔德效应,zh-CN
+bellows extension factor,皮腔延伸曝光倍数,zh-CN
+sunny 16 rule,晴天F16法则,zh-CN
+NPF rule for astrophotography,天文摄影NPF法则,zh-CN
+photographic focus,摄影对焦,zh-CN
+autofocus system,自动对焦系统,zh-CN
+manual focus operation,手动对焦操作,zh-CN
+single autofocus mode,单次自动对焦模式,zh-CN
+phase-detection autofocus,相位检测自动对焦,zh-CN
+contrast-detection autofocus,反差检测自动对焦,zh-CN
+hybrid autofocus,混合自动对焦,zh-CN
+on-sensor phase detection,传感器相位检测,zh-CN
+dual cross-type AF point,双十字型自动对焦点,zh-CN
+focus area mode,对焦区域模式,zh-CN
+single-point autofocus,单点自动对焦,zh-CN
+zone autofocus,区域自动对焦,zh-CN
+group-area autofocus,组区域自动对焦,zh-CN
+tracking autofocus,追踪自动对焦,zh-CN
+3D-tracking autofocus,3D追踪自动对焦,zh-CN
+subject-detection autofocus,主体检测自动对焦,zh-CN
+human eye-detection autofocus,人眼检测自动对焦,zh-CN
+vehicle-detection autofocus,车辆检测自动对焦,zh-CN
+eye-control autofocus,眼控自动对焦,zh-CN
+focus tracking sensitivity,对焦追踪灵敏度,zh-CN
+focus priority,对焦优先,zh-CN
+back-button focus,后键对焦,zh-CN
+focus lock,对焦锁定,zh-CN
+focus limiter,对焦限位器,zh-CN
+focus-by-wire lens,电子对焦镜头,zh-CN
+linear-response manual focus,线性响应手动对焦,zh-CN
+direct manual focus,直接手动对焦,zh-CN
+focus peaking,峰值对焦辅助,zh-CN
+focus magnification,对焦放大,zh-CN
+electronic rangefinder,电子测距辅助,zh-CN
+depth of field,景深,zh-CN
+circle of confusion,弥散圆,zh-CN
+acceptable sharpness,可接受清晰度,zh-CN
+far depth-of-field limit,景深远界,zh-CN
+field curvature,像场弯曲,zh-CN
+focus stacking,焦点堆叠,zh-CN
+focus bracketing,焦点包围,zh-CN
+front focus error,前跑焦,zh-CN
+autofocus microadjustment,自动对焦微调,zh-CN
+camera shutter,相机快门,zh-CN
+mechanical shutter,机械快门,zh-CN
+electronic shutter,电子快门,zh-CN
+electronic first-curtain shutter,电子前帘快门,zh-CN
+global shutter sensor,全局快门传感器,zh-CN
+rolling shutter sensor,滚动快门传感器,zh-CN
+focal-plane shutter,焦平面快门,zh-CN
+leaf shutter,镜间快门,zh-CN
+rotary shutter in a still camera,静态相机旋转快门,zh-CN
+second shutter curtain,后帘,zh-CN
+shutter lag,快门时滞,zh-CN
+viewfinder blackout,取景器黑屏,zh-CN
+silent shutter mode,静音快门模式,zh-CN
+flicker reduction,闪烁抑制,zh-CN
+slow shutter speed,慢速快门,zh-CN
+maximum shutter speed,最高快门速度,zh-CN
+flash synchronization speed,闪光同步速度,zh-CN
+high-speed sync,高速同步,zh-CN
+front-curtain sync,前帘同步,zh-CN
+camera shake,相机抖动,zh-CN
+subject motion blur,主体运动模糊,zh-CN
+in-body image stabilization,机身防抖,zh-CN
+optical image stabilization,光学防抖,zh-CN
+lens-based stabilization,镜头防抖,zh-CN
+dual image stabilization,双重防抖,zh-CN
+CIPA stabilization rating,CIPA防抖评级,zh-CN
+panning stabilization mode,摇摄防抖模式,zh-CN
+handheld high-resolution mode,手持高分辨率模式,zh-CN
+continuous high-speed shooting,高速连拍,zh-CN
+continuous low-speed shooting,低速连拍,zh-CN
+buffer clearing time,缓存清空时间,zh-CN
+interchangeable-lens camera,可换镜头相机,zh-CN
+mirrorless interchangeable-lens camera,无反可换镜头相机,zh-CN
+digital single-lens reflex camera,数码单镜头反光相机,zh-CN
+single-lens reflex camera,单镜头反光相机,zh-CN
+rangefinder camera,旁轴相机,zh-CN
+technical camera,技术相机,zh-CN
+box camera,盒式相机,zh-CN
+fixed-lens camera,固定镜头相机,zh-CN
+bridge camera,桥式相机,zh-CN
+action camera,运动相机,zh-CN
+camera body,相机机身,zh-CN
+image sensor,图像传感器,zh-CN
+CMOS image sensor,CMOS图像传感器,zh-CN
+CCD image sensor,CCD图像传感器,zh-CN
+BSI CMOS sensor,背照式CMOS传感器,zh-CN
+stacked CMOS sensor,堆栈式CMOS传感器,zh-CN
+partially stacked CMOS sensor,部分堆栈式CMOS传感器,zh-CN
+APS-C sensor,APS-C画幅传感器,zh-CN
+APS-H sensor,APS-H画幅传感器,zh-CN
+Micro Four Thirds sensor,Micro Four Thirds 传感器,zh-CN
+medium-format sensor,中画幅传感器,zh-CN
+Type 1/1.3 image sensor,1/1.3 型图像传感器,zh-CN
+sensor crop factor,传感器裁切系数,zh-CN
+sensor pixel pitch,传感器像素间距,zh-CN
+sensor photosite,传感器感光单元,zh-CN
+total pixel count,总像素数,zh-CN
+sensor readout speed,传感器读出速度,zh-CN
+sensor scan time,传感器扫描时间,zh-CN
+12-bit RAW,12位RAW,zh-CN
+16-bit RAW,16位RAW,zh-CN
+Bayer color filter array,拜耳彩色滤光阵列,zh-CN
+X-Trans color filter array,X-Trans彩色滤光阵列,zh-CN
+Quad Bayer sensor,Quad Bayer传感器,zh-CN
+optical low-pass filter,光学低通滤镜,zh-CN
+sensor cover glass,传感器保护玻璃,zh-CN
+ultrasonic sensor cleaning,超声波传感器清洁,zh-CN
+sensor pixel mapping,传感器像素映射,zh-CN
+image processor,图像处理器,zh-CN
+camera firmware,相机固件,zh-CN
+camera menu system,相机菜单系统,zh-CN
+user settings bank,用户设置库,zh-CN
+camera control dial,相机控制拨轮,zh-CN
+exposure compensation dial,曝光补偿转盘,zh-CN
+shutter-release button,快门释放按钮,zh-CN
+electronic cable release,电子快门线,zh-CN
+interval timer shooting,间隔定时拍摄,zh-CN
+mirror lock-up,反光镜预升,zh-CN
+live view shooting,实时取景拍摄,zh-CN
+optical viewfinder,光学取景器,zh-CN
+electronic viewfinder,电子取景器,zh-CN
+hybrid viewfinder,混合取景器,zh-CN
+pentaprism viewfinder,五棱镜取景器,zh-CN
+pentamirror viewfinder,五面镜取景器,zh-CN
+viewfinder coverage,取景器视野率,zh-CN
+viewfinder diopter adjustment,取景器屈光度调节,zh-CN
+viewfinder resolution,取景器分辨率,zh-CN
+viewfinder oversampling,取景器超采样,zh-CN
+eye sensor,眼感应器,zh-CN
+rear LCD monitor,机背液晶屏,zh-CN
+tilting LCD screen,倾斜式液晶屏,zh-CN
+touchscreen focus selection,触屏对焦点选择,zh-CN
+camera hot shoe,相机热靴,zh-CN
+accessory shoe cover,热靴保护盖,zh-CN
+camera USB-C port,相机USB-C接口,zh-CN
+micro HDMI port,Micro HDMI接口,zh-CN
+camera Ethernet port,相机以太网接口,zh-CN
+camera Bluetooth connection,相机蓝牙连接,zh-CN
+geotagging photographs,照片地理标记,zh-CN
+camera weather sealing,相机防尘防滴密封,zh-CN
+camera operating temperature,相机工作温度,zh-CN
+camera body stabilization unit,机身防抖组件,zh-CN
+camera cooling fan accessory,相机外接散热风扇,zh-CN
+photographic lens,摄影镜头,zh-CN
+interchangeable camera lens,可换式相机镜头,zh-CN
+prime camera lens,相机定焦镜头,zh-CN
+zoom camera lens,相机变焦镜头,zh-CN
+standard zoom lens,标准变焦镜头,zh-CN
+telephoto zoom lens,远摄变焦镜头,zh-CN
+normal prime lens,标准定焦镜头,zh-CN
+ultra-wide-angle lens,超广角镜头,zh-CN
+super-telephoto lens,超远摄镜头,zh-CN
+macro camera lens,微距摄影镜头,zh-CN
+true 1:1 macro lens,真正1:1微距镜头,zh-CN
+tilt-shift lens,移轴镜头,zh-CN
+perspective-control lens,透视控制镜头,zh-CN
+fisheye lens,鱼眼镜头,zh-CN
+soft-focus lens,柔焦镜头,zh-CN
+pancake camera lens,饼干镜头,zh-CN
+apochromatic lens,复消色差镜头,zh-CN
+rectilinear wide-angle lens,直线投影广角镜头,zh-CN
+enlarger lens,放大机镜头,zh-CN
+camera lens mount,相机镜头卡口,zh-CN
+bayonet lens mount,卡口式镜头接口,zh-CN
+flange focal distance,镜头卡口法兰距,zh-CN
+lens mount throat diameter,镜头卡口内径,zh-CN
+lens mount adapter,镜头转接环,zh-CN
+focal reducer,减焦镜,zh-CN
+2x teleconverter,2倍增距镜,zh-CN
+extension tube,近摄接圈,zh-CN
+reversing ring,镜头倒接环,zh-CN
+lens focal length,镜头焦距,zh-CN
+35mm-equivalent focal length,35毫米等效焦距,zh-CN
+angle of view,视角,zh-CN
+diagonal angle of view,对角线视角,zh-CN
+focal-length range,焦距范围,zh-CN
+optical zoom ratio,光学变焦倍率,zh-CN
+minimum focusing distance,最近对焦距离,zh-CN
+maximum reproduction ratio,最大放大倍率,zh-CN
+image magnification ratio,成像放大倍率,zh-CN
+medium-format lens coverage,中画幅镜头覆盖范围,zh-CN
+lens resolving power,镜头解析力,zh-CN
+modulation transfer function,调制传递函数,zh-CN
+MTF chart,MTF曲线图,zh-CN
+meridional MTF response,切向MTF响应,zh-CN
+center sharpness,画面中心锐度,zh-CN
+corner sharpness,画面边缘锐度,zh-CN
+edge-to-edge sharpness,全画面锐度,zh-CN
+lens rendering character,镜头成像风格,zh-CN
+bokeh rendering,焦外成像,zh-CN
+soap-bubble bokeh,肥皂泡焦外,zh-CN
+busy bokeh,杂乱焦外,zh-CN
+aperture diaphragm,光圈叶片组件,zh-CN
+rounded aperture blades,圆形光圈叶片,zh-CN
+clicked aperture ring,有级光圈环,zh-CN
+manual aperture ring,手动光圈环,zh-CN
+infrared focus index,红外对焦标记,zh-CN
+internal focusing,内对焦,zh-CN
+rear focusing,后组对焦,zh-CN
+internal zoom,内变焦,zh-CN
+extending zoom barrel,伸缩式变焦镜筒,zh-CN
+parfocal zoom lens,齐焦变焦镜头,zh-CN
+zoom creep,变焦镜筒自滑,zh-CN
+linear motor autofocus,线性马达自动对焦,zh-CN
+voice-coil motor autofocus,音圈马达自动对焦,zh-CN
+custom lens button,镜头自定义按钮,zh-CN
+lens foot,镜头脚座,zh-CN
+lens hood,镜头遮光罩,zh-CN
+cylindrical lens hood,圆筒形遮光罩,zh-CN
+rear lens cap,镜头后盖,zh-CN
+rear gel filter holder,后置明胶滤镜架,zh-CN
+lens coating,镜头镀膜,zh-CN
+fluorine lens coating,氟镀膜,zh-CN
+aspherical lens element,非球面镜片,zh-CN
+ground aspherical element,研磨非球面镜片,zh-CN
+extra-low dispersion glass,低色散玻璃,zh-CN
+ultra-low dispersion glass,超低色散玻璃,zh-CN
+high-refractive-index element,高折射率镜片,zh-CN
+phase Fresnel element,菲涅尔相位镜片,zh-CN
+lens chromatic aberration,镜头色差,zh-CN
+lateral chromatic aberration,横向色差,zh-CN
+longitudinal chromatic aberration,纵向色差,zh-CN
+spherical aberration,球差,zh-CN
+astigmatism in a lens,镜头像散,zh-CN
+barrel distortion,桶形畸变,zh-CN
+pincushion distortion,枕形畸变,zh-CN
+perspective distortion,透视变形,zh-CN
+lens flare,镜头眩光,zh-CN
+ghosting flare,鬼影眩光,zh-CN
+lens diffraction,镜头衍射,zh-CN
+lens decentering,镜片偏心,zh-CN
+lens collar alignment,镜头脚架环对准,zh-CN
+photographic lighting,摄影布光,zh-CN
+ambient light in photography,摄影环境光,zh-CN
+continuous photographic light,摄影常亮灯,zh-CN
+photographic flash,摄影闪光灯,zh-CN
+studio strobe,影室闪光灯,zh-CN
+monolight flash,一体式影室闪光灯,zh-CN
+pack-and-head flash system,电箱分体式闪光系统,zh-CN
+speedlight flash,热靴闪光灯,zh-CN
+twin flash,双头微距闪光灯,zh-CN
+on-camera flash,机顶闪光灯,zh-CN
+off-camera flash,离机闪光灯,zh-CN
+TTL flash control,TTL闪光控制,zh-CN
+automatic thyristor flash,自动晶闸管闪光,zh-CN
+flash guide number,闪光指数,zh-CN
+flash duration,闪光持续时间,zh-CN
+t.5 flash duration,t.5闪光持续时间,zh-CN
+flash recycle time,闪光回电时间,zh-CN
+flash color consistency,闪光色彩一致性,zh-CN
+flash value lock,闪光值锁定,zh-CN
+flash channel,闪光通道,zh-CN
+radio flash trigger,无线电闪光引闪器,zh-CN
+flash transmitter,闪光发射器,zh-CN
+TTL extension cord,TTL闪光延长线,zh-CN
+wireless TTL flash,无线TTL闪光,zh-CN
+radio slave mode,无线电从属模式,zh-CN
+flash overheat protection,闪光灯过热保护,zh-CN
+modeling lamp,造型灯,zh-CN
+LED photography panel,摄影LED平板灯,zh-CN
+COB LED light,COB LED灯,zh-CN
+RGBWW photographic light,RGBWW摄影灯,zh-CN
+daylight-balanced photographic light,日光型摄影灯,zh-CN
+HMI photographic light,HMI摄影灯,zh-CN
+illuminance at one meter,一米照度,zh-CN
+color rendering index,显色指数,zh-CN
+TM-30 color rendition,TM-30色彩还原指标,zh-CN
+full-plus-green gel,全正绿滤色片,zh-CN
+neutral-density lighting gel,灯光中性密度片,zh-CN
+color-effects gel,彩色效果片,zh-CN
+five-in-one reflector,五合一反光板,zh-CN
+gold reflector,金色反光板,zh-CN
+collapsible reflector,折叠反光板,zh-CN
+strip softbox,条形柔光箱,zh-CN
+octagonal softbox,八角柔光箱,zh-CN
+deep parabolic softbox,深抛物线柔光箱,zh-CN
+softbox recessed front,内嵌式柔光箱前沿,zh-CN
+shoot-through umbrella,透射伞,zh-CN
+reflective umbrella,反射伞,zh-CN
+deep reflective umbrella,深型反射伞,zh-CN
+beauty dish,雷达罩,zh-CN
+white beauty dish,白色雷达罩,zh-CN
+beauty-dish grid,雷达罩蜂巢,zh-CN
+zoom reflector,变焦反光罩,zh-CN
+snoot light modifier,束光筒,zh-CN
+conical snoot,锥形束光筒,zh-CN
+optical snoot,光学束光筒,zh-CN
+fresnel spot attachment,菲涅尔聚光附件,zh-CN
+spotlight mount,聚光筒附件,zh-CN
+honeycomb grid,蜂巢格栅,zh-CN
+reflector grid,反光罩蜂巢,zh-CN
+background reflector,背景反光罩,zh-CN
+silicone dome diffuser,硅胶穹顶柔光罩,zh-CN
+flash diffuser cap,闪光柔光帽,zh-CN
+flag for photographic lighting,摄影灯光遮光旗,zh-CN
+silk diffusion fabric,柔光绸,zh-CN
+black wrap foil,黑包铝箔,zh-CN
+negative fill,负补光,zh-CN
+feathering a softbox,柔光箱擦边布光,zh-CN
+subject-to-background ratio,主体与背景光比,zh-CN
+diffuse reflection in lighting,照明漫反射,zh-CN
+background gradient lighting,背景渐变布光,zh-CN
+stroboscopic flash mode,频闪闪光模式,zh-CN
+flash painting,闪光绘光,zh-CN
+photographic filter,摄影滤镜,zh-CN
+circular polarizing filter,圆形偏振镜,zh-CN
+linear polarizing filter,线性偏振镜,zh-CN
+variable neutral-density filter,可变中性密度滤镜,zh-CN
+graduated neutral-density filter,渐变中性密度滤镜,zh-CN
+hard-edge graduated ND filter,硬渐变中性密度滤镜,zh-CN
+reverse graduated ND filter,反向渐变中性密度滤镜,zh-CN
+10-stop ND filter,减光10档中性密度滤镜,zh-CN
+ultraviolet-blocking filter,紫外截止滤镜,zh-CN
+clear protection filter,透明保护滤镜,zh-CN
+skylight filter,天光镜,zh-CN
+cooling filter,冷色滤镜,zh-CN
+light-pollution reduction filter,光害抑制滤镜,zh-CN
+astrophotography narrowband filter,天文摄影窄带滤镜,zh-CN
+diffusion effect filter,柔光效果滤镜,zh-CN
+black-mist filter,黑柔焦滤镜,zh-CN
+starburst filter,星芒滤镜,zh-CN
+split-diopter filter,半片近摄镜,zh-CN
+square filter system,方片滤镜系统,zh-CN
+drop-in filter system,插入式滤镜系统,zh-CN
+filter holder,滤镜支架,zh-CN
+step-up ring,滤镜升径环,zh-CN
+step-down ring,滤镜降径环,zh-CN
+slim filter frame,超薄滤镜框,zh-CN
+polarization angle,偏振角度,zh-CN
+color cast from an ND filter,中性密度镜偏色,zh-CN
+infrared leakage,红外泄漏,zh-CN
+photographic tripod,摄影三脚架,zh-CN
+travel tripod,旅行三脚架,zh-CN
+systematic tripod,模块化系统三脚架,zh-CN
+mini tripod,迷你三脚架,zh-CN
+carbon-fiber tripod,碳纤维三脚架,zh-CN
+wooden camera tripod,木制相机三脚架,zh-CN
+tripod center column,三脚架中轴,zh-CN
+lateral center column,横置中轴,zh-CN
+tripod apex,三脚架连接座,zh-CN
+tripod leg lock,三脚架脚管锁扣,zh-CN
+flip-lock tripod leg,扳扣锁脚管,zh-CN
+tripod rubber foot,三脚架橡胶脚垫,zh-CN
+tripod weight hook,三脚架负重挂钩,zh-CN
+photographic ball head,摄影球形云台,zh-CN
+three-way pan-and-tilt head,三向云台,zh-CN
+geared tripod head,齿轮云台,zh-CN
+panoramic tripod head,全景云台,zh-CN
+gimbal head for photography,摄影悬臂云台,zh-CN
+fluid head for still photography,静态摄影用液压云台,zh-CN
+leveling base,调平底座,zh-CN
+leveling half-ball,调平半球,zh-CN
+nodal slide,节点滑轨,zh-CN
+four-way macro rail,四向微距滑轨,zh-CN
+Arca-compatible quick-release plate,Arca-Swiss 兼容快装板,zh-CN
+L-bracket for a camera,相机L形快装板,zh-CN
+camera cage,相机兔笼,zh-CN
+camera half cage,相机半笼,zh-CN
+anti-twist locating pins,防扭定位销,zh-CN
+quarter-inch camera screw,1/4英寸相机螺丝,zh-CN
+three-eighths-inch mounting thread,3/8英寸安装螺纹,zh-CN
+magic arm for a camera,相机用万向魔术臂,zh-CN
+beanbag camera support,豆袋相机支撑,zh-CN
+window camera mount,车窗相机支架,zh-CN
+chest camera harness,胸前相机背带系统,zh-CN
+camera shoulder strap,相机肩带,zh-CN
+camera wrist strap,相机腕带,zh-CN
+camera sling strap,相机斜挎速摄背带,zh-CN
+camera backpack,摄影双肩包,zh-CN
+camera shoulder bag,摄影单肩包,zh-CN
+hard camera case,摄影硬壳箱,zh-CN
+lens pouch,镜头筒包,zh-CN
+lens rain cover,镜头防雨罩,zh-CN
+camera cold-weather cover,相机防寒罩,zh-CN
+vacuum leak detector for housing,防水壳真空检漏器,zh-CN
+underwater flat port,水下摄影平面端口,zh-CN
+camera hand warmer,相机防寒加热套,zh-CN
+sensor cleaning swab,传感器清洁棒,zh-CN
+camera air blower,相机气吹,zh-CN
+lens cleaning tissue,镜头清洁纸,zh-CN
+lens cleaning pen,镜头清洁笔,zh-CN
+anti-static camera brush,相机防静电刷,zh-CN
+reusable silica-gel desiccant,可重复使用硅胶干燥剂,zh-CN
+camera memory card,相机存储卡,zh-CN
+SD memory card,SD存储卡,zh-CN
+SDXC memory card,SDXC存储卡,zh-CN
+UHS-I SD card,UHS-I SD卡,zh-CN
+UHS-II SD card,UHS-II SD卡,zh-CN
+UHS-III SD card,UHS-III SD卡,zh-CN
+microSDXC card,microSDXC卡,zh-CN
+CFexpress Type A card,CFexpress Type A存储卡,zh-CN
+CFexpress Type B card,CFexpress Type B存储卡,zh-CN
+CFexpress Type C card,CFexpress Type C存储卡,zh-CN
+CFast 2.0 card,CFast 2.0存储卡,zh-CN
+dual memory-card slots,双存储卡槽,zh-CN
+simultaneous card recording,双卡同时记录,zh-CN
+relay card recording,双卡接力记录,zh-CN
+memory-card write speed,存储卡写入速度,zh-CN
+memory-card read speed,存储卡读取速度,zh-CN
+sustained write speed,持续写入速度,zh-CN
+V30 memory-card rating,V30存储卡等级,zh-CN
+V90 memory-card rating,V90存储卡等级,zh-CN
+camera card reader,相机存储卡读卡器,zh-CN
+Thunderbolt card reader,Thunderbolt 读卡器,zh-CN
+camera internal buffer,相机内部缓存,zh-CN
+camera image counter,相机照片计数器,zh-CN
+camera folder numbering,相机文件夹编号,zh-CN
+camera battery,相机电池,zh-CN
+lithium-ion camera battery,相机锂离子电池,zh-CN
+camera battery grip,相机电池手柄,zh-CN
+dummy camera battery,相机假电池,zh-CN
+camera AC adapter,相机交流电源适配器,zh-CN
+USB Power Delivery charging,USB PD充电,zh-CN
+USB Power Delivery power supply,USB PD持续供电,zh-CN
+dual-bay camera battery charger,双槽相机电池充电器,zh-CN
+photographic tethering,联机拍摄,zh-CN
+tethered capture,联机拍摄采集,zh-CN
+tethering cable,联机拍摄线缆,zh-CN
+active USB extension cable,有源USB延长线,zh-CN
+tethering cable guard,联机线缆保护器,zh-CN
+tethering workstation,联机拍摄工作站,zh-CN
+digital technician cart,数码师工作车,zh-CN
+digital imaging technician for stills,静态摄影数码师,zh-CN
+capture folder,拍摄采集文件夹,zh-CN
+automatic backup on capture,拍摄时自动备份,zh-CN
+shot naming convention,照片命名规范,zh-CN
+remote live view,远程实时取景,zh-CN
+remote camera control,远程相机控制,zh-CN
+camera exposure control from computer,电脑控制相机曝光,zh-CN
+wireless tethering,无线联机拍摄,zh-CN
+SFTP image transfer,SFTP图片传输,zh-CN
+IPTC preset in camera,机内IPTC预设,zh-CN
+photographer's monitor,摄影师监视器,zh-CN
+color-managed monitor,色彩管理显示器,zh-CN
+hardware-calibrated monitor,硬件校准显示器,zh-CN
+Adobe RGB monitor,Adobe RGB显示器,zh-CN
+P3 display,P3显示器,zh-CN
+monitor calibration,显示器校准,zh-CN
+monitor colorimeter,显示器色度计,zh-CN
+spectrophotometer for profiling,特性化用分光光度计,zh-CN
+display white-point target,显示器白点目标值,zh-CN
+monitor uniformity compensation,显示器均匀性补偿,zh-CN
+soft-proofing display,软打样显示,zh-CN
+monitor hood,显示器遮光罩,zh-CN
+D50 viewing booth,D50标准看样灯箱,zh-CN
+photo editing tablet,照片编辑数位板,zh-CN
+color-grading control surface for stills,静态图像调色控制台,zh-CN
+camera RAW file,相机RAW文件,zh-CN
+raw image data,原始图像数据,zh-CN
+lossless compressed RAW,无损压缩RAW,zh-CN
+lossy compressed RAW,有损压缩RAW,zh-CN
+medium RAW file,中尺寸RAW文件,zh-CN
+Digital Negative format,数字负片格式,zh-CN
+camera JPEG file,相机JPEG文件,zh-CN
+16-bit TIFF file,16位TIFF文件,zh-CN
+XMP sidecar file,XMP附属文件,zh-CN
+embedded JPEG preview,嵌入式JPEG预览,zh-CN
+camera profile,相机配置文件,zh-CN
+ICC camera profile,ICC相机配置文件,zh-CN
+dual-illuminant camera profile,双光源相机配置文件,zh-CN
+camera calibration matrix,相机校准矩阵,zh-CN
+raw demosaicing,RAW去马赛克,zh-CN
+demosaicing algorithm,去马赛克算法,zh-CN
+moiré pattern,摩尔纹,zh-CN
+zipper artifact,拉链状伪影,zh-CN
+sensor blooming,传感器溢出,zh-CN
+raw white balance,RAW白平衡,zh-CN
+custom white balance,自定义白平衡,zh-CN
+white-balance Kelvin setting,白平衡开尔文设定,zh-CN
+white-balance shift,白平衡微调,zh-CN
+white-priority white balance,白色优先白平衡,zh-CN
+photographic color calibration chart,摄影色彩校准卡,zh-CN
+color calibration target,色彩校准标靶,zh-CN
+spectral reflectance target,光谱反射率标靶,zh-CN
+camera color space,相机色彩空间,zh-CN
+sRGB color space,sRGB色彩空间,zh-CN
+Adobe RGB color space,Adobe RGB色彩空间,zh-CN
+ProPhoto RGB color space,ProPhoto RGB色彩空间,zh-CN
+ICC profile,ICC配置文件,zh-CN
+embedded color profile,嵌入式色彩配置文件,zh-CN
+convert to color profile,转换到色彩配置文件,zh-CN
+absolute colorimetric rendering intent,绝对比色渲染意图,zh-CN
+black-point compensation,黑点补偿,zh-CN
+color-management module,色彩管理模块,zh-CN
+scene-referred image processing,场景参照图像处理,zh-CN
+display-referred image processing,显示参照图像处理,zh-CN
+gamma-encoded processing,伽马编码处理,zh-CN
+tone curve,色调曲线,zh-CN
+camera response curve,相机响应曲线,zh-CN
+look-up table for photography,摄影查找表,zh-CN
+camera film simulation mode,相机胶片模拟模式,zh-CN
+raw development,RAW显影,zh-CN
+non-destructive photo editing,非破坏性照片编辑,zh-CN
+pixel-based photo editing,像素级照片编辑,zh-CN
+local adjustment,局部调整,zh-CN
+adjustment brush,调整画笔,zh-CN
+luminance range mask,亮度范围蒙版,zh-CN
+depth range mask,深度范围蒙版,zh-CN
+AI subject mask,AI主体蒙版,zh-CN
+AI people mask,AI人物蒙版,zh-CN
+skin retouching,皮肤修饰,zh-CN
+frequency separation retouching,高低频分离修图,zh-CN
+dodge and burn retouching,加深减淡修图,zh-CN
+healing brush,修复画笔,zh-CN
+perspective correction,透视校正,zh-CN
+guided upright correction,引导式 Upright 校正,zh-CN
+lens profile correction,镜头配置文件校正,zh-CN
+chromatic aberration removal,色差去除,zh-CN
+defringe control,去边控制,zh-CN
+crop tool,裁剪工具,zh-CN
+horizon leveling,地平线校正,zh-CN
+panorama stitching,全景拼接,zh-CN
+rectilinear panorama projection,直线全景投影,zh-CN
+panorama control point,全景拼接控制点,zh-CN
+focus stack blending,焦点堆叠融合,zh-CN
+mean image stacking,图像均值堆叠,zh-CN
+star alignment,星点对齐,zh-CN
+bias frame calibration,偏置帧校准,zh-CN
+image denoising,图像降噪,zh-CN
+raw detail enhancement,RAW细节增强,zh-CN
+deconvolution sharpening,反卷积锐化,zh-CN
+creative sharpening,创意锐化,zh-CN
+unsharp mask,USM锐化,zh-CN
+texture adjustment,纹理调整,zh-CN
+local contrast enhancement,局部对比度增强,zh-CN
+highlight recovery,高光恢复,zh-CN
+black-level adjustment,黑色电平调整,zh-CN
+contrast adjustment,对比度调整,zh-CN
+vibrance adjustment,自然饱和度调整,zh-CN
+HSL adjustment,HSL调整,zh-CN
+color grading for photography,摄影调色,zh-CN
+selective color adjustment,可选颜色调整,zh-CN
+black-and-white conversion,黑白转换,zh-CN
+monochrome channel mix,黑白通道混合,zh-CN
+bloom simulation,泛光模拟,zh-CN
+soft proofing,软打样,zh-CN
+out-of-gamut color,超出色域的颜色,zh-CN
+printer-paper ICC profile,打印机—纸张ICC配置文件,zh-CN
+fine-art inkjet printing,艺术微喷,zh-CN
+pigment inkjet printer,颜料喷墨打印机,zh-CN
+photo paper,照片纸,zh-CN
+baryta inkjet paper,钡地艺术喷墨纸,zh-CN
+optical brightening agent,荧光增白剂,zh-CN
+print permanence,打印品耐久性,zh-CN
+bronzing in an inkjet print,喷墨打印泛铜光,zh-CN
+print resolution,打印分辨率,zh-CN
+pixels per inch,每英寸像素,zh-CN
+dots per inch,每英寸点数,zh-CN
+bicubic resampling,双三次重采样,zh-CN
+image upscaling,图像放大,zh-CN
+archival image master,图像档案母版,zh-CN
+derivative image file,图像派生文件,zh-CN
+off-site photo backup,照片异地备份,zh-CN
+photo archive catalog,照片档案目录,zh-CN
+EXIF metadata,EXIF元数据,zh-CN
+IPTC Photo Metadata Standard,IPTC照片元数据标准,zh-CN
+photo color label,照片颜色标签,zh-CN
+stacked photo group,照片堆叠组,zh-CN
+controlled vocabulary for photos,照片受控词表,zh-CN
+near-duplicate photo detection,近似重复照片检测,zh-CN
+International Color Consortium,国际色彩联盟,zh-CN
+International Press Telecommunications Council,国际新闻电信理事会,zh-CN
+Camera & Imaging Products Association,日本国际相机影像器材工业协会,zh-CN
+Society for Imaging Science and Technology,影像科学与技术学会,zh-CN
+Royal Photographic Society,英国皇家摄影学会,zh-CN
+Professional Photographers of America,美国职业摄影师协会,zh-CN
+National Press Photographers Association,美国全国新闻摄影师协会,zh-CN
+Magnum Photos,玛格南图片社,zh-CN
+World Press Photo Foundation,世界新闻摄影基金会,zh-CN
+Aperture Foundation,光圈基金会,zh-CN
+George Eastman Museum,乔治·伊士曼博物馆,zh-CN
+International Center of Photography,国际摄影中心,zh-CN
+Ansel Adams,安塞尔·亚当斯,zh-CN
+Henri Cartier-Bresson,亨利·卡蒂埃-布列松,zh-CN
+Robert Capa,罗伯特·卡帕,zh-CN
+Gerda Taro,格尔达·塔罗,zh-CN
+Dorothea Lange,多萝西娅·兰格,zh-CN
+Walker Evans,沃克·埃文斯,zh-CN
+Gordon Parks,戈登·帕克斯,zh-CN
+W. Eugene Smith,W·尤金·史密斯,zh-CN
+Margaret Bourke-White,玛格丽特·伯克-怀特,zh-CN
+Susan Meiselas,苏珊·梅塞拉斯,zh-CN
+Mary Ellen Mark,玛丽·艾伦·马克,zh-CN
+Diane Arbus,黛安·阿勃丝,zh-CN
+Richard Avedon,理查德·阿维顿,zh-CN
+Irving Penn,欧文·佩恩,zh-CN
+Helmut Newton,赫尔穆特·牛顿,zh-CN
+Annie Leibovitz,安妮·莱博维茨,zh-CN
+Peter Lindbergh,彼得·林德伯格,zh-CN
+Robert Frank,罗伯特·弗兰克,zh-CN
+Garry Winogrand,加里·维诺格兰德,zh-CN
+Lee Friedlander,李·弗里德兰德,zh-CN
+William Eggleston,威廉·埃格尔斯顿,zh-CN
+Stephen Shore,斯蒂芬·肖尔,zh-CN
+Saul Leiter,索尔·莱特,zh-CN
+Daido Moriyama,森山大道,zh-CN
+Hiroshi Sugimoto,杉本博司,zh-CN
+Rinko Kawauchi,川内伦子,zh-CN
+Fan Ho,何藩,zh-CN
+Lang Jingshan,郎静山,zh-CN
+Sebastião Salgado,塞巴斯蒂昂·萨尔加多,zh-CN
+Steve McCurry,史蒂夫·麦凯瑞,zh-CN
+James Nachtwey,詹姆斯·纳赫特韦,zh-CN
+Don McCullin,唐·麦库林,zh-CN
+Sally Mann,莎莉·曼,zh-CN
+Cindy Sherman,辛迪·舍曼,zh-CN
+Jeff Wall,杰夫·沃尔,zh-CN
+Andreas Gursky,安德烈亚斯·古尔斯基,zh-CN
+Bernd and Hilla Becher,贝恩德与希拉·贝歇,zh-CN
+Edward Weston,爱德华·韦斯顿,zh-CN
+Imogen Cunningham,伊莫金·坎宁安,zh-CN
+Alfred Stieglitz,阿尔弗雷德·施蒂格利茨,zh-CN
+Paul Strand,保罗·斯特兰德,zh-CN
+Man Ray,曼·雷,zh-CN
+Eadweard Muybridge,埃德沃德·迈布里奇,zh-CN
+Étienne-Jules Marey,艾蒂安-朱尔·马雷,zh-CN
+Nicéphore Niépce,尼塞福尔·尼埃普斯,zh-CN
+Louis Daguerre,路易·达盖尔,zh-CN
+William Henry Fox Talbot,威廉·亨利·福克斯·塔尔博特,zh-CN
+George Eastman,乔治·伊士曼,zh-CN
+Oskar Barnack,奥斯卡·巴纳克,zh-CN
+Victor Hasselblad,维克多·哈苏,zh-CN
+Harold Edgerton,哈罗德·尤金·埃杰顿,zh-CN
+Robert W. Wood,罗伯特·威廉·伍德,zh-CN
+Edwin H. Land,埃德温·赫伯特·兰德,zh-CN

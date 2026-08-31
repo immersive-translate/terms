@@ -1,0 +1,20 @@
+{
+  "id": "programming-ai-hardware",
+  "name": "Programming, AI, and Hardware",
+  "description": "A curated English-to-Simplified-Chinese glossary for software development, artificial intelligence, computer architecture, hardware, operating systems, networking, databases, security, and engineering workflows.",
+  "author": "youheng-alan-liu",
+  "glossary": "programming-ai-hardware",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "编程、AI 与硬件",
+      "description": "编程、人工智能与计算机硬件术语库，涵盖软件开发、计算机体系结构、操作系统、网络、数据库、安全和工程工作流程。"
+    },
+    "en": {
+      "name": "Programming, AI, and Hardware",
+      "description": "A glossary for software development, AI, computer architecture, hardware, operating systems, networking, databases, security, and engineering workflows."
+    }
+  }
+}
