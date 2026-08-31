@@ -1,0 +1,797 @@
+source,target,tgt_lng
+account settings,账户设置,zh-CN
+account overview,账户概览,zh-CN
+account information,账户信息,zh-CN
+account details,账户详细信息,zh-CN
+account holder,账户持有人,zh-CN
+account number,账户号码,zh-CN
+account balance,账户余额,zh-CN
+account status,账户状态,zh-CN
+account activity,账户活动记录,zh-CN
+account history,账户历史记录,zh-CN
+account recovery,账户恢复,zh-CN
+account verification,账户验证,zh-CN
+verify your account,验证您的账户,zh-CN
+create an account,创建账户,zh-CN
+open an account,开立账户,zh-CN
+close an account,关闭账户,zh-CN
+delete your account,删除您的账户,zh-CN
+deactivate your account,停用您的账户,zh-CN
+reactivate your account,重新启用您的账户,zh-CN
+switch accounts,切换账户,zh-CN
+add another account,添加其他账户,zh-CN
+personal account,个人账户,zh-CN
+business account,企业账户,zh-CN
+joint account,联名账户,zh-CN
+guest account,访客账户,zh-CN
+account administrator,账户管理员,zh-CN
+profile settings,个人资料设置,zh-CN
+profile information,个人资料信息,zh-CN
+profile picture,个人资料图片,zh-CN
+preferred name,常用姓名,zh-CN
+name on account,账户登记姓名,zh-CN
+date of birth,出生日期,zh-CN
+preferred language,首选语言,zh-CN
+communication preferences,沟通偏好,zh-CN
+notification preferences,通知偏好,zh-CN
+email notifications,电子邮件通知,zh-CN
+text message notifications,短信通知,zh-CN
+push notifications,推送通知,zh-CN
+marketing communications,营销信息,zh-CN
+unsubscribe from emails,取消订阅电子邮件,zh-CN
+manage subscriptions,管理订阅,zh-CN
+sign-in information,登录信息,zh-CN
+sign-in method,登录方式,zh-CN
+sign-in attempt,登录尝试,zh-CN
+sign-in activity,登录活动记录,zh-CN
+sign in with email,使用电子邮件登录,zh-CN
+sign in with phone number,使用手机号码登录,zh-CN
+sign in with Apple,通过 Apple 登录,zh-CN
+sign in with Google,通过 Google 登录,zh-CN
+sign in with Microsoft,通过 Microsoft 登录,zh-CN
+continue as guest,以访客身份继续,zh-CN
+stay signed in,保持登录状态,zh-CN
+sign out of all devices,从所有设备退出登录,zh-CN
+session expired,会话已过期,zh-CN
+active session,当前活动会话,zh-CN
+trusted device,受信任设备,zh-CN
+recognized device,已识别设备,zh-CN
+new device detected,检测到新设备,zh-CN
+unrecognized sign-in,无法识别的登录,zh-CN
+suspicious activity detected,检测到可疑活动,zh-CN
+security alert,安全提醒,zh-CN
+security settings,安全设置,zh-CN
+security checkup,安全检查,zh-CN
+login credentials,登录凭据,zh-CN
+username or email,用户名或电子邮件,zh-CN
+current password,当前密码,zh-CN
+confirm new password,确认新密码,zh-CN
+forgot your password,忘记密码,zh-CN
+reset your password,重置密码,zh-CN
+password reset link,密码重置链接,zh-CN
+password reset email,密码重置邮件,zh-CN
+password requirements,密码要求,zh-CN
+password strength,密码强度,zh-CN
+one-time passcode,一次性验证码,zh-CN
+verification code,验证码,zh-CN
+recovery code,恢复代码,zh-CN
+recovery email address,恢复用电子邮件地址,zh-CN
+recovery phone number,恢复用手机号码,zh-CN
+security question,安全问题,zh-CN
+biometric authentication,生物识别身份验证,zh-CN
+identity verification,身份验证,zh-CN
+proof of identity,身份证明,zh-CN
+government-issued ID,政府签发的身份证件,zh-CN
+proof of address,地址证明,zh-CN
+upload your ID,上传身份证件,zh-CN
+verify your identity,验证您的身份,zh-CN
+privacy settings,隐私设置,zh-CN
+privacy preferences,隐私偏好,zh-CN
+privacy notice,隐私声明,zh-CN
+privacy choices,隐私选项,zh-CN
+privacy rights,隐私权利,zh-CN
+personal information,个人信息,zh-CN
+sensitive personal information,敏感个人信息,zh-CN
+personal data request,个人数据请求,zh-CN
+access your data,访问您的数据,zh-CN
+download your data,下载您的数据,zh-CN
+delete your data,删除您的数据,zh-CN
+correct your information,更正您的信息,zh-CN
+data retention period,数据保留期限,zh-CN
+data processing purposes,数据处理目的,zh-CN
+data sharing partners,数据共享合作方,zh-CN
+third-party services,第三方服务,zh-CN
+third-party cookies,第三方 Cookie,zh-CN
+essential cookies,必要 Cookie,zh-CN
+optional cookies,可选 Cookie,zh-CN
+cookie preferences,Cookie 偏好设置,zh-CN
+cookie consent,Cookie 使用同意,zh-CN
+accept all cookies,接受所有 Cookie,zh-CN
+reject non-essential cookies,拒绝非必要 Cookie,zh-CN
+manage cookie settings,管理 Cookie 设置,zh-CN
+do not sell my personal information,请勿出售我的个人信息,zh-CN
+do not share my personal information,请勿共享我的个人信息,zh-CN
+opt out of targeted advertising,退出定向广告,zh-CN
+interest-based advertising,基于兴趣的广告,zh-CN
+location permissions,位置权限,zh-CN
+camera permissions,相机权限,zh-CN
+microphone permissions,麦克风权限,zh-CN
+contacts permissions,通讯录权限,zh-CN
+photo library access,照片图库访问权限,zh-CN
+allow while using the app,仅在使用 App 时允许,zh-CN
+ask every time,每次询问,zh-CN
+permission denied,权限被拒绝,zh-CN
+manage app permissions,管理 App 权限,zh-CN
+accessibility settings,辅助功能设置,zh-CN
+display settings,显示设置,zh-CN
+language settings,语言设置,zh-CN
+region settings,地区设置,zh-CN
+time zone settings,时区设置,zh-CN
+high contrast mode,高对比度模式,zh-CN
+screen reader support,屏幕阅读器支持,zh-CN
+keyboard navigation,键盘导航,zh-CN
+closed caption settings,隐藏式字幕设置,zh-CN
+support center,支持中心,zh-CN
+contact support,联系支持团队,zh-CN
+customer support representative,客户支持专员,zh-CN
+submit a request,提交请求,zh-CN
+support ticket,支持工单,zh-CN
+support ticket number,工单编号,zh-CN
+report a problem,报告问题,zh-CN
+report inappropriate content,举报不当内容,zh-CN
+send feedback,发送反馈,zh-CN
+feedback form,反馈表,zh-CN
+frequently asked questions (FAQ),常见问题 FAQ,zh-CN
+step-by-step instructions,分步说明,zh-CN
+troubleshooting guide,故障排除指南,zh-CN
+service status page,服务状态页面,zh-CN
+scheduled maintenance,计划维护,zh-CN
+temporary service interruption,服务暂时中断,zh-CN
+page not found,找不到页面,zh-CN
+access denied,访问被拒绝,zh-CN
+request timed out,请求超时,zh-CN
+something went wrong,出现问题,zh-CN
+try again later,请稍后重试,zh-CN
+refresh the page,刷新页面,zh-CN
+return to homepage,返回首页,zh-CN
+open in new window,在新窗口中打开,zh-CN
+open in new tab,在新标签页中打开,zh-CN
+copy link address,复制链接地址,zh-CN
+share this page,分享此页面,zh-CN
+print this page,打印此页面,zh-CN
+download as PDF,下载为 PDF,zh-CN
+save for later,稍后保存,zh-CN
+add to favorites,添加到收藏夹,zh-CN
+remove from favorites,从收藏夹移除,zh-CN
+recently viewed,最近浏览,zh-CN
+recommended for you,为您推荐,zh-CN
+related articles,相关文章,zh-CN
+search results,搜索结果,zh-CN
+no results found,未找到结果,zh-CN
+clear search history,清除搜索历史记录,zh-CN
+advanced search,高级搜索,zh-CN
+search filters,搜索筛选条件,zh-CN
+sort by relevance,按相关性排序,zh-CN
+sort by newest,按最新排序,zh-CN
+show more results,显示更多结果,zh-CN
+load more items,加载更多项目,zh-CN
+expand all sections,展开所有部分,zh-CN
+collapse all sections,折叠所有部分,zh-CN
+required field,必填字段,zh-CN
+optional field,选填字段,zh-CN
+invalid entry,输入无效,zh-CN
+please select an option,请选择一个选项,zh-CN
+changes saved,更改已保存,zh-CN
+unsaved changes,未保存的更改,zh-CN
+discard changes,放弃更改,zh-CN
+save your changes,保存更改,zh-CN
+confirm your selection,确认您的选择,zh-CN
+cancel and return,取消并返回,zh-CN
+terms and conditions,条款与条件,zh-CN
+acceptable use policy,可接受使用政策,zh-CN
+community guidelines,社区准则,zh-CN
+copyright notice,版权声明,zh-CN
+all rights reserved,保留所有权利,zh-CN
+effective date,生效日期,zh-CN
+shopping cart,购物车,zh-CN
+add to cart,加入购物车,zh-CN
+add to bag,加入购物袋,zh-CN
+buy it now,立即购买,zh-CN
+continue shopping,继续购物,zh-CN
+proceed to checkout,前往结账,zh-CN
+express checkout,快捷结账,zh-CN
+guest checkout,访客结账,zh-CN
+secure checkout,安全结账,zh-CN
+checkout page,结账页面,zh-CN
+order summary,订单摘要,zh-CN
+order subtotal,订单小计,zh-CN
+estimated total,预计总额,zh-CN
+regular price,原价,zh-CN
+price before tax,税前价格,zh-CN
+price includes tax,价格含税,zh-CN
+estimated tax,预计税费,zh-CN
+value-added tax (VAT),增值税 VAT,zh-CN
+goods and services tax (GST),商品及服务税 GST,zh-CN
+processing fee,处理费,zh-CN
+convenience fee,便利费,zh-CN
+customs duties,关税,zh-CN
+import charges,进口费用,zh-CN
+additional charges may apply,可能会产生额外费用,zh-CN
+discount code,折扣码,zh-CN
+apply discount,使用折扣,zh-CN
+discount applied,已使用折扣,zh-CN
+gift card balance,礼品卡余额,zh-CN
+loyalty points,会员积分,zh-CN
+rewards balance,奖励余额,zh-CN
+limited-time offer,限时优惠,zh-CN
+while supplies last,售完即止,zh-CN
+online exclusive,线上专享,zh-CN
+price match guarantee,价格匹配保证,zh-CN
+lowest price guarantee,最低价保证,zh-CN
+out of stock,缺货,zh-CN
+back in stock,恢复有货,zh-CN
+only a few left,仅剩少量,zh-CN
+available for preorder,可预订,zh-CN
+preorder release date,预订商品发售日期,zh-CN
+expected availability,预计有货时间,zh-CN
+product availability,商品供应情况,zh-CN
+select a size,选择尺码,zh-CN
+select a color,选择颜色,zh-CN
+product dimensions,商品尺寸,zh-CN
+product specifications,商品规格,zh-CN
+product description,商品说明,zh-CN
+product details,商品详情,zh-CN
+product features,商品特点,zh-CN
+materials and care,材质与保养,zh-CN
+care instructions,保养说明,zh-CN
+country of origin,原产国,zh-CN
+manufacturer warranty,制造商保修,zh-CN
+limited warranty,有限保修,zh-CN
+warranty period,保修期,zh-CN
+warranty claim,保修申请,zh-CN
+proof of purchase,购买凭证,zh-CN
+customer reviews,顾客评价,zh-CN
+verified purchase,已验证购买,zh-CN
+write a review,撰写评价,zh-CN
+helpful review,有帮助的评价,zh-CN
+seller information,卖家信息,zh-CN
+sold and shipped by,销售及配送方,zh-CN
+authorized retailer,授权零售商,zh-CN
+third-party seller,第三方卖家,zh-CN
+marketplace seller,平台卖家,zh-CN
+seller rating,卖家评分,zh-CN
+contact the seller,联系卖家,zh-CN
+payment method,付款方式,zh-CN
+preferred payment method,首选付款方式,zh-CN
+add a payment method,添加付款方式,zh-CN
+remove payment method,移除付款方式,zh-CN
+credit card number,信用卡号,zh-CN
+debit card number,借记卡号,zh-CN
+cardholder name,持卡人姓名,zh-CN
+card expiration date,银行卡有效期,zh-CN
+card security code,银行卡安全码,zh-CN
+billing address,账单地址,zh-CN
+shipping address,收货地址,zh-CN
+same as billing address,与账单地址相同,zh-CN
+digital wallet,数字钱包,zh-CN
+bank transfer,银行转账,zh-CN
+electronic funds transfer,电子资金转账,zh-CN
+cash on delivery,货到付款,zh-CN
+buy now pay later,先买后付,zh-CN
+installment plan,分期付款计划,zh-CN
+monthly installment,每月分期付款,zh-CN
+automatic payment,自动付款,zh-CN
+recurring payment,定期付款,zh-CN
+payment authorization,付款授权,zh-CN
+payment confirmation,付款确认,zh-CN
+payment pending,付款处理中,zh-CN
+payment declined,付款被拒绝,zh-CN
+payment failed,付款失败,zh-CN
+payment received,已收到付款,zh-CN
+payment refunded,付款已退回,zh-CN
+duplicate charge,重复扣款,zh-CN
+unauthorized charge,未经授权的扣款,zh-CN
+pending charge,待处理扣款,zh-CN
+transaction history,交易记录,zh-CN
+transaction number,交易编号,zh-CN
+receipt number,收据编号,zh-CN
+electronic receipt,电子收据,zh-CN
+request a receipt,索取收据,zh-CN
+download receipt,下载收据,zh-CN
+invoice address,发票地址,zh-CN
+itemized invoice,明细发票,zh-CN
+purchase date,购买日期,zh-CN
+order confirmed,订单已确认,zh-CN
+order processing,订单处理中,zh-CN
+order canceled,订单已取消,zh-CN
+cancel your order,取消您的订单,zh-CN
+modify your order,修改您的订单,zh-CN
+track your order,跟踪您的订单,zh-CN
+order tracking number,订单跟踪号,zh-CN
+estimated delivery date,预计送达日期,zh-CN
+scheduled delivery date,计划送达日期,zh-CN
+delivery window,送达时间段,zh-CN
+standard shipping,标准配送,zh-CN
+expedited shipping,加急配送,zh-CN
+same-day delivery,当日送达,zh-CN
+next-day delivery,次日送达,zh-CN
+free shipping,免运费,zh-CN
+in-store pickup,到店自取,zh-CN
+curbside pickup,路边取货,zh-CN
+pickup location,取货地点,zh-CN
+pickup instructions,取货说明,zh-CN
+ready for pickup,可以取货,zh-CN
+package shipped,包裹已发出,zh-CN
+package in transit,包裹运输中,zh-CN
+package delayed,包裹延误,zh-CN
+package delivered,包裹已送达,zh-CN
+delivery attempted,已尝试投递,zh-CN
+delivery exception,配送异常,zh-CN
+signature required,需要签收,zh-CN
+leave at the door,放在门口,zh-CN
+delivery instructions,配送说明,zh-CN
+shipping carrier,承运商,zh-CN
+local courier,本地快递公司,zh-CN
+last-mile delivery,末端配送,zh-CN
+package tracking,包裹追踪,zh-CN
+tracking information,追踪信息,zh-CN
+return policy,退货政策,zh-CN
+return window,退货期限,zh-CN
+return eligibility,退货资格,zh-CN
+start a return,发起退货,zh-CN
+return authorization,退货授权,zh-CN
+return merchandise authorization (RMA),退货授权 RMA,zh-CN
+return shipping label,退货运单标签,zh-CN
+prepaid return label,预付费退货标签,zh-CN
+return shipping fee,退货运费,zh-CN
+return to store,到店退货,zh-CN
+exchange an item,换货,zh-CN
+replacement item,替换商品,zh-CN
+refund method,退款方式,zh-CN
+refund status,退款状态,zh-CN
+refund processing time,退款处理时间,zh-CN
+partial refund,部分退款,zh-CN
+original payment method,原付款方式,zh-CN
+store credit refund,以商店余额退款,zh-CN
+defective item,商品有缺陷,zh-CN
+wrong item received,收到错误商品,zh-CN
+package not received,未收到包裹,zh-CN
+report a delivery issue,报告配送问题,zh-CN
+travel itinerary,旅行行程,zh-CN
+trip itinerary,出行行程,zh-CN
+departure date,出发日期,zh-CN
+travel destination,旅行目的地,zh-CN
+point of departure,出发地点,zh-CN
+multi-city trip,多城市行程,zh-CN
+direct flight,直飞航班,zh-CN
+connecting flight,转机航班,zh-CN
+nonstop flight,不经停航班,zh-CN
+flight number,航班号,zh-CN
+flight schedule,航班时刻表,zh-CN
+flight status,航班状态,zh-CN
+flight duration,飞行时长,zh-CN
+departure time,出发时间,zh-CN
+estimated departure time,预计起飞时间,zh-CN
+estimated arrival time,预计到达时间,zh-CN
+scheduled departure time,计划起飞时间,zh-CN
+scheduled arrival time,计划到达时间,zh-CN
+departure airport,出发机场,zh-CN
+arrival airport,到达机场,zh-CN
+origin airport,始发机场,zh-CN
+destination airport,目的地机场,zh-CN
+departure terminal,出发航站楼,zh-CN
+arrival terminal,到达航站楼,zh-CN
+terminal transfer,航站楼间转乘,zh-CN
+airport transfer,机场接送,zh-CN
+airport shuttle,机场班车,zh-CN
+airport lounge,机场休息室,zh-CN
+lounge access,休息室使用资格,zh-CN
+airport security checkpoint,机场安检口,zh-CN
+security screening,安全检查,zh-CN
+passport control,护照查验,zh-CN
+border control,边境检查,zh-CN
+customs declaration,海关申报,zh-CN
+customs inspection,海关检查,zh-CN
+immigration officer,移民检查官,zh-CN
+entry requirements,入境要求,zh-CN
+exit requirements,出境要求,zh-CN
+visa requirements,签证要求,zh-CN
+visa application,签证申请,zh-CN
+visa appointment,签证预约,zh-CN
+visa processing time,签证处理时间,zh-CN
+visa-free entry,免签入境,zh-CN
+visa on arrival,落地签证,zh-CN
+electronic travel authorization,电子旅行授权,zh-CN
+travel document,旅行证件,zh-CN
+passport number,护照号码,zh-CN
+passport expiration date,护照有效期,zh-CN
+passport validity,护照有效期限,zh-CN
+country of citizenship,国籍所属国,zh-CN
+country of residence,居住国,zh-CN
+place of birth,出生地,zh-CN
+emergency contact,紧急联系人,zh-CN
+trip cancellation insurance,行程取消保险,zh-CN
+travel medical insurance,旅行医疗保险,zh-CN
+insurance policy number,保险单号,zh-CN
+insurance coverage,保险保障范围,zh-CN
+file an insurance claim,提出保险理赔申请,zh-CN
+airline reservation,航空公司预订,zh-CN
+reservation number,预订编号,zh-CN
+booking reference,预订参考编号,zh-CN
+confirmation number,确认编号,zh-CN
+electronic ticket,电子客票,zh-CN
+airline ticket number,机票票号,zh-CN
+passenger name,乘客姓名,zh-CN
+passenger details,乘客信息,zh-CN
+frequent flyer number,常旅客会员号,zh-CN
+frequent flyer program,常旅客计划,zh-CN
+loyalty program number,会员计划编号,zh-CN
+seat selection,选座,zh-CN
+seat assignment,座位分配,zh-CN
+extra-legroom seat,加大腿部空间座位,zh-CN
+accessible seating,无障碍座位,zh-CN
+traveling with an infant,携带婴儿出行,zh-CN
+unaccompanied minor,无成人陪伴儿童,zh-CN
+special assistance,特殊协助,zh-CN
+wheelchair assistance,轮椅协助,zh-CN
+mobility assistance,行动协助,zh-CN
+dietary requirements,饮食要求,zh-CN
+special meal request,特殊餐食申请,zh-CN
+check-in online,网上办理值机,zh-CN
+airport check-in,机场办理值机,zh-CN
+check-in deadline,值机截止时间,zh-CN
+boarding pass,登机牌,zh-CN
+mobile boarding pass,手机登机牌,zh-CN
+boarding time,登机时间,zh-CN
+boarding gate,登机口,zh-CN
+final boarding call,最后登机通知,zh-CN
+boarding group,登机组别,zh-CN
+priority boarding,优先登机,zh-CN
+missed flight,误机,zh-CN
+missed connection,错过转机航班,zh-CN
+flight delayed,航班延误,zh-CN
+flight canceled,航班取消,zh-CN
+flight disruption,航班运行中断,zh-CN
+rebook your flight,改订航班,zh-CN
+alternate flight,替代航班,zh-CN
+standby passenger,候补乘客,zh-CN
+same-day flight change,当日航班变更,zh-CN
+flight change fee,航班变更费,zh-CN
+ticket cancellation,机票取消,zh-CN
+refundable ticket,可退机票,zh-CN
+nonrefundable ticket,不可退机票,zh-CN
+travel voucher,旅行代金券,zh-CN
+airline credit,航空公司抵用金,zh-CN
+fare difference,票价差额,zh-CN
+economy class,经济舱,zh-CN
+premium economy,超级经济舱,zh-CN
+business class,商务舱,zh-CN
+first class cabin,头等舱,zh-CN
+checked baggage,托运行李,zh-CN
+carry-on baggage,随身行李,zh-CN
+personal item allowance,随身小件行李限额,zh-CN
+baggage allowance,行李限额,zh-CN
+excess baggage fee,超额行李费,zh-CN
+oversized baggage,超大行李,zh-CN
+overweight baggage,超重行李,zh-CN
+special baggage,特殊行李,zh-CN
+baggage claim,行李提取处,zh-CN
+baggage carousel,行李转盘,zh-CN
+delayed baggage,行李延误,zh-CN
+damaged baggage,行李损坏,zh-CN
+baggage service desk,行李服务柜台,zh-CN
+ground transportation,地面交通,zh-CN
+public transportation,公共交通,zh-CN
+train station,火车站,zh-CN
+railway station,铁路车站,zh-CN
+coach station,长途客运站,zh-CN
+subway station,地铁站,zh-CN
+metro station,地铁站,zh-CN
+light rail station,轻轨车站,zh-CN
+ferry terminal,渡轮码头,zh-CN
+rideshare pickup area,网约车上客区,zh-CN
+car rental counter,租车柜台,zh-CN
+rental car reservation,租车预订,zh-CN
+car rental agreement,租车协议,zh-CN
+primary driver,主要驾驶人,zh-CN
+additional driver,附加驾驶人,zh-CN
+driver's license number,驾驶证号码,zh-CN
+international driving permit,国际驾驶许可证,zh-CN
+vehicle class,车辆级别,zh-CN
+vehicle pickup location,取车地点,zh-CN
+vehicle return location,还车地点,zh-CN
+full-to-full fuel policy,满油取还政策,zh-CN
+unlimited mileage,不限里程,zh-CN
+mileage allowance,里程额度,zh-CN
+collision damage waiver,碰撞损失免责,zh-CN
+loss damage waiver,车辆损失免责,zh-CN
+roadside assistance,道路救援,zh-CN
+parking charges,停车费,zh-CN
+traffic congestion,交通拥堵,zh-CN
+service disruption,服务中断,zh-CN
+replacement bus service,替代巴士服务,zh-CN
+platform number,站台号,zh-CN
+railway track number,铁路股道号,zh-CN
+carriage number,车厢号,zh-CN
+reserved seat,预留座位,zh-CN
+quiet carriage,安静车厢,zh-CN
+peak travel hours,出行高峰时段,zh-CN
+off-peak fare,非高峰票价,zh-CN
+single-ride ticket,单次乘车票,zh-CN
+contactless payment accepted,支持非接触式支付,zh-CN
+tap in and tap out,进出站刷卡,zh-CN
+service advisory,运营提示,zh-CN
+hotel reservation,酒店预订,zh-CN
+property address,房产地址,zh-CN
+accommodation amenities,住宿设施,zh-CN
+room availability,客房供应情况,zh-CN
+average nightly rate,平均每晚房价,zh-CN
+total stay price,住宿总价,zh-CN
+destination fee,目的地附加费,zh-CN
+security deposit,押金,zh-CN
+incidental deposit,杂费押金,zh-CN
+damage deposit,损坏押金,zh-CN
+check-in date,入住日期,zh-CN
+check-out date,退房日期,zh-CN
+check-in time,入住时间,zh-CN
+check-out time,退房时间,zh-CN
+early check-in,提前入住,zh-CN
+late check-out,延迟退房,zh-CN
+reception desk,接待处,zh-CN
+concierge service,礼宾服务,zh-CN
+luggage storage,行李寄存,zh-CN
+housekeeping service,客房清洁服务,zh-CN
+daily housekeeping,每日客房清洁,zh-CN
+do not disturb,请勿打扰,zh-CN
+turndown service,夜床服务,zh-CN
+complimentary breakfast,免费早餐,zh-CN
+breakfast included,包含早餐,zh-CN
+accessible room,无障碍客房,zh-CN
+connecting rooms,相连客房,zh-CN
+adjoining rooms,相邻客房,zh-CN
+suite upgrade,套房升级,zh-CN
+crib available,可提供婴儿床,zh-CN
+maximum occupancy,最多入住人数,zh-CN
+number of guests,住客人数,zh-CN
+primary guest,主要住客,zh-CN
+additional guest,额外住客,zh-CN
+special requests,特殊要求,zh-CN
+non-smoking room,无烟客房,zh-CN
+pet-friendly property,允许携带宠物的住宿,zh-CN
+hotel cancellation policy,酒店取消政策,zh-CN
+free cancellation,免费取消,zh-CN
+nonrefundable rate,不可退款房价,zh-CN
+no-show charge,未入住费用,zh-CN
+modify your reservation,修改您的预订,zh-CN
+cancel your reservation,取消您的预订,zh-CN
+booking confirmation email,预订确认邮件,zh-CN
+work schedule,工作安排,zh-CN
+business hours,营业时间,zh-CN
+flexible working hours,弹性工作时间,zh-CN
+core working hours,核心工作时间,zh-CN
+full-time position,全职职位,zh-CN
+part-time position,兼职职位,zh-CN
+temporary position,临时职位,zh-CN
+permanent position,长期职位,zh-CN
+fixed-term contract,固定期限合同,zh-CN
+independent contractor,独立承包人,zh-CN
+contract employee,合同制员工,zh-CN
+hourly employee,时薪员工,zh-CN
+salaried employee,薪资制员工,zh-CN
+remote position,远程职位,zh-CN
+hybrid position,混合办公职位,zh-CN
+on-site position,现场办公职位,zh-CN
+job description,职位说明,zh-CN
+position summary,职位概述,zh-CN
+key responsibilities,主要职责,zh-CN
+required qualifications,必备资格,zh-CN
+preferred qualifications,优先资格,zh-CN
+minimum requirements,最低要求,zh-CN
+relevant experience,相关经验,zh-CN
+years of experience,工作年限,zh-CN
+educational background,教育背景,zh-CN
+professional certification,专业认证,zh-CN
+employment eligibility,就业资格,zh-CN
+work authorization,工作许可,zh-CN
+visa sponsorship,工作签证担保,zh-CN
+equal opportunity employer,平等机会雇主,zh-CN
+reasonable accommodation,合理便利措施,zh-CN
+annual salary,年薪,zh-CN
+starting salary,起薪,zh-CN
+salary expectations,期望薪资,zh-CN
+compensation package,薪酬方案,zh-CN
+performance bonus,绩效奖金,zh-CN
+signing bonus,签约奖金,zh-CN
+employee benefits,员工福利,zh-CN
+health insurance benefits,健康保险福利,zh-CN
+retirement benefits,退休福利,zh-CN
+paid time off (PTO),带薪休假 PTO,zh-CN
+paid sick leave,带薪病假,zh-CN
+parental leave,育儿假,zh-CN
+bereavement leave,丧亲假,zh-CN
+public holiday pay,公共假日薪酬,zh-CN
+employee discount,员工折扣,zh-CN
+professional development budget,职业发展预算,zh-CN
+tuition reimbursement,学费补助,zh-CN
+commuter benefits,通勤福利,zh-CN
+job application,求职申请,zh-CN
+application deadline,申请截止日期,zh-CN
+application status,申请状态,zh-CN
+application materials,申请材料,zh-CN
+online application form,在线申请表,zh-CN
+employment application,就业申请表,zh-CN
+curriculum vitae (CV),个人简历 CV,zh-CN
+professional résumé,职业简历,zh-CN
+writing sample,写作样本,zh-CN
+portfolio link,作品集链接,zh-CN
+professional references,职业推荐人,zh-CN
+reference check,推荐人核查,zh-CN
+background check,背景调查,zh-CN
+criminal background check,犯罪记录背景调查,zh-CN
+employment verification,工作经历核验,zh-CN
+education verification,学历核验,zh-CN
+screening questionnaire,筛选问卷,zh-CN
+phone screening interview,电话初筛面试,zh-CN
+video interview,视频面试,zh-CN
+in-person interview,现场面试,zh-CN
+panel interview,小组面试,zh-CN
+technical interview,技术面试,zh-CN
+behavioral interview,行为面试,zh-CN
+interview schedule,面试安排,zh-CN
+interview availability,可面试时间,zh-CN
+interview confirmation,面试确认,zh-CN
+interview feedback,面试反馈,zh-CN
+hiring manager,招聘经理,zh-CN
+recruiting coordinator,招聘协调员,zh-CN
+talent acquisition team,人才招聘团队,zh-CN
+conditional job offer,有条件录用通知,zh-CN
+offer expiration date,录用通知有效期,zh-CN
+accept the offer,接受录用,zh-CN
+decline the offer,拒绝录用,zh-CN
+notice period,离职通知期,zh-CN
+probationary period,试用期,zh-CN
+employment agreement,劳动合同,zh-CN
+confidentiality agreement,保密协议,zh-CN
+non-disclosure agreement (NDA),保密协议 NDA,zh-CN
+non-compete agreement,竞业禁止协议,zh-CN
+employee handbook,员工手册,zh-CN
+code of conduct,行为准则,zh-CN
+workplace policy,工作场所政策,zh-CN
+onboarding process,入职流程,zh-CN
+new hire orientation,新员工培训,zh-CN
+employee identification number,员工编号,zh-CN
+payroll information,工资发放信息,zh-CN
+direct deposit form,工资直接存款表,zh-CN
+tax withholding form,预扣税表,zh-CN
+emergency contact form,紧急联系人表,zh-CN
+performance review,绩效评估,zh-CN
+annual performance review,年度绩效评估,zh-CN
+career development plan,职业发展计划,zh-CN
+promotion opportunity,晋升机会,zh-CN
+internal job posting,内部招聘信息,zh-CN
+notice of resignation,辞职通知,zh-CN
+exit interview,离职面谈,zh-CN
+final paycheck,最后一笔工资,zh-CN
+severance pay,遣散费,zh-CN
+termination of employment,终止雇佣关系,zh-CN
+workplace meeting,工作会议,zh-CN
+meeting agenda,会议议程,zh-CN
+meeting minutes,会议纪要,zh-CN
+meeting invitation,会议邀请,zh-CN
+meeting organizer,会议组织者,zh-CN
+meeting attendees,参会人员,zh-CN
+conference room,会议室,zh-CN
+video conference link,视频会议链接,zh-CN
+dial-in number,电话接入号码,zh-CN
+calendar invitation,日历邀请,zh-CN
+accept the invitation,接受邀请,zh-CN
+decline the invitation,拒绝邀请,zh-CN
+propose a new time,建议新时间,zh-CN
+tentative response,暂定回复,zh-CN
+out of office,不在办公室,zh-CN
+out-of-office reply,外出自动回复,zh-CN
+working remotely,远程办公,zh-CN
+annual leave request,年假申请,zh-CN
+time-off request,休假申请,zh-CN
+expense report,费用报销单,zh-CN
+expense reimbursement,费用报销,zh-CN
+business travel request,商务出差申请,zh-CN
+purchase requisition,采购申请,zh-CN
+approval workflow,审批流程,zh-CN
+document approval,文件审批,zh-CN
+electronic signature,电子签名,zh-CN
+signature request,签名请求,zh-CN
+shared workspace,共享工作区,zh-CN
+shared document,共享文档,zh-CN
+view-only access,仅查看权限,zh-CN
+comment-only access,仅评论权限,zh-CN
+editing access,编辑权限,zh-CN
+request access,申请访问权限,zh-CN
+access granted,已授予访问权限,zh-CN
+access revoked,访问权限已撤销,zh-CN
+version history,版本历史记录,zh-CN
+Microsoft Word Track Changes,Microsoft Word 修订功能,zh-CN
+suggesting mode,建议模式,zh-CN
+resolve a comment,将评论标记为已解决,zh-CN
+assign a task,分配任务,zh-CN
+task deadline,任务截止日期,zh-CN
+project deadline,项目截止日期,zh-CN
+project milestone,项目里程碑,zh-CN
+project status update,项目状态更新,zh-CN
+academic year,学年,zh-CN
+enrollment period,注册入学期,zh-CN
+admissions office,招生办公室,zh-CN
+admission requirements,入学要求,zh-CN
+application fee,申请费,zh-CN
+tuition and fees,学费及杂费,zh-CN
+financial aid application,助学金申请,zh-CN
+scholarship application,奖学金申请,zh-CN
+student identification number,学号,zh-CN
+course catalog,课程目录,zh-CN
+course registration,选课注册,zh-CN
+prerequisite course,先修课程,zh-CN
+class schedule,课程表,zh-CN
+course syllabus,课程大纲,zh-CN
+learning objectives,学习目标,zh-CN
+assignment deadline,作业截止日期,zh-CN
+grading policy,评分政策,zh-CN
+academic transcript,学业成绩单,zh-CN
+enrollment verification,在读证明,zh-CN
+graduation requirements,毕业要求,zh-CN
+rental application,租房申请,zh-CN
+lease agreement,租赁协议,zh-CN
+rental security deposit,租房押金,zh-CN
+move-out date,搬出日期,zh-CN
+property manager,物业经理,zh-CN
+maintenance request,维修申请,zh-CN
+emergency maintenance,紧急维修,zh-CN
+electricity service,供电服务,zh-CN
+water service,供水服务,zh-CN
+natural gas service,天然气服务,zh-CN
+internet service provider,互联网服务提供商,zh-CN
+renter's insurance,租客保险,zh-CN
+proof of income,收入证明,zh-CN
+tenant screening,租客审查,zh-CN
+rental history,租房记录,zh-CN
+notice to vacate,搬离通知,zh-CN
+lease renewal,续租,zh-CN
+breaking news alert,突发新闻提醒,zh-CN
+live news coverage,新闻直播报道,zh-CN
+news analysis,新闻分析,zh-CN
+opinion column,观点专栏,zh-CN
+editorial board,编委会,zh-CN
+public statement,公开声明,zh-CN
+fact-checking report,事实核查报告,zh-CN
+correction notice,更正声明,zh-CN
+content warning,内容警告,zh-CN
+sensitive content,敏感内容,zh-CN
+community post,社区帖子,zh-CN
+direct message,私信,zh-CN
+private message,私人消息,zh-CN
+friend request,好友请求,zh-CN
+follow request,关注请求,zh-CN
+blocked account,已屏蔽账户,zh-CN
+muted account,已静音账户,zh-CN
+verified account,已认证账户,zh-CN
+sponsored content,赞助内容,zh-CN
+United Nations (UN),联合国 UN,zh-CN
+World Health Organization (WHO),世界卫生组织 WHO,zh-CN
+World Trade Organization (WTO),世界贸易组织 WTO,zh-CN
+World Bank Group,世界银行集团,zh-CN
+European Union (EU),欧洲联盟 EU,zh-CN
+North Atlantic Treaty Organization (NATO),北大西洋公约组织 NATO,zh-CN
+Organisation for Economic Co-operation and Development (OECD),经济合作与发展组织 OECD,zh-CN
+International Labour Organization (ILO),国际劳工组织 ILO,zh-CN
+International Civil Aviation Organization (ICAO),国际民用航空组织 ICAO,zh-CN
+International Air Transport Association (IATA),国际航空运输协会 IATA,zh-CN
+International Organization for Standardization (ISO),国际标准化组织 ISO,zh-CN
+Internal Revenue Service (IRS),美国国税局 IRS,zh-CN
+Transportation Security Administration (TSA),美国运输安全管理局 TSA,zh-CN
+Department of Motor Vehicles (DMV),机动车辆管理局 DMV,zh-CN
+Social Security Administration (SSA),美国社会保障局 SSA,zh-CN
+Centers for Disease Control and Prevention (CDC),美国疾病控制与预防中心 CDC,zh-CN
+Food and Drug Administration (FDA),美国食品药品监督管理局 FDA,zh-CN
+United States Postal Service (USPS),美国邮政署 USPS,zh-CN
+National Weather Service (NWS),美国国家气象局 NWS,zh-CN
+Federal Emergency Management Agency (FEMA),美国联邦紧急事务管理署 FEMA,zh-CN
+Consumer Financial Protection Bureau (CFPB),美国消费者金融保护局 CFPB,zh-CN
