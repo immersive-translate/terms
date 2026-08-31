@@ -1,0 +1,949 @@
+source,target,tgt_lng
+dialogue editing,对白编辑,zh-CN
+dialogue editor,对白编辑师,zh-CN
+dialogue track,对白音轨,zh-CN
+dialogue stem,对白分轨,zh-CN
+production dialogue,同期对白,zh-CN
+production sound,同期声,zh-CN
+production audio,同期录音素材,zh-CN
+production sound mixer,现场录音师,zh-CN
+location sound recordist,同期录音师,zh-CN
+sound utility,录音助理,zh-CN
+boom track,吊杆话筒音轨,zh-CN
+boom microphone,吊杆话筒,zh-CN
+plant microphone,隐藏式固定麦克风,zh-CN
+lavalier microphone,领夹麦克风,zh-CN
+lavalier track,领夹麦克风音轨,zh-CN
+radio microphone,无线话筒,zh-CN
+wireless microphone system,无线话筒系统,zh-CN
+iso track,独立隔离音轨,zh-CN
+mix track,现场混合音轨,zh-CN
+guide track,参考音轨,zh-CN
+scratch track,临时参考音轨,zh-CN
+camera scratch audio,机内参考声,zh-CN
+wild track,单录声,zh-CN
+wild line,单录对白,zh-CN
+wild sound,单录声音,zh-CN
+room tone,房间底噪,zh-CN
+presence track,环境底声轨,zh-CN
+background ambience,背景环境声,zh-CN
+set noise,片场噪声,zh-CN
+location ambience,现场环境声,zh-CN
+sound report,录音报告,zh-CN
+sound roll,录音卷号,zh-CN
+tape name,素材卷名,zh-CN
+scene metadata,场次元数据,zh-CN
+take metadata,条次元数据,zh-CN
+circled take,圈选条次,zh-CN
+channel name,通道名称,zh-CN
+track name,音轨名称,zh-CN
+BWF metadata,BWF 元数据,zh-CN
+iXML metadata,iXML 元数据,zh-CN
+timecode stamp,时间码时间戳,zh-CN
+original timestamp,原始时间戳,zh-CN
+source timecode,源时间码,zh-CN
+user bits,用户位,zh-CN
+jam sync,时间码校准同步,zh-CN
+timecode drift,时间码漂移,zh-CN
+sample drift,采样漂移,zh-CN
+clock drift,时钟漂移,zh-CN
+double-system sound,双系统录音,zh-CN
+single-system sound,单系统录音,zh-CN
+dual-system sync,双系统同步,zh-CN
+sync sound,同期声,zh-CN
+sync point,同步点,zh-CN
+sync mark,同步标记点,zh-CN
+clapper slate,场记板,zh-CN
+tail slate,尾板,zh-CN
+sync map,同步对应表,zh-CN
+sound turnover,声音交接,zh-CN
+picture turnover,画面交接,zh-CN
+turnover materials,交接素材,zh-CN
+locked picture,锁定画面,zh-CN
+picture lock,锁画,zh-CN
+reconform,重新套剪,zh-CN
+change list,画面修改清单,zh-CN
+cut list,剪辑清单,zh-CN
+edit decision list,剪辑决定表,zh-CN
+Advanced Authoring Format (AAF),高级制作格式,zh-CN
+Open Media Framework (OMF),开放媒体框架,zh-CN
+embedded AAF,内嵌媒体的 AAF,zh-CN
+linked AAF,链接媒体的 AAF,zh-CN
+audio handles,音频剪辑余量,zh-CN
+source clip,源片段,zh-CN
+matching field recorder channel,匹配的现场录音通道,zh-CN
+field recorder workflow,现场录音机工作流程,zh-CN
+polyphonic WAV,多通道交织 WAV 文件,zh-CN
+monophonic WAV,单声道 WAV 文件,zh-CN
+split mono,拆分为单声道,zh-CN
+BWAV,广播波形文件,zh-CN
+interleaved audio,交织音频,zh-CN
+deinterleaved audio,非交织音频,zh-CN
+clip list,片段列表,zh-CN
+region group,区域组,zh-CN
+clip group,片段组,zh-CN
+clip gain,片段增益,zh-CN
+dynamic clip gain,动态片段增益,zh-CN
+volume automation,音量自动化,zh-CN
+pan automation,声像自动化,zh-CN
+plug-in automation,插件参数自动化,zh-CN
+breakpoint automation,断点自动化,zh-CN
+automation mode,自动化模式,zh-CN
+write automation,写入自动化,zh-CN
+trim automation,微调自动化,zh-CN
+write to selection,写入选区,zh-CN
+coalesce automation,合并自动化数据,zh-CN
+checkerboarding,棋盘式交错铺轨,zh-CN
+checkerboard editing,棋盘式交错剪辑,zh-CN
+track layout,音轨布局,zh-CN
+session template,工程模板,zh-CN
+session setup,工程设置,zh-CN
+session sample rate,工程采样率,zh-CN
+session start time,工程起始时间码,zh-CN
+two-pop,两秒同步爆点,zh-CN
+tail pop,尾部同步爆点,zh-CN
+academy leader,学院片头,zh-CN
+first frame of action,动作首帧,zh-CN
+last frame of action,动作末帧,zh-CN
+footage reference,画面参考,zh-CN
+reference video,参考视频,zh-CN
+video satellite,视频卫星系统,zh-CN
+dialogue assembly,对白素材组接,zh-CN
+dialogue conform,对白套剪,zh-CN
+dialogue premix,对白预混,zh-CN
+dialogue cleanup,对白清理,zh-CN
+dialogue isolation,对白分离,zh-CN
+dialogue matching,对白音色匹配,zh-CN
+dialogue replacement,对白替换,zh-CN
+dialogue intelligibility,对白可懂度,zh-CN
+dialogue clarity,对白清晰感,zh-CN
+dialogue perspective,对白空间透视,zh-CN
+dialogue continuity,对白声音连续性,zh-CN
+dialogue editing pass,对白编辑轮次,zh-CN
+alternate take,备选条次,zh-CN
+alternate channel,备选通道,zh-CN
+channel swap,通道替换,zh-CN
+line-by-line edit,逐句编辑,zh-CN
+word edit,词级编辑,zh-CN
+syllable edit,音节级编辑,zh-CN
+phoneme edit,音素级编辑,zh-CN
+fill track,填补音轨,zh-CN
+fill ambience,填补环境底声,zh-CN
+room-tone fill,房间底噪填补,zh-CN
+air fill,空气感底声填补,zh-CN
+audio crossfade,音频交叉淡化,zh-CN
+equal-power crossfade,等功率交叉淡化,zh-CN
+equal-gain crossfade,等增益交叉淡化,zh-CN
+audio fade-in,音频淡入,zh-CN
+audio fade-out,音频淡出,zh-CN
+edit seam,剪辑接缝,zh-CN
+click removal,咔嗒声去除,zh-CN
+mouth click,口腔杂音,zh-CN
+lip smack,咂嘴声,zh-CN
+saliva noise,口水声,zh-CN
+plosive,爆破音,zh-CN
+sibilance,齿音,zh-CN
+breath edit,呼吸声编辑,zh-CN
+de-breath,呼吸声抑制,zh-CN
+clothing rustle,衣物摩擦声,zh-CN
+lav rustle,领夹话筒摩擦声,zh-CN
+handling noise,操作噪声,zh-CN
+boom bump,吊杆碰撞声,zh-CN
+mic bump,话筒碰撞声,zh-CN
+RF interference,射频干扰,zh-CN
+RF hit,射频瞬间干扰,zh-CN
+radio dropout,无线信号掉线,zh-CN
+cellphone interference,手机射频干扰,zh-CN
+electrical hum,电源嗡声,zh-CN
+ground-loop hum,地环路嗡声,zh-CN
+mains hum,市电工频嗡声,zh-CN
+audio buzz,音频蜂鸣噪声,zh-CN
+audio hiss,音频嘶声,zh-CN
+broadband noise,宽带噪声,zh-CN
+stationary noise,稳态噪声,zh-CN
+intermittent noise,间歇噪声,zh-CN
+impulsive noise,脉冲噪声,zh-CN
+wind noise,风噪声,zh-CN
+traffic noise,交通噪声,zh-CN
+camera noise,摄影机噪声,zh-CN
+generator noise,发电机噪声,zh-CN
+HVAC noise,暖通空调噪声,zh-CN
+background noise,背景噪声,zh-CN
+noise floor,噪声底,zh-CN
+signal-to-noise ratio,信噪比,zh-CN
+audio denoising,音频降噪,zh-CN
+dialogue denoise,对白降噪,zh-CN
+spectral denoise,频谱降噪,zh-CN
+adaptive denoise,自适应降噪,zh-CN
+voice denoise,人声降噪,zh-CN
+de-hum,嗡声消除,zh-CN
+de-buzz,蜂鸣声消除,zh-CN
+de-click,咔嗒声消除,zh-CN
+de-crackle,噼啪声消除,zh-CN
+de-plosive,爆破音抑制,zh-CN
+de-rustle,衣物摩擦声抑制,zh-CN
+de-wind,风噪抑制,zh-CN
+de-reverb,去混响,zh-CN
+de-clip,削波修复,zh-CN
+declipping,削波修复,zh-CN
+spectral repair,频谱修复,zh-CN
+spectral editing,频谱编辑,zh-CN
+spectrogram,声谱图,zh-CN
+frequency selection,频率选区,zh-CN
+harmonic selection,谐波选区,zh-CN
+ambience match,环境底声匹配,zh-CN
+room-tone match,房间底噪匹配,zh-CN
+audio restoration,音频修复,zh-CN
+source separation,声源分离,zh-CN
+dialogue stem separation,对白分轨分离,zh-CN
+audio processing artifact,音频处理伪影,zh-CN
+musical noise,音乐噪声,zh-CN
+phase artifact,相位伪影,zh-CN
+comb filtering,梳状滤波,zh-CN
+noise print,噪声指纹,zh-CN
+noise-reduction threshold,降噪阈值,zh-CN
+spectral-noise reduction smoothing,频谱降噪平滑度,zh-CN
+auditory masking,听觉掩蔽,zh-CN
+automated dialogue replacement (ADR),后期对白补录,zh-CN
+ADR recording,ADR 录音,zh-CN
+ADR session,ADR 录音场次,zh-CN
+ADR stage,ADR 录音棚,zh-CN
+ADR mixer,ADR 录音师,zh-CN
+ADR editor,ADR 编辑师,zh-CN
+ADR supervisor,ADR 主管,zh-CN
+ADR cue,ADR 提示条目,zh-CN
+ADR cue sheet,ADR 提示单,zh-CN
+ADR spotting,ADR 定点,zh-CN
+ADR line,ADR 台词,zh-CN
+ADR take,ADR 录音条次,zh-CN
+ADR loop,ADR 循环片段,zh-CN
+loop group,群杂配音组,zh-CN
+group ADR,群杂对白录音,zh-CN
+walla crowd sound,群杂人声,zh-CN
+crowd walla,人群杂声,zh-CN
+ADR vocal efforts,ADR 动作发声,zh-CN
+breaths and efforts,呼吸与动作气声,zh-CN
+vocal exertion,用力发声,zh-CN
+sync ADR,同步 ADR,zh-CN
+non-sync ADR,非同步 ADR,zh-CN
+ADR beeps,ADR 提示音,zh-CN
+three-beep cue,三声提示,zh-CN
+streamer and punch,光带与闪点提示,zh-CN
+wipe cue,扫带提示,zh-CN
+cueing system,配音提示系统,zh-CN
+loop recording,循环录音,zh-CN
+record pass,录音遍次,zh-CN
+lip sync,口型同步,zh-CN
+sync performance,同步表演,zh-CN
+performance match,表演匹配,zh-CN
+projection match,发声状态匹配,zh-CN
+ADR matching,ADR 音色匹配,zh-CN
+production-match EQ,同期声匹配均衡,zh-CN
+ADR reverb,ADR 空间混响,zh-CN
+ADR edit,ADR 编辑,zh-CN
+ADR conform,ADR 套剪,zh-CN
+ADR comp,ADR 选段合成,zh-CN
+Foley sound effects,拟音效果,zh-CN
+Foley artist,拟音师,zh-CN
+Foley mixer,拟音录音师,zh-CN
+Foley editor,拟音编辑师,zh-CN
+Foley stage,拟音棚,zh-CN
+Foley session,拟音录制场次,zh-CN
+Foley cue,拟音提示条目,zh-CN
+Foley cue sheet,拟音提示单,zh-CN
+Foley spotting,拟音定点,zh-CN
+Foley pass,拟音录制遍次,zh-CN
+Foley coverage,拟音覆盖,zh-CN
+Foley track,拟音音轨,zh-CN
+Foley premix,拟音预混,zh-CN
+Foley prop,拟音道具,zh-CN
+Foley pit,拟音坑,zh-CN
+Foley footsteps,拟音脚步声,zh-CN
+footstep pass,脚步拟音遍次,zh-CN
+walk cycle,步态循环,zh-CN
+shoe choice,鞋类选择,zh-CN
+Foley walking surface,拟音行走表面材质,zh-CN
+cloth pass,衣物声拟音遍次,zh-CN
+cloth movement,衣物活动声,zh-CN
+props pass,道具拟音遍次,zh-CN
+hand props,手持道具声,zh-CN
+body fall,身体倒地声,zh-CN
+body movement,身体动作声,zh-CN
+Foley grab sound,抓握拟音,zh-CN
+Foley set-down sound,放置拟音,zh-CN
+Foley pickup sound,拿取拟音,zh-CN
+contact sound,接触声,zh-CN
+sync Foley,同步拟音,zh-CN
+Foley sweetener,拟音强化层,zh-CN
+hard effects,硬音效,zh-CN
+soft effects,软音效,zh-CN
+sound effects,音效,zh-CN
+sound effects (SFX),音效,zh-CN
+FX stem,音效分轨,zh-CN
+sound effects editor,音效编辑师,zh-CN
+sound effects mixer,音效混音师,zh-CN
+sound effects library,音效素材库,zh-CN
+library effect,素材库音效,zh-CN
+custom-recorded effect,定制录制音效,zh-CN
+production effect,同期效果声,zh-CN
+production effects (PFX),同期效果声,zh-CN
+practical sound,实拍声效,zh-CN
+designed effect,设计音效,zh-CN
+signature sound,标志性声音,zh-CN
+one-shot sound effect,单次音效,zh-CN
+loopable ambience,可循环环境声,zh-CN
+ambience bed,环境声底,zh-CN
+background sound effects,背景环境音效,zh-CN
+BG stem,背景声分轨,zh-CN
+specific ambience,特定环境声,zh-CN
+room ambience,室内环境声,zh-CN
+exterior ambience,室外环境声,zh-CN
+air tone,空气底声,zh-CN
+city tone,城市环境底声,zh-CN
+country tone,乡野环境底声,zh-CN
+traffic bed,交通环境底声,zh-CN
+crowd bed,人群环境底声,zh-CN
+soundscape,声景,zh-CN
+sound design,声音设计,zh-CN
+supervising sound editor,声音剪辑指导,zh-CN
+sound supervisor,声音总监,zh-CN
+sound editorial,声音剪辑部门,zh-CN
+sound editorial crew,声音剪辑团队,zh-CN
+sound motif,声音母题,zh-CN
+sonic motif,声音母题,zh-CN
+sonic texture,声音质感,zh-CN
+tonal effect,音调型音效,zh-CN
+non-tonal effect,非音调型音效,zh-CN
+diegetic sound,故事世界内声音,zh-CN
+non-diegetic sound,故事世界外声音,zh-CN
+on-screen sound,画面内声源声,zh-CN
+off-screen sound,画外声源声,zh-CN
+subjective sound,主观声音,zh-CN
+objective sound,客观声音,zh-CN
+internal sound,内心声音,zh-CN
+sound bridge,声音桥,zh-CN
+pre-lap,声音先入,zh-CN
+sound advance,声音先行,zh-CN
+sound overlap,声音叠接,zh-CN
+J-cut,J形剪辑,zh-CN
+L-cut,L形剪辑,zh-CN
+point of audition,听觉视点,zh-CN
+perspective shift,声音透视变化,zh-CN
+proximity effect,近讲效应,zh-CN
+Doppler effect,多普勒效应,zh-CN
+sound occlusion,声音遮挡,zh-CN
+sound obstruction,声音阻隔,zh-CN
+distance attenuation,距离衰减,zh-CN
+distance roll-off,距离滚降,zh-CN
+early reflections,早期反射声,zh-CN
+late reflections,晚期反射声,zh-CN
+reverberation tail,混响尾音,zh-CN
+impulse response,脉冲响应,zh-CN
+convolution reverb,卷积混响,zh-CN
+worldizing,实景再放录音,zh-CN
+re-amping,再放大录制,zh-CN
+speakerphone effect,扬声器通话效果,zh-CN
+telephone filter,电话音效滤波,zh-CN
+radio filter,收音机音效滤波,zh-CN
+underwater effect,水下声音效果,zh-CN
+pitch design,音高设计,zh-CN
+time stretch,时间伸缩,zh-CN
+pitch shift,移调,zh-CN
+varispeed,变速变调,zh-CN
+reverse effect,反向音效,zh-CN
+sound layering,声音分层,zh-CN
+sound-effects sweetening,音效强化,zh-CN
+transient layer,瞬态层,zh-CN
+body layer,主体层,zh-CN
+tail layer,尾音层,zh-CN
+low-frequency sweetener,低频强化层,zh-CN
+subharmonic layer,次谐波层,zh-CN
+whoosh sound effect,嗖声音效,zh-CN
+swish sound effect,挥动掠过音效,zh-CN
+riser sound effect,上升音效,zh-CN
+downer sound effect,下降音效,zh-CN
+cinematic hit sound effect,电影冲击音效,zh-CN
+cinematic impact sound effect,电影撞击音效,zh-CN
+braam,低沉铜管式冲击音效,zh-CN
+sound-design drone,声音设计持续音,zh-CN
+low-frequency rumble sound effect,低频隆隆音效,zh-CN
+sub boom sound effect,超低频轰响音效,zh-CN
+sub drop,超低频下坠音效,zh-CN
+sound cue,声音提示点,zh-CN
+spotting notes,声音定点记录,zh-CN
+cue number,声音条目编号,zh-CN
+music and effects,音乐与音效,zh-CN
+M&E stem,音乐与音效分轨,zh-CN
+fully filled M&E,完整填充版 M&E,zh-CN
+foreign-version M&E,海外版本 M&E,zh-CN
+optional track,可选音轨,zh-CN
+foreign-language version,外语版本,zh-CN
+international version,国际版,zh-CN
+localization mix,本地化混音,zh-CN
+dubbing mix,译制混音,zh-CN
+dub stage,混录棚,zh-CN
+re-recording mixer,混录师,zh-CN
+final mix,终混,zh-CN
+final mixing,最终混录,zh-CN
+mix stage,混录棚,zh-CN
+mixing console,调音台,zh-CN
+mixing desk,调音台,zh-CN
+mix theatre,电影混录棚,zh-CN
+mix room,混音室,zh-CN
+audio premix,音频预混,zh-CN
+dialogue/music/effects stems,对白/音乐/音效分轨,zh-CN
+DME stems,对白、音乐、音效分轨,zh-CN
+stem mix,分轨混音,zh-CN
+printmaster,最终母版混音,zh-CN
+nearfield mix,近场混音,zh-CN
+theatrical mix,影院混音,zh-CN
+broadcast mix,广播电视混音,zh-CN
+home entertainment mix,家庭娱乐版混音,zh-CN
+airline mix,机上娱乐版混音,zh-CN
+trailer mix,预告片混音,zh-CN
+promo mix,宣传片混音,zh-CN
+audio fold-down,音频折叠混音,zh-CN
+audio downmix,音频下混,zh-CN
+audio upmix,音频上混,zh-CN
+stereo downmix,立体声下混,zh-CN
+Lo/Ro,Lo/Ro非矩阵立体声下混,zh-CN
+Lt/Rt,Lt/Rt 矩阵立体声下混,zh-CN
+mono compatibility,单声道兼容性,zh-CN
+phase compatibility,相位兼容性,zh-CN
+fold-down compatibility,折叠混音兼容性,zh-CN
+center channel,中置声道,zh-CN
+screen channels,银幕声道,zh-CN
+surround channels,环绕声道,zh-CN
+height channels,高度声道,zh-CN
+overhead channels,顶部声道,zh-CN
+LFE channel,低频效果声道,zh-CN
+low-frequency effects,低频效果,zh-CN
+bass management,低频管理,zh-CN
+redirected bass,重定向低频,zh-CN
+crossover frequency,分频频率,zh-CN
+subwoofer,超低音扬声器,zh-CN
+speaker calibration,扬声器校准,zh-CN
+room calibration,房间校准,zh-CN
+monitor level,监听电平,zh-CN
+monitor controller,监听控制器,zh-CN
+monitoring chain,监听链路,zh-CN
+calibrated monitoring,校准监听,zh-CN
+X-curve,影院 X 曲线,zh-CN
+equalization curve,均衡曲线,zh-CN
+pink noise,粉红噪声,zh-CN
+real-time analyzer,实时分析仪,zh-CN
+sound pressure level,声压级,zh-CN
+SPL meter,声级计,zh-CN
+acoustic treatment,声学处理,zh-CN
+sound isolation,隔声,zh-CN
+isolation booth,隔音间,zh-CN
+reflection-free zone,无反射区,zh-CN
+room mode,房间模态,zh-CN
+standing wave,驻波,zh-CN
+flutter echo,颤动回声,zh-CN
+boundary interference,边界干涉,zh-CN
+mix bus,混音总线,zh-CN
+master bus,主总线,zh-CN
+audio submix,音频子混音,zh-CN
+auxiliary bus,辅助总线,zh-CN
+auxiliary send,辅助发送,zh-CN
+effects return,效果返回,zh-CN
+pre-fader send,推子前发送,zh-CN
+post-fader send,推子后发送,zh-CN
+audio routing,音频路由,zh-CN
+signal flow,信号流,zh-CN
+insert processing,插入式处理,zh-CN
+audio sidechain,音频侧链,zh-CN
+parallel processing,并行处理,zh-CN
+serial processing,串行处理,zh-CN
+gain staging,增益结构管理,zh-CN
+audio headroom,音频电平余量,zh-CN
+digital clipping,数字削波,zh-CN
+true peak,真峰值,zh-CN
+sample peak,采样峰值,zh-CN
+inter-sample peak,采样间峰值,zh-CN
+peak limiter,峰值限制器,zh-CN
+brickwall limiter,砖墙限制器,zh-CN
+dialogue bus,对白总线,zh-CN
+effects bus,音效总线,zh-CN
+music bus,音乐总线,zh-CN
+reverb return,混响返回,zh-CN
+master fader,主推子,zh-CN
+VCA master,VCA 主控,zh-CN
+PEC/Direct,PEC/Direct 监听切换,zh-CN
+destructive record,破坏式录音,zh-CN
+track punch,音轨插入录制,zh-CN
+snapshot automation,快照自动化,zh-CN
+mix pass,混音遍次,zh-CN
+pickup mix,补混,zh-CN
+fix pass,修正遍次,zh-CN
+review pass,审听遍次,zh-CN
+client playback,客户审听,zh-CN
+playback review,回放审查,zh-CN
+mix notes,混音修改意见,zh-CN
+QC pass,质量检查遍次,zh-CN
+technical QC,技术质量检查,zh-CN
+creative QC,创意质量检查,zh-CN
+audio QC,音频质量检查,zh-CN
+audio dropout,音频中断,zh-CN
+audio glitch,音频瞬时故障杂音,zh-CN
+sync error,同步错误,zh-CN
+channel assignment,声道分配,zh-CN
+channel order,声道顺序,zh-CN
+channel mapping,声道映射,zh-CN
+track allocation,音轨分配,zh-CN
+track sheet,音轨表,zh-CN
+mix documentation,混音文档,zh-CN
+audio deliverables,音频交付物,zh-CN
+master deliverable,母版交付物,zh-CN
+mezzanine master,中间母版,zh-CN
+full mix,全混音,zh-CN
+clean version,洁净版,zh-CN
+textless version,无文字版,zh-CN
+clean effects,纯净音效轨,zh-CN
+isolated score,独立配乐轨,zh-CN
+isolated dialogue,独立对白轨,zh-CN
+isolated effects,独立音效轨,zh-CN
+split stems,拆分分轨,zh-CN
+combined stem,合并分轨,zh-CN
+split-track master,分轨母版,zh-CN
+multichannel master,多声道母版,zh-CN
+stereo master,立体声母版,zh-CN
+mono master,单声道母版,zh-CN
+ADM BWF,含音频定义模型元数据的 BWF,zh-CN
+Audio Definition Model (ADM),音频定义模型,zh-CN
+Immersive Audio Bitstream (IAB),沉浸式音频比特流,zh-CN
+Composition Playlist,合成播放列表,zh-CN
+Digital Cinema Package,数字电影数据包,zh-CN
+DCP audio,DCP 音频,zh-CN
+Interoperable Master Format,互操作母版格式,zh-CN
+Dolby Atmos,Dolby Atmos,zh-CN
+Dolby Atmos Mastering Suite,Dolby Atmos Mastering Suite,zh-CN
+Dolby Atmos Production Suite,Dolby Atmos Production Suite,zh-CN
+Dolby Atmos bed,杜比全景声声床,zh-CN
+bed audio,声床音频,zh-CN
+audio object,音频对象,zh-CN
+object audio,对象音频,zh-CN
+object metadata,对象元数据,zh-CN
+object bus,对象总线,zh-CN
+object panner,对象声像器,zh-CN
+3D panner,三维声像器,zh-CN
+object trajectory,对象运动轨迹,zh-CN
+object position,对象位置,zh-CN
+object size,对象尺寸,zh-CN
+object spread,对象扩散度,zh-CN
+object snap,对象吸附,zh-CN
+dynamic object,动态对象,zh-CN
+static object,静态对象,zh-CN
+object count,对象数量,zh-CN
+object limit,对象上限,zh-CN
+object clustering,对象聚类,zh-CN
+spatial coding,空间编码,zh-CN
+spatial object group,空间对象组,zh-CN
+immersive-audio rendering,沉浸式音频渲染,zh-CN
+render mode,渲染模式,zh-CN
+binaural render,双耳渲染,zh-CN
+binaural render mode,双耳渲染模式,zh-CN
+near binaural mode,近距离双耳渲染模式,zh-CN
+mid binaural mode,中距离双耳渲染模式,zh-CN
+far binaural mode,远距离双耳渲染模式,zh-CN
+speaker render,扬声器渲染,zh-CN
+headphone render,耳机渲染,zh-CN
+re-render,再渲染,zh-CN
+offline re-render,离线再渲染,zh-CN
+live re-render,实时再渲染,zh-CN
+re-render master,再渲染母版,zh-CN
+5.1 re-render,5.1 再渲染版,zh-CN
+7.1 re-render,7.1 再渲染版,zh-CN
+stereo re-render,立体声再渲染版,zh-CN
+binaural re-render,双耳再渲染版,zh-CN
+7.1.2 bed,7.1.2 声床,zh-CN
+7.1.4 monitoring,7.1.4 监听,zh-CN
+9.1.6 monitoring,9.1.6 监听,zh-CN
+immersive audio,沉浸式音频,zh-CN
+spatial audio,空间音频,zh-CN
+channel-based audio,基于声道的音频,zh-CN
+object-based audio,基于对象的音频,zh-CN
+scene-based audio,基于场景的音频,zh-CN
+Ambisonics,Ambisonics 声场格式,zh-CN
+first-order Ambisonics,一阶 Ambisonics,zh-CN
+higher-order Ambisonics,高阶 Ambisonics,zh-CN
+soundfield,声场,zh-CN
+soundfield microphone,声场话筒,zh-CN
+head-related transfer function,头相关传输函数,zh-CN
+binaural audio,双耳音频,zh-CN
+head tracking,头部跟踪,zh-CN
+spatial metadata,空间元数据,zh-CN
+Dolby TrueHD,Dolby TrueHD,zh-CN
+Dolby Digital,Dolby Digital,zh-CN
+Dolby Digital Plus,Dolby Digital Plus,zh-CN
+Dolby E,Dolby E,zh-CN
+Dolby AC-4,Dolby AC-4,zh-CN
+Dolby MAT,Dolby MAT,zh-CN
+AC-3,杜比数字编码,zh-CN
+E-AC-3,增强型 AC-3,zh-CN
+dialnorm,对白归一化参数,zh-CN
+dynamic range control,动态范围控制,zh-CN
+metadata authoring,元数据制作,zh-CN
+downmix metadata,下混元数据,zh-CN
+audio loudness,音频响度,zh-CN
+program loudness,节目响度,zh-CN
+integrated loudness,积分响度,zh-CN
+short-term loudness,短时响度,zh-CN
+momentary loudness,瞬时响度,zh-CN
+loudness range,响度范围,zh-CN
+LUFS,相对于满刻度的响度单位,zh-CN
+LKFS,K 加权满刻度相对响度,zh-CN
+loudness unit,响度单位,zh-CN
+K-weighting,K 加权,zh-CN
+loudness gating,响度门控,zh-CN
+absolute gate,绝对门限,zh-CN
+relative gate,相对门限,zh-CN
+true-peak level,真峰值电平,zh-CN
+dBTP,真峰值分贝,zh-CN
+dBFS,相对于数字满刻度的分贝,zh-CN
+maximum true peak,最大真峰值,zh-CN
+peak-to-loudness ratio,峰值响度比,zh-CN
+crest factor,峰值因数,zh-CN
+dynamic range,动态范围,zh-CN
+dialogue-gated loudness,对白门控响度,zh-CN
+speech-gated loudness,语音门控响度,zh-CN
+ITU-R BS.1770,ITU-R BS.1770 响度与真峰值测量标准,zh-CN
+EBU R 128,EBU R 128 节目响度规范,zh-CN
+EBU Tech 3341,EBU Tech 3341 响度计量规范,zh-CN
+EBU Tech 3342,EBU Tech 3342 响度范围规范,zh-CN
+ATSC A/85,ATSC A/85 数字电视响度规范,zh-CN
+CALM Act,美国商业广告响度缓和法案,zh-CN
+AES TD1008,AES 流媒体响度建议 TD1008,zh-CN
+Netflix loudness specification,Netflix 响度交付规范,zh-CN
+broadcast-safe,符合广播安全范围,zh-CN
+compliance meter,规范符合性测量表,zh-CN
+loudness normalization,响度归一化,zh-CN
+peak normalization,峰值归一化,zh-CN
+streaming normalization,流媒体响度归一化,zh-CN
+loudness target,目标响度,zh-CN
+loudness tolerance,响度容差,zh-CN
+mixing level,混音监听电平,zh-CN
+room gain,房间增益,zh-CN
+frequency response,频率响应,zh-CN
+mix translation,混音跨系统还原表现,zh-CN
+nearfield monitoring,近场监听,zh-CN
+far-field monitoring,远场监听,zh-CN
+theatrical monitoring,影院监听,zh-CN
+consumer playback,消费级播放,zh-CN
+TV mix,电视版混音,zh-CN
+mobile mix,移动设备版混音,zh-CN
+dialogue enhancement,对白增强,zh-CN
+speech intelligibility,言语可懂度,zh-CN
+center extraction,中置声道提取,zh-CN
+upward compression,向上压缩,zh-CN
+downward compression,向下压缩,zh-CN
+multiband compression,多段压缩,zh-CN
+audio ducking,音频自动压低,zh-CN
+sidechain ducking,侧链自动压低,zh-CN
+de-essing,齿音抑制,zh-CN
+dynamic range expansion,动态范围扩展,zh-CN
+noise gating,噪声门控,zh-CN
+audio limiting,音频限幅,zh-CN
+audio equalization,音频均衡处理,zh-CN
+high-pass filter,高通滤波器,zh-CN
+low-pass filter,低通滤波器,zh-CN
+notch filter,陷波滤波器,zh-CN
+band-pass filter,带通滤波器,zh-CN
+parametric EQ,参数均衡器,zh-CN
+dynamic EQ,动态均衡器,zh-CN
+phase alignment,相位对齐,zh-CN
+polarity inversion,极性反转,zh-CN
+delay compensation,延迟补偿,zh-CN
+latency compensation,延迟补偿,zh-CN
+audio post-production,音频后期制作,zh-CN
+post-production sound,影视声音后期,zh-CN
+sound post,声音后期,zh-CN
+sound post-production facility,声音后期制作机构,zh-CN
+audio finishing,音频精修与交付,zh-CN
+mastering for picture,影视声音母版制作,zh-CN
+Avid Pro Tools,Avid Pro Tools,zh-CN
+Pro Tools Ultimate,Pro Tools Ultimate,zh-CN
+Pro Tools Studio,Pro Tools Studio,zh-CN
+Pro Tools Intro,Pro Tools Intro,zh-CN
+Pro Tools AudioSuite,Pro Tools AudioSuite,zh-CN
+Pro Tools Elastic Audio,Pro Tools Elastic Audio,zh-CN
+Pro Tools Clip Effects,Pro Tools Clip Effects,zh-CN
+Pro Tools Field Recorder Workflow,Pro Tools Field Recorder Workflow,zh-CN
+Pro Tools Field Recorder Guide Track,Pro Tools Field Recorder Guide Track,zh-CN
+Pro Tools Match Criteria,Pro Tools Match Criteria,zh-CN
+Pro Tools Expand Channels to New Tracks,Pro Tools Expand Channels to New Tracks,zh-CN
+Pro Tools Workspace Browser,Pro Tools Workspace Browser,zh-CN
+Pro Tools Video Engine,Pro Tools Video Engine,zh-CN
+Pro Tools Satellite Link,Pro Tools Satellite Link,zh-CN
+Pro Tools HDX,Pro Tools HDX,zh-CN
+Avid S6,Avid S6,zh-CN
+Avid S4,Avid S4,zh-CN
+Avid Dock,Avid Dock,zh-CN
+Avid Control,Avid Control,zh-CN
+EUCON,EUCON 控制协议,zh-CN
+Soundminer,Soundminer,zh-CN
+Soundminer Radium,Soundminer Radium,zh-CN
+BaseHead Ultra,BaseHead Ultra,zh-CN
+AudioFinder,AudioFinder,zh-CN
+Krotos Studio,Krotos Studio,zh-CN
+Krotos Dehumaniser 2,Krotos Dehumaniser 2,zh-CN
+Krotos Reformer Pro,Krotos Reformer Pro,zh-CN
+Krotos Weaponiser,Krotos Weaponiser,zh-CN
+Krotos Igniter,Krotos Igniter,zh-CN
+Krotos Concept 2,Krotos Concept 2,zh-CN
+iZotope RX,iZotope RX,zh-CN
+iZotope RX Advanced,iZotope RX Advanced,zh-CN
+iZotope RX Dialogue Isolate,iZotope RX Dialogue Isolate,zh-CN
+iZotope RX Spectral Repair,iZotope RX Spectral Repair,zh-CN
+iZotope RX Ambience Match,iZotope RX Ambience Match,zh-CN
+iZotope RX Dialogue Contour,iZotope RX Dialogue Contour,zh-CN
+iZotope RX Dialogue De-reverb,iZotope RX Dialogue De-reverb,zh-CN
+iZotope RX Voice De-noise,iZotope RX Voice De-noise,zh-CN
+iZotope RX Spectral De-noise,iZotope RX Spectral De-noise,zh-CN
+iZotope RX Mouth De-click,iZotope RX Mouth De-click,zh-CN
+iZotope RX De-rustle,iZotope RX De-rustle,zh-CN
+iZotope RX De-plosive,iZotope RX De-plosive,zh-CN
+iZotope RX De-wind,iZotope RX De-wind,zh-CN
+iZotope RX De-hum,iZotope RX De-hum,zh-CN
+iZotope RX De-clip,iZotope RX De-clip,zh-CN
+iZotope RX Music Rebalance,iZotope RX Music Rebalance,zh-CN
+iZotope RX Spectral Recovery,iZotope RX Spectral Recovery,zh-CN
+iZotope RX Loudness Control,iZotope RX Loudness Control,zh-CN
+iZotope RX Connect,iZotope RX Connect,zh-CN
+iZotope Dialogue Match,iZotope Dialogue Match,zh-CN
+CEDAR Audio,CEDAR Audio,zh-CN
+CEDAR DNS 2,CEDAR DNS 2,zh-CN
+CEDAR DNS 4,CEDAR DNS 4,zh-CN
+CEDAR DNS 8D,CEDAR DNS 8D,zh-CN
+CEDAR DNS One,CEDAR DNS One,zh-CN
+CEDAR Studio,CEDAR Studio,zh-CN
+CEDAR Cambridge,CEDAR Cambridge,zh-CN
+CEDAR Retouch,CEDAR Retouch,zh-CN
+Waves Clarity Vx Pro,Waves Clarity Vx Pro,zh-CN
+Waves Clarity Vx DeReverb Pro,Waves Clarity Vx DeReverb Pro,zh-CN
+Waves WNS Noise Suppressor,Waves WNS Noise Suppressor,zh-CN
+Waves NS1 Noise Suppressor,Waves NS1 Noise Suppressor,zh-CN
+Waves X-Noise,Waves X-Noise,zh-CN
+Waves X-Crackle,Waves X-Crackle,zh-CN
+Waves X-Click,Waves X-Click,zh-CN
+Waves DeBreath,Waves DeBreath,zh-CN
+Waves Sibilance,Waves Sibilance,zh-CN
+Waves Vocal Rider,Waves Vocal Rider,zh-CN
+Accentize dxRevive Pro,Accentize dxRevive Pro,zh-CN
+Accentize DeRoom Pro,Accentize DeRoom Pro,zh-CN
+Accentize Chameleon,Accentize Chameleon,zh-CN
+Acon Digital DeVerberate 3,Acon Digital DeVerberate 3,zh-CN
+Sonnox Oxford SuprEsser,Sonnox Oxford SuprEsser,zh-CN
+Sonnox Oxford Limiter,Sonnox Oxford Limiter,zh-CN
+McDSP SA-3 Spectral Processor,McDSP SA-3 Spectral Processor,zh-CN
+McDSP NR800,McDSP NR800,zh-CN
+NUGEN Audio VisLM,NUGEN Audio VisLM,zh-CN
+NUGEN Audio Halo Downmix,NUGEN Audio Halo Downmix,zh-CN
+NUGEN Audio Halo Upmix,NUGEN Audio Halo Upmix,zh-CN
+NUGEN Audio ISL,NUGEN Audio ISL,zh-CN
+NUGEN Audio LM-Correct,NUGEN Audio LM-Correct,zh-CN
+NUGEN Audio AMB,NUGEN Audio AMB,zh-CN
+NUGEN Audio Monofilter,NUGEN Audio Monofilter,zh-CN
+Sound Radix Auto-Align Post 2,Sound Radix Auto-Align Post 2,zh-CN
+Sound Radix Auto-Align 2,Sound Radix Auto-Align 2,zh-CN
+The Cargo Cult Envy,The Cargo Cult Envy,zh-CN
+The Cargo Cult Stemcell,The Cargo Cult Stemcell,zh-CN
+The Cargo Cult Slapper 3,The Cargo Cult Slapper 3,zh-CN
+Synchro Arts VocAlign Ultra,Synchro Arts VocAlign Ultra,zh-CN
+Synchro Arts Revoice Pro,Synchro Arts Revoice Pro,zh-CN
+Steinberg Nuendo,Steinberg Nuendo,zh-CN
+Nuendo ADR Taker,Nuendo ADR Taker,zh-CN
+Nuendo ReConform,Nuendo ReConform,zh-CN
+Nuendo Field Recorder Audio Import,Nuendo Field Recorder Audio Import,zh-CN
+Nuendo Game Audio Connect,Nuendo Game Audio Connect,zh-CN
+Nuendo Direct Offline Processing,Nuendo Direct Offline Processing,zh-CN
+Nuendo Control Room,Nuendo Control Room,zh-CN
+Nuendo Video Cut Detection,Nuendo Video Cut Detection,zh-CN
+Blackmagic Design DaVinci Resolve,Blackmagic Design DaVinci Resolve,zh-CN
+DaVinci Resolve Fairlight,DaVinci Resolve Fairlight,zh-CN
+Fairlight Audio Accelerator,Fairlight Audio Accelerator,zh-CN
+Fairlight Desktop Console,Fairlight Desktop Console,zh-CN
+Fairlight Audio Editor,Fairlight Audio Editor,zh-CN
+Fairlight Sound Library,Fairlight Sound Library,zh-CN
+Fairlight ADR Panel,Fairlight ADR Panel,zh-CN
+Fairlight Elastic Wave,Fairlight Elastic Wave,zh-CN
+Fairlight Audio Core,Fairlight Audio Core,zh-CN
+Adobe Audition,Adobe Audition,zh-CN
+Adobe Premiere Pro Essential Sound,Adobe Premiere Pro Essential Sound,zh-CN
+Apple Logic Pro,Apple Logic Pro,zh-CN
+Apple Final Cut Pro,Apple Final Cut Pro,zh-CN
+Apple Final Cut Pro Roles,Apple Final Cut Pro Roles,zh-CN
+Apple Compressor,Apple Compressor,zh-CN
+Dolby Atmos Renderer,Dolby Atmos Renderer,zh-CN
+Dolby Atmos Renderer Remote,Dolby Atmos Renderer Remote,zh-CN
+Dolby Atmos Music Panner,Dolby Atmos Music Panner,zh-CN
+Dolby Atmos Album Assembler,Dolby Atmos Album Assembler,zh-CN
+Dolby Atmos Binaural Settings,Dolby Atmos Binaural Settings,zh-CN
+Dolby Atmos Room Setup,Dolby Atmos Room Setup,zh-CN
+Dolby Atmos Master File,Dolby Atmos Master File,zh-CN
+Dolby Atmos Master ADM,Dolby Atmos Master ADM,zh-CN
+Dolby Atmos RMU,Dolby Atmos RMU,zh-CN
+Dolby Atmos Cinema Processor CP850,Dolby Atmos Cinema Processor CP850,zh-CN
+Dolby Atmos Cinema Processor CP950A,Dolby Atmos Cinema Processor CP950A,zh-CN
+Dolby Atmos Production Tools,Dolby Atmos Production Tools,zh-CN
+Dolby Atmos Home Theater RMU,Dolby Atmos Home Theater RMU,zh-CN
+Dolby Media Encoder,Dolby Media Encoder,zh-CN
+Dolby Media Decoder,Dolby Media Decoder,zh-CN
+Dolby Reference Player,Dolby Reference Player,zh-CN
+Dolby Encoding Engine,Dolby Encoding Engine,zh-CN
+Dolby DP591,Dolby DP591,zh-CN
+Dolby DP590,Dolby DP590,zh-CN
+Dolby DP580,Dolby DP580,zh-CN
+Dolby CP850,Dolby CP850,zh-CN
+Dolby CP950,Dolby CP950,zh-CN
+Dolby Cinema,Dolby Cinema,zh-CN
+Dolby Vision,杜比视界,zh-CN
+DTS:X,DTS:X,zh-CN
+DTS:X Pro,DTS:X Pro,zh-CN
+DTS Neural:X,DTS Neural:X,zh-CN
+DTS-HD Master Audio,DTS-HD Master Audio,zh-CN
+DTS Headphone:X,DTS Headphone:X,zh-CN
+DTS Virtual:X,DTS Virtual:X,zh-CN
+DTS:X Creator Suite,DTS:X Creator Suite,zh-CN
+Auro-3D,Auro-3D,zh-CN
+AuroMax,AuroMax,zh-CN
+Sennheiser AMBEO,Sennheiser AMBEO,zh-CN
+Meyer Sound Spacemap Go,Meyer Sound Spacemap Go,zh-CN
+d&b Soundscape,d&b Soundscape,zh-CN
+L-Acoustics L-ISA,L-Acoustics L-ISA,zh-CN
+Dear Reality dearVR PRO,Dear Reality dearVR PRO,zh-CN
+Audiokinetic Wwise,Audiokinetic Wwise,zh-CN
+FMOD Studio,FMOD Studio,zh-CN
+Audiomovers LISTENTO,Audiomovers LISTENTO,zh-CN
+Source-Connect Pro,Source-Connect Pro,zh-CN
+Source-Nexus Gateway,Source-Nexus Gateway,zh-CN
+SessionLinkPRO,SessionLinkPRO,zh-CN
+Evercast,Evercast,zh-CN
+SMPTE ST 2110-30,SMPTE ST 2110-30 专业媒体 IP 音频标准,zh-CN
+SMPTE ST 2110-31,SMPTE ST 2110-31 AES3 透明传输标准,zh-CN
+SMPTE ST 2067,SMPTE ST 2067 IMF 标准,zh-CN
+SMPTE ST 2098-2,SMPTE ST 2098-2 沉浸式音频比特流标准,zh-CN
+SMPTE ST 429-2,SMPTE ST 429-2 DCP 打包标准,zh-CN
+SMPTE ST 429-3,SMPTE ST 429-3 DCP 声音与画面轨文件标准,zh-CN
+SMPTE ST 428-3,SMPTE ST 428-3 DCP 音频声道映射规范,zh-CN
+SMPTE ST 12-1,SMPTE ST 12-1 时间码标准,zh-CN
+AES3,AES3 数字音频接口标准,zh-CN
+AES10 MADI,AES10 MADI 多通道数字音频接口,zh-CN
+AES67,AES67 高性能网络音频互操作标准,zh-CN
+AES70,AES70 专业音频设备控制标准,zh-CN
+AES31,AES31 音频工程数据交换标准,zh-CN
+AES69,AES69 空间声学数据文件格式标准,zh-CN
+Dante audio network,Dante音频网络,zh-CN
+Dante Domain Manager,Dante Domain Manager,zh-CN
+RAVENNA,RAVENNA 网络音频技术,zh-CN
+Audio Video Bridging (AVB),音视频桥接,zh-CN
+multichannel audio digital interface (MADI),MADI多通道数字音频接口,zh-CN
+Audio over IP,IP 音频,zh-CN
+Open Sound Control,开放声音控制协议,zh-CN
+MPEG-H Audio,MPEG-H 三维音频,zh-CN
+MPEG-I Immersive Audio,MPEG-I 沉浸式音频,zh-CN
+Fraunhofer MPEG-H Authoring Suite,Fraunhofer MPEG-H Authoring Suite,zh-CN
+ITU-R BS.775,ITU-R BS.775 多声道立体声扬声器布局规范,zh-CN
+ITU-R BS.2051,ITU-R BS.2051 高级声音系统扬声器布局规范,zh-CN
+ITU-R BS.2127,ITU-R BS.2127 高级声音系统主观评价规范,zh-CN
+ITU-R BS.1116,ITU-R BS.1116 音频小损伤主观评价方法,zh-CN
+ITU-R BS.1534,ITU-R BS.1534 MUSHRA 主观评价方法,zh-CN
+ITU-R BS.2399,ITU-R BS.2399 主观评价测试中属性与术语的选择和描述方法,zh-CN
+ITU-R BS.1864,ITU-R BS.1864 国际节目交换响度实践,zh-CN
+EBU R 68,EBU R 68 数字音频峰值电平校准建议,zh-CN
+EBU Tech 3285,EBU Tech 3285 广播波形格式规范,zh-CN
+EBU Tech 3306,EBU Tech 3306 MBWF 元数据规范,zh-CN
+EBU Tech 3364,EBU Tech 3364 ADM 制作指南,zh-CN
+ARIB TR-B32,ARIB TR-B32 数字电视响度规范,zh-CN
+OP-59,澳大利亚 OP-59 电视响度规范,zh-CN
+SMPTE RP 200,SMPTE RP 200 电影混录棚监听电平建议,zh-CN
+Academy Color Encoding System,学院色彩编码系统,zh-CN
+The Academy of Motion Picture Arts and Sciences,美国电影艺术与科学学院,zh-CN
+Audio Engineering Society,音频工程学会,zh-CN
+Society of Motion Picture and Television Engineers,电影电视工程师协会,zh-CN
+European Broadcasting Union,欧洲广播联盟,zh-CN
+International Telecommunication Union,国际电信联盟,zh-CN
+Motion Picture Sound Editors,电影声音剪辑师协会,zh-CN
+Cinema Audio Society,电影音频协会,zh-CN
+Association of Motion Picture Sound,电影声音协会,zh-CN
+Walter Murch,沃尔特·默奇,zh-CN
+Ben Burtt,本·伯特,zh-CN
+Randy Thom,兰迪·汤姆,zh-CN
+Gary Rydstrom,加里·里德斯特罗姆,zh-CN
+Skip Lievsay,斯基普·利夫赛,zh-CN
+Ren Klyce,伦·克莱斯,zh-CN
+Christopher Boyes,克里斯托弗·博伊斯,zh-CN
+Tom Fleischman,汤姆·弗莱施曼,zh-CN
+Anna Behlmer,安娜·贝尔默,zh-CN
+Ai-Ling Lee,李爱玲,zh-CN
+Mark Mangini,马克·曼吉尼,zh-CN
+Michael Semanick,迈克尔·塞曼尼克,zh-CN
+Paul N. J. Ottosson,保罗·N·J·奥托森,zh-CN
+Nicolas Becker,尼古拉·贝克,zh-CN
+Craig Berkey,克雷格·伯基,zh-CN
+Eugene Gearty,尤金·吉尔蒂,zh-CN
+Alan Robert Murray,艾伦·罗伯特·默里,zh-CN
+Richard Hymns,理查德·海姆斯,zh-CN
+Glenn Freemantle,格伦·弗里曼特尔,zh-CN
+John Roesch,约翰·罗施,zh-CN
+Alyson Dee Moore,艾莉森·迪·摩尔,zh-CN
+Gwendolyn Yates Whittle,格温多琳·耶茨·惠特尔,zh-CN
+Cece Hall,茜茜·霍尔,zh-CN
+Richard Portman,理查德·波特曼,zh-CN
+Douglas Trumbull,道格拉斯·特朗布尔,zh-CN
+Ray Dolby,雷·杜比,zh-CN
+Ioan Allen,艾恩·艾伦,zh-CN
+Tomlinson Holman,汤姆林森·霍尔曼,zh-CN
+John Chowning,约翰·乔宁,zh-CN
+spectral smoothing,频谱平滑,zh-CN
+Foley surface,拟音表面材质,zh-CN
+audio sweetening,音效润饰,zh-CN
+cinematic riser,电影式上升音效,zh-CN
+transition downer,转场下降音效,zh-CN
+cinematic hit,电影式冲击音效,zh-CN
+impact sound effect,撞击音效,zh-CN
+low-frequency rumble,低频隆隆声,zh-CN
+sub boom,低频轰响,zh-CN
+aux send,辅助发送,zh-CN
+audio bed,背景音床,zh-CN
+audio rendering,音频渲染,zh-CN
+dialogue stem (DX),对白分组母版,zh-CN
+MOS shot,无同期声镜头,zh-CN
+shoot MOS,无同期声拍摄,zh-CN
+Touch automation mode,触控自动化模式,zh-CN
+Latch automation mode,锁存自动化模式,zh-CN
+Preview automation mode,预览自动化模式,zh-CN
+learn noise profile,学习噪声特征,zh-CN
+noise-reduction amount,降噪量,zh-CN
+hero sound effect,主打音效,zh-CN
+diegetic source sound,故事世界内声源声,zh-CN
+sound-design stinger,声音设计短促强调音效,zh-CN
+musical stinger,音乐短促强调音,zh-CN
+audio transition effect,音频转场效果,zh-CN
+sound spotting session,声音定点会,zh-CN
+sound cue sheet,声音提示表,zh-CN
+cinema monitoring reference level,影院监听参考电平,zh-CN
+mix-room monitoring sweet spot,混音棚最佳听音位,zh-CN
+sidechain key input,侧链键控输入,zh-CN
+Avid S6 Spill Zone,Avid S6 Spill Zone,zh-CN
+clean dialogue stem,纯对白分轨,zh-CN
+profanity-free dialogue,洁版对白,zh-CN
+low-shelf EQ,低频搁架式均衡,zh-CN
+high-shelf EQ,高频搁架式均衡,zh-CN
+ADR pre-roll,ADR 预卷,zh-CN
+ADR post-roll,ADR 后卷,zh-CN
+DAW punch in,DAW 插入录制,zh-CN
+DAW punch out,DAW 退出插入录制,zh-CN
+Dolby dialogue normalization (dialnorm),Dolby 对白归一化参数,zh-CN
+Dolby Atmos trim metadata,杜比全景声渲染修整元数据,zh-CN
+Pro Tools | MTRX II,Pro Tools | MTRX II,zh-CN
+Pro Tools | Sync X,Pro Tools | Sync X,zh-CN
+The Cargo Cult Matchbox,The Cargo Cult Matchbox,zh-CN
+The Cargo Cult Spanner,The Cargo Cult Spanner,zh-CN
+The Cargo Cult Slapper,The Cargo Cult Slapper,zh-CN
+Dolby Cinema Processor CP950,Dolby Cinema Processor CP950,zh-CN
+Sohonet ClearView Flex,Sohonet ClearView Flex,zh-CN
+Milan AV network protocol,Milan AV 网络协议,zh-CN
+sound re-recording mixer Richard King,电影重录混音师理查德·金,zh-CN
+re-recording mixer David Parker,电影重录混音师大卫·帕克,zh-CN

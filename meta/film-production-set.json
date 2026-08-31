@@ -1,0 +1,20 @@
+{
+  "id": "film-production-set",
+  "name": "Film Production and Set",
+  "description": "A curated English-to-Simplified-Chinese glossary for film and television production, covering departments and roles, set operations, cinematography, lighting, grip, art, editorial, color, standards, and production workflows.",
+  "author": "youheng-alan-liu",
+  "glossary": "film-production-set",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "电影制作与片场",
+      "description": "影视制作与片场术语库，涵盖部门与岗位、片场操作、摄影、灯光、机械、美术、剪辑、调色、技术标准和制作流程。"
+    },
+    "en": {
+      "name": "Film Production and Set",
+      "description": "A glossary for film and television production, including departments and roles, set operations, cinematography, lighting, grip, art, editorial, color, standards, and workflows."
+    }
+  }
+}
