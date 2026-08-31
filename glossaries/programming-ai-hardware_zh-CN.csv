@@ -1,0 +1,702 @@
+source,target,tgt_lng
+lexical scope,词法作用域,zh-CN
+dynamic scope,动态作用域,zh-CN
+dynamic type checking,动态类型检查,zh-CN
+strong type system,强类型系统,zh-CN
+gradual type system,渐进式类型系统,zh-CN
+nominal type system,名义类型系统,zh-CN
+dependent type,依赖类型,zh-CN
+refinement type,精化类型,zh-CN
+sum type,和类型,zh-CN
+product type,积类型,zh-CN
+discriminated union,可辨识联合类型,zh-CN
+opaque type,不透明类型,zh-CN
+higher-kinded type,高阶类型,zh-CN
+generic type parameter,泛型类型参数,zh-CN
+type constraint,类型约束,zh-CN
+type inference engine,类型推断引擎,zh-CN
+type coercion,类型强制转换,zh-CN
+type narrowing,类型收窄,zh-CN
+null safety,空值安全,zh-CN
+non-nullable type,不可空类型,zh-CN
+contravariant type parameter,逆变类型参数,zh-CN
+invariant type parameter,不变类型参数,zh-CN
+higher-order function,高阶函数,zh-CN
+pure function,纯函数,zh-CN
+function composition,函数组合,zh-CN
+partial application,偏应用,zh-CN
+tail-call optimization,尾调用优化,zh-CN
+continuation-passing style,延续传递风格,zh-CN
+immutable data structure,不可变数据结构,zh-CN
+lazy evaluation,惰性求值,zh-CN
+eager evaluation,立即求值,zh-CN
+pattern matching expression,模式匹配表达式,zh-CN
+exhaustive pattern matching,穷尽式模式匹配,zh-CN
+multiple dispatch,多重分派,zh-CN
+dynamic dispatch,动态分派,zh-CN
+method resolution order,方法解析顺序,zh-CN
+virtual method table,虚方法表,zh-CN
+method overriding,方法重写,zh-CN
+operator overloading,运算符重载,zh-CN
+protocol-oriented programming,面向协议编程,zh-CN
+aspect-oriented programming,面向切面编程,zh-CN
+reactive programming,响应式编程,zh-CN
+logic programming,逻辑编程,zh-CN
+compile-time metaprogramming,编译期元编程,zh-CN
+domain-specific language,领域特定语言,zh-CN
+language binding,语言绑定,zh-CN
+calling convention,调用约定,zh-CN
+link-time optimization,链接时优化,zh-CN
+profile-guided optimization,配置文件引导优化,zh-CN
+just-in-time compilation,即时编译,zh-CN
+incremental compilation,增量编译,zh-CN
+source-to-source compiler,源到源编译器,zh-CN
+abstract syntax tree,抽象语法树,zh-CN
+intermediate representation,中间表示,zh-CN
+static single-assignment form,静态单赋值形式,zh-CN
+data-flow analysis,数据流分析,zh-CN
+alias analysis,别名分析,zh-CN
+constant folding,常量折叠,zh-CN
+dead-code elimination,死代码消除,zh-CN
+loop unrolling,循环展开,zh-CN
+common subexpression elimination,公共子表达式消除,zh-CN
+undefined behavior,未定义行为,zh-CN
+unspecified behavior,未指定行为,zh-CN
+memory safety,内存安全,zh-CN
+temporal memory safety,时间内存安全,zh-CN
+use-after-free vulnerability,释放后使用漏洞,zh-CN
+dangling pointer,悬空指针,zh-CN
+null pointer dereference,空指针解引用,zh-CN
+exception safety guarantee,异常安全保证,zh-CN
+resource acquisition is initialization,资源获取即初始化,zh-CN
+copy-on-write semantics,写时复制语义,zh-CN
+move semantics,移动语义,zh-CN
+reference semantics,引用语义,zh-CN
+ownership semantics,所有权语义,zh-CN
+lifetime annotation,生命周期标注,zh-CN
+interior mutability,内部可变性,zh-CN
+lock-free algorithm,无锁算法,zh-CN
+wait-free algorithm,无等待算法,zh-CN
+sequential consistency,顺序一致性,zh-CN
+acquire-release semantics,获取—释放语义,zh-CN
+work-stealing scheduler,工作窃取调度器,zh-CN
+cooperative multitasking,协作式多任务,zh-CN
+preemptive multitasking,抢占式多任务,zh-CN
+fiber scheduler,纤程调度器,zh-CN
+communicating sequential processes,通信顺序进程,zh-CN
+Python global interpreter lock,Python 全局解释器锁,zh-CN
+Python generator expression,Python 生成器表达式,zh-CN
+Python iterator protocol,Python 迭代器协议,zh-CN
+Python data model,Python 数据模型,zh-CN
+Python metaclass,Python 元类,zh-CN
+Python type annotation,Python 类型注解,zh-CN
+Python virtual environment,Python 虚拟环境,zh-CN
+Python asynchronous iterator,Python 异步迭代器,zh-CN
+Python asynchronous context manager,Python 异步上下文管理器,zh-CN
+JavaScript prototype chain,JavaScript 原型链,zh-CN
+JavaScript microtask queue,JavaScript 微任务队列,zh-CN
+JavaScript module graph,JavaScript 模块图,zh-CN
+JavaScript optional chaining,JavaScript 可选链,zh-CN
+JavaScript typed array,JavaScript 类型化数组,zh-CN
+TypeScript declaration file,TypeScript 声明文件,zh-CN
+TypeScript mapped type,TypeScript 映射类型,zh-CN
+TypeScript utility type,TypeScript 工具类型,zh-CN
+TypeScript type guard,TypeScript 类型守卫,zh-CN
+C++ template metaprogramming,C++ 模板元编程,zh-CN
+C++ template specialization,C++ 模板特化,zh-CN
+C++ copy elision,C++ 复制消除,zh-CN
+C++ smart pointer,C++ 智能指针,zh-CN
+C++ one-definition rule,C++ 单一定义规则,zh-CN
+C++ standard template library,C++ 标准模板库,zh-CN
+C++ coroutine,C++ 协程,zh-CN
+Rust borrowing rules,Rust 借用规则,zh-CN
+Rust trait bound,Rust trait 约束,zh-CN
+Rust procedural macro,Rust 过程宏,zh-CN
+Rust declarative macro,Rust 声明式宏,zh-CN
+Rust async runtime,Rust 异步运行时,zh-CN
+Rust pinning API,Rust 固定内存 API,zh-CN
+Java virtual machine bytecode,Java 虚拟机字节码,zh-CN
+Java class loader,Java 类加载器,zh-CN
+Java garbage collector,Java 垃圾收集器,zh-CN
+Java memory model,Java 内存模型,zh-CN
+Java record class,Java 记录类,zh-CN
+Java annotation processor,Java 注解处理器,zh-CN
+Kotlin null-safety operator,Kotlin 空安全运算符,zh-CN
+Kotlin extension function,Kotlin 扩展函数,zh-CN
+Swift protocol extension,Swift 协议扩展,zh-CN
+Swift value type,Swift 值类型,zh-CN
+Swift actor isolation,Swift Actor 隔离,zh-CN
+Swift structured concurrency,Swift 结构化并发,zh-CN
+Go channel operation,Go channel 操作,zh-CN
+Go interface satisfaction,Go 接口满足关系,zh-CN
+Go defer statement,Go defer 语句,zh-CN
+Go module workspace,Go 模块工作区,zh-CN
+C# LINQ query expression,C# LINQ 查询表达式,zh-CN
+C# nullable reference type,C# 可空引用类型,zh-CN
+.NET common language runtime,.NET 公共语言运行时,zh-CN
+.NET managed code,.NET 托管代码,zh-CN
+WebAssembly interface types,WebAssembly 接口类型,zh-CN
+WebAssembly System Interface,WebAssembly 系统接口,zh-CN
+software development lifecycle,软件开发生命周期,zh-CN
+requirements traceability matrix,需求可追溯矩阵,zh-CN
+non-functional requirement,非功能性需求,zh-CN
+acceptance criterion,验收标准,zh-CN
+user story mapping,用户故事地图,zh-CN
+domain-driven design,领域驱动设计,zh-CN
+ubiquitous language,通用语言,zh-CN
+aggregate root,聚合根,zh-CN
+hexagonal architecture,六边形架构,zh-CN
+onion architecture,洋葱架构,zh-CN
+ports and adapters architecture,端口与适配器架构,zh-CN
+saga orchestration pattern,Saga 编排模式,zh-CN
+saga choreography pattern,Saga 编舞模式,zh-CN
+sidecar pattern,边车模式,zh-CN
+ambassador pattern,大使模式,zh-CN
+dependency inversion principle,依赖倒置原则,zh-CN
+open-closed principle,开闭原则,zh-CN
+interface segregation principle,接口隔离原则,zh-CN
+composition over inheritance,组合优于继承原则,zh-CN
+dependency injection container,依赖注入容器,zh-CN
+factory method pattern,工厂方法模式,zh-CN
+builder design pattern,建造者模式,zh-CN
+adapter design pattern,适配器模式,zh-CN
+observer design pattern,观察者模式,zh-CN
+strategy design pattern,策略模式,zh-CN
+visitor design pattern,访问者模式,zh-CN
+unit-of-work pattern,工作单元模式,zh-CN
+code smell,代码异味,zh-CN
+cognitive complexity,认知复杂度,zh-CN
+coupling and cohesion,耦合与内聚,zh-CN
+efferent coupling,传出耦合,zh-CN
+semantic code search,语义代码搜索,zh-CN
+debug adapter protocol,调试适配器协议,zh-CN
+source-code formatter,源代码格式化工具,zh-CN
+pre-commit hook,提交前钩子,zh-CN
+conventional commits specification,Conventional Commits 提交规范,zh-CN
+changelog automation,变更日志自动化,zh-CN
+dependency lockfile,依赖锁定文件,zh-CN
+reproducible build,可复现构建,zh-CN
+incremental build cache,增量构建缓存,zh-CN
+remote build cache,远程构建缓存,zh-CN
+polyrepo architecture,多仓库架构,zh-CN
+Gitflow branching model,Gitflow 分支模型,zh-CN
+feature branch workflow,功能分支工作流,zh-CN
+hotfix branch,热修复分支,zh-CN
+protected branch,受保护分支,zh-CN
+required status check,必需状态检查,zh-CN
+signed Git commit,签名的 Git 提交,zh-CN
+Git tree object,Git 树对象,zh-CN
+Git blob object,Git 数据对象,zh-CN
+Git annotated tag,Git 附注标签,zh-CN
+Git detached HEAD,Git 分离头指针状态,zh-CN
+Git reflog,Git 引用日志,zh-CN
+Git cherry-pick operation,Git 拣选提交操作,zh-CN
+Git revert commit,Git 反向提交,zh-CN
+Git interactive rebase,Git 交互式变基,zh-CN
+Git squash merge,Git 压缩合并,zh-CN
+Git three-way merge,Git 三方合并,zh-CN
+Git subtree,Git 子树,zh-CN
+Git sparse checkout,Git 稀疏检出,zh-CN
+Git partial clone,Git 部分克隆,zh-CN
+Git large file storage,Git 大文件存储,zh-CN
+Git bisect command,Git bisect 命令,zh-CN
+Git blame annotation,Git blame 逐行归责信息,zh-CN
+three-way diff,三方差异比较,zh-CN
+semantic merge conflict,语义合并冲突,zh-CN
+behavior-driven development,行为驱动开发,zh-CN
+mutation testing,变异测试,zh-CN
+snapshot testing,快照测试,zh-CN
+consumer-driven contract testing,消费者驱动的契约测试,zh-CN
+fuzz testing,模糊测试,zh-CN
+golden-file testing,黄金文件测试,zh-CN
+smoke testing,冒烟测试,zh-CN
+load testing,负载测试,zh-CN
+chaos testing,混沌测试,zh-CN
+test double,测试替身,zh-CN
+mock object,模拟对象,zh-CN
+test spy,测试间谍对象,zh-CN
+fake implementation,伪实现,zh-CN
+statement coverage,语句覆盖率,zh-CN
+path coverage,路径覆盖率,zh-CN
+test isolation,测试隔离,zh-CN
+static application security testing,静态应用安全测试,zh-CN
+dynamic application security testing,动态应用安全测试,zh-CN
+software composition analysis,软件成分分析,zh-CN
+secret scanning,密钥扫描,zh-CN
+software bill of materials,软件物料清单,zh-CN
+CycloneDX SBOM format,CycloneDX SBOM 格式,zh-CN
+reproducible test environment,可复现测试环境,zh-CN
+debug symbol file,调试符号文件,zh-CN
+stack trace,堆栈跟踪,zh-CN
+memory profiler,内存性能分析器,zh-CN
+CPU flame graph,CPU 火焰图,zh-CN
+distributed build system,分布式构建系统,zh-CN
+build artifact repository,构建产物仓库,zh-CN
+artifact provenance,制品来源证明,zh-CN
+code provenance,代码来源证明,zh-CN
+release train,版本发布列车,zh-CN
+canary release,金丝雀发布,zh-CN
+feature flag,功能开关,zh-CN
+progressive delivery,渐进式交付,zh-CN
+backward-compatible database migration,向后兼容的数据库迁移,zh-CN
+breaking API change,破坏性 API 变更,zh-CN
+Sentry error monitoring platform,Sentry 错误监控平台,zh-CN
+Prometheus monitoring system,Prometheus 监控系统,zh-CN
+Bazel build system,Bazel 构建系统,zh-CN
+Meson build system,Meson 构建系统,zh-CN
+CMake build system,CMake 构建系统,zh-CN
+Gradle build tool,Gradle 构建工具,zh-CN
+Poetry dependency manager,Poetry 依赖管理器,zh-CN
+uv Python package manager,uv Python 包管理器,zh-CN
+Yarn package manager,Yarn 包管理器,zh-CN
+Deno JavaScript runtime,Deno JavaScript 运行时,zh-CN
+HTTP request method,HTTP 请求方法,zh-CN
+HTTP request target,HTTP 请求目标,zh-CN
+HTTP response header field,HTTP 响应标头字段,zh-CN
+HTTP message body,HTTP 消息正文,zh-CN
+HTTP persistent connection,HTTP 持久连接,zh-CN
+HTTP connection pooling,HTTP 连接池,zh-CN
+HTTP request pipelining,HTTP 请求流水线,zh-CN
+HTTP range request,HTTP 范围请求,zh-CN
+HTTP cache revalidation,HTTP 缓存重新验证,zh-CN
+HTTP cache freshness,HTTP 缓存新鲜度,zh-CN
+HTTP strong validator,HTTP 强验证器,zh-CN
+HTTP entity tag,HTTP 实体标签,zh-CN
+If-Modified-Since header,If-Modified-Since 标头,zh-CN
+Cache-Control header,Cache-Control 标头,zh-CN
+Content-Length header,Content-Length 标头,zh-CN
+Content-Disposition header,Content-Disposition 标头,zh-CN
+Accept-Encoding header,Accept-Encoding 标头,zh-CN
+Authorization header,Authorization 标头,zh-CN
+Retry-After header,Retry-After 标头,zh-CN
+Origin header,Origin 标头,zh-CN
+User-Agent header,User-Agent 标头,zh-CN
+Forwarded header,Forwarded 标头,zh-CN
+Strict-Transport-Security header,Strict-Transport-Security 标头,zh-CN
+HTTP 100 Continue,HTTP 100 继续,zh-CN
+HTTP 200 OK,HTTP 200 成功,zh-CN
+HTTP 202 Accepted,HTTP 202 已接受,zh-CN
+HTTP 206 Partial Content,HTTP 206 部分内容,zh-CN
+HTTP 301 Moved Permanently,HTTP 301 永久重定向,zh-CN
+HTTP 303 See Other,HTTP 303 查看其他位置,zh-CN
+HTTP 307 Temporary Redirect,HTTP 307 临时重定向,zh-CN
+HTTP 400 Bad Request,HTTP 400 错误请求,zh-CN
+HTTP 401 Unauthorized,HTTP 401 未授权,zh-CN
+HTTP 404 Not Found,HTTP 404 未找到,zh-CN
+HTTP 406 Not Acceptable,HTTP 406 不可接受,zh-CN
+HTTP 409 Conflict,HTTP 409 冲突,zh-CN
+HTTP 410 Gone,HTTP 410 资源已永久移除,zh-CN
+HTTP 413 Content Too Large,HTTP 413 内容过大,zh-CN
+HTTP 416 Range Not Satisfiable,HTTP 416 范围不可满足,zh-CN
+HTTP 425 Too Early,HTTP 425 请求过早,zh-CN
+HTTP 426 Upgrade Required,HTTP 426 需要升级,zh-CN
+HTTP 429 Too Many Requests,HTTP 429 请求过多,zh-CN
+HTTP 451 Unavailable For Legal Reasons,HTTP 451 因法律原因不可用,zh-CN
+HTTP 501 Not Implemented,HTTP 501 未实现,zh-CN
+HTTP 502 Bad Gateway,HTTP 502 错误网关,zh-CN
+HTTP 504 Gateway Timeout,HTTP 504 网关超时,zh-CN
+HTTP safe method,HTTP 安全方法,zh-CN
+same-origin policy,同源策略,zh-CN
+cross-origin resource sharing,跨源资源共享,zh-CN
+CORS simple request,CORS 简单请求,zh-CN
+browser JavaScript engine,浏览器 JavaScript 引擎,zh-CN
+CSS object model,CSS 对象模型,zh-CN
+render tree construction,渲染树构建,zh-CN
+browser paint phase,浏览器绘制阶段,zh-CN
+critical rendering path,关键渲染路径,zh-CN
+main-thread blocking time,主线程阻塞时间,zh-CN
+service worker lifecycle,Service Worker 生命周期,zh-CN
+progressive web application,渐进式 Web 应用,zh-CN
+IndexedDB transaction,IndexedDB 事务,zh-CN
+WebRTC session description,WebRTC 会话描述,zh-CN
+WebRTC STUN server,WebRTC STUN 服务器,zh-CN
+Server-Sent Events,服务器发送事件,zh-CN
+WebSocket frame,WebSocket 帧,zh-CN
+API endpoint versioning,API 端点版本控制,zh-CN
+API rate limiting,API 速率限制,zh-CN
+API quota enforcement,API 配额执行,zh-CN
+API pagination cursor,API 分页游标,zh-CN
+cursor-based pagination,基于游标的分页,zh-CN
+API response envelope,API 响应封装,zh-CN
+API problem details,API 问题详情,zh-CN
+API-first development,API 优先开发,zh-CN
+GraphQL resolver function,GraphQL 解析器函数,zh-CN
+GraphQL query operation,GraphQL 查询操作,zh-CN
+GraphQL subscription operation,GraphQL 订阅操作,zh-CN
+GraphQL persisted query,GraphQL 持久化查询,zh-CN
+gRPC protocol buffer schema,gRPC Protocol Buffers 模式,zh-CN
+gRPC unary call,gRPC 一元调用,zh-CN
+gRPC client streaming,gRPC 客户端流式传输,zh-CN
+gRPC reflection service,gRPC 反射服务,zh-CN
+Protocol Buffers wire format,Protocol Buffers 线格式,zh-CN
+JSON canonicalization scheme,JSON 规范化方案,zh-CN
+JSON Lines format,JSON Lines 格式,zh-CN
+database query optimizer,数据库查询优化器,zh-CN
+database execution plan,数据库执行计划,zh-CN
+covering database index,数据库覆盖索引,zh-CN
+partial database index,数据库部分索引,zh-CN
+nonclustered database index,数据库非聚簇索引,zh-CN
+database index selectivity,数据库索引选择性,zh-CN
+hash database index,哈希数据库索引,zh-CN
+write-ahead log,预写日志,zh-CN
+optimistic concurrency control,乐观并发控制,zh-CN
+pessimistic concurrency control,悲观并发控制,zh-CN
+read uncommitted isolation,读未提交隔离级别,zh-CN
+repeatable read isolation,可重复读隔离级别,zh-CN
+snapshot isolation,快照隔离,zh-CN
+dirty read anomaly,脏读异常,zh-CN
+phantom read anomaly,幻读异常,zh-CN
+lost update anomaly,更新丢失异常,zh-CN
+three-phase commit protocol,三阶段提交协议,zh-CN
+distributed transaction coordinator,分布式事务协调器,zh-CN
+database prepared statement,数据库预处理语句,zh-CN
+database change-data capture,数据库变更数据捕获,zh-CN
+database physical replication,数据库物理复制,zh-CN
+database primary replica,数据库主副本,zh-CN
+database quorum read,数据库 Quorum 读取,zh-CN
+consistent hashing ring,一致性哈希环,zh-CN
+database sort key,数据库排序键,zh-CN
+data normalization first normal form,数据规范化第一范式,zh-CN
+data normalization third normal form,数据规范化第三范式,zh-CN
+star schema,星型模式,zh-CN
+slowly changing dimension,缓慢变化维度,zh-CN
+fact table,事实表,zh-CN
+columnar storage format,列式存储格式,zh-CN
+Delta Lake table format,Delta Lake 表格式,zh-CN
+Qdrant vector database,Qdrant 向量数据库,zh-CN
+Weaviate vector database,Weaviate 向量数据库,zh-CN
+cloud shared-responsibility model,云服务共同责任模型,zh-CN
+cloud fault domain,云故障域,zh-CN
+cloud resource group,云资源组,zh-CN
+cloud resource tagging,云资源标记,zh-CN
+cloud account vending machine,云账户自动供应系统,zh-CN
+cloud center of excellence,云卓越中心,zh-CN
+cloud cost anomaly detection,云成本异常检测,zh-CN
+cloud reserved capacity,云预留容量,zh-CN
+cloud savings plan,云节省计划,zh-CN
+cloud egress charge,云出站流量费用,zh-CN
+cloud data plane,云数据平面,zh-CN
+infrastructure as code,基础设施即代码,zh-CN
+configuration as code,配置即代码,zh-CN
+GitOps deployment model,GitOps 部署模型,zh-CN
+declarative infrastructure,声明式基础设施,zh-CN
+infrastructure drift,基础设施漂移,zh-CN
+Terraform state file,Terraform 状态文件,zh-CN
+Terraform remote state,Terraform 远程状态,zh-CN
+Terraform provider plugin,Terraform Provider 插件,zh-CN
+Terraform resource graph,Terraform 资源图,zh-CN
+Terraform module registry,Terraform 模块注册表,zh-CN
+Terraform workspace,Terraform 工作区,zh-CN
+container image layer,容器镜像层,zh-CN
+container image digest,容器镜像摘要,zh-CN
+container runtime interface,容器运行时接口,zh-CN
+container network interface,容器网络接口,zh-CN
+Open Container Initiative,开放容器倡议组织,zh-CN
+OCI image specification,OCI 镜像规范,zh-CN
+Linux control group v2,Linux 控制组 v2,zh-CN
+Linux namespace isolation,Linux 命名空间隔离,zh-CN
+distroless container image,Distroless 容器镜像,zh-CN
+multi-stage container build,多阶段容器构建,zh-CN
+Dockerfile HEALTHCHECK instruction,Dockerfile HEALTHCHECK 指令,zh-CN
+Dockerfile CMD instruction,Dockerfile CMD 指令,zh-CN
+Docker image pull policy,Docker 镜像拉取策略,zh-CN
+Kubernetes admission controller,Kubernetes 准入控制器,zh-CN
+Kubernetes validating admission webhook,Kubernetes 验证准入 Webhook,zh-CN
+Kubernetes operator pattern,Kubernetes Operator 模式,zh-CN
+Kubernetes owner reference,Kubernetes 所有者引用,zh-CN
+Kubernetes resource request,Kubernetes 资源请求,zh-CN
+Kubernetes liveness probe,Kubernetes 存活探针,zh-CN
+Kubernetes readiness probe,Kubernetes 就绪探针,zh-CN
+Kubernetes horizontal pod autoscaler,Kubernetes Pod 水平自动扩缩器,zh-CN
+Kubernetes cluster autoscaler,Kubernetes 集群自动扩缩器,zh-CN
+Kubernetes node affinity,Kubernetes 节点亲和性,zh-CN
+Kubernetes pod affinity,Kubernetes Pod 亲和性,zh-CN
+Kubernetes disruption budget,Kubernetes 中断预算,zh-CN
+Kubernetes network policy,Kubernetes 网络策略,zh-CN
+Kubernetes canary deployment,Kubernetes 金丝雀部署,zh-CN
+Kubernetes sidecar container,Kubernetes 边车容器,zh-CN
+Kubernetes ephemeral container,Kubernetes 临时容器,zh-CN
+service mesh control plane,服务网格控制平面,zh-CN
+mutual TLS authentication,双向 TLS 身份认证,zh-CN
+distributed trace context,分布式追踪上下文,zh-CN
+OpenTelemetry semantic conventions,OpenTelemetry 语义约定,zh-CN
+Prometheus exposition format,Prometheus 指标暴露格式,zh-CN
+Prometheus recording rule,Prometheus 记录规则,zh-CN
+Grafana dashboard variable,Grafana 仪表板变量,zh-CN
+structured application log,结构化应用日志,zh-CN
+trace identifier,追踪标识符,zh-CN
+span identifier,跨度标识符,zh-CN
+USE monitoring method,USE 监控方法,zh-CN
+error budget,错误预算,zh-CN
+service-level objective window,服务级别目标统计窗口,zh-CN
+incident command system,事件指挥体系,zh-CN
+blameless postmortem,无责备故障复盘,zh-CN
+on-call rotation,值班轮值,zh-CN
+operational playbook,运维操作手册,zh-CN
+toil reduction,运维重复劳动削减,zh-CN
+fault injection,故障注入,zh-CN
+bulkhead isolation pattern,舱壁隔离模式,zh-CN
+retry with exponential backoff,指数退避重试,zh-CN
+retry jitter,重试抖动,zh-CN
+rate-limit leaky bucket,漏桶限流算法,zh-CN
+empirical risk minimization,经验风险最小化,zh-CN
+structural risk minimization,结构风险最小化,zh-CN
+maximum likelihood estimation,最大似然估计,zh-CN
+Bayesian neural network,贝叶斯神经网络,zh-CN
+machine-learning probability calibration,机器学习模型概率校准,zh-CN
+expected calibration error,期望校准误差,zh-CN
+class-weighted loss,类别加权损失,zh-CN
+cross-entropy loss,交叉熵损失,zh-CN
+binary cross-entropy loss,二元交叉熵损失,zh-CN
+Huber loss,Huber 损失,zh-CN
+triplet loss,三元组损失,zh-CN
+Kullback-Leibler divergence,Kullback–Leibler 散度,zh-CN
+gradient accumulation,梯度累积,zh-CN
+activation checkpointing,激活值检查点,zh-CN
+automatic mixed precision,自动混合精度,zh-CN
+loss scaling,损失缩放,zh-CN
+fully sharded data parallelism,全分片数据并行,zh-CN
+pipeline parallelism,流水线并行,zh-CN
+expert parallelism,专家并行,zh-CN
+context parallelism,上下文并行,zh-CN
+data parallelism,数据并行,zh-CN
+ring all-reduce,环形全归约,zh-CN
+all-gather collective,全收集通信,zh-CN
+all-to-all collective,全互换通信,zh-CN
+NCCL collective communication,NCCL 集合通信,zh-CN
+curriculum learning,课程学习,zh-CN
+in-batch negative sampling,批内负样本采样,zh-CN
+negative sampling distribution,负采样分布,zh-CN
+knowledge-transfer teacher model,知识迁移教师模型,zh-CN
+exponential moving average of weights,模型权重指数移动平均,zh-CN
+hyperparameter search space,超参数搜索空间,zh-CN
+grid-search optimization,网格搜索优化,zh-CN
+Bayesian hyperparameter optimization,贝叶斯超参数优化,zh-CN
+neural architecture search,神经架构搜索,zh-CN
+benchmark data leakage,基准测试数据泄漏,zh-CN
+training-validation leakage,训练—验证数据泄漏,zh-CN
+model-generated training data,模型生成的训练数据,zh-CN
+dataset lineage,数据集血缘,zh-CN
+dataset card,数据集说明卡,zh-CN
+transformer encoder block,Transformer 编码器块,zh-CN
+encoder-only transformer,仅编码器 Transformer,zh-CN
+encoder-decoder transformer,编码器—解码器 Transformer,zh-CN
+causal self-attention,因果自注意力,zh-CN
+grouped-query attention,分组查询注意力,zh-CN
+sliding-window attention,滑动窗口注意力,zh-CN
+sparse attention pattern,稀疏注意力模式,zh-CN
+FlashAttention kernel,FlashAttention 内核,zh-CN
+paged key-value cache,分页键值缓存,zh-CN
+prompt cache,提示词缓存,zh-CN
+context cache,上下文缓存,zh-CN
+attention sink token,注意力汇聚词元,zh-CN
+absolute positional embedding,绝对位置嵌入,zh-CN
+ALiBi positional bias,ALiBi 位置偏置,zh-CN
+RoPE frequency scaling,RoPE 频率缩放,zh-CN
+root mean square normalization,均方根归一化,zh-CN
+SwiGLU activation,SwiGLU 激活函数,zh-CN
+GeGLU activation,GeGLU 激活函数,zh-CN
+embedding weight tying,嵌入权重共享,zh-CN
+mechanistic interpretability,机制可解释性,zh-CN
+feature visualization,特征可视化,zh-CN
+activation patching,激活值替换实验,zh-CN
+neural network attribution method,神经网络归因方法,zh-CN
+integrated gradients,积分梯度,zh-CN
+large language model pretraining,大语言模型预训练,zh-CN
+domain-adaptive pretraining,领域自适应预训练,zh-CN
+instruction-following model,指令遵循模型,zh-CN
+preference model,偏好模型,zh-CN
+process reward model,过程奖励模型,zh-CN
+reinforcement learning from AI feedback,基于 AI 反馈的强化学习,zh-CN
+group relative policy optimization,组相对策略优化,zh-CN
+odds ratio preference optimization,优势比偏好优化,zh-CN
+constitutional AI training,宪法式 AI 训练,zh-CN
+preference-data pair,偏好数据对,zh-CN
+preference-data chosen response,偏好数据中的获选响应,zh-CN
+model alignment tax,模型对齐代价,zh-CN
+mode collapse,模式崩溃,zh-CN
+specification gaming,规范博弈,zh-CN
+goal misgeneralization,目标错误泛化,zh-CN
+out-of-distribution detection,分布外检测,zh-CN
+adversarial training,对抗训练,zh-CN
+red-team evaluation,红队评测,zh-CN
+safety evaluation,安全评测,zh-CN
+false-refusal rate,误拒答率,zh-CN
+content moderation model,内容审核模型,zh-CN
+prompt-injection defense,提示注入防御,zh-CN
+retrieval poisoning attack,检索投毒攻击,zh-CN
+membership inference attack,成员推断攻击,zh-CN
+differentially private training,差分隐私训练,zh-CN
+federated learning,联邦学习,zh-CN
+retrieval corpus,检索语料库,zh-CN
+semantic chunking,语义分块,zh-CN
+fixed-size chunking,固定长度分块,zh-CN
+retrieval query rewriting,检索查询改写,zh-CN
+dense vector retrieval,稠密向量检索,zh-CN
+hybrid search retrieval,混合检索,zh-CN
+reciprocal rank fusion,倒数排名融合,zh-CN
+cross-encoder reranker,交叉编码器重排序器,zh-CN
+late-interaction retriever,后期交互检索器,zh-CN
+retrieval recall at k,检索召回率 Recall@K,zh-CN
+normalized discounted cumulative gain,归一化折损累计增益,zh-CN
+grounded generation,有依据生成,zh-CN
+answer relevance score,答案相关性得分,zh-CN
+retrieval context precision,检索上下文精确率,zh-CN
+agent tool schema,智能体工具模式定义,zh-CN
+agent execution trace,智能体执行轨迹,zh-CN
+agent reflection step,智能体反思步骤,zh-CN
+agent memory store,智能体记忆存储,zh-CN
+agent handoff,智能体交接,zh-CN
+tool-use policy,工具使用策略,zh-CN
+tool-call argument validation,工具调用参数验证,zh-CN
+inference request queue,推理请求队列,zh-CN
+prefill phase,模型预填充阶段,zh-CN
+prefill throughput,预填充吞吐量,zh-CN
+decode throughput,解码吞吐量,zh-CN
+time per output token,每输出词元耗时,zh-CN
+model warm-start latency,模型热启动延迟,zh-CN
+inference memory footprint,推理内存占用,zh-CN
+CPU model offloading,模型 CPU 卸载,zh-CN
+activation offloading,激活值卸载,zh-CN
+tensor offloading,张量卸载,zh-CN
+speculative draft model,推测解码草稿模型,zh-CN
+speculative acceptance rate,推测解码接受率,zh-CN
+quantization calibration dataset,量化校准数据集,zh-CN
+activation quantization,激活值量化,zh-CN
+per-channel quantization,按通道量化,zh-CN
+per-token quantization,按词元量化,zh-CN
+AWQ quantization,AWQ 量化,zh-CN
+GGML tensor library,GGML 张量库,zh-CN
+Apple MLX framework,Apple MLX 框架,zh-CN
+OpenVINO toolkit,OpenVINO 工具套件,zh-CN
+Weights & Biases platform,Weights & Biases 平台,zh-CN
+processor microarchitecture,处理器微架构,zh-CN
+processor front end,处理器前端,zh-CN
+instruction fetch unit,指令取指单元,zh-CN
+instruction issue queue,指令发射队列,zh-CN
+instruction retirement,指令退役,zh-CN
+register renaming,寄存器重命名,zh-CN
+load-store unit,加载—存储单元,zh-CN
+address generation unit,地址生成单元,zh-CN
+return-address stack,返回地址栈,zh-CN
+decoded instruction cache,已译码指令缓存,zh-CN
+translation lookaside buffer,地址转换快表,zh-CN
+data translation lookaside buffer,数据地址转换快表,zh-CN
+memory-order buffer,内存序缓冲区,zh-CN
+store buffer,存储缓冲区,zh-CN
+hardware prefetcher,硬件预取器,zh-CN
+cache-line size,缓存行大小,zh-CN
+cache associativity,缓存组相联度,zh-CN
+set-associative cache,组相联缓存,zh-CN
+cache replacement policy,缓存替换策略,zh-CN
+least-recently-used replacement,最近最少使用替换策略,zh-CN
+cache write-through policy,缓存直写策略,zh-CN
+cache exclusive policy,独占式缓存策略,zh-CN
+MESI cache-coherence protocol,MESI 缓存一致性协议,zh-CN
+false sharing,伪共享,zh-CN
+memory fence instruction,内存栅栏指令,zh-CN
+retired instruction count,已退役指令数,zh-CN
+cycles per instruction,每条指令时钟周期数,zh-CN
+superscalar processor,超标量处理器,zh-CN
+very long instruction word,超长指令字,zh-CN
+privilege ring,特权环,zh-CN
+fused multiply-add instruction,融合乘加指令,zh-CN
+vector-length agnostic instruction,向量长度无关指令,zh-CN
+Scalable Matrix Extension,可扩展矩阵扩展,zh-CN
+Advanced Vector Extensions 2,高级向量扩展 2,zh-CN
+Advanced Vector Extensions 512,高级向量扩展 512,zh-CN
+RISC-V privileged architecture,RISC-V 特权架构规范,zh-CN
+Arm DynamIQ Shared Unit,Arm DynamIQ 共享单元,zh-CN
+performance CPU core,高性能 CPU 核心,zh-CN
+heterogeneous multicore processor,异构多核处理器,zh-CN
+processor package power,处理器封装功耗,zh-CN
+processor power limit,处理器功耗限制,zh-CN
+clock gating,时钟门控,zh-CN
+power-delivery network,供电网络,zh-CN
+voltage regulator module,电压调节模块,zh-CN
+power-supply transient response,电源瞬态响应,zh-CN
+maximum junction temperature,最高结温,zh-CN
+thermal resistance junction-to-case,结到外壳热阻,zh-CN
+integrated heat spreader,集成散热顶盖,zh-CN
+vapor chamber cooler,均热板散热器,zh-CN
+heat-pipe cooler,热管散热器,zh-CN
+GPU streaming multiprocessor,GPU 流式多处理器,zh-CN
+GPU warp scheduler,GPU 线程束调度器,zh-CN
+GPU wavefront,GPU 波前,zh-CN
+GPU thread block,GPU 线程块,zh-CN
+GPU register pressure,GPU 寄存器压力,zh-CN
+GPU shared memory,GPU 共享内存,zh-CN
+GPU global memory,GPU 全局内存,zh-CN
+GPU bank conflict,GPU 存储体冲突,zh-CN
+GPU kernel launch,GPU 内核启动,zh-CN
+GPU asynchronous copy,GPU 异步复制,zh-CN
+systolic array,脉动阵列,zh-CN
+floating-point operations per second,每秒浮点运算次数,zh-CN
+tera operations per second,每秒万亿次运算,zh-CN
+FP32 floating-point format,FP32 单精度浮点格式,zh-CN
+BF16 floating-point format,BF16 浮点格式,zh-CN
+FP16 floating-point format,FP16 半精度浮点格式,zh-CN
+FP4 floating-point format,FP4 四位浮点格式,zh-CN
+INT4 integer format,INT4 四位整数格式,zh-CN
+floating-point accumulation precision,浮点累加精度,zh-CN
+semiconductor die,半导体裸片,zh-CN
+wafer yield,晶圆良率,zh-CN
+die yield,裸片良率,zh-CN
+wafer-level packaging,晶圆级封装,zh-CN
+through-silicon via,硅通孔,zh-CN
+silicon interposer,硅中介层,zh-CN
+2.5D chip packaging,2.5D 芯片封装,zh-CN
+hybrid bonding,混合键合,zh-CN
+die stacking,裸片堆叠,zh-CN
+chiplet interconnect protocol,小芯片互连协议,zh-CN
+CoWoS packaging,CoWoS 先进封装,zh-CN
+EMIB packaging,EMIB 嵌入式多裸片互连桥封装,zh-CN
+Infinity Fabric interconnect,Infinity Fabric 互连,zh-CN
+single-rank memory module,单 Rank 内存模组,zh-CN
+dual-rank memory module,双 Rank 内存模组,zh-CN
+memory command rate,内存命令率,zh-CN
+RAS-to-CAS delay,行地址到列地址延迟,zh-CN
+row precharge time,行预充电时间,zh-CN
+memory refresh interval,内存刷新间隔,zh-CN
+DDR5 on-die error correction,DDR5 裸片内纠错,zh-CN
+DDR5 power-management integrated circuit,DDR5 电源管理集成电路,zh-CN
+LPDDR5 memory,LPDDR5 低功耗内存,zh-CN
+HBM3 memory,HBM3 高带宽内存,zh-CN
+HBM3E memory,HBM3E 高带宽内存,zh-CN
+memory access pattern,内存访问模式,zh-CN
+cache-coherent NUMA,缓存一致性 NUMA,zh-CN
+CXL.io protocol,CXL.io 协议,zh-CN
+CXL.mem protocol,CXL.mem 协议,zh-CN
+CXL Type 2 device,CXL Type 2 设备,zh-CN
+CXL Type 3 device,CXL Type 3 内存设备,zh-CN
+CXL memory expansion,CXL 内存扩展,zh-CN
+PCI Express data-link layer,PCI Express 数据链路层,zh-CN
+PCI Express physical layer,PCI Express 物理层,zh-CN
+PCIe endpoint device,PCIe 端点设备,zh-CN
+PCIe resizable BAR,PCIe 可调整基址寄存器,zh-CN
+PCIe advanced error reporting,PCIe 高级错误报告,zh-CN
+PCIe peer-to-peer transaction,PCIe 点对点事务,zh-CN
+NVMe completion queue,NVMe 完成队列,zh-CN
+NVMe namespace,NVMe命名空间,zh-CN
+NVMe multipath I/O,NVMe 多路径 I/O,zh-CN
+NVMe zoned namespace,NVMe 分区命名空间,zh-CN
+M.2 2280 form factor,M.2 2280 外形规格,zh-CN
+M.2 2230 form factor,M.2 2230 外形规格,zh-CN
+U.3 storage interface,U.3 存储接口,zh-CN
+EDSFF E3.S form factor,EDSFF E3.S 外形规格,zh-CN
+SATA revision 3.0,SATA Revision 3.0 标准,zh-CN
+SAS expander,SAS 扩展器,zh-CN
+power-loss protection,断电保护,zh-CN
+flash-translation layer,闪存转换层,zh-CN
+NAND retention error,NAND 数据保持错误,zh-CN
+NAND bad-block management,NAND 坏块管理,zh-CN
+single-bit error correction,单比特错误纠正,zh-CN
+USB4 tunneling protocol,USB4 隧道传输协议,zh-CN
+USB Type-C alternate mode,USB Type-C 替代模式,zh-CN
+USB Type-C configuration channel,USB Type-C 配置通道,zh-CN
+USB Power Delivery programmable power supply,USB PD 可编程电源,zh-CN
+DisplayPort Multi-Stream Transport,DisplayPort 多流传输,zh-CN
+DisplayPort Alternate Mode,DisplayPort 替代模式,zh-CN
+HDMI Fixed Rate Link,HDMI 固定速率链路,zh-CN
+Intel Gaudi 3 AI accelerator,Intel Gaudi 3 AI 加速器,zh-CN
+Intel Xeon 6 processor,Intel Xeon 6 处理器,zh-CN
