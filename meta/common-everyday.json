@@ -1,0 +1,20 @@
+{
+  "id": "common-everyday",
+  "name": "Common and Everyday Language",
+  "description": "A curated English-to-Simplified-Chinese glossary for common web and everyday language, covering accounts, privacy, shopping, payments, travel, work, education, housing, news, social platforms, and public organizations.",
+  "author": "youheng-alan-liu",
+  "glossary": "common-everyday",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "通用与日常用语",
+      "description": "常见网页与日常英语术语库，涵盖账户、隐私、购物、支付、旅行、职场、教育、住房、新闻、社交平台和公共机构。"
+    },
+    "en": {
+      "name": "Common and Everyday Language",
+      "description": "A glossary for common web and everyday language, including accounts, privacy, shopping, payments, travel, work, education, housing, news, social platforms, and public organizations."
+    }
+  }
+}

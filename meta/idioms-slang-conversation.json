@@ -1,0 +1,20 @@
+{
+  "id": "idioms-slang-conversation",
+  "name": "Idioms, Slang, and Conversation",
+  "description": "A curated English-to-Simplified-Chinese glossary for context-stable idioms, slang, and conversational expressions, with ambiguous fragments and punctuation-dependent utterances excluded to reduce false matches.",
+  "author": "youheng-alan-liu",
+  "glossary": "idioms-slang-conversation",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "俗语、俚语与口语",
+      "description": "英语俗语、俚语与口语表达术语库；已排除高歧义片段和依赖标点上下文的句子，以减少误匹配。"
+    },
+    "en": {
+      "name": "Idioms, Slang, and Conversation",
+      "description": "A glossary for context-stable English idioms, slang, and conversational expressions, curated to reduce ambiguous matches."
+    }
+  }
+}
