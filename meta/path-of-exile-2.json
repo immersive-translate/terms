@@ -1,0 +1,29 @@
+{
+  "id": "path-of-exile-2",
+  "name": "Path of Exile 2",
+  "description": "PoE2DB names for Path of Exile 2 international players. English targets Chinese names as Traditional (Simplified) when translations differ, or Simplified only for script differences. Chinese names map back to English. Ambiguous source names are omitted.",
+  "author": "allonli / PoE2DB",
+  "glossary": "path-of-exile-2",
+  "matches": [
+    "poe2db.tw",
+    "www.pathofexile.com",
+    "https://maxroll.gg/poe2/*",
+    "https://mobalytics.gg/poe-2/*",
+    "poe2wiki.net",
+    "*.poe2wiki.net"
+  ],
+  "langs": [
+    "en",
+    "zh-CN"
+  ],
+  "i18ns": {
+    "en": {
+      "name": "Path of Exile 2",
+      "description": "Chinese-to-English PoE2DB names for international players. Ambiguous names are omitted."
+    },
+    "zh-CN": {
+      "name": "流放之路2（国际服中英对照）",
+      "description": "基于 PoE2DB，英文名称显示繁中（简中）对照；只有字形差异时保留简体。支持中文名称反查英文，排除同名多译歧义词。"
+    }
+  }
+}
