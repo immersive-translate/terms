@@ -1,0 +1,22 @@
+{
+  "id": "diablo-4",
+  "name": "Diablo IV",
+  "description": "English-to-Simplified-Chinese Diablo IV item names from Wowhead, aligned by item ID. Includes 3,314 entries from a previously collected snapshot, with ambiguous source names omitted. Covers item-list names, not complete client localization.",
+  "author": "allonli / Wowhead",
+  "glossary": "diablo-4",
+  "matches": [
+    "https://www.wowhead.com/diablo-4/*",
+    "https://maxroll.gg/d4/*",
+    "https://mobalytics.gg/diablo-4/*",
+    "https://www.icy-veins.com/d4/*",
+    "diablo4.blizzard.com",
+    "diablo.trade"
+  ],
+  "langs": ["zh-CN"],
+  "i18ns": {
+    "zh-CN": {
+      "name": "暗黑破坏神4",
+      "description": "暗黑破坏神4英文到简中物品名称词表，来自 Wowhead 英文和简中列表，按物品 ID 对齐。包含3,314条，排除同名多译及占位词，不含繁中译名；覆盖物品列表，非完整客户端文本。"
+    }
+  }
+}
