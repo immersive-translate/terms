@@ -1,0 +1,29 @@
+{
+  "id": "re-zero",
+  "name": "Re:Zero",
+  "description": "Terminology for Re:Zero - Starting Life in Another World (Re:Zero kara Hajimeru Isekai Seikatsu), including character names, abilities, locations, organizations and monsters, based on official Chinese translations.",
+  "author": "ngmhhy1145147-cn",
+  "glossary": "re-zero",
+  "matches": [
+    "rezero.fandom.com",
+    "zh.moegirl.org.cn",
+    "mzh.moegirl.org.cn",
+    "www.moegirl.org.cn",
+    "moegirl.org.cn",
+    "ncode.syosetu.com",
+    "archiveofourown.org"
+  ],
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "Re:Zero 从零开始的异世界生活",
+      "description": "《Re:从零开始的异世界生活》术语库，涵盖角色名、权能、地名、组织与魔兽等专有名词的中文译名。"
+    },
+    "en": {
+      "name": "Re:Zero",
+      "description": "Terminology for Re:Zero - Starting Life in Another World, including character names, abilities, locations, organizations and monsters, based on official Chinese translations."
+    }
+  }
+}
