@@ -1,0 +1,16 @@
+{
+  "id": "philosophy",
+  "name": "Philosophy Glossary",
+  "description": "A philosophy glossary focused on terminology that requires specialized or context-sensitive translation, especially terms whose ordinary translations may be ambiguous, unstable, or inconsistent with established academic usage.",
+  "author": "Jangtsorngnan",
+  "glossary": "philosophy",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "哲学术语表",
+      "description": "哲学翻译术语库，主要收录古代和近代西方哲学主要流派当中，在一般翻译中容易出现歧义、译法漂移，或需要按照学术传统保持严格概念区分的术语。以学界主流译法为基础，不一一列举所有哲学词汇。"
+    }
+  }
+}
