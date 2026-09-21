@@ -1,0 +1,19 @@
+{
+  "id": "Mindustry",
+  "name": "《Mindustry》游戏术语",
+  "description": "翻译159.7版本的部分游戏术语",
+  "matches": [
+    "*://mindustrygame.github.io/wiki/*",
+    "*://mindustry-unofficial.fandom.com/wiki/*",
+    "*://github.com/Anuken/Mindustry/*"
+  ],
+  "author": "redloong9527",
+  "glossary": "Mindustry",
+  "langs": ["zh-CN"],
+  "i18ns": {
+    "zh-CN": {
+      "name": "《Mindustry》游戏术语",
+      "description": "翻译159.7版本的部分游戏术语"
+    }
+  }
+}
