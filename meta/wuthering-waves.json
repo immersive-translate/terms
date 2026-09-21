@@ -1,0 +1,20 @@
+{
+  "id": "wuthering-waves",
+  "name": "Wuthering Waves",
+  "description": "English to Simplified Chinese terminology for Wuthering Waves, sourced from the paired English and Chinese pages on wuthering.gg.",
+  "author": "wuthering.gg",
+  "glossary": "wuthering-waves",
+  "matches": [
+    "wuthering.gg",
+    "*.wuthering.gg"
+  ],
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "《鸣潮》",
+      "description": "《鸣潮》英译简术语库，词条取自 wuthering.gg 的英文与简体中文对应页面，涵盖共鸣者、武器、声骸、物品及游戏系统。"
+    }
+  }
+}
