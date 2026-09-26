@@ -1,0 +1,119 @@
+source,target,tgt_lng
+Coffee cherry,咖啡果实,zh-CN
+Coffee bean,咖啡豆,zh-CN
+Green coffee,咖啡生豆,zh-CN
+Parchment coffee,带壳豆,zh-CN
+Washed process,水洗处理,zh-CN
+Natural process,日晒处理,zh-CN
+Honey process,蜜处理,zh-CN
+Pulped natural,去皮日晒,zh-CN
+Anaerobic fermentation,厌氧发酵,zh-CN
+Co-fermentation,共发酵,zh-CN
+Wet hulling,湿刨处理,zh-CN
+Roast profile,烘焙曲线,zh-CN
+Charge temperature,入豆温,zh-CN
+Turning point,回温点,zh-CN
+Drying phase,脱水阶段,zh-CN
+Maillard phase,梅纳反应阶段,zh-CN
+First crack,一爆,zh-CN
+Second crack,二爆,zh-CN
+Development time,发展时间,zh-CN
+Rate of rise,升温速率,zh-CN
+Light roast,浅烘焙,zh-CN
+Medium roast,中度烘焙,zh-CN
+Dark roast,深烘焙,zh-CN
+Degassing,排气,zh-CN
+Resting coffee,养豆,zh-CN
+Burr grinder,磨盘式磨豆机,zh-CN
+Flat burr,平刀,zh-CN
+Conical burr,锥刀,zh-CN
+Grind size,研磨粒度,zh-CN
+Grind distribution,研磨颗粒分布,zh-CN
+Fines,细粉,zh-CN
+Grind retention,残粉量,zh-CN
+Single dosing,单次投豆,zh-CN
+Dose,粉量,zh-CN
+Brew water,冲煮用水,zh-CN
+Water hardness,水硬度,zh-CN
+Buffering capacity,缓冲能力,zh-CN
+Brew temperature,冲煮水温,zh-CN
+Brew time,冲煮时间,zh-CN
+Brew ratio,粉水比,zh-CN
+Extraction,萃取,zh-CN
+Extraction yield,萃取率,zh-CN
+Extraction time,萃取时间,zh-CN
+Total dissolved solids,总溶解固体,zh-CN
+TDS,总溶解固体,zh-CN
+Strength,浓度,zh-CN
+Under-extraction,萃取不足,zh-CN
+Over-extraction,萃取过度,zh-CN
+Uneven extraction,萃取不均,zh-CN
+Channeling,通道效应,zh-CN
+Agitation,扰动,zh-CN
+Flow rate,流速,zh-CN
+Pour-over,手冲,zh-CN
+Dripper,滤杯,zh-CN
+Paper filter,滤纸,zh-CN
+Cone filter,锥形滤纸,zh-CN
+Flat-bottom dripper,平底滤杯,zh-CN
+Gooseneck kettle,细口壶,zh-CN
+Bloom,闷蒸,zh-CN
+Blooming time,闷蒸时间,zh-CN
+Pulse pouring,分段注水,zh-CN
+Continuous pour,连续注水,zh-CN
+Center pour,中心注水,zh-CN
+Spiral pour,绕圈注水,zh-CN
+Pour height,注水高度,zh-CN
+Coffee bed,粉床,zh-CN
+Drawdown,落水过程,zh-CN
+Drawdown time,落水时间,zh-CN
+Stalling,堵塞导致落水变慢,zh-CN
+Immersion brewing,浸泡式冲煮,zh-CN
+Percolation brewing,渗滤式冲煮,zh-CN
+French press,法压壶,zh-CN
+AeroPress,爱乐压,zh-CN
+Cold brew,冷萃咖啡,zh-CN
+Espresso,意式浓缩咖啡,zh-CN
+Espresso shot,一份意式浓缩,zh-CN
+Double shot,双份浓缩,zh-CN
+Ristretto,短萃浓缩,zh-CN
+Lungo,长萃浓缩,zh-CN
+Espresso brew ratio,粉液比,zh-CN
+Yield,出液量,zh-CN
+Group head,冲煮头,zh-CN
+Portafilter,手柄,zh-CN
+Bottomless portafilter,无底手柄,zh-CN
+Basket,粉碗,zh-CN
+Puck,粉饼,zh-CN
+Distribution,布粉,zh-CN
+WDT,针式布粉,zh-CN
+Tamping,压粉,zh-CN
+Tamper,压粉锤,zh-CN
+Pre-infusion,预浸泡,zh-CN
+Pressure profiling,压力曲线控制,zh-CN
+Flow profiling,流速曲线控制,zh-CN
+Pump pressure,泵压,zh-CN
+Brew pressure,萃取压力,zh-CN
+Steam wand,蒸汽棒,zh-CN
+Milk steaming,蒸汽打奶,zh-CN
+Microfoam,细腻奶泡,zh-CN
+Latte art,拉花,zh-CN
+Cupping,杯测,zh-CN
+Cupping score,杯测分数,zh-CN
+Fragrance,干香,zh-CN
+Aroma,湿香,zh-CN
+Acidity,酸质,zh-CN
+Sweetness,甜感,zh-CN
+Bitterness,苦感,zh-CN
+Body,醇厚度,zh-CN
+Mouthfeel,口感,zh-CN
+Aftertaste,余韵,zh-CN
+Balance,平衡感,zh-CN
+Clarity,风味清晰度,zh-CN
+Flavor notes,风味描述,zh-CN
+Floral,花香调,zh-CN
+Fruity,果香调,zh-CN
+Nutty,坚果调,zh-CN
+Chocolatey,巧克力风味,zh-CN
+Fermenty,发酵味,zh-CN
+Astringency,涩感,zh-CN
