@@ -1,0 +1,20 @@
+{
+  "id": "coffee",
+  "name": "Coffee Terminology",
+  "description": "English-to-Simplified-Chinese terminology for coffee processing, roasting, grinding, brewing, espresso, and sensory evaluation.",
+  "author": "zackzmai",
+  "glossary": "coffee",
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "咖啡术语",
+      "description": "英译中咖啡术语库，涵盖生豆处理、烘焙、研磨、手冲、意式萃取与杯测。"
+    },
+    "en": {
+      "name": "Coffee Terminology",
+      "description": "English-to-Simplified-Chinese terms for coffee processing, roasting, grinding, brewing, espresso, and sensory evaluation."
+    }
+  }
+}
