@@ -1,0 +1,20 @@
+{
+  "id": "cs2",
+  "name": "Counter-Strike 2 / HLTV",
+  "description": "English to Simplified Chinese terminology for Counter-Strike 2 coverage on HLTV, including player statistics, tactics, weapons, maps, tournaments, roster news, and Fantasy.",
+  "author": "Changyu Li",
+  "glossary": "cs2",
+  "matches": [
+    "hltv.org",
+    "*.hltv.org"
+  ],
+  "langs": [
+    "zh-CN"
+  ],
+  "i18ns": {
+    "zh-CN": {
+      "name": "CS2 / HLTV",
+      "description": "面向 HLTV 的 CS2 英译简术语库，涵盖选手数据、战术、武器地图、赛事赛制、阵容转会及 Fantasy。"
+    }
+  }
+}
