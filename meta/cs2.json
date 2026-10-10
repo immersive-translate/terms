@@ -1,7 +1,7 @@
 {
   "id": "cs2",
   "name": "Counter-Strike 2 / HLTV",
-  "description": "English to Simplified Chinese terminology for HLTV navigation, news, events, matches, and team pages, including Counter-Strike 2 statistics, tactics, weapons, maps, roster news, and Fantasy. Includes original-name entries for sampled teams and players.",
+  "description": "English to Simplified Chinese terminology for HLTV navigation, news, events, matches, and team pages, including Counter-Strike 2 statistics, tactics, weapons, maps, roster news, and Fantasy. Grouped by topic, with original-name entries for the top 100 teams, players qualifying under a specified Top 50 opponent filter, historical annual Top 20 players, and page samples.",
   "author": "Changyu Li",
   "glossary": "cs2",
   "matches": [
@@ -14,7 +14,7 @@
   "i18ns": {
     "zh-CN": {
       "name": "CS2 / HLTV",
-      "description": "面向 HLTV 主页、新闻、赛事、比赛及队伍页的 CS2 英译简术语库，涵盖界面标签、选手数据、战术、武器地图、赛事赛制、阵容转会及 Fantasy，并保留已收录队伍和选手名称的原文。"
+      "description": "面向 HLTV 主页、新闻、赛事、比赛及队伍页的 CS2 英译简术语库，按选手、队伍、赛事、组织、枪械等主题分组，涵盖界面、数据、战术、转会及 Fantasy，并保留前100队伍、指定Top50对手筛选选手、历年Top20和页面样本姓名原文。"
     }
   }
 }
