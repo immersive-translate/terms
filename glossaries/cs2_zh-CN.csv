@@ -149,7 +149,6 @@ David 'Dawy' Bibik,David 'Dawy' Bibik,zh-CN
 Dawy,Dawy,zh-CN
 Marcus 'Delpan' Larsson,Marcus 'Delpan' Larsson,zh-CN
 Delpan,Delpan,zh-CN
-delpan,delpan,zh-CN
 Dmytro 'dem0n' Myroshnychenko,Dmytro 'dem0n' Myroshnychenko,zh-CN
 dem0n,dem0n,zh-CN
 Dennis 'dennis' Edman,Dennis 'dennis' Edman,zh-CN
@@ -164,8 +163,6 @@ Danilo 'doc' Barros,Danilo 'doc' Barros,zh-CN
 doc,doc,zh-CN
 Danil 'donk' Kryshkovets,Danil 'donk' Kryshkovets,zh-CN
 donk,donk,zh-CN
-DONK,DONK,zh-CN
-Donk,Donk,zh-CN
 Mihail 'Dosia' Stolyarov,Mihail 'Dosia' Stolyarov,zh-CN
 Dosia,Dosia,zh-CN
 André 'drop' Abreu,André 'drop' Abreu,zh-CN
@@ -354,7 +351,6 @@ Kalin 'KalubeR' Erenditsov,Kalin 'KalubeR' Erenditsov,zh-CN
 KalubeR,KalubeR,zh-CN
 Finn 'karrigan' Andersen,Finn 'karrigan' Andersen,zh-CN
 karrigan,karrigan,zh-CN
-Karrigan,Karrigan,zh-CN
 Danila 'kashl1d' Dronov,Danila 'kashl1d' Dronov,zh-CN
 kashl1d,kashl1d,zh-CN
 Kaue 'kauez' Kaschuk,Kaue 'kauez' Kaschuk,zh-CN
@@ -616,7 +612,6 @@ SaMey,SaMey,zh-CN
 Pere 'sausol' Solsona Saumell,Pere 'sausol' Solsona Saumell,zh-CN
 sausol,sausol,zh-CN
 Eetu 'sAw' Saha,Eetu 'sAw' Saha,zh-CN
-sAw,sAw,zh-CN
 Adil 'ScreaM' Benrlitom,Adil 'ScreaM' Benrlitom,zh-CN
 ScreaM,ScreaM,zh-CN
 Daniil 'Sdaim' Tupov,Daniil 'Sdaim' Tupov,zh-CN
@@ -640,7 +635,6 @@ shox,shox,zh-CN
 Sid 'sidde' Macedo,Sid 'sidde' Macedo,zh-CN
 sidde,sidde,zh-CN
 "Sid ""⁠sidde⁠"" Macedo","Sid ""⁠sidde⁠"" Macedo",zh-CN
-SIDDE,SIDDE,zh-CN
 Dionis 'sinnopsyy' Budeci,Dionis 'sinnopsyy' Budeci,zh-CN
 sinnopsyy,sinnopsyy,zh-CN
 William 'sirah' Kjærsgaard,William 'sirah' Kjærsgaard,zh-CN
@@ -790,7 +784,6 @@ Xyp9x,Xyp9x,zh-CN
 Mareks 'YEKINDAR' Gaļinskis,Mareks 'YEKINDAR' Gaļinskis,zh-CN
 YEKINDAR,YEKINDAR,zh-CN
 "Mareks ""⁠YEKINDAR⁠"" Gaļinskis","Mareks ""⁠YEKINDAR⁠"" Gaļinskis",zh-CN
-Yekindar,Yekindar,zh-CN
 Yuri 'yuurih' Santos,Yuri 'yuurih' Santos,zh-CN
 yuurih,yuurih,zh-CN
 Simon 'yxngstxr' Boije,Simon 'yxngstxr' Boije,zh-CN
@@ -823,7 +816,6 @@ Rasmus 'Zyphon' Nordfoss,Rasmus 'Zyphon' Nordfoss,zh-CN
 Zyphon,Zyphon,zh-CN
 Mathieu 'ZywOo' Herbaut,Mathieu 'ZywOo' Herbaut,zh-CN
 ZywOo,ZywOo,zh-CN
-Zywoo,Zywoo,zh-CN
 Spirit,Spirit,zh-CN
 Vitality,Vitality,zh-CN
 MOUZ,MOUZ,zh-CN
@@ -925,12 +917,10 @@ GenOne,GenOne,zh-CN
 Glitch,Glitch,zh-CN
 Prestige,Prestige,zh-CN
 BIG Academy,BIG Academy,zh-CN
-Furia,Furia,zh-CN
 NAVI,NAVI,zh-CN
 NAVI Junior,NAVI Junior,zh-CN
 NIP,NIP,zh-CN
 Nordic Partners,Nordic Partners,zh-CN
-Parivision,Parivision,zh-CN
 Sashi,Sashi,zh-CN
 Thunderpick World Championship,Thunderpick世界锦标赛,zh-CN
 ESL Challenger League,ESL挑战者联赛,zh-CN
@@ -946,8 +936,8 @@ BLAST Rivals,BLAST对抗赛,zh-CN
 HLTV Awards,HLTV年度奖项,zh-CN
 PGL Masters,PGL大师赛,zh-CN
 BLAST Open,BLAST公开赛,zh-CN
-Majors,特锦赛,zh-CN
-Major,特锦赛,zh-CN
+Majors,Majors,zh-CN
+Major,Major,zh-CN
 ECL,ESL挑战者联赛,zh-CN
 EPL,ESL职业联赛,zh-CN
 FPL,FACEIT职业联赛,zh-CN
@@ -966,42 +956,43 @@ Dual Berettas,双持贝瑞塔,zh-CN
 Desert Eagle,沙漠之鹰,zh-CN
 Dual Elites,双持贝瑞塔,zh-CN
 defuse kit,拆弹器,zh-CN
-Five-SeveN,FN57手枪,zh-CN
-CZ75-Auto,CZ75自动手枪,zh-CN
-Sawed-Off,短管霰弹枪,zh-CN
-Galil AR,加利尔步枪,zh-CN
-Glock-18,格洛克18手枪,zh-CN
-Main AWP,主狙,zh-CN
-PP-Bizon,野牛冲锋枪,zh-CN
-Zeus x27,宙斯电击枪,zh-CN
-SCAR-20,SCAR20自动狙击步枪,zh-CN
-M4A1-S,M4A1消音步枪,zh-CN
-MAC-10,MAC-10冲锋枪,zh-CN
-MP5-SD,MP5消音冲锋枪,zh-CN
-SG 553,SG553步枪,zh-CN
-SSG 08,SSG 08轻型狙击步枪,zh-CN
-SSG-08,SSG 08轻型狙击步枪,zh-CN
-UMP-45,UMP-45冲锋枪,zh-CN
-XM1014,XM1014自动霰弹枪,zh-CN
-AK-47,AK-47步枪,zh-CN
-FAMAS,法玛斯步枪,zh-CN
-G3SG1,G3SG1自动狙击步枪,zh-CN
-MAG-7,MAG-7霰弹枪,zh-CN
-Negev,内格夫机枪,zh-CN
-P2000,P2000手枪,zh-CN
-Tec-9,Tec-9手枪,zh-CN
-USP-S,USP消音手枪,zh-CN
-M249,M249机枪,zh-CN
-M4A4,M4A4步枪,zh-CN
-Nova,新星霰弹枪,zh-CN
-P250,P250手枪,zh-CN
-TEC9,Tec-9手枪,zh-CN
-AUG,AUG步枪,zh-CN
-AWP,AWP狙击步枪,zh-CN
-MP7,MP7冲锋枪,zh-CN
-MP9,MP9冲锋枪,zh-CN
-P90,P90冲锋枪,zh-CN
-AK,AK步枪,zh-CN
+kit,钳子,zh-CN
+Five-SeveN,FN57,zh-CN
+CZ75-Auto,CZ75,zh-CN
+Sawed-Off,截短霰弹枪,zh-CN
+Galil AR,加利尔,zh-CN
+Glock-18,格洛克,zh-CN
+PP-Bizon,野牛,zh-CN
+Zeus x27,电击枪,zh-CN
+SCAR-20,SCAR20,zh-CN
+M4A1-S,M4A1,zh-CN
+MAC-10,MAC-10,zh-CN
+MP5-SD,MP5,zh-CN
+SG 553,SG553,zh-CN
+SSG 08,鸟狙,zh-CN
+SSG-08,鸟狙,zh-CN
+UMP-45,UMP-45,zh-CN
+XM1014,连喷,zh-CN
+AK-47,AK-47,zh-CN
+AK47,AK47,zh-CN
+FAMAS,法玛斯,zh-CN
+G3SG1,G3SG1,zh-CN
+MAG-7,警喷,zh-CN
+Negev,内格夫,zh-CN
+P2000,P2000,zh-CN
+Tec-9,Tec9,zh-CN
+USP-S,USP,zh-CN
+M249,M249,zh-CN
+M4A4,M4A4,zh-CN
+Nova,新星,zh-CN
+P250,P250,zh-CN
+TEC9,Tec9,zh-CN
+AUG,AUG,zh-CN
+AWP,大狙,zh-CN
+MP7,MP7,zh-CN
+MP9,MP9,zh-CN
+P90,P90,zh-CN
+AK,AK,zh-CN
 incendiary grenade,燃烧弹,zh-CN
 smoke grenades,烟雾弹,zh-CN
 decoy grenade,诱饵弹,zh-CN
@@ -1010,7 +1001,6 @@ flashbangs,闪光弹,zh-CN
 HE grenade,高爆手雷,zh-CN
 flashbang,闪光弹,zh-CN
 Molotov,燃烧瓶,zh-CN
-molotov,燃烧瓶,zh-CN
 Active Duty,现役比赛地图组,zh-CN
 Cobblestone,古堡激战,zh-CN
 bombsite A,A包点,zh-CN
@@ -1019,7 +1009,6 @@ bomb-site,包点,zh-CN
 bombsites,包点,zh-CN
 bombsite,包点,zh-CN
 Map pool,地图池,zh-CN
-map pool,地图池,zh-CN
 Overpass,死亡游乐园,zh-CN
 Ancient,远古遗迹,zh-CN
 Dust II,炙热沙城2,zh-CN
@@ -1045,7 +1034,6 @@ Saved by teammate per round,场均每回合被队友救援次数,zh-CN
 Assisted kills percentage,获助攻击杀比例,zh-CN
 Saved by teammate / round,场均每回合被队友救援次数,zh-CN
 Average damage per round,场均每回合伤害,zh-CN
-average damage per round,场均每回合伤害,zh-CN
 First kill in won rounds,获胜回合中的首杀占比,zh-CN
 Flashes thrown per round,场均每回合投掷闪光弹数,zh-CN
 Opening deaths per round,场均每回合首死,zh-CN
@@ -1091,29 +1079,25 @@ Assists per round,场均每回合助攻,zh-CN
 Attacks per round,场均每回合攻击次数,zh-CN
 AWP kills / round,场均每回合AWP击杀,zh-CN
 Multi-Kill rating,多杀评分,zh-CN
-Multi-kill rating,多杀评分,zh-CN
 Opening duels won,首杀对决胜率,zh-CN
 Rounds with kills,取得击杀的回合数,zh-CN
 VRS invite stakes,VRS邀请名额影响,zh-CN
 Complete ranking,完整排名,zh-CN
 Damage per round,场均每回合伤害,zh-CN
 Deaths per round,场均每回合死亡,zh-CN
-deaths per round,场均每回合死亡,zh-CN
 Opening attempts,首杀对决参与率,zh-CN
 Zero kill rounds,零杀回合,zh-CN
 Assists / round,场均每回合助攻,zh-CN
 Current ranking,当前排名,zh-CN
 Damage per kill,每次击杀对应伤害,zh-CN
 Kills per round,场均每回合击杀,zh-CN
-kills per round,场均每回合击杀,zh-CN
 Opening success,首杀对决成功率,zh-CN
 Damage / Round,场均每回合伤害,zh-CN
 Deaths / round,场均每回合死亡,zh-CN
 Detailed stats,详细数据,zh-CN
 grenade damage,道具伤害,zh-CN
 opening deaths,首死,zh-CN
-Support rounds,支援回合占比,zh-CN
-Top 20 players,年度Top 20选手,zh-CN
+Support rounds,支援回合,zh-CN
 utility damage,道具伤害,zh-CN
 winning streak,连胜,zh-CN
 1 kill rounds,一杀回合,zh-CN
@@ -1134,33 +1118,23 @@ rating points,评分积分,zh-CN
 Rounds played,已打回合数,zh-CN
 Valve ranking,V社排名,zh-CN
 World ranking,世界排名,zh-CN
-world ranking,世界排名,zh-CN
 Eco-adjusted,经济修正后的,zh-CN
-eco-adjusted,经济修正后的,zh-CN
 Kill / Death,击杀死亡比,zh-CN
 Kill / Round,场均每回合击杀,zh-CN
 map win rate,地图胜率,zh-CN
 Time at peak,保持最高排名的时间,zh-CN
 Total deaths,总死亡,zh-CN
-Valve Ranked,Valve排名认证,zh-CN
-VRS (Global),V社全球排名,zh-CN
+Valve Ranked,有VRS排名的,zh-CN
 FPL RANKING,FPL选手排名,zh-CN
 K - D diff.,击杀死亡差,zh-CN
 Maps played,已打地图数,zh-CN
 Match stats,比赛数据,zh-CN
 Multi-kills,多杀,zh-CN
-multi-kills,多杀,zh-CN
 Round Swing,回合胜率贡献,zh-CN
-Round swing,回合胜率贡献,zh-CN
-round swing,回合胜率贡献,zh-CN
 Total kills,总击杀,zh-CN
 Headshot %,爆头率,zh-CN
 multi-kill,多杀,zh-CN
 multikills,多杀,zh-CN
-Rating 1.0,评分1.0,zh-CN
-Rating 2.0,评分2.0,zh-CN
-Rating 2.1,评分2.1,zh-CN
-Rating 3.0,评分3.0,zh-CN
 VRS result,VRS排名变动,zh-CN
 VRS weight,VRS排名奖金权重,zh-CN
 win streak,连胜,zh-CN
@@ -1169,7 +1143,6 @@ Clutching,残局,zh-CN
 CT Rating,CT方评分,zh-CN
 Firepower,火力,zh-CN
 K/D Ratio,击杀死亡比,zh-CN
-K/D ratio,击杀死亡比,zh-CN
 MK rating,多杀评分,zh-CN
 multikill,多杀,zh-CN
 Entrying,突破,zh-CN
@@ -1178,27 +1151,19 @@ For team,按队伍,zh-CN
 K-D Diff,击杀死亡差,zh-CN
 T Rating,T方评分,zh-CN
 Unranked,不计入排名,zh-CN
-VRS date,VRS排名取值日期,zh-CN
 Assists,助攻,zh-CN
-assists,助攻,zh-CN
 Opening,首杀,zh-CN
 RANKING,排名,zh-CN
 Sniping,狙击,zh-CN
 Trading,补枪,zh-CN
 assist,助攻,zh-CN
 Deaths,死亡,zh-CN
-deaths,死亡,zh-CN
 Ranked,计入排名,zh-CN
-Rating,评分,zh-CN
-rating,评分,zh-CN
+Rating,Rating,zh-CN
 death,死亡,zh-CN
 frags,击杀,zh-CN
 Kills,击杀,zh-CN
-kills,击杀,zh-CN
-STATS,数据,zh-CN
-Stats,数据,zh-CN
-stats,数据,zh-CN
-EVPs,卓越选手,zh-CN
+EVPs,EVPs,zh-CN
 frag,击杀,zh-CN
 KAST,有效贡献回合占比,zh-CN
 kill,击杀,zh-CN
@@ -1207,11 +1172,11 @@ Peak,历史最高排名,zh-CN
 Wins,获胜次数,zh-CN
 ADR,场均每回合伤害,zh-CN
 DPR,场均每回合死亡,zh-CN
-EVP,卓越选手,zh-CN
+EVP,EVP,zh-CN
 K-D,击杀死亡,zh-CN
 KPR,场均每回合击杀,zh-CN
-MVP,最有价值选手,zh-CN
-VRS,V社地区排名,zh-CN
+MVP,MVP,zh-CN
+VRS,V社排名,zh-CN
 HS,爆头,zh-CN
 crosshair placement,预瞄,zh-CN
 bombsite A defense,A包点防守,zh-CN
@@ -1232,12 +1197,10 @@ support player,辅助选手,zh-CN
 bunny hopping,连跳,zh-CN
 default setup,默认布置,zh-CN
 Entry Fragger,突破手,zh-CN
-entry fragger,突破手,zh-CN
 failed trades,补枪失败,zh-CN
 man advantage,人数优势,zh-CN
 one-way smoke,单向烟,zh-CN
 Opening kills,首杀,zh-CN
-opening kills,首杀,zh-CN
 primary AWPer,主狙,zh-CN
 shoulder peek,肩膀晃身,zh-CN
 split execute,分路进攻,zh-CN
@@ -1254,8 +1217,8 @@ opening kill,首杀,zh-CN
 site execute,爆弹进攻包点,zh-CN
 trade denial,阻止补枪,zh-CN
 traded death,被补枪的死亡,zh-CN
-demo review,录像复盘,zh-CN
-double peek,双人同步拉出,zh-CN
+demo review,demo复盘,zh-CN
+double peek,双拉,zh-CN
 entry frags,突破击杀,zh-CN
 entry kills,突破击杀,zh-CN
 jiggle peek,小身位晃身,zh-CN
@@ -1267,6 +1230,7 @@ anti-flash,背闪,zh-CN
 boost spot,垫人点位,zh-CN
 crossfires,交叉火力,zh-CN
 double AWP,双狙,zh-CN
+Main AWP,主狙,zh-CN
 entry frag,突破击杀,zh-CN
 entry kill,突破击杀,zh-CN
 flick shot,甩枪,zh-CN
@@ -1286,11 +1250,10 @@ pop flash,瞬爆闪,zh-CN
 pop-flash,瞬爆闪,zh-CN
 run boost,跑动垫跳,zh-CN
 wallbangs,穿墙击杀,zh-CN
-wide peek,大身位拉出,zh-CN
+wide peek,大拉,zh-CN
 aim duel,对枪,zh-CN
 Clutches,残局,zh-CN
-clutches,残局,zh-CN
-dry peek,无道具拉出,zh-CN
+dry peek,干拉,zh-CN
 headshot,爆头,zh-CN
 no-scope,盲狙,zh-CN
 playbook,战术手册,zh-CN
@@ -1299,7 +1262,6 @@ runboost,跑动垫跳,zh-CN
 wallbang,穿墙击杀,zh-CN
 anchors,守点选手,zh-CN
 Lineups,阵容,zh-CN
-lineups,阵容,zh-CN
 lurkers,自由人,zh-CN
 lurking,摸点,zh-CN
 prefire,预开火,zh-CN
@@ -1334,7 +1296,6 @@ IGLs,指挥,zh-CN
 1v4,1对4,zh-CN
 1v5,1对5,zh-CN
 1vX,1对多,zh-CN
-ACE,五杀,zh-CN
 ace,五杀,zh-CN
 IGL,指挥,zh-CN
 Counter-Terrorists,反恐精英,zh-CN
@@ -1383,23 +1344,18 @@ half-buy,半起,zh-CN
 overtime,加时赛,zh-CN
 timeouts,暂停,zh-CN
 CT Side,CT方,zh-CN
-CT side,CT方,zh-CN
 low buy,低配购买,zh-CN
 low-buy,低配购买,zh-CN
 T-sided,偏T方,zh-CN
 timeout,暂停,zh-CN
 Rounds,回合,zh-CN
-rounds,回合,zh-CN
 T Side,T方,zh-CN
-T side,T方,zh-CN
 Round,回合,zh-CN
-round,回合,zh-CN
 Both,双方阵营,zh-CN
 MR12,半场12回合制,zh-CN
 MR15,半场15回合制,zh-CN
 Side,阵营,zh-CN
 3rd Place Decider Match,季军争夺战,zh-CN
-3rd place decider match,季军争夺战,zh-CN
 Single elimination Bo3,单败淘汰三局两胜,zh-CN
 consolidation final,败者组决赛,zh-CN
 defending champions,卫冕冠军,zh-CN
@@ -1414,15 +1370,12 @@ single-elimination,单败淘汰制,zh-CN
 closed qualifiers,封闭预选赛,zh-CN
 elimination match,淘汰生死战,zh-CN
 Closed Qualifier,封闭预选赛,zh-CN
-closed qualifier,封闭预选赛,zh-CN
 Total prize pool,总奖金池,zh-CN
 open qualifiers,公开预选赛,zh-CN
 title contender,夺冠热门,zh-CN
 direct invites,直接邀请,zh-CN
 Open Qualifier,公开预选赛,zh-CN
-open qualifier,公开预选赛,zh-CN
 Quarter-finals,四分之一决赛,zh-CN
-quarter-finals,四分之一决赛,zh-CN
 best-of-three,三局两胜,zh-CN
 decider match,出线决胜战,zh-CN
 direct invite,直接邀请,zh-CN
@@ -1430,7 +1383,6 @@ lower bracket,败者组,zh-CN
 map advantage,地图优势,zh-CN
 playoff berth,淘汰赛席位,zh-CN
 Quarter-final,四分之一决赛,zh-CN
-quarter-final,四分之一决赛,zh-CN
 reverse sweep,让后翻盘,zh-CN
 upper bracket,胜者组,zh-CN
 was left over,剩余作为决胜图,zh-CN
@@ -1443,15 +1395,11 @@ clean sweep,横扫,zh-CN
 decider map,决胜图,zh-CN
 elimination,淘汰,zh-CN
 Grand Final,总决赛,zh-CN
-Grand final,总决赛,zh-CN
-grand final,总决赛,zh-CN
 Group stage,小组赛,zh-CN
-group stage,小组赛,zh-CN
 Major berth,Major席位,zh-CN
 prize money,赛事奖金,zh-CN
 round-robin,循环赛,zh-CN
 Semi-finals,半决赛,zh-CN
-semi-finals,半决赛,zh-CN
 Swiss stage,瑞士轮阶段,zh-CN
 tournaments,赛事,zh-CN
 Club share,俱乐部分成,zh-CN
@@ -1459,13 +1407,9 @@ dark horse,黑马,zh-CN
 early exit,提前出局,zh-CN
 eliminated,被淘汰,zh-CN
 Group play,小组赛,zh-CN
-group play,小组赛,zh-CN
 Prize pool,奖金池,zh-CN
-prize pool,奖金池,zh-CN
 Semi-final,半决赛,zh-CN
-semi-final,半决赛,zh-CN
 Tiebreaker,排名决胜赛,zh-CN
-tiebreaker,排名决胜赛,zh-CN
 tournament,赛事,zh-CN
 advancing,晋级,zh-CN
 Best of 1,一局定胜负,zh-CN
@@ -1480,7 +1424,6 @@ Qualifier,预选赛,zh-CN
 Swiss Bo3,瑞士轮三局两胜,zh-CN
 underdogs,不被看好的一方,zh-CN
 Brackets,对阵表,zh-CN
-brackets,对阵表,zh-CN
 deep run,赛事中走得很远,zh-CN
 home map,自选图,zh-CN
 map pick,选图,zh-CN
@@ -1489,7 +1432,6 @@ matchups,对阵,zh-CN
 outclass,轻取,zh-CN
 permaban,固定禁图,zh-CN
 Playoffs,淘汰赛,zh-CN
-playoffs,淘汰赛,zh-CN
 unbeaten,不败,zh-CN
 underdog,不被看好的一方,zh-CN
 walkover,因对手弃权获胜,zh-CN
@@ -1498,26 +1440,20 @@ bracket,对阵表,zh-CN
 forfeit,弃权,zh-CN
 Formats,赛制,zh-CN
 map ban,禁图,zh-CN
-MATCHES,比赛,zh-CN
 Matches,比赛,zh-CN
-matches,比赛,zh-CN
 matchup,对阵,zh-CN
 qualify,晋级,zh-CN
 rematch,再度交手,zh-CN
 see off,击败,zh-CN
 seeding,种子排位,zh-CN
-EVENTS,赛事,zh-CN
 Events,赛事,zh-CN
-events,赛事,zh-CN
 Finals,决赛阶段,zh-CN
 picked,选择,zh-CN
 seeded,列为种子,zh-CN
 winner,胜者,zh-CN
 Event,赛事,zh-CN
-event,赛事,zh-CN
 loser,败者,zh-CN
 Match,比赛,zh-CN
-match,比赛,zh-CN
 Stage,阶段,zh-CN
 Swiss,瑞士轮,zh-CN
 bans,禁用,zh-CN
@@ -1525,12 +1461,8 @@ LANs,线下赛,zh-CN
 pick,选择,zh-CN
 ban,禁用,zh-CN
 BO1,一局定胜负,zh-CN
-BO3,三局两胜,zh-CN
 Bo3,三局两胜,zh-CN
-bo3,三局两胜,zh-CN
-BO5,五局三胜,zh-CN
 Bo5,五局三胜,zh-CN
-bo5,五局三胜,zh-CN
 Cup,杯赛,zh-CN
 LAN,线下赛,zh-CN
 international roster,国际阵容,zh-CN
@@ -1584,11 +1516,9 @@ benches,下放替补,zh-CN
 coaches,教练,zh-CN
 joining,加入,zh-CN
 line-up,阵容,zh-CN
-NO TEAM,暂无队伍,zh-CN
 No team,暂无队伍,zh-CN
 on loan,租借加盟,zh-CN
 Players,选手,zh-CN
-players,选手,zh-CN
 release,解约,zh-CN
 removed,禁用,zh-CN
 rosters,阵容,zh-CN
@@ -1597,49 +1527,33 @@ buyout,合同买断费,zh-CN
 joined,加入,zh-CN
 loaned,租借,zh-CN
 Player,选手,zh-CN
-player,选手,zh-CN
 Roster,阵容,zh-CN
-roster,阵容,zh-CN
 scrims,训练赛,zh-CN
 signed,签约,zh-CN
-BENCH,下放替补,zh-CN
 Bench,下放替补,zh-CN
-bench,下放替补,zh-CN
 Coach,教练,zh-CN
-coach,教练,zh-CN
 joins,加入,zh-CN
 scrim,训练赛,zh-CN
 signs,签约,zh-CN
 Teams,队伍,zh-CN
-teams,队伍,zh-CN
 Core,核心阵容,zh-CN
-core,核心阵容,zh-CN
 join,加入,zh-CN
 loan,租借,zh-CN
 sign,签约,zh-CN
 Team,队伍,zh-CN
-team,队伍,zh-CN
 Performance points,表现积分,zh-CN
-performance points,表现积分,zh-CN
 Booster points,加成积分,zh-CN
-booster points,加成积分,zh-CN
 Fantasy points,梦幻联赛积分,zh-CN
-fantasy points,梦幻联赛积分,zh-CN
 padding points,轮空补偿积分,zh-CN
 Cannon Fodder,炮灰,zh-CN
-Cannon fodder,炮灰,zh-CN
 Season points,赛季积分,zh-CN
-season points,赛季积分,zh-CN
 Eco Friendly,经济友好,zh-CN
 Fantasy team,梦幻联赛阵容,zh-CN
-fantasy team,梦幻联赛阵容,zh-CN
 Multifragger,多杀手,zh-CN
 trigger rate,触发率,zh-CN
 Money Draft,预算选人模式,zh-CN
 Role points,角色积分,zh-CN
-role points,角色积分,zh-CN
 Team points,队伍积分,zh-CN
-team points,队伍积分,zh-CN
 HS Machine,爆头机器,zh-CN
 Live Draft,实时选人模式,zh-CN
 Simulator,赛果模拟器,zh-CN
@@ -1648,12 +1562,9 @@ All Stickers,所有贴纸,zh-CN
 Foil Ranked,排名闪亮贴纸,zh-CN
 Stickers,贴纸,zh-CN
 Paper,普通贴纸,zh-CN
-Skins,皮肤,zh-CN
-skins,皮肤,zh-CN
 Foil,闪亮贴纸,zh-CN
 Gold,金色贴纸,zh-CN
 Holo,全息贴纸,zh-CN
-skin,皮肤,zh-CN
 Counter-Strike: Global Offensive,反恐精英：全球攻势,zh-CN
 Counter-Strike 2,反恐精英2,zh-CN
 Counter-Strike,反恐精英,zh-CN
@@ -1663,107 +1574,39 @@ observer,导播,zh-CN
 sub-tick,子tick,zh-CN
 Rewatch,回放,zh-CN
 VAC ban,VAC封禁,zh-CN
-CS:GO,反恐精英：全球攻势,zh-CN
+CS:GO,CS:GO,zh-CN
 demos,比赛录像,zh-CN
-CSGO,反恐精英：全球攻势,zh-CN
+CSGO,CSGO,zh-CN
 demo,比赛录像,zh-CN
 GOTV,比赛观战系统,zh-CN
-CS2,反恐精英2,zh-CN
+CS2,CS2,zh-CN
 VAC,Valve反作弊系统,zh-CN
-Update privacy preferences,修改隐私偏好,zh-CN
-"Matches, past 3 months",过去三个月的比赛,zh-CN
-Download the HLTV app,下载HLTV应用,zh-CN
-Browse highlights,浏览集锦,zh-CN
-photos of players,选手照片,zh-CN
 PREVIOUS IN EVENT,本赛事上一场比赛,zh-CN
-HLTV merchandise,HLTV周边商品,zh-CN
-Upcoming matches,即将进行的比赛,zh-CN
-Yesterday's news,昨日新闻,zh-CN
-Back to comment,返回评论,zh-CN
-RECENT ACTIVITY,最新动态,zh-CN
 Teams attending,参赛队伍,zh-CN
-TODAY'S MATCHES,今日比赛,zh-CN
-Buy HLTV merch,购买HLTV周边,zh-CN
-Event calendar,赛事日历,zh-CN
-HLTV Confirmed,HLTV访谈节目,zh-CN
-OTHER UPCOMING,其他即将进行的比赛,zh-CN
-Privacy policy,隐私政策,zh-CN
-Related events,相关赛事,zh-CN
-Cookie policy,Cookie政策,zh-CN
-Detailed view,详细视图,zh-CN
 NEXT IN EVENT,本赛事下一场比赛,zh-CN
-Previous news,往期新闻,zh-CN
 team overview,队伍概况,zh-CN
 Achievements,荣誉,zh-CN
-AI GENERATED,AI生成,zh-CN
 AI generated,AI生成,zh-CN
 Head to head,交手记录,zh-CN
 head-to-head,交手记录,zh-CN
-Last updated,最后更新,zh-CN
 Live updates,实时战报,zh-CN
 Show lineups,显示阵容,zh-CN
-Today's news,今日新闻,zh-CN
 Disclosures,信息披露,zh-CN
-Now playing,正在播放,zh-CN
-Team photos,队伍照片,zh-CN
-Top streams,热门直播,zh-CN
-All photos,所有照片,zh-CN
 Event data,赛事信息,zh-CN
 Event type,赛事类型,zh-CN
-Highlights,精彩集锦,zh-CN
-highlights,精彩集锦,zh-CN
+Highlights,集锦,zh-CN
 Match over,比赛已结束,zh-CN
-Organizers,赛事主办方,zh-CN
-organizers,赛事主办方,zh-CN
+Organizers,主办方,zh-CN
 Short news,新闻简讯,zh-CN
 Start date,开始日期,zh-CN
-GALLERIES,赛事图集,zh-CN
-Galleries,赛事图集,zh-CN
-galleries,赛事图集,zh-CN
-More news,更多新闻,zh-CN
-organizer,赛事主办方,zh-CN
-Read more,阅读更多,zh-CN
-Streamers,主播,zh-CN
-streamers,主播,zh-CN
-Subscribe,订阅,zh-CN
-All maps,所有地图,zh-CN
-comments,评论,zh-CN
-End date,结束日期,zh-CN
-Location,地点,zh-CN
-Overview,概况,zh-CN
-register,注册,zh-CN
-SECTIONS,页面栏目,zh-CN
-streamer,主播,zh-CN
+organizer,主办方,zh-CN
 Casters,解说,zh-CN
-casters,解说,zh-CN
 comment,评论,zh-CN
-Contact,联系我们,zh-CN
-RESULTS,赛果,zh-CN
 Results,赛果,zh-CN
-results,赛果,zh-CN
 Sign in,登录,zh-CN
-sign in,登录,zh-CN
 Sources,消息源,zh-CN
 viewers,观众,zh-CN
 Caster,解说,zh-CN
-caster,解说,zh-CN
 Season,赛季,zh-CN
-About,关于我们,zh-CN
-Login,登录,zh-CN
-Terms,服务条款,zh-CN
-Date,日期,zh-CN
-Info,概况,zh-CN
-Jobs,招聘,zh-CN
-LIVE,进行中,zh-CN
-Live,进行中,zh-CN
-Maps,地图,zh-CN
-maps,地图,zh-CN
-News,新闻,zh-CN
-news,新闻,zh-CN
-All,全部,zh-CN
-FAQ,常见问题,zh-CN
-Map,地图,zh-CN
-map,地图,zh-CN
 vs.,对阵,zh-CN
-VS,对阵,zh-CN
 vs,对阵,zh-CN
