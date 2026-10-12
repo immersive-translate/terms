@@ -160,6 +160,14 @@ Token,代币,
 *   Commit Message 请清晰说明修改意图。
 *   Pull Request 请提供充分的说明。
 
+### PoE2 词库回归验证
+
+扩展不区分大小写，也不要求单词边界。PoE2 英文源词排除有普通英文错义反例的独立短词及多义名称，保留 `AoE`、`Act 1–4`、属性组合和完整技能/物品词组；每项已审核的排除依据见 `tests/fixtures/path_of_exile_2_substring_cases.json`。有限语料回归不保证穷尽所有英语文本中的碰撞。
+
+在仓库根目录打开终端，运行 `deno test --allow-read tests/path_of_exile_2.test.ts` 检查中英两份真实 CSV 的编码、三列结构、语言、大小写无关的唯一性、元数据和索引入口，以及普通英文子串误匹配和明确术语保留情况。`tests/fixtures/path_of_exile_2_substring_cases.json` 中的逐条反例会以原写法、全小写和全大写验证；再运行 `make test` 执行全部现有测试。未安装 Deno 时，可分别使用 `npx --yes deno test --allow-read tests/path_of_exile_2.test.ts` 和 `npx --yes deno test --allow-read`。
+
+终端应显示所有测试通过且退出码为 0。失败时会显示触发的英文样例或 CSV 行号；修正对应词条后重新运行两条命令确认恢复。测试模拟不区分大小写、不要求单词边界的匹配规则，不代表沉浸式翻译扩展的实际导入或页面翻译验收。
+
 ## 提交前检查清单
 
 新增术语库时，请确认：
