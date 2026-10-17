@@ -1,0 +1,20 @@
+{
+    "id": "elden-ring",
+    "name": "Elden Ring",
+    "description": "English to Traditional Chinese terminology for Elden Ring, compiled from the official English and Traditional Chinese game localization.",
+    "author": "cf5146",
+    "glossary": "elden-ring",
+    "matches": [
+        "*elden-ring*",
+        "*eldenring*"
+    ],
+    "langs": [
+        "zh-TW"
+    ],
+    "i18ns": {
+        "zh-TW": {
+            "name": "《艾爾登法環》",
+            "description": "《艾爾登法環》本體及 DLC 英譯繁中術語庫，整理自遊戲官方英文與繁體中文文本，涵蓋武器、防具、物品、戰技、魔法、NPC 與地名。"
+        }
+    }
+}
